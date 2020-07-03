@@ -1,0 +1,1176 @@
+{
+    "counties": {
+        "dolnoslaskie": {
+            "Powiat_bolesławiecki": {
+                "frequence": null
+            },
+            "Powiat_dzierżoniowski": {
+                "frequence": null
+            },
+            "Powiat_głogowski": {
+                "frequence": null
+            },
+            "Powiat_górowski": {
+                "frequence": null
+            },
+            "Powiat_jaworski": {
+                "frequence": null
+            },
+            "Powiat_jeleniogórski": {
+                "frequence": null
+            },
+            "Powiat_kamiennogórski": {
+                "frequence": null
+            },
+            "Powiat_kłodzki": {
+                "frequence": null
+            },
+            "Powiat_legnicki": {
+                "frequence": null
+            },
+            "Powiat_lubański": {
+                "frequence": null
+            },
+            "Powiat_lubiński": {
+                "frequence": null
+            },
+            "Powiat_lwówecki": {
+                "frequence": null
+            },
+            "Powiat_milicki": {
+                "frequence": null
+            },
+            "Powiat_oleśnicki": {
+                "frequence": null
+            },
+            "Powiat_oławski": {
+                "frequence": null
+            },
+            "Powiat_polkowicki": {
+                "frequence": null
+            },
+            "Powiat_strzeliński": {
+                "frequence": null
+            },
+            "Powiat_średzki": {
+                "frequence": null
+            },
+            "Powiat_świdnicki": {
+                "frequence": null
+            },
+            "Powiat_trzebnicki": {
+                "frequence": null
+            },
+            "Powiat_wałbrzyski": {
+                "frequence": null
+            },
+            "Powiat_wołowski": {
+                "frequence": null
+            },
+            "Powiat_wrocławski": {
+                "frequence": null
+            },
+            "Powiat_ząbkowicki": {
+                "frequence": null
+            },
+            "Powiat_zgorzelecki": {
+                "frequence": null
+            },
+            "Powiat_złotoryjski": {
+                "frequence": null
+            },
+            "Miasto_Jelenia Góra": {
+                "frequence": null
+            },
+            "Miasto_Legnica": {
+                "frequence": null
+            },
+            "Miasto_Wrocław": {
+                "frequence": null
+            },
+            "Miasto_Wałbrzych": {
+                "frequence": null
+            }
+        },
+        "kujawsko-pomorskie": {
+            "Powiat_aleksandrowski": {
+                "frequence": null
+            },
+            "Powiat_brodnicki": {
+                "frequence": null
+            },
+            "Powiat_bydgoski": {
+                "frequence": null
+            },
+            "Powiat_chełmiński": {
+                "frequence": null
+            },
+            "Powiat_golubsko-dobrzyński": {
+                "frequence": null
+            },
+            "Powiat_grudziądzki": {
+                "frequence": null
+            },
+            "Powiat_inowrocławski": {
+                "frequence": null
+            },
+            "Powiat_lipnowski": {
+                "frequence": null
+            },
+            "Powiat_mogileński": {
+                "frequence": null
+            },
+            "Powiat_nakielski": {
+                "frequence": null
+            },
+            "Powiat_radziejowski": {
+                "frequence": null
+            },
+            "Powiat_rypiński": {
+                "frequence": null
+            },
+            "Powiat_sępoleński": {
+                "frequence": null
+            },
+            "Powiat_świecki": {
+                "frequence": null
+            },
+            "Powiat_toruński": {
+                "frequence": null
+            },
+            "Powiat_tucholski": {
+                "frequence": null
+            },
+            "Powiat_wąbrzeski": {
+                "frequence": null
+            },
+            "Powiat_włocławski": {
+                "frequence": null
+            },
+            "Powiat_żniński": {
+                "frequence": null
+            },
+            "Miasto_Bydgoszcz": {
+                "frequence": null
+            },
+            "Miasto_Grudziądz": {
+                "frequence": null
+            },
+            "Miasto_Toruń": {
+                "frequence": null
+            },
+            "Miasto_Włocławek": {
+                "frequence": null
+            }
+        },
+        "lubelskie": {
+            "Powiat_bialski": {
+                "frequence": null
+            },
+            "Powiat_biłgorajski": {
+                "frequence": null
+            },
+            "Powiat_chełmski": {
+                "frequence": null
+            },
+            "Powiat_hrubieszowski": {
+                "frequence": null
+            },
+            "Powiat_janowski": {
+                "frequence": null
+            },
+            "Powiat_krasnostawski": {
+                "frequence": null
+            },
+            "Powiat_kraśnicki": {
+                "frequence": null
+            },
+            "Powiat_lubartowski": {
+                "frequence": null
+            },
+            "Powiat_lubelski": {
+                "frequence": null
+            },
+            "Powiat_łęczyński": {
+                "frequence": null
+            },
+            "Powiat_łukowski": {
+                "frequence": null
+            },
+            "Powiat_opolski": {
+                "frequence": null
+            },
+            "Powiat_parczewski": {
+                "frequence": null
+            },
+            "Powiat_puławski": {
+                "frequence": null
+            },
+            "Powiat_radzyński": {
+                "frequence": null
+            },
+            "Powiat_rycki": {
+                "frequence": null
+            },
+            "Powiat_świdnicki": {
+                "frequence": null
+            },
+            "Powiat_tomaszowski": {
+                "frequence": null
+            },
+            "Powiat_włodawski": {
+                "frequence": null
+            },
+            "Powiat_zamojski": {
+                "frequence": null
+            },
+            "Miasto_Biała Podlaska": {
+                "frequence": null
+            },
+            "Miasto_Chełm": {
+                "frequence": null
+            },
+            "Miasto_Lublin": {
+                "frequence": null
+            },
+            "Miasto_Zamość": {
+                "frequence": null
+            }
+        },
+        "lubuskie": {
+            "Powiat_gorzowski": {
+                "frequence": null
+            },
+            "Powiat_krośnieński": {
+                "frequence": null
+            },
+            "Powiat_międzyrzecki": {
+                "frequence": null
+            },
+            "Powiat_nowosolski": {
+                "frequence": null
+            },
+            "Powiat_słubicki": {
+                "frequence": null
+            },
+            "Powiat_strzelecko-drezdenecki": {
+                "frequence": null
+            },
+            "Powiat_sulęciński": {
+                "frequence": null
+            },
+            "Powiat_świebodziński": {
+                "frequence": null
+            },
+            "Powiat_zielonogórski": {
+                "frequence": null
+            },
+            "Powiat_żagański": {
+                "frequence": null
+            },
+            "Powiat_żarski": {
+                "frequence": null
+            },
+            "Powiat_wschowski": {
+                "frequence": null
+            },
+            "Miasto_Gorzów Wielkopolski": {
+                "frequence": null
+            },
+            "Miasto_Zielona Góra": {
+                "frequence": null
+            }
+        },
+        "lodzkie": {
+            "Powiat_bełchatowski": {
+                "frequence": null
+            },
+            "Powiat_kutnowski": {
+                "frequence": null
+            },
+            "Powiat_łaski": {
+                "frequence": null
+            },
+            "Powiat_łęczycki": {
+                "frequence": null
+            },
+            "Powiat_łowicki": {
+                "frequence": null
+            },
+            "Powiat_łódzki wschodni": {
+                "frequence": null
+            },
+            "Powiat_opoczyński": {
+                "frequence": null
+            },
+            "Powiat_pabianicki": {
+                "frequence": null
+            },
+            "Powiat_pajęczański": {
+                "frequence": null
+            },
+            "Powiat_piotrkowski": {
+                "frequence": null
+            },
+            "Powiat_poddębicki": {
+                "frequence": null
+            },
+            "Powiat_radomszczański": {
+                "frequence": null
+            },
+            "Powiat_rawski": {
+                "frequence": null
+            },
+            "Powiat_sieradzki": {
+                "frequence": null
+            },
+            "Powiat_skierniewicki": {
+                "frequence": null
+            },
+            "Powiat_tomaszowski": {
+                "frequence": null
+            },
+            "Powiat_wieluński": {
+                "frequence": null
+            },
+            "Powiat_wieruszowski": {
+                "frequence": null
+            },
+            "Powiat_zduńskowolski": {
+                "frequence": null
+            },
+            "Powiat_zgierski": {
+                "frequence": null
+            },
+            "Powiat_brzeziński": {
+                "frequence": null
+            },
+            "Miasto_Łódź": {
+                "frequence": null
+            },
+            "Miasto_Piotrków Trybunalski": {
+                "frequence": null
+            },
+            "Miasto_Skierniewice": {
+                "frequence": null
+            }
+        },
+        "malopolskie": {
+            "Powiat_bocheński": {
+                "frequence": null
+            },
+            "Powiat_brzeski": {
+                "frequence": null
+            },
+            "Powiat_chrzanowski": {
+                "frequence": null
+            },
+            "Powiat_dąbrowski": {
+                "frequence": null
+            },
+            "Powiat_gorlicki": {
+                "frequence": null
+            },
+            "Powiat_krakowski": {
+                "frequence": null
+            },
+            "Powiat_limanowski": {
+                "frequence": null
+            },
+            "Powiat_miechowski": {
+                "frequence": null
+            },
+            "Powiat_myślenicki": {
+                "frequence": null
+            },
+            "Powiat_nowosądecki": {
+                "frequence": null
+            },
+            "Powiat_nowotarski": {
+                "frequence": null
+            },
+            "Powiat_olkuski": {
+                "frequence": null
+            },
+            "Powiat_oświęcimski": {
+                "frequence": null
+            },
+            "Powiat_proszowicki": {
+                "frequence": null
+            },
+            "Powiat_suski": {
+                "frequence": null
+            },
+            "Powiat_tarnowski": {
+                "frequence": null
+            },
+            "Powiat_tatrzański": {
+                "frequence": null
+            },
+            "Powiat_wadowicki": {
+                "frequence": null
+            },
+            "Powiat_wielicki": {
+                "frequence": null
+            },
+            "Miasto_Kraków": {
+                "frequence": null
+            },
+            "Miasto_Nowy Sącz": {
+                "frequence": null
+            },
+            "Miasto_Tarnów": {
+                "frequence": null
+            }
+        },
+        "mazowieckie": {
+            "Powiat_białobrzeski": {
+                "frequence": null
+            },
+            "Powiat_ciechanowski": {
+                "frequence": null
+            },
+            "Powiat_garwoliński": {
+                "frequence": null
+            },
+            "Powiat_gostyniński": {
+                "frequence": null
+            },
+            "Powiat_grodziski": {
+                "frequence": null
+            },
+            "Powiat_grójecki": {
+                "frequence": null
+            },
+            "Powiat_kozienicki": {
+                "frequence": null
+            },
+            "Powiat_legionowski": {
+                "frequence": null
+            },
+            "Powiat_lipski": {
+                "frequence": null
+            },
+            "Powiat_łosicki": {
+                "frequence": null
+            },
+            "Powiat_makowski": {
+                "frequence": null
+            },
+            "Powiat_miński": {
+                "frequence": null
+            },
+            "Powiat_mławski": {
+                "frequence": null
+            },
+            "Powiat_nowodworski": {
+                "frequence": null
+            },
+            "Powiat_ostrołęcki": {
+                "frequence": null
+            },
+            "Powiat_ostrowski": {
+                "frequence": null
+            },
+            "Powiat_otwocki": {
+                "frequence": null
+            },
+            "Powiat_piaseczyński": {
+                "frequence": null
+            },
+            "Powiat_płocki": {
+                "frequence": null
+            },
+            "Powiat_płoński": {
+                "frequence": null
+            },
+            "Powiat_pruszkowski": {
+                "frequence": null
+            },
+            "Powiat_przasnyski": {
+                "frequence": null
+            },
+            "Powiat_przysuski": {
+                "frequence": null
+            },
+            "Powiat_pułtuski": {
+                "frequence": null
+            },
+            "Powiat_radomski": {
+                "frequence": null
+            },
+            "Powiat_siedlecki": {
+                "frequence": null
+            },
+            "Powiat_sierpecki": {
+                "frequence": null
+            },
+            "Powiat_sochaczewski": {
+                "frequence": null
+            },
+            "Powiat_sokołowski": {
+                "frequence": null
+            },
+            "Powiat_szydłowiecki": {
+                "frequence": null
+            },
+            "Powiat_warszawski zachodni": {
+                "frequence": null
+            },
+            "Powiat_węgrowski": {
+                "frequence": null
+            },
+            "Powiat_wołomiński": {
+                "frequence": null
+            },
+            "Powiat_wyszkowski": {
+                "frequence": null
+            },
+            "Powiat_zwoleński": {
+                "frequence": null
+            },
+            "Powiat_żuromiński": {
+                "frequence": null
+            },
+            "Powiat_żyrardowski": {
+                "frequence": null
+            },
+            "Miasto_Ostrołęka": {
+                "frequence": null
+            },
+            "Miasto_Płock": {
+                "frequence": null
+            },
+            "Miasto_Radom": {
+                "frequence": null
+            },
+            "Miasto_Siedlce": {
+                "frequence": null
+            },
+            "Miasto_Warszawa": {
+                "frequence": null
+            }
+        },
+        "opolskie": {
+            "Powiat_brzeski": {
+                "frequence": null
+            },
+            "Powiat_głubczycki": {
+                "frequence": null
+            },
+            "Powiat_kędzierzyńsko-kozielski": {
+                "frequence": null
+            },
+            "Powiat_kluczborski": {
+                "frequence": null
+            },
+            "Powiat_krapkowicki": {
+                "frequence": null
+            },
+            "Powiat_namysłowski": {
+                "frequence": null
+            },
+            "Powiat_nyski": {
+                "frequence": null
+            },
+            "Powiat_oleski": {
+                "frequence": null
+            },
+            "Powiat_opolski": {
+                "frequence": null
+            },
+            "Powiat_prudnicki": {
+                "frequence": null
+            },
+            "Powiat_strzelecki": {
+                "frequence": null
+            },
+            "Miasto_Opole": {
+                "frequence": null
+            }
+        },
+        "podkarpackie": {
+            "Powiat_bieszczadzki": {
+                "frequence": null
+            },
+            "Powiat_brzozowski": {
+                "frequence": null
+            },
+            "Powiat_dębicki": {
+                "frequence": null
+            },
+            "Powiat_jarosławski": {
+                "frequence": null
+            },
+            "Powiat_jasielski": {
+                "frequence": null
+            },
+            "Powiat_kolbuszowski": {
+                "frequence": null
+            },
+            "Powiat_krośnieński": {
+                "frequence": null
+            },
+            "Powiat_leżajski": {
+                "frequence": null
+            },
+            "Powiat_lubaczowski": {
+                "frequence": null
+            },
+            "Powiat_łańcucki": {
+                "frequence": null
+            },
+            "Powiat_mielecki": {
+                "frequence": null
+            },
+            "Powiat_niżański": {
+                "frequence": null
+            },
+            "Powiat_przemyski": {
+                "frequence": null
+            },
+            "Powiat_przeworski": {
+                "frequence": null
+            },
+            "Powiat_ropczycko-sędziszowski": {
+                "frequence": null
+            },
+            "Powiat_rzeszowski": {
+                "frequence": null
+            },
+            "Powiat_sanocki": {
+                "frequence": null
+            },
+            "Powiat_stalowowolski": {
+                "frequence": null
+            },
+            "Powiat_strzyżowski": {
+                "frequence": null
+            },
+            "Powiat_tarnobrzeski": {
+                "frequence": null
+            },
+            "Powiat_leski": {
+                "frequence": null
+            },
+            "Miasto_Krosno": {
+                "frequence": null
+            },
+            "Miasto_Przemyśl": {
+                "frequence": null
+            },
+            "Miasto_Rzeszów": {
+                "frequence": null
+            },
+            "Miasto_Tarnobrzeg": {
+                "frequence": null
+            }
+        },
+        "podlaskie": {
+            "Powiat_augustowski": {
+                "frequence": null
+            },
+            "Powiat_białostocki": {
+                "frequence": null
+            },
+            "Powiat_bielski": {
+                "frequence": null
+            },
+            "Powiat_grajewski": {
+                "frequence": null
+            },
+            "Powiat_hajnowski": {
+                "frequence": null
+            },
+            "Powiat_kolneński": {
+                "frequence": null
+            },
+            "Powiat_łomżyński": {
+                "frequence": null
+            },
+            "Powiat_moniecki": {
+                "frequence": null
+            },
+            "Powiat_sejneński": {
+                "frequence": null
+            },
+            "Powiat_siemiatycki": {
+                "frequence": null
+            },
+            "Powiat_sokólski": {
+                "frequence": null
+            },
+            "Powiat_suwalski": {
+                "frequence": null
+            },
+            "Powiat_wysokomazowiecki": {
+                "frequence": null
+            },
+            "Powiat_zambrowski": {
+                "frequence": null
+            },
+            "Miasto_Białystok": {
+                "frequence": null
+            },
+            "Miasto_Łomża": {
+                "frequence": null
+            },
+            "Miasto_Suwałki": {
+                "frequence": null
+            }
+        },
+        "pomorskie": {
+            "Powiat_bytowski": {
+                "frequence": null
+            },
+            "Powiat_chojnicki": {
+                "frequence": null
+            },
+            "Powiat_człuchowski": {
+                "frequence": null
+            },
+            "Powiat_gdański": {
+                "frequence": null
+            },
+            "Powiat_kartuski": {
+                "frequence": null
+            },
+            "Powiat_kościerski": {
+                "frequence": null
+            },
+            "Powiat_kwidzyński": {
+                "frequence": null
+            },
+            "Powiat_lęborski": {
+                "frequence": null
+            },
+            "Powiat_malborski": {
+                "frequence": null
+            },
+            "Powiat_nowodworski": {
+                "frequence": null
+            },
+            "Powiat_pucki": {
+                "frequence": null
+            },
+            "Powiat_słupski": {
+                "frequence": null
+            },
+            "Powiat_starogardzki": {
+                "frequence": null
+            },
+            "Powiat_tczewski": {
+                "frequence": null
+            },
+            "Powiat_wejherowski": {
+                "frequence": null
+            },
+            "Powiat_sztumski": {
+                "frequence": null
+            },
+            "Miasto_Gdańsk": {
+                "frequence": null
+            },
+            "Miasto_Gdynia": {
+                "frequence": null
+            },
+            "Miasto_Słupsk": {
+                "frequence": null
+            },
+            "Miasto_Sopot": {
+                "frequence": null
+            }
+        },
+        "slaskie": {
+            "Powiat_będziński": {
+                "frequence": null
+            },
+            "Powiat_bielski": {
+                "frequence": null
+            },
+            "Powiat_cieszyński": {
+                "frequence": null
+            },
+            "Powiat_częstochowski": {
+                "frequence": null
+            },
+            "Powiat_gliwicki": {
+                "frequence": null
+            },
+            "Powiat_kłobucki": {
+                "frequence": null
+            },
+            "Powiat_lubliniecki": {
+                "frequence": null
+            },
+            "Powiat_mikołowski": {
+                "frequence": null
+            },
+            "Powiat_myszkowski": {
+                "frequence": null
+            },
+            "Powiat_pszczyński": {
+                "frequence": null
+            },
+            "Powiat_raciborski": {
+                "frequence": null
+            },
+            "Powiat_rybnicki": {
+                "frequence": null
+            },
+            "Powiat_tarnogórski": {
+                "frequence": null
+            },
+            "Powiat_bieruńsko-lędziński": {
+                "frequence": null
+            },
+            "Powiat_wodzisławski": {
+                "frequence": null
+            },
+            "Powiat_zawierciański": {
+                "frequence": null
+            },
+            "Powiat_żywiecki": {
+                "frequence": null
+            },
+            "Miasto_Bielsko-Biała": {
+                "frequence": null
+            },
+            "Miasto_Bytom": {
+                "frequence": null
+            },
+            "Miasto_Chorzów": {
+                "frequence": null
+            },
+            "Miasto_Częstochowa": {
+                "frequence": null
+            },
+            "Miasto_Dąbrowa Górnicza": {
+                "frequence": null
+            },
+            "Miasto_Gliwice": {
+                "frequence": null
+            },
+            "Miasto_Jastrzębie-Zdrój": {
+                "frequence": null
+            },
+            "Miasto_Jaworzno": {
+                "frequence": null
+            },
+            "Miasto_Katowice": {
+                "frequence": null
+            },
+            "Miasto_Mysłowice": {
+                "frequence": null
+            },
+            "Miasto_Piekary Śląskie": {
+                "frequence": null
+            },
+            "Miasto_Ruda Śląska": {
+                "frequence": null
+            },
+            "Miasto_Rybnik": {
+                "frequence": null
+            },
+            "Miasto_Siemianowice Śląskie": {
+                "frequence": null
+            },
+            "Miasto_Sosnowiec": {
+                "frequence": null
+            },
+            "Miasto_Świętochłowice": {
+                "frequence": null
+            },
+            "Miasto_Tychy": {
+                "frequence": null
+            },
+            "Miasto_Zabrze": {
+                "frequence": null
+            },
+            "Miasto_Żory": {
+                "frequence": null
+            }
+        },
+        "swietokrzyskie": {
+            "Powiat_buski": {
+                "frequence": null
+            },
+            "Powiat_jędrzejowski": {
+                "frequence": null
+            },
+            "Powiat_kazimierski": {
+                "frequence": null
+            },
+            "Powiat_kielecki": {
+                "frequence": null
+            },
+            "Powiat_konecki": {
+                "frequence": null
+            },
+            "Powiat_opatowski": {
+                "frequence": null
+            },
+            "Powiat_ostrowiecki": {
+                "frequence": null
+            },
+            "Powiat_pińczowski": {
+                "frequence": null
+            },
+            "Powiat_sandomierski": {
+                "frequence": null
+            },
+            "Powiat_skarżyski": {
+                "frequence": null
+            },
+            "Powiat_starachowicki": {
+                "frequence": null
+            },
+            "Powiat_staszowski": {
+                "frequence": null
+            },
+            "Powiat_włoszczowski": {
+                "frequence": null
+            },
+            "Miasto_Kielce": {
+                "frequence": null
+            }
+        },
+        "warminsko-mazurskie": {
+            "Powiat_bartoszycki": {
+                "frequence": null
+            },
+            "Powiat_braniewski": {
+                "frequence": null
+            },
+            "Powiat_działdowski": {
+                "frequence": null
+            },
+            "Powiat_elbląski": {
+                "frequence": null
+            },
+            "Powiat_ełcki": {
+                "frequence": null
+            },
+            "Powiat_giżycki": {
+                "frequence": null
+            },
+            "Powiat_iławski": {
+                "frequence": null
+            },
+            "Powiat_kętrzyński": {
+                "frequence": null
+            },
+            "Powiat_lidzbarski": {
+                "frequence": null
+            },
+            "Powiat_mrągowski": {
+                "frequence": null
+            },
+            "Powiat_nidzicki": {
+                "frequence": null
+            },
+            "Powiat_nowomiejski": {
+                "frequence": null
+            },
+            "Powiat_olecki": {
+                "frequence": null
+            },
+            "Powiat_olsztyński": {
+                "frequence": null
+            },
+            "Powiat_ostródzki": {
+                "frequence": null
+            },
+            "Powiat_piski": {
+                "frequence": null
+            },
+            "Powiat_szczycieński": {
+                "frequence": null
+            },
+            "Powiat_gołdapski": {
+                "frequence": null
+            },
+            "Powiat_węgorzewski": {
+                "frequence": null
+            },
+            "Miasto_Elbląg": {
+                "frequence": null
+            },
+            "Miasto_Olsztyn": {
+                "frequence": null
+            }
+        },
+        "wielkopolskie": {
+            "Powiat_chodzieski": {
+                "frequence": null
+            },
+            "Powiat_czarnkowsko-trzcianecki": {
+                "frequence": null
+            },
+            "Powiat_gnieźnieński": {
+                "frequence": null
+            },
+            "Powiat_gostyński": {
+                "frequence": null
+            },
+            "Powiat_grodziski": {
+                "frequence": null
+            },
+            "Powiat_jarociński": {
+                "frequence": null
+            },
+            "Powiat_kaliski": {
+                "frequence": null
+            },
+            "Powiat_kępiński": {
+                "frequence": null
+            },
+            "Powiat_kolski": {
+                "frequence": null
+            },
+            "Powiat_koniński": {
+                "frequence": null
+            },
+            "Powiat_kościański": {
+                "frequence": null
+            },
+            "Powiat_krotoszyński": {
+                "frequence": null
+            },
+            "Powiat_leszczyński": {
+                "frequence": null
+            },
+            "Powiat_międzychodzki": {
+                "frequence": null
+            },
+            "Powiat_nowotomyski": {
+                "frequence": null
+            },
+            "Powiat_obornicki": {
+                "frequence": null
+            },
+            "Powiat_ostrowski": {
+                "frequence": null
+            },
+            "Powiat_ostrzeszowski": {
+                "frequence": null
+            },
+            "Powiat_pilski": {
+                "frequence": null
+            },
+            "Powiat_pleszewski": {
+                "frequence": null
+            },
+            "Powiat_poznański": {
+                "frequence": null
+            },
+            "Powiat_rawicki": {
+                "frequence": null
+            },
+            "Powiat_słupecki": {
+                "frequence": null
+            },
+            "Powiat_szamotulski": {
+                "frequence": null
+            },
+            "Powiat_średzki": {
+                "frequence": null
+            },
+            "Powiat_śremski": {
+                "frequence": null
+            },
+            "Powiat_turecki": {
+                "frequence": null
+            },
+            "Powiat_wągrowiecki": {
+                "frequence": null
+            },
+            "Powiat_wolsztyński": {
+                "frequence": null
+            },
+            "Powiat_wrzesiński": {
+                "frequence": null
+            },
+            "Powiat_złotowski": {
+                "frequence": null
+            },
+            "Miasto_Kalisz": {
+                "frequence": null
+            },
+            "Miasto_Konin": {
+                "frequence": null
+            },
+            "Miasto_Leszno": {
+                "frequence": null
+            },
+            "Miasto_Poznań": {
+                "frequence": null
+            }
+        },
+        "zachodniopomorskie": {
+            "Powiat_białogardzki": {
+                "frequence": null
+            },
+            "Powiat_choszczeński": {
+                "frequence": null
+            },
+            "Powiat_drawski": {
+                "frequence": null
+            },
+            "Powiat_goleniowski": {
+                "frequence": null
+            },
+            "Powiat_gryficki": {
+                "frequence": null
+            },
+            "Powiat_gryfiński": {
+                "frequence": null
+            },
+            "Powiat_kamieński": {
+                "frequence": null
+            },
+            "Powiat_kołobrzeski": {
+                "frequence": null
+            },
+            "Powiat_koszaliński": {
+                "frequence": null
+            },
+            "Powiat_myśliborski": {
+                "frequence": null
+            },
+            "Powiat_policki": {
+                "frequence": null
+            },
+            "Powiat_pyrzycki": {
+                "frequence": null
+            },
+            "Powiat_sławieński": {
+                "frequence": null
+            },
+            "Powiat_stargardzki": {
+                "frequence": null
+            },
+            "Powiat_szczecinecki": {
+                "frequence": null
+            },
+            "Powiat_świdwiński": {
+                "frequence": null
+            },
+            "Powiat_wałecki": {
+                "frequence": null
+            },
+            "Powiat_łobeski": {
+                "frequence": null
+            },
+            "Miasto_Koszalin": {
+                "frequence": null
+            },
+            "Miasto_Szczecin": {
+                "frequence": null
+            },
+            "Miasto_Świnoujście": {
+                "frequence": null
+            }
+        }
+    }
+}

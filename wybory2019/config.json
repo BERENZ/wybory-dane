@@ -1,0 +1,1121 @@
+{
+    "config": {
+        "namedParties": {
+            "BEZP": {
+                "name": "KWW KOALICJA BEZPARTYJNI I SAMORZĄDOWCY",
+                "pkw_name": "KWW BEZPARTYJNI SAMORZĄDOWCY",
+                "ipsos_name": "KWW BEZPARTYJNI SAMORZĄDOWCY",
+                "shortname": "Bezpartyjni",
+                "identifier": "BEZP",
+                "color": "#f2f22e",
+                "logo": "/uploads/6010101c69f149a28eaed019e69cc637.png"
+            },
+            "PSL": {
+                "name": "KW POLSKIE STRONNICTWO LUDOWE (KUKIZ)",
+                "pkw_name": "KW POLSKIE STRONNICTWO LUDOWE (KUKIZ)",
+                "ipsos_name": "KW POLSKIE STRONNICTWO LUDOWE (KUKIZ)",
+                "shortname": "PSL",
+                "identifier": "PSL",
+                "color": "#2ed397",
+                "logo": "/uploads/6fa909be34244dc0bd402a50fd728310.png"
+            },
+            "KOBW": {
+                "name": "KKW KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                "pkw_name": "KKW KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                "ipsos_name": "KKW KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                "shortname": "Koalicja Obywatelska",
+                "identifier": "KOBW",
+                "color": "#ff7104",
+                "logo": "/uploads/e372c1c1f92940a09a9294eccc24313f.png"
+            },
+            "SLD": {
+                "name": "KW SOJUSZ LEWICY DEMOKRATYCZNEJ (LEWICA)",
+                "pkw_name": "KW SOJUSZ LEWICY DEMOKRATYCZNEJ (LEWICA)",
+                "ipsos_name": "KW SOJUSZ LEWICY DEMOKRATYCZNEJ (LEWICA)",
+                "shortname": "SLD",
+                "identifier": "SLD",
+                "color": "#be1638",
+                "logo": "/uploads/3e87ae658d0a4bd4802fdbece436d4b0.png"
+            },
+            "KUKZ": {
+                "name": "KOMITET WYBORCZY WYBORCÓW KUKIZ15 DO SENATU",
+                "pkw_name": "KWW KUKIZ'15",
+                "ipsos_name": "KWW KUKIZ'15",
+                "shortname": "Kukiz'15",
+                "identifier": "KUKZ",
+                "color": "#008080",
+                "logo": null
+            },
+            "PIS": {
+                "name": "KW Prawo i Sprawiedliwość",
+                "pkw_name": "KW Prawo i Sprawiedliwość",
+                "ipsos_name": "KW Prawo i Sprawiedliwość",
+                "shortname": "PiS",
+                "identifier": "PIS",
+                "color": "#012b7f",
+                "logo": "/uploads/61e849390cfe4c719da1271378b27bef.png"
+            },
+            "SLOW": {
+                "name": "KW ZWIĄZKU SŁOWIAŃSKIEGO",
+                "pkw_name": "KW ZWIĄZKU SŁOWIAŃSKIEGO",
+                "ipsos_name": "KW ZWIĄZKU SŁOWIAŃSKIEGO",
+                "shortname": "Związek Słowiański",
+                "identifier": "SLOW",
+                "color": "",
+                "logo": null
+            },
+            "JEDN": {
+                "name": "KW JEDNOŚĆ NARODU",
+                "pkw_name": "KW JEDNOŚĆ NARODU",
+                "ipsos_name": "KW JEDNOŚĆ NARODU",
+                "shortname": "JEDN",
+                "identifier": "JEDN",
+                "color": "",
+                "logo": null
+            },
+            "MNIE": {
+                "name": "KWW MNIEJSZOŚĆ NIEMIECKA",
+                "pkw_name": "KWW MNIEJSZOŚĆ NIEMIECKA",
+                "ipsos_name": "KWW MNIEJSZOŚĆ NIEMIECKA",
+                "shortname": "MNIE",
+                "identifier": "MNIE",
+                "color": "#0a0a0a",
+                "logo": "/uploads/b37bc05429cb48ff949f61601c02d189.png"
+            },
+            "SLOR": {
+                "name": "KW ŚLONZOKI RAZEM",
+                "pkw_name": "KW ŚLONZOKI RAZEM",
+                "ipsos_name": "KW ŚLONZOKI RAZEM",
+                "shortname": "SLOR",
+                "identifier": "SLOR",
+                "color": "",
+                "logo": null
+            },
+            "INNE": {
+                "name": "Inne",
+                "pkw_name": "Inne",
+                "ipsos_name": "Inne",
+                "shortname": "Inne",
+                "identifier": "INNE",
+                "color": "#a7a9ab",
+                "logo": "/uploads/b98bab8b153d4d119571ffa6a3a3f61a.png"
+            },
+            "KONF": {
+                "name": "KW KONFEDERACJA WOLNOŚĆ I NIEPODLEGŁOŚĆ",
+                "pkw_name": "KW KONFEDERACJA WOLNOŚĆ I NIEPODLEGŁOŚĆ",
+                "ipsos_name": "KW KONFEDERACJA WOLNOŚĆ I NIEPODLEGŁOŚĆ",
+                "shortname": "Konfederacja",
+                "identifier": "KONF",
+                "color": "#570000",
+                "logo": "/uploads/59bdec79105240d3a5322057197a9b78.png"
+            },
+            "LEWR": {
+                "name": "KKW Lewica Razem - Razem, Unia Pracy, RSS",
+                "pkw_name": "KKW Lewica Razem - Razem, Unia Pracy, RSS",
+                "ipsos_name": "KKW Lewica Razem - Razem, Unia Pracy, RSS",
+                "shortname": "Lewica Razem",
+                "identifier": "LEWR",
+                "color": "#f00",
+                "logo": "/uploads/a754215b24284509967450bdd64cef7c.png"
+            },
+            "NOP": {
+                "name": "KOMITET WYBORCZY NARODOWEGO ODRODZENIA POLSKI",
+                "pkw_name": "KOMITET WYBORCZY NARODOWEGO ODRODZENIA POLSKI",
+                "ipsos_name": "KOMITET WYBORCZY NARODOWEGO ODRODZENIA POLSKI",
+                "shortname": "NOP",
+                "identifier": "NOP",
+                "logo": null
+            },
+            "NKR": {
+                "name": "KOMITET WYBORCZY NORMALNY KRAJ",
+                "pkw_name": "KOMITET WYBORCZY NORMALNY KRAJ",
+                "ipsos_name": "KOMITET WYBORCZY NORMALNY KRAJ",
+                "shortname": "Normalny Kraj",
+                "identifier": "NKR",
+                "logo": null
+            },
+            "PLEW": {
+                "name": "KOMITET WYBORCZY POLSKA LEWICA",
+                "pkw_name": "KOMITET WYBORCZY POLSKA LEWICA",
+                "ipsos_name": "KOMITET WYBORCZY POLSKA LEWICA",
+                "shortname": "Polska Lewica",
+                "identifier": "PLEW",
+                "logo": null
+            },
+            "PRAW": {
+                "name": "KOMITET WYBORCZY PRAWICA",
+                "pkw_name": "KOMITET WYBORCZY PRAWICA",
+                "ipsos_name": "KOMITET WYBORCZY PRAWICA",
+                "shortname": "Prawica",
+                "identifier": "PRAW",
+                "color": "#ed28d6",
+                "logo": "/uploads/91be2fde26a74ab3b282132e4a077750.png"
+            },
+            "SOBR": {
+                "name": "KOMITET WYBORCZY SAMOOBRONA",
+                "pkw_name": "KOMITET WYBORCZY SAMOOBRONA",
+                "ipsos_name": "KOMITET WYBORCZY SAMOOBRONA",
+                "shortname": "Samoobrona",
+                "identifier": "SOBR",
+                "logo": null
+            },
+            "STPR": {
+                "name": "KOMITET WYBORCZY STRONNICTWO PRACY",
+                "pkw_name": "KOMITET WYBORCZY STRONNICTWO PRACY",
+                "ipsos_name": "KOMITET WYBORCZY STRONNICTWO PRACY",
+                "shortname": "Stronnictwo Pracy",
+                "identifier": "STPR",
+                "logo": null
+            },
+            "JORP": {
+                "name": "KOMITET WYBORCZY WYBORCÓW „JA OBYWATEL RP”",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW „JA OBYWATEL RP”",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW „JA OBYWATEL RP”",
+                "shortname": "Ja Obywatel RP",
+                "identifier": "JORP",
+                "logo": null
+            },
+            "PDMZ": {
+                "name": "KOMITET WYBORCZY WYBORCÓW „POROZUMIENIE DLA MAZUR”",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW „POROZUMIENIE DLA MAZUR”",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW „POROZUMIENIE DLA MAZUR”",
+                "shortname": "Porozumienie dla Mazur",
+                "identifier": "PDMZ",
+                "logo": null
+            },
+            "WSMD": {
+                "name": "KOMITET WYBORCZY WYBORCÓW „WSPÓLNY SENATOR MARZENA DĘBNIAK”",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW „WSPÓLNY SENATOR MARZENA DĘBNIAK”",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW „WSPÓLNY SENATOR MARZENA DĘBNIAK”",
+                "shortname": "Wspólny Senator Marzena Dębniak",
+                "identifier": "WSMD",
+                "logo": null
+            },
+            "ADMA": {
+                "name": "KOMITET WYBORCZY WYBORCÓW ADAMA MAZGUŁY",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ADAMA MAZGUŁY",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ADAMA MAZGUŁY",
+                "shortname": "Adam Mazguła",
+                "identifier": "ADMA",
+                "logo": null
+            },
+            "APGIER": {
+                "name": "KOMITET WYBORCZY WYBORCÓW ADWOKATA PRZEMYSŁAWA GIERADY",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ADWOKATA PRZEMYSŁAWA GIERADY",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ADWOKATA PRZEMYSŁAWA GIERADY",
+                "shortname": "Adwokat Przemysław Gierada",
+                "identifier": "APGIER",
+                "logo": null
+            },
+            "ANSY": {
+                "name": "KOMITET WYBORCZY WYBORCÓW ANNY SYNOWIEC",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ANNY SYNOWIEC",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ANNY SYNOWIEC",
+                "shortname": "Anna Synowiec",
+                "identifier": "ANSY",
+                "logo": null
+            },
+            "ARBAG": {
+                "name": "KOMITET WYBORCZY WYBORCÓW ARTURA BAGIEŃSKIEGO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ARTURA BAGIEŃSKIEGO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ARTURA BAGIEŃSKIEGO",
+                "shortname": "Artur Bagielski",
+                "identifier": "ARBAG",
+                "logo": null
+            },
+            "BEAN": {
+                "name": "KOMITET WYBORCZY WYBORCÓW BEZPARTYJNY ANTYSYSTEMOWY",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW BEZPARTYJNY ANTYSYSTEMOWY",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW BEZPARTYJNY ANTYSYSTEMOWY",
+                "shortname": "Bezpartyjny Antysystemowy",
+                "identifier": "BEAN",
+                "logo": null
+            },
+            "DEOB": {
+                "name": "KOMITET WYBORCZY WYBORCÓW DEMOKRACJA OBYWATELSKA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW DEMOKRACJA OBYWATELSKA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW DEMOKRACJA OBYWATELSKA",
+                "shortname": "Demokracja Obywatelska",
+                "identifier": "DEOB",
+                "logo": null
+            },
+            "GASZ": {
+                "name": "KOMITET WYBORCZY WYBORCÓW GRAŻYNY ANNY SZTARK",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW GRAŻYNY ANNY SZTARK",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW GRAŻYNY ANNY SZTARK",
+                "shortname": "Grażyna Anna Sztark",
+                "identifier": "GASZ",
+                "logo": null
+            },
+            "JAMA": {
+                "name": "KOMITET WYBORCZY WYBORCÓW JANUSZ MAKSYMOWICZ",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW JANUSZ MAKSYMOWICZ",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW JANUSZ MAKSYMOWICZ",
+                "shortname": "Janusz Maksymowicz",
+                "identifier": "JAMA",
+                "logo": null
+            },
+            "JFWO": {
+                "name": "KOMITET WYBORCZY WYBORCÓW JÓZEFA FRANCISZKA WÓJCIKA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW JÓZEFA FRANCISZKA WÓJCIKA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW JÓZEFA FRANCISZKA WÓJCIKA",
+                "shortname": "Józef Franciszek Wójcik",
+                "identifier": "JFWO",
+                "logo": null
+            },
+            "MIPI": {
+                "name": "KOMITET WYBORCZY WYBORCÓW KANDYDATA NIEZALEŻNEGO MIROSŁAWA PIASECKIEGO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW KANDYDATA NIEZALEŻNEGO MIROSŁAWA PIASECKIEGO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW KANDYDATA NIEZALEŻNEGO MIROSŁAWA PIASECKIEGO",
+                "shortname": "Kandydat Niezależny Mirosław Piasecki",
+                "identifier": "MIPI",
+                "logo": null
+            },
+            "KAZA": {
+                "name": "KOMITET WYBORCZY WYBORCÓW KATARZYNY ZAGAJSKIEJ",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW KATARZYNY ZAGAJSKIEJ",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW KATARZYNY ZAGAJSKIEJ",
+                "shortname": "Katarzyna Zagajska",
+                "identifier": "KAZA",
+                "logo": null
+            },
+            "KODK": {
+                "name": "KOMITET WYBORCZY WYBORCÓW KOALICJA OBYWATELSKA DAWID KOSTEMPSKI",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW KOALICJA OBYWATELSKA DAWID KOSTEMPSKI",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW KOALICJA OBYWATELSKA DAWID KOSTEMPSKI",
+                "shortname": "Koalicja Obywatelska Dawid Kostempski",
+                "identifier": "KODK",
+                "logo": null
+            },
+            "KRKW": {
+                "name": "KOMITET WYBORCZY WYBORCÓW KRZYSZTOFA KWIATKOWSKIEGO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW KRZYSZTOFA KWIATKOWSKIEGO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW KRZYSZTOFA KWIATKOWSKIEGO",
+                "shortname": "Krzysztof Kwiatkowski",
+                "identifier": "KRKW",
+                "logo": null
+            },
+            "LEHB": {
+                "name": "KOMITET WYBORCZY WYBORCÓW LESZKA HENRYKA BUBLA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW LESZKA HENRYKA BUBLA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW LESZKA HENRYKA BUBLA",
+                "shortname": "Leszek Henryk Bubla",
+                "identifier": "LEHB",
+                "logo": null
+            },
+            "LIST": {
+                "name": "KOMITET WYBORCZY WYBORCÓW LIDIA STAROŃ – ZAWSZE PO STRONIE LUDZI",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW LIDIA STAROŃ – ZAWSZE PO STRONIE LUDZI",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW LIDIA STAROŃ – ZAWSZE PO STRONIE LUDZI",
+                "shortname": "Lidia Staroń - Zawsze po stronie ludzi",
+                "identifier": "LIST",
+                "logo": null
+            },
+            "MPDS": {
+                "name": "KOMITET WYBORCZY WYBORCÓW LISTA MIROSŁAWA PIOTROWSKIEGO DO SENATU",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW LISTA MIROSŁAWA PIOTROWSKIEGO DO SENATU",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW LISTA MIROSŁAWA PIOTROWSKIEGO DO SENATU",
+                "shortname": "LISTA MIROSŁAWA PIOTROWSKIEGO DO SENATU",
+                "identifier": "MPDS",
+                "logo": null
+            },
+            "MANO": {
+                "name": "KOMITET WYBORCZY WYBORCÓW MARKA NOWAKA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW MARKA NOWAKA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW MARKA NOWAKA",
+                "shortname": "Marek Nowak",
+                "identifier": "MANO",
+                "logo": null
+            },
+            "HODOR": {
+                "name": "KOMITET WYBORCZY WYBORCÓW MIROSŁAWA CHODURA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW MIROSŁAWA CHODURA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW MIROSŁAWA CHODURA",
+                "shortname": "Mirosław Chodur",
+                "identifier": "HODOR",
+                "logo": null
+            },
+            "MILU": {
+                "name": "KOMITET WYBORCZY WYBORCÓW MIROSŁAWA LUBIŃSKIEGO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW MIROSŁAWA LUBIŃSKIEGO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW MIROSŁAWA LUBIŃSKIEGO",
+                "shortname": "Mirosław Lubiński",
+                "identifier": "MILU",
+                "logo": null
+            },
+            "PAISA": {
+                "name": "KOMITET WYBORCZY WYBORCÓW PATRIOCI I SAMORZĄDOWCY",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW PATRIOCI I SAMORZĄDOWCY",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW PATRIOCI I SAMORZĄDOWCY",
+                "shortname": "PATRIOCI I SAMORZĄDOWCY",
+                "identifier": "PAISA",
+                "logo": null
+            },
+            "PISDP": {
+                "name": "KOMITET WYBORCZY WYBORCÓW PRAWDA I SPRAWIEDLIWOŚĆ DLA POLSKI",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW PRAWDA I SPRAWIEDLIWOŚĆ DLA POLSKI",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW PRAWDA I SPRAWIEDLIWOŚĆ DLA POLSKI",
+                "shortname": "PRAWDA I SPRAWIEDLIWOŚĆ DLA POLSKI",
+                "identifier": "PISDP",
+                "logo": null
+            },
+            "PRPR": {
+                "name": "KOMITET WYBORCZY WYBORCÓW PRZYWRÓCIĆ PRAWO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW PRZYWRÓCIĆ PRAWO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW PRZYWRÓCIĆ PRAWO",
+                "shortname": "PRZYWRÓCIĆ PRAWO",
+                "identifier": "PRPR",
+                "logo": null
+            },
+            "RAKO": {
+                "name": "KOMITET WYBORCZY WYBORCÓW RAFAŁA KOMAREWICZA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW RAFAŁA KOMAREWICZA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW RAFAŁA KOMAREWICZA",
+                "shortname": "Rafał Komarzewicz",
+                "identifier": "RAKO",
+                "logo": null
+            },
+            "RPSO": {
+                "name": "KOMITET WYBORCZY WYBORCÓW RAZEM PODHALE SPISZ ORAWA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW RAZEM PODHALE SPISZ ORAWA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW RAZEM PODHALE SPISZ ORAWA",
+                "shortname": "RAZEM PODHALE SPISZ ORAWA",
+                "identifier": "RPSO",
+                "logo": null
+            },
+            "ROPA": {
+                "name": "KOMITET WYBORCZY WYBORCÓW ROBERT PALUCH",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ROBERT PALUCH",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ROBERT PALUCH",
+                "shortname": "ROBERT PALUCH",
+                "identifier": "ROPA",
+                "logo": null
+            },
+            "ROPO": {
+                "name": "KOMITET WYBORCZY WYBORCÓW ROZWÓJ PODKARPACIA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ROZWÓJ PODKARPACIA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ROZWÓJ PODKARPACIA",
+                "shortname": "ROZWÓJ PODKARPACIA",
+                "identifier": "ROPO",
+                "logo": null
+            },
+            "RORP": {
+                "name": "KOMITET WYBORCZY WYBORCÓW RUCHU „OBYWATELE RP”",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW RUCHU „OBYWATELE RP”",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW RUCHU „OBYWATELE RP”",
+                "shortname": "RUCH „OBYWATELE RP”",
+                "identifier": "RORP",
+                "logo": null
+            },
+            "RYSK": {
+                "name": "KOMITET WYBORCZY WYBORCÓW RYSZARDA SKOTNICZNEGO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW RYSZARDA SKOTNICZNEGO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW RYSZARDA SKOTNICZNEGO",
+                "shortname": "RYSZARD SKOTNICZNY",
+                "identifier": "RYSK",
+                "logo": null
+            },
+            "WABO": {
+                "name": "KOMITET WYBORCZY WYBORCÓW SENATORA WALDEMARA BONKOWSKIEGO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW SENATORA WALDEMARA BONKOWSKIEGO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW SENATORA WALDEMARA BONKOWSKIEGO",
+                "shortname": "Senator Waldemar Boniewski",
+                "identifier": "WABO",
+                "logo": null
+            },
+            "STKO": {
+                "name": "KOMITET WYBORCZY WYBORCÓW STANISŁAWA KOGUTA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW STANISŁAWA KOGUTA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW STANISŁAWA KOGUTA",
+                "shortname": "Stanisław Kogut",
+                "identifier": "STKO",
+                "logo": null
+            },
+            "WATY": {
+                "name": "KOMITET WYBORCZY WYBORCÓW WADIM TYSZKIEWICZ",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW WADIM TYSZKIEWICZ",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW WADIM TYSZKIEWICZ",
+                "shortname": "WADIM TYSZKIEWICZ",
+                "identifier": "WATY",
+                "logo": null
+            },
+            "ZJEPR": {
+                "name": "KOMITET WYBORCZY WYBORCÓW ZJEDNOCZONA PRAWICA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ZJEDNOCZONA PRAWICA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ZJEDNOCZONA PRAWICA",
+                "shortname": "ZJEDNOCZONA PRAWICA",
+                "identifier": "ZJEPR",
+                "logo": null
+            },
+            "KEUR": {
+                "name": "KKW Koalicja Europejska PO PSL SLD .N Zieloni",
+                "pkw_name": "KKW Koalicja Europejska PO PSL SLD .N Zieloni",
+                "ipsos_name": "KKW Koalicja Europejska PO PSL SLD .N Zieloni",
+                "shortname": "Koalicja Europejska",
+                "identifier": "KEUR",
+                "color": "#f2e129",
+                "logo": null
+            },
+            "CHRIST": {
+                "name": "KW Ruch Prawdziwa Europa - Europa Christi",
+                "pkw_name": "KW Ruch Prawdziwa Europa - Europa Christi",
+                "ipsos_name": "KW Ruch Prawdziwa Europa - Europa Christi",
+                "shortname": "Europa Christi",
+                "identifier": "CHRIST",
+                "logo": null
+            },
+            "WIOS": {
+                "name": "KW Wiosna Roberta Biedronia",
+                "pkw_name": "KW Wiosna Roberta Biedronia",
+                "ipsos_name": "KW Wiosna Roberta Biedronia",
+                "shortname": "Wiosna",
+                "identifier": "WIOS",
+                "logo": null
+            },
+            "POLEX": {
+                "name": "KKW Polexit-Koalicja ",
+                "pkw_name": "KKW Polexit-Koalicja ",
+                "ipsos_name": "KKW Polexit-Koalicja ",
+                "shortname": "KKW Polexit-Koalicja ",
+                "identifier": "POLEX",
+                "logo": null
+            },
+            "AZER": {
+                "name": "KOMITET WYBORCZY AKCJA ZAWIEDZIONYCH EMERYTÓW RENCISTÓW",
+                "pkw_name": "KOMITET WYBORCZY AKCJA ZAWIEDZIONYCH EMERYTÓW RENCISTÓW",
+                "ipsos_name": "KOMITET WYBORCZY AKCJA ZAWIEDZIONYCH EMERYTÓW RENCISTÓW",
+                "shortname": "AKCJA ZAWIEDZIONYCH EMERYTÓW RENCISTÓW",
+                "identifier": "AZER",
+                "color": "#c9c8a7",
+                "logo": "/uploads/65fe560224424a3781060bb2b65ddeef.png"
+            },
+            "SPLM": {
+                "name": "KOMITET WYBORCZY SKUTECZNI PIOTRA LIROYA-MARCA",
+                "pkw_name": "KOMITET WYBORCZY SKUTECZNI PIOTRA LIROYA-MARCA",
+                "ipsos_name": "KOMITET WYBORCZY SKUTECZNI PIOTRA LIROYA-MARCA",
+                "shortname": "Skuteczni Piotra Liroya-Marca",
+                "identifier": "SPLM",
+                "color": "#42e5ed",
+                "logo": "/uploads/b65195a56fb94cbc979d1aedec9dc89b.png"
+            },
+            "POWIAT": {
+                "name": "POWIAT",
+                "pkw_name": "POWIAT",
+                "ipsos_name": "POWIAT",
+                "shortname": "POW",
+                "identifier": "POWIAT",
+                "color": "#8cc8ed",
+                "logo": "/uploads/b1dff71830fa46ac8369ec915d93b486.png"
+            },
+            "PISPOWIAT": {
+                "name": "PISPOWIAT",
+                "pkw_name": "PISPOWIAT",
+                "ipsos_name": "PISPOWIAT",
+                "shortname": "PISPOW",
+                "identifier": "PISPOWIAT",
+                "color": "#012b7f",
+                "logo": null
+            }
+        },
+        "parties": [
+            {
+                "name": "KWW KOALICJA BEZPARTYJNI I SAMORZĄDOWCY",
+                "pkw_name": "KWW BEZPARTYJNI SAMORZĄDOWCY",
+                "ipsos_name": "KWW BEZPARTYJNI SAMORZĄDOWCY",
+                "shortname": "Bezpartyjni",
+                "identifier": "BEZP",
+                "color": "#f2f22e",
+                "logo": "/uploads/6010101c69f149a28eaed019e69cc637.png"
+            },
+            {
+                "name": "KW POLSKIE STRONNICTWO LUDOWE (KUKIZ)",
+                "pkw_name": "KW POLSKIE STRONNICTWO LUDOWE (KUKIZ)",
+                "ipsos_name": "KW POLSKIE STRONNICTWO LUDOWE (KUKIZ)",
+                "shortname": "PSL",
+                "identifier": "PSL",
+                "color": "#2ed397",
+                "logo": "/uploads/6fa909be34244dc0bd402a50fd728310.png"
+            },
+            {
+                "name": "KKW KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                "pkw_name": "KKW KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                "ipsos_name": "KKW KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                "shortname": "Koalicja Obywatelska",
+                "identifier": "KOBW",
+                "color": "#ff7104",
+                "logo": "/uploads/e372c1c1f92940a09a9294eccc24313f.png"
+            },
+            {
+                "name": "KW SOJUSZ LEWICY DEMOKRATYCZNEJ (LEWICA)",
+                "pkw_name": "KW SOJUSZ LEWICY DEMOKRATYCZNEJ (LEWICA)",
+                "ipsos_name": "KW SOJUSZ LEWICY DEMOKRATYCZNEJ (LEWICA)",
+                "shortname": "SLD",
+                "identifier": "SLD",
+                "color": "#be1638",
+                "logo": "/uploads/3e87ae658d0a4bd4802fdbece436d4b0.png"
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW KUKIZ15 DO SENATU",
+                "pkw_name": "KWW KUKIZ'15",
+                "ipsos_name": "KWW KUKIZ'15",
+                "shortname": "Kukiz'15",
+                "identifier": "KUKZ",
+                "color": "#008080",
+                "logo": null
+            },
+            {
+                "name": "KW Prawo i Sprawiedliwość",
+                "pkw_name": "KW Prawo i Sprawiedliwość",
+                "ipsos_name": "KW Prawo i Sprawiedliwość",
+                "shortname": "PiS",
+                "identifier": "PIS",
+                "color": "#012b7f",
+                "logo": "/uploads/61e849390cfe4c719da1271378b27bef.png"
+            },
+            {
+                "name": "KW ZWIĄZKU SŁOWIAŃSKIEGO",
+                "pkw_name": "KW ZWIĄZKU SŁOWIAŃSKIEGO",
+                "ipsos_name": "KW ZWIĄZKU SŁOWIAŃSKIEGO",
+                "shortname": "Związek Słowiański",
+                "identifier": "SLOW",
+                "color": "",
+                "logo": null
+            },
+            {
+                "name": "KW JEDNOŚĆ NARODU",
+                "pkw_name": "KW JEDNOŚĆ NARODU",
+                "ipsos_name": "KW JEDNOŚĆ NARODU",
+                "shortname": "JEDN",
+                "identifier": "JEDN",
+                "color": "",
+                "logo": null
+            },
+            {
+                "name": "KWW MNIEJSZOŚĆ NIEMIECKA",
+                "pkw_name": "KWW MNIEJSZOŚĆ NIEMIECKA",
+                "ipsos_name": "KWW MNIEJSZOŚĆ NIEMIECKA",
+                "shortname": "MNIE",
+                "identifier": "MNIE",
+                "color": "#0a0a0a",
+                "logo": "/uploads/b37bc05429cb48ff949f61601c02d189.png"
+            },
+            {
+                "name": "KW ŚLONZOKI RAZEM",
+                "pkw_name": "KW ŚLONZOKI RAZEM",
+                "ipsos_name": "KW ŚLONZOKI RAZEM",
+                "shortname": "SLOR",
+                "identifier": "SLOR",
+                "color": "",
+                "logo": null
+            },
+            {
+                "name": "Inne",
+                "pkw_name": "Inne",
+                "ipsos_name": "Inne",
+                "shortname": "Inne",
+                "identifier": "INNE",
+                "color": "#a7a9ab",
+                "logo": "/uploads/b98bab8b153d4d119571ffa6a3a3f61a.png"
+            },
+            {
+                "name": "KW KONFEDERACJA WOLNOŚĆ I NIEPODLEGŁOŚĆ",
+                "pkw_name": "KW KONFEDERACJA WOLNOŚĆ I NIEPODLEGŁOŚĆ",
+                "ipsos_name": "KW KONFEDERACJA WOLNOŚĆ I NIEPODLEGŁOŚĆ",
+                "shortname": "Konfederacja",
+                "identifier": "KONF",
+                "color": "#570000",
+                "logo": "/uploads/59bdec79105240d3a5322057197a9b78.png"
+            },
+            {
+                "name": "KKW Lewica Razem - Razem, Unia Pracy, RSS",
+                "pkw_name": "KKW Lewica Razem - Razem, Unia Pracy, RSS",
+                "ipsos_name": "KKW Lewica Razem - Razem, Unia Pracy, RSS",
+                "shortname": "Lewica Razem",
+                "identifier": "LEWR",
+                "color": "#f00",
+                "logo": "/uploads/a754215b24284509967450bdd64cef7c.png"
+            },
+            {
+                "name": "KOMITET WYBORCZY NARODOWEGO ODRODZENIA POLSKI",
+                "pkw_name": "KOMITET WYBORCZY NARODOWEGO ODRODZENIA POLSKI",
+                "ipsos_name": "KOMITET WYBORCZY NARODOWEGO ODRODZENIA POLSKI",
+                "shortname": "NOP",
+                "identifier": "NOP",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY NORMALNY KRAJ",
+                "pkw_name": "KOMITET WYBORCZY NORMALNY KRAJ",
+                "ipsos_name": "KOMITET WYBORCZY NORMALNY KRAJ",
+                "shortname": "Normalny Kraj",
+                "identifier": "NKR",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY POLSKA LEWICA",
+                "pkw_name": "KOMITET WYBORCZY POLSKA LEWICA",
+                "ipsos_name": "KOMITET WYBORCZY POLSKA LEWICA",
+                "shortname": "Polska Lewica",
+                "identifier": "PLEW",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY PRAWICA",
+                "pkw_name": "KOMITET WYBORCZY PRAWICA",
+                "ipsos_name": "KOMITET WYBORCZY PRAWICA",
+                "shortname": "Prawica",
+                "identifier": "PRAW",
+                "color": "#ed28d6",
+                "logo": "/uploads/91be2fde26a74ab3b282132e4a077750.png"
+            },
+            {
+                "name": "KOMITET WYBORCZY SAMOOBRONA",
+                "pkw_name": "KOMITET WYBORCZY SAMOOBRONA",
+                "ipsos_name": "KOMITET WYBORCZY SAMOOBRONA",
+                "shortname": "Samoobrona",
+                "identifier": "SOBR",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY STRONNICTWO PRACY",
+                "pkw_name": "KOMITET WYBORCZY STRONNICTWO PRACY",
+                "ipsos_name": "KOMITET WYBORCZY STRONNICTWO PRACY",
+                "shortname": "Stronnictwo Pracy",
+                "identifier": "STPR",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW „JA OBYWATEL RP”",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW „JA OBYWATEL RP”",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW „JA OBYWATEL RP”",
+                "shortname": "Ja Obywatel RP",
+                "identifier": "JORP",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW „POROZUMIENIE DLA MAZUR”",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW „POROZUMIENIE DLA MAZUR”",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW „POROZUMIENIE DLA MAZUR”",
+                "shortname": "Porozumienie dla Mazur",
+                "identifier": "PDMZ",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW „WSPÓLNY SENATOR MARZENA DĘBNIAK”",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW „WSPÓLNY SENATOR MARZENA DĘBNIAK”",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW „WSPÓLNY SENATOR MARZENA DĘBNIAK”",
+                "shortname": "Wspólny Senator Marzena Dębniak",
+                "identifier": "WSMD",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW ADAMA MAZGUŁY",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ADAMA MAZGUŁY",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ADAMA MAZGUŁY",
+                "shortname": "Adam Mazguła",
+                "identifier": "ADMA",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW ADWOKATA PRZEMYSŁAWA GIERADY",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ADWOKATA PRZEMYSŁAWA GIERADY",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ADWOKATA PRZEMYSŁAWA GIERADY",
+                "shortname": "Adwokat Przemysław Gierada",
+                "identifier": "APGIER",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW ANNY SYNOWIEC",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ANNY SYNOWIEC",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ANNY SYNOWIEC",
+                "shortname": "Anna Synowiec",
+                "identifier": "ANSY",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW ARTURA BAGIEŃSKIEGO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ARTURA BAGIEŃSKIEGO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ARTURA BAGIEŃSKIEGO",
+                "shortname": "Artur Bagielski",
+                "identifier": "ARBAG",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW BEZPARTYJNY ANTYSYSTEMOWY",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW BEZPARTYJNY ANTYSYSTEMOWY",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW BEZPARTYJNY ANTYSYSTEMOWY",
+                "shortname": "Bezpartyjny Antysystemowy",
+                "identifier": "BEAN",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW DEMOKRACJA OBYWATELSKA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW DEMOKRACJA OBYWATELSKA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW DEMOKRACJA OBYWATELSKA",
+                "shortname": "Demokracja Obywatelska",
+                "identifier": "DEOB",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW GRAŻYNY ANNY SZTARK",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW GRAŻYNY ANNY SZTARK",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW GRAŻYNY ANNY SZTARK",
+                "shortname": "Grażyna Anna Sztark",
+                "identifier": "GASZ",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW JANUSZ MAKSYMOWICZ",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW JANUSZ MAKSYMOWICZ",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW JANUSZ MAKSYMOWICZ",
+                "shortname": "Janusz Maksymowicz",
+                "identifier": "JAMA",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW JÓZEFA FRANCISZKA WÓJCIKA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW JÓZEFA FRANCISZKA WÓJCIKA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW JÓZEFA FRANCISZKA WÓJCIKA",
+                "shortname": "Józef Franciszek Wójcik",
+                "identifier": "JFWO",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW KANDYDATA NIEZALEŻNEGO MIROSŁAWA PIASECKIEGO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW KANDYDATA NIEZALEŻNEGO MIROSŁAWA PIASECKIEGO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW KANDYDATA NIEZALEŻNEGO MIROSŁAWA PIASECKIEGO",
+                "shortname": "Kandydat Niezależny Mirosław Piasecki",
+                "identifier": "MIPI",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW KATARZYNY ZAGAJSKIEJ",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW KATARZYNY ZAGAJSKIEJ",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW KATARZYNY ZAGAJSKIEJ",
+                "shortname": "Katarzyna Zagajska",
+                "identifier": "KAZA",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW KOALICJA OBYWATELSKA DAWID KOSTEMPSKI",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW KOALICJA OBYWATELSKA DAWID KOSTEMPSKI",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW KOALICJA OBYWATELSKA DAWID KOSTEMPSKI",
+                "shortname": "Koalicja Obywatelska Dawid Kostempski",
+                "identifier": "KODK",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW KRZYSZTOFA KWIATKOWSKIEGO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW KRZYSZTOFA KWIATKOWSKIEGO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW KRZYSZTOFA KWIATKOWSKIEGO",
+                "shortname": "Krzysztof Kwiatkowski",
+                "identifier": "KRKW",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW LESZKA HENRYKA BUBLA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW LESZKA HENRYKA BUBLA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW LESZKA HENRYKA BUBLA",
+                "shortname": "Leszek Henryk Bubla",
+                "identifier": "LEHB",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW LIDIA STAROŃ – ZAWSZE PO STRONIE LUDZI",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW LIDIA STAROŃ – ZAWSZE PO STRONIE LUDZI",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW LIDIA STAROŃ – ZAWSZE PO STRONIE LUDZI",
+                "shortname": "Lidia Staroń - Zawsze po stronie ludzi",
+                "identifier": "LIST",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW LISTA MIROSŁAWA PIOTROWSKIEGO DO SENATU",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW LISTA MIROSŁAWA PIOTROWSKIEGO DO SENATU",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW LISTA MIROSŁAWA PIOTROWSKIEGO DO SENATU",
+                "shortname": "LISTA MIROSŁAWA PIOTROWSKIEGO DO SENATU",
+                "identifier": "MPDS",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW MARKA NOWAKA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW MARKA NOWAKA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW MARKA NOWAKA",
+                "shortname": "Marek Nowak",
+                "identifier": "MANO",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW MIROSŁAWA CHODURA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW MIROSŁAWA CHODURA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW MIROSŁAWA CHODURA",
+                "shortname": "Mirosław Chodur",
+                "identifier": "HODOR",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW MIROSŁAWA LUBIŃSKIEGO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW MIROSŁAWA LUBIŃSKIEGO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW MIROSŁAWA LUBIŃSKIEGO",
+                "shortname": "Mirosław Lubiński",
+                "identifier": "MILU",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW PATRIOCI I SAMORZĄDOWCY",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW PATRIOCI I SAMORZĄDOWCY",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW PATRIOCI I SAMORZĄDOWCY",
+                "shortname": "PATRIOCI I SAMORZĄDOWCY",
+                "identifier": "PAISA",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW PRAWDA I SPRAWIEDLIWOŚĆ DLA POLSKI",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW PRAWDA I SPRAWIEDLIWOŚĆ DLA POLSKI",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW PRAWDA I SPRAWIEDLIWOŚĆ DLA POLSKI",
+                "shortname": "PRAWDA I SPRAWIEDLIWOŚĆ DLA POLSKI",
+                "identifier": "PISDP",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW PRZYWRÓCIĆ PRAWO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW PRZYWRÓCIĆ PRAWO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW PRZYWRÓCIĆ PRAWO",
+                "shortname": "PRZYWRÓCIĆ PRAWO",
+                "identifier": "PRPR",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW RAFAŁA KOMAREWICZA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW RAFAŁA KOMAREWICZA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW RAFAŁA KOMAREWICZA",
+                "shortname": "Rafał Komarzewicz",
+                "identifier": "RAKO",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW RAZEM PODHALE SPISZ ORAWA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW RAZEM PODHALE SPISZ ORAWA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW RAZEM PODHALE SPISZ ORAWA",
+                "shortname": "RAZEM PODHALE SPISZ ORAWA",
+                "identifier": "RPSO",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW ROBERT PALUCH",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ROBERT PALUCH",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ROBERT PALUCH",
+                "shortname": "ROBERT PALUCH",
+                "identifier": "ROPA",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW ROZWÓJ PODKARPACIA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ROZWÓJ PODKARPACIA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ROZWÓJ PODKARPACIA",
+                "shortname": "ROZWÓJ PODKARPACIA",
+                "identifier": "ROPO",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW RUCHU „OBYWATELE RP”",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW RUCHU „OBYWATELE RP”",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW RUCHU „OBYWATELE RP”",
+                "shortname": "RUCH „OBYWATELE RP”",
+                "identifier": "RORP",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW RYSZARDA SKOTNICZNEGO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW RYSZARDA SKOTNICZNEGO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW RYSZARDA SKOTNICZNEGO",
+                "shortname": "RYSZARD SKOTNICZNY",
+                "identifier": "RYSK",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW SENATORA WALDEMARA BONKOWSKIEGO",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW SENATORA WALDEMARA BONKOWSKIEGO",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW SENATORA WALDEMARA BONKOWSKIEGO",
+                "shortname": "Senator Waldemar Boniewski",
+                "identifier": "WABO",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW STANISŁAWA KOGUTA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW STANISŁAWA KOGUTA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW STANISŁAWA KOGUTA",
+                "shortname": "Stanisław Kogut",
+                "identifier": "STKO",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW WADIM TYSZKIEWICZ",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW WADIM TYSZKIEWICZ",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW WADIM TYSZKIEWICZ",
+                "shortname": "WADIM TYSZKIEWICZ",
+                "identifier": "WATY",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY WYBORCÓW ZJEDNOCZONA PRAWICA",
+                "pkw_name": "KOMITET WYBORCZY WYBORCÓW ZJEDNOCZONA PRAWICA",
+                "ipsos_name": "KOMITET WYBORCZY WYBORCÓW ZJEDNOCZONA PRAWICA",
+                "shortname": "ZJEDNOCZONA PRAWICA",
+                "identifier": "ZJEPR",
+                "logo": null
+            },
+            {
+                "name": "KKW Koalicja Europejska PO PSL SLD .N Zieloni",
+                "pkw_name": "KKW Koalicja Europejska PO PSL SLD .N Zieloni",
+                "ipsos_name": "KKW Koalicja Europejska PO PSL SLD .N Zieloni",
+                "shortname": "Koalicja Europejska",
+                "identifier": "KEUR",
+                "color": "#f2e129",
+                "logo": null
+            },
+            {
+                "name": "KW Ruch Prawdziwa Europa - Europa Christi",
+                "pkw_name": "KW Ruch Prawdziwa Europa - Europa Christi",
+                "ipsos_name": "KW Ruch Prawdziwa Europa - Europa Christi",
+                "shortname": "Europa Christi",
+                "identifier": "CHRIST",
+                "logo": null
+            },
+            {
+                "name": "KW Wiosna Roberta Biedronia",
+                "pkw_name": "KW Wiosna Roberta Biedronia",
+                "ipsos_name": "KW Wiosna Roberta Biedronia",
+                "shortname": "Wiosna",
+                "identifier": "WIOS",
+                "logo": null
+            },
+            {
+                "name": "KKW Polexit-Koalicja ",
+                "pkw_name": "KKW Polexit-Koalicja ",
+                "ipsos_name": "KKW Polexit-Koalicja ",
+                "shortname": "KKW Polexit-Koalicja ",
+                "identifier": "POLEX",
+                "logo": null
+            },
+            {
+                "name": "KOMITET WYBORCZY AKCJA ZAWIEDZIONYCH EMERYTÓW RENCISTÓW",
+                "pkw_name": "KOMITET WYBORCZY AKCJA ZAWIEDZIONYCH EMERYTÓW RENCISTÓW",
+                "ipsos_name": "KOMITET WYBORCZY AKCJA ZAWIEDZIONYCH EMERYTÓW RENCISTÓW",
+                "shortname": "AKCJA ZAWIEDZIONYCH EMERYTÓW RENCISTÓW",
+                "identifier": "AZER",
+                "color": "#c9c8a7",
+                "logo": "/uploads/65fe560224424a3781060bb2b65ddeef.png"
+            },
+            {
+                "name": "KOMITET WYBORCZY SKUTECZNI PIOTRA LIROYA-MARCA",
+                "pkw_name": "KOMITET WYBORCZY SKUTECZNI PIOTRA LIROYA-MARCA",
+                "ipsos_name": "KOMITET WYBORCZY SKUTECZNI PIOTRA LIROYA-MARCA",
+                "shortname": "Skuteczni Piotra Liroya-Marca",
+                "identifier": "SPLM",
+                "color": "#42e5ed",
+                "logo": "/uploads/b65195a56fb94cbc979d1aedec9dc89b.png"
+            },
+            {
+                "name": "POWIAT",
+                "pkw_name": "POWIAT",
+                "ipsos_name": "POWIAT",
+                "shortname": "POW",
+                "identifier": "POWIAT",
+                "color": "#8cc8ed",
+                "logo": "/uploads/b1dff71830fa46ac8369ec915d93b486.png"
+            },
+            {
+                "name": "PISPOWIAT",
+                "pkw_name": "PISPOWIAT",
+                "ipsos_name": "PISPOWIAT",
+                "shortname": "PISPOW",
+                "identifier": "PISPOWIAT",
+                "color": "#012b7f",
+                "logo": null
+            }
+        ],
+        "voivodships": [
+            {
+                "name": "Dolnośląskie",
+                "identifier": "dolnoslaskie"
+            },
+            {
+                "name": "Kujawsko-Pomorskie",
+                "identifier": "kujawsko-pomorskie"
+            },
+            {
+                "name": "Lubelskie",
+                "identifier": "lubelskie"
+            },
+            {
+                "name": "Lubuskie",
+                "identifier": "lubuskie"
+            },
+            {
+                "name": "Łódzkie",
+                "identifier": "lodzkie"
+            },
+            {
+                "name": "Małopolskie",
+                "identifier": "malopolskie"
+            },
+            {
+                "name": "Mazowieckie",
+                "identifier": "mazowieckie"
+            },
+            {
+                "name": "Opolskie",
+                "identifier": "opolskie"
+            },
+            {
+                "name": "Podkarpackie",
+                "identifier": "podkarpackie"
+            },
+            {
+                "name": "Podlaskie",
+                "identifier": "podlaskie"
+            },
+            {
+                "name": "Pomorskie",
+                "identifier": "pomorskie"
+            },
+            {
+                "name": "Śląskie",
+                "identifier": "slaskie"
+            },
+            {
+                "name": "Świętokrzyskie",
+                "identifier": "swietokrzyskie"
+            },
+            {
+                "name": "Warmińsko-Mazurskie",
+                "identifier": "warminsko-mazurskie"
+            },
+            {
+                "name": "Wielkopolskie",
+                "identifier": "wielkopolskie"
+            },
+            {
+                "name": "Zachodniopomorskie",
+                "identifier": "zachodniopomorskie"
+            }
+        ]
+    },
+    "dataFiles": {
+        "ipsos_results": "/uploads/ipsos_results.json",
+        "pkw": "/uploads/pkw.json",
+        "ipsos_simulation": "/uploads/ipsos_simulation.json",
+        "ipsos_frequence": "/uploads/ipsos_frequence.json",
+        "pkw_sejm_voivods": "/uploads/pkw_sejm_voivods.json",
+        "pkw_sejm_counties": "/uploads/pkw_sejm_counties.json",
+        "pkw_sejm_constituencies_percentage": "/uploads/pkw_sejm_constituencies_percentage.json",
+        "pkw_sejm_constituencies_numerical": "/uploads/pkw_sejm_constituencies_numerical.json",
+        "pkw_sejm_candidates": "/uploads/pkw_sejm_candidates.json",
+        "pkw_sejm_candidates_constituencies": "/uploads/pkw_sejm_candidates_constituencies.json",
+        "pkw_senat_candidates": "/uploads/pkw_senat_candidates.json",
+        "pkw_senat_candidates_summarized": "/uploads/pkw_senat_candidates_summarized.json",
+        "main_parties_config": "/uploads/main_parties_config.json",
+        "pkw_sejm_voivods_summarized": "/uploads/pkw_sejm_voivods_summarized.json",
+        "pkw_sejm_counties_decreased": "/uploads/pkw_sejm_counties_decreased.json"
+    }
+}

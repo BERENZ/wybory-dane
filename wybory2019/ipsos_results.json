@@ -1,0 +1,1102 @@
+{
+    "NR": {
+        "KOBW": 5,
+        "KONF": 4,
+        "SLD": 3,
+        "PIS": 2,
+        "PSL": 1,
+        "INNE": 99
+    },
+    "POPARCIE": {
+        "PIS": 43.6,
+        "KOBW": 27.4,
+        "SLD": 12.4,
+        "PSL": 9.1,
+        "KONF": 6.4,
+        "INNE": 1.1
+    },
+    "MANDATY": {
+        "PIS": 239,
+        "KOBW": 131,
+        "SLD": 46,
+        "PSL": 30,
+        "KONF": 13,
+        "INNE": 1
+    },
+    "PE_2019_row": {
+        "Konfederacja": {
+            "KONF": 75.6,
+            "PIS": 7.6,
+            "PSL": 7.1,
+            "KOBW": 6,
+            "SLD": 2.1,
+            "INNE": 1.6
+        },
+        "Wiosna": {
+            "SLD": 56.6,
+            "KOBW": 27.3,
+            "PSL": 9.1,
+            "PIS": 3.2,
+            "KONF": 2.7,
+            "INNE": 1.1
+        },
+        "Koalicja Europejska": {
+            "KOBW": 71.5,
+            "SLD": 13.4,
+            "PSL": 11.9,
+            "PIS": 1.4,
+            "KONF": 1.2,
+            "INNE": 0.6
+        },
+        "PiS": {
+            "PIS": 94.4,
+            "PSL": 2.6,
+            "KOBW": 1.2,
+            "KONF": 1,
+            "SLD": 0.6,
+            "INNE": 0.2
+        },
+        "Lewica Razem": {
+            "SLD": 75.1,
+            "KOBW": 12.3,
+            "PSL": 7.6,
+            "PIS": 2.6,
+            "KONF": 1.8,
+            "INNE": 0.6
+        },
+        "Kukiz": {
+            "PSL": 33.9,
+            "PIS": 20.5,
+            "KONF": 17.2,
+            "KOBW": 15.6,
+            "SLD": 8.4,
+            "INNE": 4.4
+        },
+        "Inne partie i ugrupowania": {
+            "KOBW": 26.8,
+            "PSL": 26.1,
+            "SLD": 12.4,
+            "PIS": 10.8,
+            "KONF": 10.1,
+            "INNE": 13.8
+        },
+        "Nie głosowałem": {
+            "KOBW": 28.3,
+            "PIS": 27.6,
+            "SLD": 17.4,
+            "PSL": 13.7,
+            "KONF": 10.8,
+            "INNE": 2.2
+        },
+        "Nie pamiętam": {
+            "PIS": 34.5,
+            "KOBW": 25.9,
+            "PSL": 16.4,
+            "SLD": 13.6,
+            "KONF": 7.2,
+            "INNE": 2.4
+        }
+    },
+    "PREZYDENT_2015_row": {
+        "Andrzej Duda": {
+            "PIS": 79.9,
+            "PSL": 6.1,
+            "KONF": 5.5,
+            "KOBW": 4.8,
+            "SLD": 3,
+            "INNE": 0.7
+        },
+        "Bronisław Komorowski": {
+            "KOBW": 60.9,
+            "SLD": 22,
+            "PSL": 10.9,
+            "PIS": 2.7,
+            "KONF": 2.7,
+            "INNE": 0.8
+        },
+        "Nie głosowałem": {
+            "KOBW": 27,
+            "SLD": 22.2,
+            "PIS": 20.1,
+            "KONF": 16.8,
+            "PSL": 11.8,
+            "INNE": 2.1
+        },
+        "Nie pamiętam": {
+            "PIS": 28.3,
+            "KOBW": 26.9,
+            "SLD": 15.1,
+            "PSL": 14.8,
+            "KONF": 12,
+            "INNE": 2.9
+        }
+    },
+    "SEJM_2015_row": {
+        "PiS": {
+            "PIS": 90.4,
+            "PSL": 3.6,
+            "KONF": 2.3,
+            "KOBW": 2.2,
+            "SLD": 1.2,
+            "INNE": 0.3
+        },
+        "PO": {
+            "KOBW": 68.8,
+            "SLD": 16.1,
+            "PSL": 8.5,
+            "PIS": 3.7,
+            "KONF": 2.2,
+            "INNE": 0.7
+        },
+        "Razem": {
+            "SLD": 55.5,
+            "KOBW": 22.8,
+            "PSL": 10.3,
+            "PIS": 5.7,
+            "KONF": 4.9,
+            "INNE": 0.8
+        },
+        "Korwin": {
+            "KONF": 65.8,
+            "KOBW": 10.1,
+            "PIS": 8.3,
+            "PSL": 6.8,
+            "SLD": 6.5,
+            "INNE": 2.5
+        },
+        "PSL": {
+            "PSL": 68.4,
+            "SLD": 10,
+            "KOBW": 9,
+            "PIS": 8.9,
+            "KONF": 2.7,
+            "INNE": 1
+        },
+        "Lewica": {
+            "SLD": 71.4,
+            "KOBW": 18,
+            "PSL": 6,
+            "PIS": 2.5,
+            "KONF": 1.5,
+            "INNE": 0.6
+        },
+        "Kukiz": {
+            "KONF": 23.9,
+            "PIS": 22.2,
+            "PSL": 21.9,
+            "KOBW": 16.1,
+            "SLD": 12.2,
+            "INNE": 3.7
+        },
+        "Nowoczesna": {
+            "KOBW": 53.7,
+            "SLD": 27.5,
+            "PSL": 8.7,
+            "PIS": 4.4,
+            "KONF": 4.3,
+            "INNE": 1.4
+        },
+        "Inne partie i ugrupowania": {
+            "KOBW": 26.9,
+            "PIS": 16.6,
+            "SLD": 13.9,
+            "PSL": 13.1,
+            "KONF": 12.4,
+            "INNE": 17.1
+        },
+        "Nie głosowałem": {
+            "KOBW": 27.2,
+            "PIS": 23.3,
+            "SLD": 22.1,
+            "KONF": 14.9,
+            "PSL": 10.6,
+            "INNE": 1.9
+        },
+        "Nie pamiętam": {
+            "PIS": 34.2,
+            "KOBW": 24,
+            "PSL": 15,
+            "SLD": 14.8,
+            "KONF": 9.3,
+            "INNE": 2.7
+        }
+    },
+    "WIEK_row": {
+        "18 - 29 lat": {
+            "PIS": 26.3,
+            "KOBW": 24.3,
+            "KONF": 19.7,
+            "SLD": 18.4,
+            "PSL": 9.7,
+            "INNE": 1.6
+        },
+        "30 - 39 lat": {
+            "PIS": 36.9,
+            "KOBW": 29.9,
+            "SLD": 12.9,
+            "PSL": 10.5,
+            "KONF": 8.2,
+            "INNE": 1.6
+        },
+        "40 - 49 lat": {
+            "PIS": 41,
+            "KOBW": 31.8,
+            "SLD": 12.1,
+            "PSL": 9.9,
+            "KONF": 4.1,
+            "INNE": 1.1
+        },
+        "50 - 59 lat": {
+            "PIS": 51.2,
+            "KOBW": 26.3,
+            "SLD": 9.5,
+            "PSL": 9.4,
+            "KONF": 2.8,
+            "INNE": 0.8
+        },
+        "60 i wiecej lat": {
+            "PIS": 55.8,
+            "KOBW": 25.2,
+            "SLD": 10.4,
+            "PSL": 6.9,
+            "KONF": 1.1,
+            "INNE": 0.6
+        }
+    },
+    "PLEC_row": {
+        "Mezczyzni": {
+            "PIS": 44.2,
+            "KOBW": 24.7,
+            "SLD": 11.6,
+            "PSL": 9.5,
+            "KONF": 8.9,
+            "INNE": 1.1
+        },
+        "Kobiety": {
+            "PIS": 43.1,
+            "KOBW": 29.9,
+            "SLD": 13.1,
+            "PSL": 8.7,
+            "KONF": 4.1,
+            "INNE": 1.1
+        }
+    },
+    "WYKSZTALCENIE_row": {
+        "Podstawowe": {
+            "PIS": 63.3,
+            "KOBW": 12,
+            "PSL": 9.3,
+            "SLD": 8.1,
+            "KONF": 6.5,
+            "INNE": 0.8
+        },
+        "Zasadnicze zawodowe": {
+            "PIS": 64,
+            "KOBW": 15.8,
+            "PSL": 9.6,
+            "SLD": 5.9,
+            "KONF": 3.7,
+            "INNE": 1
+        },
+        "Średnie i pomaturalne": {
+            "PIS": 45.6,
+            "KOBW": 25.5,
+            "SLD": 12.2,
+            "PSL": 8.9,
+            "KONF": 6.8,
+            "INNE": 1
+        },
+        "Licencjat i wyższe": {
+            "KOBW": 36.6,
+            "PIS": 30.1,
+            "SLD": 15.9,
+            "PSL": 9,
+            "KONF": 7.1,
+            "INNE": 1.3
+        }
+    },
+    "GRUPA_row": {
+        "Właściciel / współwłaściciel firmy": {
+            "KOBW": 38.8,
+            "PIS": 29.8,
+            "SLD": 12.4,
+            "PSL": 9.4,
+            "KONF": 8.6,
+            "INNE": 1
+        },
+        "Dyrektor / kierownik / specjalista": {
+            "KOBW": 39.6,
+            "PIS": 26.8,
+            "SLD": 15.9,
+            "PSL": 8.6,
+            "KONF": 8,
+            "INNE": 1.1
+        },
+        "Pracownik administracji lub usług": {
+            "PIS": 38.8,
+            "KOBW": 30,
+            "SLD": 13.7,
+            "PSL": 9.7,
+            "KONF": 6.4,
+            "INNE": 1.4
+        },
+        "Rolnik": {
+            "PIS": 67.7,
+            "PSL": 16.5,
+            "KOBW": 7.9,
+            "SLD": 3.7,
+            "KONF": 3.4,
+            "INNE": 0.8
+        },
+        "Robotnik": {
+            "PIS": 58,
+            "KOBW": 16.7,
+            "PSL": 9.5,
+            "SLD": 7.3,
+            "KONF": 7.3,
+            "INNE": 1.2
+        },
+        "Uczeń / student": {
+            "KOBW": 25.1,
+            "SLD": 24.3,
+            "PIS": 22.4,
+            "KONF": 17.5,
+            "PSL": 9.1,
+            "INNE": 1.6
+        },
+        "Osoba bezrobotna": {
+            "PIS": 56.1,
+            "KOBW": 16.8,
+            "PSL": 11,
+            "SLD": 7.8,
+            "KONF": 6.8,
+            "INNE": 1.5
+        },
+        "Emeryt / rencista": {
+            "PIS": 56.9,
+            "KOBW": 24.4,
+            "SLD": 10.7,
+            "PSL": 6.4,
+            "KONF": 1.1,
+            "INNE": 0.5
+        },
+        "Inny": {
+            "PIS": 42.1,
+            "KOBW": 26.1,
+            "SLD": 12.5,
+            "PSL": 9.8,
+            "KONF": 8,
+            "INNE": 1.5
+        }
+    },
+    "MIEJSCOWOSC_row": {
+        "Wieś": {
+            "PIS": 56.4,
+            "KOBW": 16.9,
+            "PSL": 11.6,
+            "SLD": 7.8,
+            "KONF": 6,
+            "INNE": 1.3
+        },
+        "Miasto do 50 tys.": {
+            "PIS": 41.7,
+            "KOBW": 28.2,
+            "SLD": 12.7,
+            "PSL": 9.9,
+            "KONF": 6.4,
+            "INNE": 1.1
+        },
+        "Miasto 51-200 tys.": {
+            "PIS": 38.5,
+            "KOBW": 32.2,
+            "SLD": 14.2,
+            "PSL": 7.1,
+            "KONF": 6.9,
+            "INNE": 1.1
+        },
+        "Miasto 201-500 tys.": {
+            "KOBW": 39.1,
+            "PIS": 32.6,
+            "SLD": 14.9,
+            "KONF": 7.5,
+            "PSL": 5.3,
+            "INNE": 0.6
+        },
+        "Miasto pow. 500 tys.": {
+            "KOBW": 40.7,
+            "PIS": 27.1,
+            "SLD": 19.9,
+            "KONF": 6.1,
+            "PSL": 5.6,
+            "INNE": 0.6
+        }
+    },
+    "WOJEWODZTWA_row": {
+        "dolnoslaskie": {
+            "PIS": 37.1,
+            "KOBW": 29.7,
+            "SLD": 16.3,
+            "PSL": 7.7,
+            "KONF": 6.2,
+            "INNE": 3
+        },
+        "kujawsko-pomorskie": {
+            "PIS": 38.8,
+            "KOBW": 30.1,
+            "SLD": 13.9,
+            "PSL": 9.6,
+            "KONF": 6.6,
+            "INNE": 1
+        },
+        "lubelskie": {
+            "PIS": 58.6,
+            "KOBW": 16.6,
+            "PSL": 11,
+            "SLD": 6.4,
+            "KONF": 6.3,
+            "INNE": 1.1
+        },
+        "lubuskie": {
+            "KOBW": 32.7,
+            "PIS": 31.9,
+            "SLD": 18,
+            "PSL": 10.4,
+            "KONF": 7,
+            "INNE": 0
+        },
+        "lodzkie": {
+            "PIS": 46.2,
+            "KOBW": 26.2,
+            "SLD": 14.1,
+            "PSL": 7.3,
+            "KONF": 5.5,
+            "INNE": 0.7
+        },
+        "malopolskie": {
+            "PIS": 50.8,
+            "KOBW": 21.4,
+            "SLD": 10.4,
+            "PSL": 9.4,
+            "KONF": 7.4,
+            "INNE": 0.6
+        },
+        "mazowieckie": {
+            "PIS": 41.6,
+            "KOBW": 29.7,
+            "SLD": 13.1,
+            "PSL": 9.1,
+            "KONF": 5.5,
+            "INNE": 1
+        },
+        "opolskie": {
+            "PIS": 35.6,
+            "KOBW": 27.6,
+            "SLD": 12.6,
+            "PSL": 11.3,
+            "KONF": 5.7,
+            "INNE": 7.2
+        },
+        "podkarpackie": {
+            "PIS": 62.4,
+            "KOBW": 14.7,
+            "PSL": 9.9,
+            "KONF": 7.2,
+            "SLD": 5.5,
+            "INNE": 0.3
+        },
+        "podlaskie": {
+            "PIS": 53,
+            "KOBW": 19.3,
+            "PSL": 11.9,
+            "SLD": 8.1,
+            "KONF": 6.1,
+            "INNE": 1.6
+        },
+        "pomorskie": {
+            "KOBW": 38.7,
+            "PIS": 32.9,
+            "SLD": 13.1,
+            "PSL": 8.4,
+            "KONF": 6.9,
+            "INNE": 0
+        },
+        "slaskie": {
+            "PIS": 41.6,
+            "KOBW": 32.1,
+            "SLD": 13.2,
+            "KONF": 6.3,
+            "PSL": 6,
+            "INNE": 0.8
+        },
+        "swietokrzyskie": {
+            "PIS": 55.8,
+            "KOBW": 15.7,
+            "SLD": 10,
+            "PSL": 9.9,
+            "KONF": 6.1,
+            "INNE": 2.5
+        },
+        "warminsko-mazurskie": {
+            "PIS": 43.1,
+            "KOBW": 23.9,
+            "PSL": 12,
+            "SLD": 11.2,
+            "KONF": 7.2,
+            "INNE": 2.6
+        },
+        "wielkopolskie": {
+            "PIS": 36.3,
+            "KOBW": 32.6,
+            "SLD": 15,
+            "PSL": 10.1,
+            "KONF": 6,
+            "INNE": 0
+        },
+        "zachodniopomorskie": {
+            "PIS": 35.1,
+            "KOBW": 34.3,
+            "SLD": 14.2,
+            "PSL": 8.9,
+            "KONF": 7.5,
+            "INNE": 0
+        }
+    },
+    "PE_2019_col": {
+        "Konfederacja": {
+            "KONF": 52.4,
+            "PSL": 3.4,
+            "KOBW": 1,
+            "PIS": 0.8,
+            "SLD": 0.8,
+            "INNE": 6.4
+        },
+        "Wiosna": {
+            "SLD": 17.4,
+            "PSL": 3.8,
+            "KOBW": 3.8,
+            "KONF": 1.6,
+            "PIS": 0.3,
+            "INNE": 4
+        },
+        "Koalicja Europejska": {
+            "KOBW": 72.7,
+            "PSL": 36.6,
+            "SLD": 30.3,
+            "KONF": 5.3,
+            "PIS": 0.9,
+            "INNE": 15
+        },
+        "PiS": {
+            "PIS": 84.9,
+            "PSL": 11.2,
+            "KONF": 6.3,
+            "SLD": 1.7,
+            "KOBW": 1.7,
+            "INNE": 7.4
+        },
+        "Lewica Razem": {
+            "SLD": 26.1,
+            "PSL": 3.6,
+            "KOBW": 1.9,
+            "KONF": 1.2,
+            "PIS": 0.2,
+            "INNE": 2.5
+        },
+        "Kukiz": {
+            "PSL": 10.9,
+            "KONF": 7.9,
+            "SLD": 2,
+            "KOBW": 1.7,
+            "PIS": 1.4,
+            "INNE": 11.8
+        },
+        "Inne partie i ugrupowania": {
+            "PSL": 4.3,
+            "KONF": 2.4,
+            "SLD": 1.5,
+            "KOBW": 1.5,
+            "PIS": 0.4,
+            "INNE": 19.2
+        },
+        "Nie głosowałem": {
+            "KONF": 14.9,
+            "PSL": 13.3,
+            "SLD": 12.3,
+            "KOBW": 9,
+            "PIS": 5.5,
+            "INNE": 18.2
+        },
+        "Nie pamiętam": {
+            "PSL": 12.9,
+            "KONF": 8,
+            "SLD": 7.9,
+            "KOBW": 6.7,
+            "PIS": 5.6,
+            "INNE": 15.5
+        }
+    },
+    "PREZYDENT_2015_col": {
+        "Andrzej Duda": {
+            "PIS": 87.4,
+            "KONF": 41.2,
+            "PSL": 32.3,
+            "SLD": 11.5,
+            "KOBW": 8.3,
+            "INNE": 30.6
+        },
+        "Bronisław Komorowski": {
+            "KOBW": 72.6,
+            "SLD": 58.3,
+            "PSL": 39.4,
+            "KONF": 13.8,
+            "PIS": 2,
+            "INNE": 24.7
+        },
+        "Nie głosowałem": {
+            "KONF": 28.8,
+            "SLD": 19.6,
+            "PSL": 14.2,
+            "KOBW": 10.7,
+            "PIS": 5,
+            "INNE": 21.7
+        },
+        "Nie pamiętam": {
+            "KONF": 16.2,
+            "PSL": 14.1,
+            "SLD": 10.6,
+            "KOBW": 8.4,
+            "PIS": 5.6,
+            "INNE": 23
+        }
+    },
+    "SEJM_2015_col": {
+        "PiS": {
+            "PIS": 83.6,
+            "PSL": 16.1,
+            "KONF": 14.6,
+            "SLD": 3.8,
+            "KOBW": 3.2,
+            "INNE": 12.7
+        },
+        "PO": {
+            "KOBW": 71.5,
+            "SLD": 37.2,
+            "PSL": 26.8,
+            "KONF": 9.7,
+            "PIS": 2.4,
+            "INNE": 19.2
+        },
+        "Razem": {
+            "SLD": 5.6,
+            "PSL": 1.4,
+            "KONF": 1,
+            "KOBW": 1,
+            "PIS": 0.2,
+            "INNE": 0.9
+        },
+        "Korwin": {
+            "KONF": 26.5,
+            "PSL": 1.9,
+            "SLD": 1.3,
+            "KOBW": 0.9,
+            "PIS": 0.5,
+            "INNE": 6
+        },
+        "PSL": {
+            "PSL": 18.5,
+            "SLD": 2,
+            "KONF": 1,
+            "KOBW": 0.8,
+            "PIS": 0.5,
+            "INNE": 2.4
+        },
+        "Lewica": {
+            "SLD": 18.6,
+            "PSL": 2.1,
+            "KOBW": 2.1,
+            "KONF": 0.7,
+            "PIS": 0.2,
+            "INNE": 1.8
+        },
+        "Kukiz": {
+            "KONF": 13.4,
+            "PSL": 8.6,
+            "SLD": 3.5,
+            "KOBW": 2.1,
+            "PIS": 1.8,
+            "INNE": 12.3
+        },
+        "Nowoczesna": {
+            "SLD": 3.1,
+            "KOBW": 2.8,
+            "PSL": 1.3,
+            "KONF": 1,
+            "PIS": 0.1,
+            "INNE": 1.8
+        },
+        "Inne partie i ugrupowania": {
+            "KONF": 1.2,
+            "PSL": 0.9,
+            "SLD": 0.7,
+            "KOBW": 0.6,
+            "PIS": 0.2,
+            "INNE": 9.5
+        },
+        "Nie głosowałem": {
+            "KONF": 19.9,
+            "SLD": 15.2,
+            "PSL": 10,
+            "KOBW": 8.4,
+            "PIS": 4.6,
+            "INNE": 14.7
+        },
+        "Nie pamiętam": {
+            "PSL": 12.4,
+            "KONF": 11,
+            "SLD": 9,
+            "KOBW": 6.6,
+            "PIS": 5.9,
+            "INNE": 18.7
+        }
+    },
+    "WIEK_col": {
+        "18 - 29 lat": {
+            "KONF": 49.9,
+            "SLD": 24,
+            "PSL": 17.3,
+            "KOBW": 14.3,
+            "PIS": 9.7,
+            "INNE": 23.1
+        },
+        "30 - 39 lat": {
+            "KONF": 25.1,
+            "PSL": 22.5,
+            "KOBW": 21.3,
+            "SLD": 20.4,
+            "PIS": 16.6,
+            "INNE": 29.6
+        },
+        "40 - 49 lat": {
+            "KOBW": 22.7,
+            "PSL": 21.4,
+            "SLD": 19.1,
+            "PIS": 18.4,
+            "KONF": 12.7,
+            "INNE": 20.3
+        },
+        "50 - 59 lat": {
+            "PIS": 20.1,
+            "PSL": 17.8,
+            "KOBW": 16.5,
+            "SLD": 13.3,
+            "KONF": 7.4,
+            "INNE": 12.6
+        },
+        "60 i wiecej lat": {
+            "PIS": 35.2,
+            "KOBW": 25.2,
+            "SLD": 23.2,
+            "PSL": 21,
+            "KONF": 4.9,
+            "INNE": 14.4
+        }
+    },
+    "PLEC_col": {
+        "Mezczyzni": {
+            "KONF": 66.6,
+            "PSL": 50,
+            "PIS": 48.4,
+            "SLD": 44.8,
+            "KOBW": 43.1,
+            "INNE": 47.4
+        },
+        "Kobiety": {
+            "KOBW": 56.9,
+            "SLD": 55.2,
+            "PIS": 51.6,
+            "PSL": 50,
+            "KONF": 33.4,
+            "INNE": 52.6
+        }
+    },
+    "WYKSZTALCENIE_col": {
+        "Podstawowe": {
+            "PIS": 7.6,
+            "PSL": 5.4,
+            "KONF": 5.3,
+            "SLD": 3.4,
+            "KOBW": 2.3,
+            "INNE": 3.7
+        },
+        "Zasadnicze zawodowe": {
+            "PIS": 25.1,
+            "PSL": 18.1,
+            "KONF": 9.9,
+            "KOBW": 9.8,
+            "SLD": 8.2,
+            "INNE": 16.5
+        },
+        "Średnie i pomaturalne": {
+            "KONF": 41.5,
+            "PIS": 40.3,
+            "SLD": 38.3,
+            "PSL": 37.7,
+            "KOBW": 35.9,
+            "INNE": 34.4
+        },
+        "Licencjat i wyższe": {
+            "KOBW": 52,
+            "SLD": 50.1,
+            "KONF": 43.3,
+            "PSL": 38.8,
+            "PIS": 27,
+            "INNE": 45.4
+        }
+    },
+    "GRUPA_col": {
+        "Właściciel / współwłaściciel firmy": {
+            "KOBW": 15.7,
+            "KONF": 15,
+            "PSL": 11.5,
+            "SLD": 11.1,
+            "PIS": 7.5,
+            "INNE": 9.8
+        },
+        "Dyrektor / kierownik / specjalista": {
+            "KOBW": 19,
+            "SLD": 16.9,
+            "KONF": 16.5,
+            "PSL": 12.5,
+            "PIS": 8.1,
+            "INNE": 13.5
+        },
+        "Pracownik administracji lub usług": {
+            "SLD": 20.7,
+            "KOBW": 20.4,
+            "PSL": 19.8,
+            "KONF": 18.9,
+            "PIS": 16.6,
+            "INNE": 24.3
+        },
+        "Rolnik": {
+            "PSL": 9.4,
+            "PIS": 8,
+            "KONF": 2.7,
+            "SLD": 1.5,
+            "KOBW": 1.5,
+            "INNE": 3.7
+        },
+        "Robotnik": {
+            "PIS": 13.2,
+            "KONF": 11.5,
+            "PSL": 10.5,
+            "KOBW": 6.1,
+            "SLD": 5.9,
+            "INNE": 11.2
+        },
+        "Uczeń / student": {
+            "KONF": 17,
+            "SLD": 12.3,
+            "PSL": 6.3,
+            "KOBW": 5.7,
+            "PIS": 3.2,
+            "INNE": 9.1
+        },
+        "Osoba bezrobotna": {
+            "PIS": 3.1,
+            "PSL": 2.9,
+            "KONF": 2.6,
+            "SLD": 1.5,
+            "KOBW": 1.5,
+            "INNE": 3.4
+        },
+        "Emeryt / rencista": {
+            "PIS": 31.1,
+            "KOBW": 21.1,
+            "SLD": 20.5,
+            "PSL": 16.9,
+            "KONF": 3.9,
+            "INNE": 12
+        },
+        "Inny": {
+            "KONF": 11.9,
+            "PSL": 10.2,
+            "SLD": 9.6,
+            "PIS": 9.2,
+            "KOBW": 9,
+            "INNE": 13
+        }
+    },
+    "MIEJSCOWOSC_col": {
+        "Wieś": {
+            "PIS": 46.1,
+            "PSL": 45.6,
+            "KONF": 33.4,
+            "SLD": 22.6,
+            "KOBW": 22,
+            "INNE": 44
+        },
+        "Miasto do 50 tys.": {
+            "PSL": 28.6,
+            "KOBW": 27.1,
+            "SLD": 27,
+            "KONF": 26.4,
+            "PIS": 25.2,
+            "INNE": 27.8
+        },
+        "Miasto 51-200 tys.": {
+            "KOBW": 18.5,
+            "SLD": 18.1,
+            "KONF": 17,
+            "PIS": 13.9,
+            "PSL": 12.3,
+            "INNE": 16.2
+        },
+        "Miasto 201-500 tys.": {
+            "KOBW": 11.8,
+            "SLD": 10,
+            "KONF": 9.8,
+            "PIS": 6.2,
+            "PSL": 4.9,
+            "INNE": 4.5
+        },
+        "Miasto pow. 500 tys.": {
+            "SLD": 22.3,
+            "KOBW": 20.6,
+            "KONF": 13.4,
+            "PSL": 8.6,
+            "PIS": 8.6,
+            "INNE": 7.5
+        }
+    },
+    "WOJEWODZTWA_col": {
+        "dolnoslaskie": {
+            "SLD": 8.9,
+            "KOBW": 7.3,
+            "KONF": 6.6,
+            "PSL": 5.8,
+            "PIS": 5.8,
+            "INNE": 19.1
+        },
+        "kujawsko-pomorskie": {
+            "SLD": 5.5,
+            "KOBW": 5.3,
+            "PSL": 5.1,
+            "KONF": 5,
+            "PIS": 4.3,
+            "INNE": 4.5
+        },
+        "lubelskie": {
+            "PIS": 7.7,
+            "PSL": 6.9,
+            "KONF": 5.6,
+            "KOBW": 3.5,
+            "SLD": 3,
+            "INNE": 5.9
+        },
+        "lubuskie": {
+            "SLD": 3.4,
+            "KOBW": 2.8,
+            "PSL": 2.7,
+            "KONF": 2.6,
+            "PIS": 1.7,
+            "INNE": 0
+        },
+        "lodzkie": {
+            "SLD": 7.5,
+            "PIS": 7,
+            "KOBW": 6.3,
+            "KONF": 5.7,
+            "PSL": 5.3,
+            "INNE": 4.5
+        },
+        "malopolskie": {
+            "PIS": 11,
+            "KONF": 11,
+            "PSL": 9.8,
+            "SLD": 7.9,
+            "KOBW": 7.4,
+            "INNE": 4.8
+        },
+        "mazowieckie": {
+            "KOBW": 16.8,
+            "SLD": 16.5,
+            "PSL": 15.6,
+            "PIS": 14.8,
+            "KONF": 13.5,
+            "INNE": 14.2
+        },
+        "opolskie": {
+            "PSL": 3.2,
+            "SLD": 2.7,
+            "KOBW": 2.6,
+            "KONF": 2.3,
+            "PIS": 2.1,
+            "INNE": 17.3
+        },
+        "podkarpackie": {
+            "PIS": 8.3,
+            "KONF": 6.5,
+            "PSL": 6.3,
+            "KOBW": 3.1,
+            "SLD": 2.6,
+            "INNE": 1.7
+        },
+        "podlaskie": {
+            "PSL": 3.7,
+            "PIS": 3.4,
+            "KONF": 2.7,
+            "KOBW": 2,
+            "SLD": 1.8,
+            "INNE": 4.2
+        },
+        "pomorskie": {
+            "KOBW": 8.6,
+            "KONF": 6.6,
+            "SLD": 6.5,
+            "PSL": 5.7,
+            "PIS": 4.6,
+            "INNE": 0
+        },
+        "slaskie": {
+            "KOBW": 13.3,
+            "SLD": 12.1,
+            "KONF": 11.3,
+            "PIS": 10.8,
+            "PSL": 7.5,
+            "INNE": 8.2
+        },
+        "swietokrzyskie": {
+            "PIS": 4,
+            "PSL": 3.4,
+            "KONF": 3,
+            "SLD": 2.5,
+            "KOBW": 1.8,
+            "INNE": 7.2
+        },
+        "warminsko-mazurskie": {
+            "PSL": 4.5,
+            "KONF": 3.9,
+            "PIS": 3.4,
+            "SLD": 3.1,
+            "KOBW": 3,
+            "INNE": 8.2
+        },
+        "wielkopolskie": {
+            "SLD": 11.5,
+            "KOBW": 11.3,
+            "PSL": 10.6,
+            "KONF": 9,
+            "PIS": 7.9,
+            "INNE": 0.2
+        },
+        "zachodniopomorskie": {
+            "KOBW": 4.9,
+            "KONF": 4.7,
+            "SLD": 4.5,
+            "PSL": 3.9,
+            "PIS": 3.2,
+            "INNE": 0
+        }
+    }
+}

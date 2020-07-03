@@ -1,0 +1,291 @@
+{
+    "constituencies": {
+        "1": {
+            "name": "Legnica",
+            "nameFormatted": "Okręg wyborczy nr 1 [Legnica]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "2": {
+            "name": "Wałbrzych",
+            "nameFormatted": "Okręg wyborczy nr 2 [Wałbrzych]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "3": {
+            "name": "Wrocław",
+            "nameFormatted": "Okręg wyborczy nr 3 [Wrocław]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "4": {
+            "name": "Bydgoszcz",
+            "nameFormatted": "Okręg wyborczy nr 4 [Bydgoszcz]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "5": {
+            "name": "Toruń",
+            "nameFormatted": "Okręg wyborczy nr 5 [Toruń]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "6": {
+            "name": "Lublin",
+            "nameFormatted": "Okręg wyborczy nr 6 [Lublin]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "7": {
+            "name": "Chełm",
+            "nameFormatted": "Okręg wyborczy nr 7 [Chełm]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "8": {
+            "name": "Zielona Góra",
+            "nameFormatted": "Okręg wyborczy nr 8 [Zielona Góra]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "9": {
+            "name": "Łódź",
+            "nameFormatted": "Okręg wyborczy nr 9 [Łódź]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "10": {
+            "name": "Piotrków Trybunalski",
+            "nameFormatted": "Okręg wyborczy nr 10 [Piotrków Trybunalski]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "11": {
+            "name": "Sieradz",
+            "nameFormatted": "Okręg wyborczy nr 11 [Sieradz]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "12": {
+            "name": "Kraków I (południe)",
+            "nameFormatted": "Okręg wyborczy nr 12 [Kraków I (południe)]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "13": {
+            "name": "Kraków II (północ)",
+            "nameFormatted": "Okręg wyborczy nr 13 [Kraków II (północ)]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "14": {
+            "name": "Nowy Sącz",
+            "nameFormatted": "Okręg wyborczy nr 14 [Nowy Sącz]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "15": {
+            "name": "Tarnów",
+            "nameFormatted": "Okręg wyborczy nr 15 [Tarnów]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "16": {
+            "name": "Płock",
+            "nameFormatted": "Okręg wyborczy nr 16 [Płock]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "17": {
+            "name": "Radom",
+            "nameFormatted": "Okręg wyborczy nr 17 [Radom]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "18": {
+            "name": "Siedlce",
+            "nameFormatted": "Okręg wyborczy nr 18 [Siedlce]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "19": {
+            "name": "Warszawa I (miasto)",
+            "nameFormatted": "Okręg wyborczy nr 19 [Warszawa I (miasto)]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "20": {
+            "name": "Warszawa II (okręg)",
+            "nameFormatted": "Okręg wyborczy nr 20 [Warszawa II (okręg)]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "21": {
+            "name": "Opole",
+            "nameFormatted": "Okręg wyborczy nr 21 [Opole]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "22": {
+            "name": "Krosno",
+            "nameFormatted": "Okręg wyborczy nr 22 [Krosno]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "23": {
+            "name": "Rzeszów",
+            "nameFormatted": "Okręg wyborczy nr 23 [Rzeszów]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "24": {
+            "name": "Białystok",
+            "nameFormatted": "Okręg wyborczy nr 24 [Białystok]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "25": {
+            "name": "Gdańsk",
+            "nameFormatted": "Okręg wyborczy nr 25 [Gdańsk]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "26": {
+            "name": "Gdynia",
+            "nameFormatted": "Okręg wyborczy nr 26 [Gdynia]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "27": {
+            "name": "Bielsko-Biała",
+            "nameFormatted": "Okręg wyborczy nr 27 [Bielsko-Biała]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "28": {
+            "name": "Częstochowa",
+            "nameFormatted": "Okręg wyborczy nr 28 [Częstochowa]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "29": {
+            "name": "Gliwice",
+            "nameFormatted": "Okręg wyborczy nr 29 [Gliwice]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "30": {
+            "name": "Rybnik",
+            "nameFormatted": "Okręg wyborczy nr 30 [Rybnik]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "31": {
+            "name": "Katowice",
+            "nameFormatted": "Okręg wyborczy nr 31 [Katowice]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "32": {
+            "name": "Sosnowiec",
+            "nameFormatted": "Okręg wyborczy nr 32 [Sosnowiec]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "33": {
+            "name": "Kielce",
+            "nameFormatted": "Okręg wyborczy nr 33 [Kielce]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "34": {
+            "name": "Elbląg",
+            "nameFormatted": "Okręg wyborczy nr 34 [Elbląg]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "35": {
+            "name": "Olsztyn",
+            "nameFormatted": "Okręg wyborczy nr 35 [Olsztyn]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "36": {
+            "name": "Kalisz",
+            "nameFormatted": "Okręg wyborczy nr 36 [Kalisz]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "37": {
+            "name": "Konin",
+            "nameFormatted": "Okręg wyborczy nr 37 [Konin]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "38": {
+            "name": "Piła",
+            "nameFormatted": "Okręg wyborczy nr 38 [Piła]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "39": {
+            "name": "Poznań",
+            "nameFormatted": "Okręg wyborczy nr 39 [Poznań]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "40": {
+            "name": "Koszalin",
+            "nameFormatted": "Okręg wyborczy nr 40 [Koszalin]",
+            "data": {
+                "INNE": 0
+            }
+        },
+        "41": {
+            "name": "Szczecin",
+            "nameFormatted": "Okręg wyborczy nr 41 [Szczecin]",
+            "data": {
+                "INNE": 0
+            }
+        }
+    }
+}

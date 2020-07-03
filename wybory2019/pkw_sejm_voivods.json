@@ -1,0 +1,196 @@
+{
+    "POPARCIE": {
+        "PIS": 43.954375,
+        "KOBW": 26.557499999999997,
+        "SLD": 12.296875,
+        "PSL": 9.063749999999999,
+        "KONF": 6.719374999999999,
+        "BEZP": 0.7043749999999999,
+        "INNE": 0.7025
+    },
+    "voivods": {
+        "frequence": 59.828750000000014,
+        "dolnoslaskie": {
+            "frequence": 60.92,
+            "PIS": 38.32,
+            "KOBW": 30.19,
+            "SLD": 15.1,
+            "PSL": 6.85,
+            "KONF": 6.53,
+            "BEZP": 3,
+            "INNE": 0
+        },
+        "kujawsko-pomorskie": {
+            "frequence": 58.1,
+            "PIS": 38.39,
+            "KOBW": 28.76,
+            "SLD": 15,
+            "PSL": 9.94,
+            "KONF": 6.69,
+            "BEZP": 1.22,
+            "INNE": 0
+        },
+        "lubelskie": {
+            "frequence": 58,
+            "PIS": 57.1,
+            "KOBW": 17.44,
+            "PSL": 10.25,
+            "SLD": 7.4,
+            "KONF": 6.56,
+            "BEZP": 1.26,
+            "INNE": 0
+        },
+        "lubuskie": {
+            "frequence": 57.2,
+            "PIS": 34.3,
+            "KOBW": 31.27,
+            "SLD": 15.61,
+            "PSL": 11.63,
+            "KONF": 7.19,
+            "INNE": 0
+        },
+        "lodzkie": {
+            "frequence": 63.51,
+            "PIS": 45.87,
+            "KOBW": 24.32,
+            "SLD": 14.45,
+            "PSL": 8.38,
+            "KONF": 6.39,
+            "BEZP": 0.59,
+            "INNE": 0
+        },
+        "malopolskie": {
+            "frequence": 63.78,
+            "PIS": 52.08,
+            "KOBW": 22.02,
+            "SLD": 9.18,
+            "PSL": 8.66,
+            "KONF": 7.41,
+            "BEZP": 0.55,
+            "PRAW": 0.1,
+            "INNE": 0
+        },
+        "mazowieckie": {
+            "frequence": 69.46,
+            "PIS": 40.88,
+            "KOBW": 29.8,
+            "SLD": 13.26,
+            "PSL": 8.34,
+            "KONF": 6.75,
+            "BEZP": 0.84,
+            "SPLM": 0.08,
+            "AZER": 0.04,
+            "INNE": 0
+        },
+        "opolskie": {
+            "frequence": 52.91,
+            "PIS": 37.64,
+            "KOBW": 26.71,
+            "SLD": 11.74,
+            "PSL": 10.31,
+            "MNIE": 7.9,
+            "KONF": 5.7,
+            "INNE": 0
+        },
+        "podkarpackie": {
+            "frequence": 58.57,
+            "PIS": 62.77,
+            "KOBW": 15,
+            "PSL": 7.81,
+            "KONF": 7.68,
+            "SLD": 6.37,
+            "SPLM": 0.36,
+            "INNE": 0
+        },
+        "podlaskie": {
+            "frequence": 56.97,
+            "PIS": 52.04,
+            "KOBW": 21.04,
+            "PSL": 9.33,
+            "SLD": 9.09,
+            "KONF": 6.96,
+            "BEZP": 0.77,
+            "SPLM": 0.44,
+            "AZER": 0.34,
+            "INNE": 0
+        },
+        "pomorskie": {
+            "frequence": 63.46,
+            "KOBW": 38.46,
+            "PIS": 34.37,
+            "SLD": 12.95,
+            "KONF": 7.26,
+            "PSL": 6.97,
+            "INNE": 0
+        },
+        "slaskie": {
+            "frequence": 62.25,
+            "PIS": 42.09,
+            "KOBW": 30.09,
+            "SLD": 13.76,
+            "KONF": 7.07,
+            "PSL": 5.97,
+            "BEZP": 1.01,
+            "INNE": 0
+        },
+        "swietokrzyskie": {
+            "frequence": 57.7,
+            "PIS": 55.18,
+            "KOBW": 16.65,
+            "SLD": 9.95,
+            "PSL": 9.88,
+            "KONF": 5.95,
+            "SPLM": 1.45,
+            "BEZP": 0.95,
+            "INNE": 0
+        },
+        "warminsko-mazurskie": {
+            "frequence": 53.61,
+            "PIS": 39.7,
+            "KOBW": 27.31,
+            "SLD": 12.89,
+            "PSL": 12.2,
+            "KONF": 6.41,
+            "BEZP": 1.08,
+            "SPLM": 0.4,
+            "INNE": 0
+        },
+        "wielkopolskie": {
+            "frequence": 62.95,
+            "PIS": 36.8,
+            "KOBW": 31.39,
+            "SLD": 14.68,
+            "PSL": 10.36,
+            "KONF": 6.63,
+            "AZER": 0.13,
+            "INNE": 0
+        },
+        "zachodniopomorskie": {
+            "frequence": 57.87,
+            "PIS": 35.74,
+            "KOBW": 34.47,
+            "SLD": 15.32,
+            "PSL": 8.14,
+            "KONF": 6.33,
+            "INNE": 0
+        }
+    },
+    "flatFrequence": {
+        "dolnoslaskie": 60.92,
+        "kujawsko-pomorskie": 58.1,
+        "lubelskie": 58,
+        "lubuskie": 57.2,
+        "lodzkie": 63.51,
+        "malopolskie": 63.78,
+        "mazowieckie": 69.46,
+        "opolskie": 52.91,
+        "podkarpackie": 58.57,
+        "podlaskie": 56.97,
+        "pomorskie": 63.46,
+        "slaskie": 62.25,
+        "swietokrzyskie": 57.7,
+        "warminsko-mazurskie": 53.61,
+        "wielkopolskie": 62.95,
+        "zachodniopomorskie": 57.87
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "config": {
+        "mandaty": {
+            "mandaty": "Wyniki podstawowe",
+            "mandaty-ver--2-pis-+2-kobw-pkt-proc": "KO +2 pkt. proc. PiS -2 pkt. proc.",
+            "mandaty-ver-+2-pis--2-kobw-pkt-proc": "PiS +2 pkt. proc. KO -2 pkt. proc.",
+            "mandaty-ver-konf-+1-pkt-proc": "Konfederacja +1 pkt proc.",
+            "mandaty-ver-konf--1-pkt-proc": "Konfederacja -1 pkt proc.",
+            "mandaty-ver-psl-+1-pkt-proc": "PSL +1 pkt proc.",
+            "mandaty-ver-psl--1-pkt-proc": "PSL -1 pkt proc."
+        },
+        "poparcie": {
+            "poparcie": "Wyniki podstawowe",
+            "poparcie-ver--2-pis-+2-kobw-pkt-proc": "KO +2 pkt. proc. PiS -2 pkt. proc.",
+            "poparcie-ver-+2-pis--2-kobw-pkt-proc": "PiS +2 pkt. proc. KO -2 pkt. proc.",
+            "poparcie-ver-konf-+1-pkt-proc": "Konfederacja +1 pkt proc.",
+            "poparcie-ver-konf--1-pkt-proc": "Konfederacja -1 pkt proc.",
+            "poparcie-ver-psl-+1-pkt-proc": "PSL +1 pkt proc.",
+            "poparcie-ver-psl--1-pkt-proc": "PSL -1 pkt proc."
+        }
+    },
+    "nr": {
+        "KOBW": 5,
+        "KONF": 4,
+        "SLD": 3,
+        "PIS": 2,
+        "PSL": 1,
+        "INNE": 99
+    },
+    "poparcie-ver--2-pis-+2-kobw-pkt-proc": {
+        "PIS": 41.6,
+        "KOBW": 29.4,
+        "SLD": 12.4,
+        "PSL": 9.1,
+        "KONF": 6.4,
+        "INNE": 1.1
+    },
+    "poparcie": {
+        "PIS": 43.6,
+        "KOBW": 27.4,
+        "SLD": 12.4,
+        "PSL": 9.1,
+        "KONF": 6.4,
+        "INNE": 1.1
+    },
+    "poparcie-ver-+2-pis--2-kobw-pkt-proc": {
+        "PIS": 45.6,
+        "KOBW": 25.4,
+        "SLD": 12.4,
+        "PSL": 9.1,
+        "KONF": 6.4,
+        "INNE": 1.1
+    },
+    "mandaty-ver--2-pis-+2-kobw-pkt-proc": {
+        "PIS": 222,
+        "KOBW": 147,
+        "SLD": 46,
+        "PSL": 31,
+        "KONF": 13,
+        "INNE": 1
+    },
+    "mandaty": {
+        "PIS": 239,
+        "KOBW": 131,
+        "SLD": 46,
+        "PSL": 30,
+        "KONF": 13,
+        "INNE": 1
+    },
+    "mandaty-ver-+2-pis--2-kobw-pkt-proc": {
+        "PIS": 248,
+        "KOBW": 121,
+        "SLD": 46,
+        "PSL": 30,
+        "KONF": 14,
+        "INNE": 1
+    },
+    "poparcie-ver-konf-+1-pkt-proc": {
+        "PIS": 43.6,
+        "KOBW": 26.9,
+        "SLD": 11.9,
+        "PSL": 9.1,
+        "KONF": 7.4,
+        "INNE": 1.1
+    },
+    "poparcie-ver-konf--1-pkt-proc": {
+        "PIS": 43.6,
+        "KOBW": 27.9,
+        "SLD": 12.9,
+        "PSL": 9.1,
+        "KONF": 5.4,
+        "INNE": 1.1
+    },
+    "mandaty-ver-konf-+1-pkt-proc": {
+        "PIS": 237,
+        "KOBW": 128,
+        "SLD": 43,
+        "PSL": 31,
+        "KONF": 20,
+        "INNE": 1
+    },
+    "mandaty-ver-konf--1-pkt-proc": {
+        "PIS": 236,
+        "KOBW": 136,
+        "SLD": 51,
+        "PSL": 31,
+        "KONF": 5,
+        "INNE": 1
+    },
+    "poparcie-ver-psl-+1-pkt-proc": {
+        "PIS": 43.6,
+        "KOBW": 26.9,
+        "SLD": 11.9,
+        "PSL": 10.1,
+        "KONF": 6.4,
+        "INNE": 1.1
+    },
+    "poparcie-ver-psl--1-pkt-proc": {
+        "PIS": 43.6,
+        "KOBW": 27.9,
+        "SLD": 12.9,
+        "PSL": 8.1,
+        "KONF": 6.4,
+        "INNE": 1.1
+    },
+    "mandaty-ver-psl-+1-pkt-proc": {
+        "PIS": 236,
+        "KOBW": 127,
+        "SLD": 43,
+        "PSL": 40,
+        "KONF": 13,
+        "INNE": 1
+    },
+    "mandaty-ver-psl--1-pkt-proc": {
+        "PIS": 238,
+        "KOBW": 133,
+        "SLD": 48,
+        "PSL": 26,
+        "KONF": 14,
+        "INNE": 1
+    }
+}

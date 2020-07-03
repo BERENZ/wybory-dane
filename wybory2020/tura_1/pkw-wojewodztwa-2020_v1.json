@@ -1,0 +1,550 @@
+{
+    "support": {
+        "ANDRZEJDUDA": 45.2,
+        "RAFALTRZASKOWSKI": 28.9,
+        "SZYMONHOLOWNIA": 13.7,
+        "KRZYSZTOFBOSAK": 6.8,
+        "ROBERTBIEDRON": 2.1,
+        "WLADYSLAWKOSINIAKKAMYSZ": 2.5,
+        "STANISLAWZOLTEK": 0.2,
+        "PAWELTANAJNO": 0.1,
+        "MAREKJAKUBIAK": 0.2,
+        "WALDEMARWITKOWSKI": 0.1,
+        "MIROSLAWPIOTROWSKI": 0.1
+    },
+    "country": {
+        "frequence": 63.8,
+        "totalPeople": 25182731,
+        "totalVotes": 16018050
+    },
+    "voivods": {
+        "dolnoslaskie": {
+            "frequence": 63.6,
+            "percentage": {
+                "ANDRZEJDUDA": 37.9,
+                "RAFALTRZASKOWSKI": 36.1,
+                "SZYMONHOLOWNIA": 14.1,
+                "KRZYSZTOFBOSAK": 6.5,
+                "ROBERTBIEDRON": 2.6,
+                "WLADYSLAWKOSINIAKKAMYSZ": 1.9,
+                "STANISLAWZOLTEK": 0.3,
+                "PAWELTANAJNO": 0.2,
+                "MAREKJAKUBIAK": 0.2,
+                "WALDEMARWITKOWSKI": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1
+            },
+            "numerical": {
+                "ANDRZEJDUDA": 456218,
+                "RAFALTRZASKOWSKI": 433951,
+                "SZYMONHOLOWNIA": 169437,
+                "KRZYSZTOFBOSAK": 77834,
+                "ROBERTBIEDRON": 31782,
+                "WLADYSLAWKOSINIAKKAMYSZ": 23389,
+                "STANISLAWZOLTEK": 3050,
+                "PAWELTANAJNO": 2011,
+                "MAREKJAKUBIAK": 2000,
+                "WALDEMARWITKOWSKI": 1862,
+                "MIROSLAWPIOTROWSKI": 1149
+            },
+            "totals": {
+                "totalPeople": 1898806,
+                "totalVotes": 1202683
+            }
+        },
+        "kujawsko-pomorskie": {
+            "frequence": 61,
+            "percentage": {
+                "ANDRZEJDUDA": 39.5,
+                "RAFALTRZASKOWSKI": 33.6,
+                "SZYMONHOLOWNIA": 15.5,
+                "KRZYSZTOFBOSAK": 5.9,
+                "WLADYSLAWKOSINIAKKAMYSZ": 2.5,
+                "ROBERTBIEDRON": 2.3,
+                "STANISLAWZOLTEK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "PAWELTANAJNO": 0.1,
+                "MAREKJAKUBIAK": 0.1,
+                "WALDEMARWITKOWSKI": 0.1
+            },
+            "numerical": {
+                "ANDRZEJDUDA": 375317,
+                "RAFALTRZASKOWSKI": 318844,
+                "SZYMONHOLOWNIA": 147410,
+                "KRZYSZTOFBOSAK": 55946,
+                "WLADYSLAWKOSINIAKKAMYSZ": 23958,
+                "ROBERTBIEDRON": 22003,
+                "STANISLAWZOLTEK": 2064,
+                "PAWELTANAJNO": 1299,
+                "MAREKJAKUBIAK": 1296,
+                "WALDEMARWITKOWSKI": 1072,
+                "MIROSLAWPIOTROWSKI": 899
+            },
+            "totals": {
+                "totalPeople": 1562056,
+                "totalVotes": 950108
+            }
+        },
+        "lubelskie": {
+            "frequence": 61.5,
+            "percentage": {
+                "ANDRZEJDUDA": 59.4,
+                "RAFALTRZASKOWSKI": 17,
+                "SZYMONHOLOWNIA": 10,
+                "KRZYSZTOFBOSAK": 8,
+                "WLADYSLAWKOSINIAKKAMYSZ": 3.2,
+                "ROBERTBIEDRON": 1.5,
+                "MIROSLAWPIOTROWSKI": 0.2,
+                "MAREKJAKUBIAK": 0.2,
+                "STANISLAWZOLTEK": 0.2,
+                "PAWELTANAJNO": 0.1,
+                "WALDEMARWITKOWSKI": 0.1
+            },
+            "numerical": {
+                "ANDRZEJDUDA": 509563,
+                "RAFALTRZASKOWSKI": 145913,
+                "SZYMONHOLOWNIA": 85405,
+                "KRZYSZTOFBOSAK": 68530,
+                "WLADYSLAWKOSINIAKKAMYSZ": 27613,
+                "ROBERTBIEDRON": 12985,
+                "STANISLAWZOLTEK": 2033,
+                "MIROSLAWPIOTROWSKI": 1774,
+                "MAREKJAKUBIAK": 1734,
+                "PAWELTANAJNO": 1170,
+                "WALDEMARWITKOWSKI": 748
+            },
+            "totals": {
+                "totalPeople": 1399942,
+                "totalVotes": 857468
+            }
+        },
+        "lubuskie": {
+            "frequence": 61.1,
+            "percentage": {
+                "RAFALTRZASKOWSKI": 36.3,
+                "ANDRZEJDUDA": 34.3,
+                "SZYMONHOLOWNIA": 18.4,
+                "KRZYSZTOFBOSAK": 6,
+                "ROBERTBIEDRON": 2.2,
+                "WLADYSLAWKOSINIAKKAMYSZ": 2.1,
+                "PAWELTANAJNO": 0.2,
+                "STANISLAWZOLTEK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "MAREKJAKUBIAK": 0.1,
+                "WALDEMARWITKOWSKI": 0.1
+            },
+            "numerical": {
+                "RAFALTRZASKOWSKI": 147171,
+                "ANDRZEJDUDA": 139110,
+                "SZYMONHOLOWNIA": 74551,
+                "KRZYSZTOFBOSAK": 24384,
+                "ROBERTBIEDRON": 8748,
+                "WLADYSLAWKOSINIAKKAMYSZ": 8451,
+                "STANISLAWZOLTEK": 755,
+                "PAWELTANAJNO": 633,
+                "MAREKJAKUBIAK": 591,
+                "WALDEMARWITKOWSKI": 493,
+                "MIROSLAWPIOTROWSKI": 334
+            },
+            "totals": {
+                "totalPeople": 665690,
+                "totalVotes": 405221
+            }
+        },
+        "lodzkie": {
+            "frequence": 65.4,
+            "percentage": {
+                "ANDRZEJDUDA": 48.4,
+                "RAFALTRZASKOWSKI": 27.2,
+                "SZYMONHOLOWNIA": 12.7,
+                "KRZYSZTOFBOSAK": 6.2,
+                "WLADYSLAWKOSINIAKKAMYSZ": 2.6,
+                "ROBERTBIEDRON": 2.2,
+                "MAREKJAKUBIAK": 0.2,
+                "STANISLAWZOLTEK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "PAWELTANAJNO": 0.1,
+                "WALDEMARWITKOWSKI": 0.1
+            },
+            "numerical": {
+                "ANDRZEJDUDA": 515685,
+                "RAFALTRZASKOWSKI": 289667,
+                "SZYMONHOLOWNIA": 135187,
+                "KRZYSZTOFBOSAK": 66162,
+                "WLADYSLAWKOSINIAKKAMYSZ": 27569,
+                "ROBERTBIEDRON": 23525,
+                "STANISLAWZOLTEK": 2434,
+                "MAREKJAKUBIAK": 1821,
+                "PAWELTANAJNO": 1559,
+                "WALDEMARWITKOWSKI": 1372,
+                "MIROSLAWPIOTROWSKI": 1098
+            },
+            "totals": {
+                "totalPeople": 1635739,
+                "totalVotes": 1066079
+            }
+        },
+        "malopolskie": {
+            "frequence": 67.2,
+            "percentage": {
+                "ANDRZEJDUDA": 52.2,
+                "RAFALTRZASKOWSKI": 23,
+                "SZYMONHOLOWNIA": 11.3,
+                "KRZYSZTOFBOSAK": 7.8,
+                "WLADYSLAWKOSINIAKKAMYSZ": 3,
+                "ROBERTBIEDRON": 1.9,
+                "STANISLAWZOLTEK": 0.3,
+                "MAREKJAKUBIAK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "PAWELTANAJNO": 0.1,
+                "WALDEMARWITKOWSKI": 0.1
+            },
+            "numerical": {
+                "ANDRZEJDUDA": 760977,
+                "RAFALTRZASKOWSKI": 335630,
+                "SZYMONHOLOWNIA": 165271,
+                "KRZYSZTOFBOSAK": 113880,
+                "WLADYSLAWKOSINIAKKAMYSZ": 43105,
+                "ROBERTBIEDRON": 27727,
+                "STANISLAWZOLTEK": 4129,
+                "MAREKJAKUBIAK": 2620,
+                "WALDEMARWITKOWSKI": 1951,
+                "PAWELTANAJNO": 1714,
+                "MIROSLAWPIOTROWSKI": 1409
+            },
+            "totals": {
+                "totalPeople": 2175544,
+                "totalVotes": 1458413
+            }
+        },
+        "mazowieckie": {
+            "frequence": 68.6,
+            "percentage": {
+                "ANDRZEJDUDA": 45.4,
+                "RAFALTRZASKOWSKI": 30.6,
+                "SZYMONHOLOWNIA": 12.1,
+                "KRZYSZTOFBOSAK": 6.4,
+                "WLADYSLAWKOSINIAKKAMYSZ": 2.5,
+                "ROBERTBIEDRON": 2.2,
+                "MAREKJAKUBIAK": 0.2,
+                "WALDEMARWITKOWSKI": 0.2,
+                "STANISLAWZOLTEK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "PAWELTANAJNO": 0.1
+            },
+            "numerical": {
+                "ANDRZEJDUDA": 1068800,
+                "RAFALTRZASKOWSKI": 719799,
+                "SZYMONHOLOWNIA": 284748,
+                "KRZYSZTOFBOSAK": 151483,
+                "WLADYSLAWKOSINIAKKAMYSZ": 58000,
+                "ROBERTBIEDRON": 52672,
+                "STANISLAWZOLTEK": 5633,
+                "MAREKJAKUBIAK": 5074,
+                "WALDEMARWITKOWSKI": 3859,
+                "PAWELTANAJNO": 3395,
+                "MIROSLAWPIOTROWSKI": 2609
+            },
+            "totals": {
+                "totalPeople": 3446712,
+                "totalVotes": 2356072
+            }
+        },
+        "opolskie": {
+            "frequence": 56.6,
+            "percentage": {
+                "ANDRZEJDUDA": 40.5,
+                "RAFALTRZASKOWSKI": 31.8,
+                "SZYMONHOLOWNIA": 16.6,
+                "KRZYSZTOFBOSAK": 6.2,
+                "WLADYSLAWKOSINIAKKAMYSZ": 2.4,
+                "ROBERTBIEDRON": 1.8,
+                "MAREKJAKUBIAK": 0.2,
+                "STANISLAWZOLTEK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "PAWELTANAJNO": 0.1,
+                "WALDEMARWITKOWSKI": 0.1
+            },
+            "numerical": {
+                "ANDRZEJDUDA": 160228,
+                "RAFALTRZASKOWSKI": 125820,
+                "SZYMONHOLOWNIA": 65937,
+                "KRZYSZTOFBOSAK": 24456,
+                "WLADYSLAWKOSINIAKKAMYSZ": 9415,
+                "ROBERTBIEDRON": 7278,
+                "STANISLAWZOLTEK": 838,
+                "MAREKJAKUBIAK": 630,
+                "PAWELTANAJNO": 580,
+                "WALDEMARWITKOWSKI": 495,
+                "MIROSLAWPIOTROWSKI": 404
+            },
+            "totals": {
+                "totalPeople": 702570,
+                "totalVotes": 396081
+            }
+        },
+        "podkarpackie": {
+            "frequence": 63.5,
+            "percentage": {
+                "ANDRZEJDUDA": 61.7,
+                "RAFALTRZASKOWSKI": 15.4,
+                "SZYMONHOLOWNIA": 9.3,
+                "KRZYSZTOFBOSAK": 9,
+                "WLADYSLAWKOSINIAKKAMYSZ": 2.6,
+                "ROBERTBIEDRON": 1.3,
+                "MAREKJAKUBIAK": 0.2,
+                "STANISLAWZOLTEK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "PAWELTANAJNO": 0.1,
+                "WALDEMARWITKOWSKI": 0.1
+            },
+            "numerical": {
+                "ANDRZEJDUDA": 591010,
+                "RAFALTRZASKOWSKI": 147312,
+                "SZYMONHOLOWNIA": 89398,
+                "KRZYSZTOFBOSAK": 86197,
+                "WLADYSLAWKOSINIAKKAMYSZ": 24770,
+                "ROBERTBIEDRON": 12676,
+                "STANISLAWZOLTEK": 2094,
+                "MAREKJAKUBIAK": 1735,
+                "MIROSLAWPIOTROWSKI": 1081,
+                "PAWELTANAJNO": 984,
+                "WALDEMARWITKOWSKI": 764
+            },
+            "totals": {
+                "totalPeople": 1513666,
+                "totalVotes": 958021
+            }
+        },
+        "podlaskie": {
+            "frequence": 60.4,
+            "percentage": {
+                "ANDRZEJDUDA": 50.6,
+                "RAFALTRZASKOWSKI": 20.6,
+                "SZYMONHOLOWNIA": 16.7,
+                "KRZYSZTOFBOSAK": 7.7,
+                "WLADYSLAWKOSINIAKKAMYSZ": 2.1,
+                "ROBERTBIEDRON": 1.6,
+                "MAREKJAKUBIAK": 0.2,
+                "STANISLAWZOLTEK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "PAWELTANAJNO": 0.1,
+                "WALDEMARWITKOWSKI": 0.1
+            },
+            "numerical": {
+                "ANDRZEJDUDA": 275177,
+                "RAFALTRZASKOWSKI": 112057,
+                "SZYMONHOLOWNIA": 90832,
+                "KRZYSZTOFBOSAK": 41989,
+                "WLADYSLAWKOSINIAKKAMYSZ": 11501,
+                "ROBERTBIEDRON": 8624,
+                "STANISLAWZOLTEK": 1283,
+                "MAREKJAKUBIAK": 1011,
+                "PAWELTANAJNO": 729,
+                "MIROSLAWPIOTROWSKI": 595,
+                "WALDEMARWITKOWSKI": 513
+            },
+            "totals": {
+                "totalPeople": 903571,
+                "totalVotes": 544311
+            }
+        },
+        "pomorskie": {
+            "frequence": 63.6,
+            "percentage": {
+                "RAFALTRZASKOWSKI": 36.4,
+                "ANDRZEJDUDA": 36.2,
+                "SZYMONHOLOWNIA": 15.9,
+                "KRZYSZTOFBOSAK": 6.2,
+                "ROBERTBIEDRON": 2.5,
+                "WLADYSLAWKOSINIAKKAMYSZ": 2.1,
+                "STANISLAWZOLTEK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "PAWELTANAJNO": 0.1,
+                "MAREKJAKUBIAK": 0.1,
+                "WALDEMARWITKOWSKI": 0.1
+            },
+            "numerical": {
+                "RAFALTRZASKOWSKI": 271586,
+                "ANDRZEJDUDA": 269818,
+                "SZYMONHOLOWNIA": 118924,
+                "KRZYSZTOFBOSAK": 46497,
+                "ROBERTBIEDRON": 18551,
+                "WLADYSLAWKOSINIAKKAMYSZ": 15340,
+                "STANISLAWZOLTEK": 1633,
+                "MAREKJAKUBIAK": 1116,
+                "PAWELTANAJNO": 1114,
+                "WALDEMARWITKOWSKI": 991,
+                "MIROSLAWPIOTROWSKI": 798
+            },
+            "totals": {
+                "totalPeople": 1177031,
+                "totalVotes": 746368
+            }
+        },
+        "slaskie": {
+            "frequence": 64.2,
+            "percentage": {
+                "ANDRZEJDUDA": 42.7,
+                "RAFALTRZASKOWSKI": 30,
+                "SZYMONHOLOWNIA": 15.2,
+                "KRZYSZTOFBOSAK": 7.1,
+                "ROBERTBIEDRON": 2.2,
+                "WLADYSLAWKOSINIAKKAMYSZ": 2,
+                "PAWELTANAJNO": 0.2,
+                "MAREKJAKUBIAK": 0.2,
+                "STANISLAWZOLTEK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "WALDEMARWITKOWSKI": 0.1
+            },
+            "numerical": {
+                "ANDRZEJDUDA": 709471,
+                "RAFALTRZASKOWSKI": 499513,
+                "SZYMONHOLOWNIA": 253133,
+                "KRZYSZTOFBOSAK": 118079,
+                "ROBERTBIEDRON": 36717,
+                "WLADYSLAWKOSINIAKKAMYSZ": 32480,
+                "STANISLAWZOLTEK": 4006,
+                "PAWELTANAJNO": 2660,
+                "MAREKJAKUBIAK": 2643,
+                "WALDEMARWITKOWSKI": 2245,
+                "MIROSLAWPIOTROWSKI": 1845
+            },
+            "totals": {
+                "totalPeople": 2598220,
+                "totalVotes": 1662792
+            }
+        },
+        "swietokrzyskie": {
+            "frequence": 62.2,
+            "percentage": {
+                "ANDRZEJDUDA": 56.6,
+                "RAFALTRZASKOWSKI": 20.8,
+                "SZYMONHOLOWNIA": 10,
+                "KRZYSZTOFBOSAK": 6.9,
+                "WLADYSLAWKOSINIAKKAMYSZ": 3.3,
+                "ROBERTBIEDRON": 1.7,
+                "MAREKJAKUBIAK": 0.2,
+                "STANISLAWZOLTEK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "PAWELTANAJNO": 0.1,
+                "WALDEMARWITKOWSKI": 0.1
+            },
+            "numerical": {
+                "ANDRZEJDUDA": 319519,
+                "RAFALTRZASKOWSKI": 117483,
+                "SZYMONHOLOWNIA": 56730,
+                "KRZYSZTOFBOSAK": 39212,
+                "WLADYSLAWKOSINIAKKAMYSZ": 18428,
+                "ROBERTBIEDRON": 9654,
+                "STANISLAWZOLTEK": 1118,
+                "MAREKJAKUBIAK": 953,
+                "PAWELTANAJNO": 617,
+                "MIROSLAWPIOTROWSKI": 556,
+                "WALDEMARWITKOWSKI": 507
+            },
+            "totals": {
+                "totalPeople": 911018,
+                "totalVotes": 564777
+            }
+        },
+        "warminsko-mazurskie": {
+            "frequence": 56.7,
+            "percentage": {
+                "ANDRZEJDUDA": 40.8,
+                "RAFALTRZASKOWSKI": 32.6,
+                "SZYMONHOLOWNIA": 14.7,
+                "KRZYSZTOFBOSAK": 6.6,
+                "WLADYSLAWKOSINIAKKAMYSZ": 2.5,
+                "ROBERTBIEDRON": 2.2,
+                "MAREKJAKUBIAK": 0.2,
+                "STANISLAWZOLTEK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "PAWELTANAJNO": 0.1,
+                "WALDEMARWITKOWSKI": 0.1
+            },
+            "numerical": {
+                "ANDRZEJDUDA": 231886,
+                "RAFALTRZASKOWSKI": 185650,
+                "SZYMONHOLOWNIA": 83400,
+                "KRZYSZTOFBOSAK": 37358,
+                "WLADYSLAWKOSINIAKKAMYSZ": 14206,
+                "ROBERTBIEDRON": 12414,
+                "STANISLAWZOLTEK": 1084,
+                "MAREKJAKUBIAK": 963,
+                "PAWELTANAJNO": 852,
+                "WALDEMARWITKOWSKI": 674,
+                "MIROSLAWPIOTROWSKI": 540
+            },
+            "totals": {
+                "totalPeople": 1006805,
+                "totalVotes": 569027
+            }
+        },
+        "wielkopolskie": {
+            "frequence": 65.1,
+            "percentage": {
+                "ANDRZEJDUDA": 38.9,
+                "RAFALTRZASKOWSKI": 32.9,
+                "SZYMONHOLOWNIA": 16.5,
+                "KRZYSZTOFBOSAK": 6,
+                "WLADYSLAWKOSINIAKKAMYSZ": 2.6,
+                "ROBERTBIEDRON": 2.3,
+                "WALDEMARWITKOWSKI": 0.2,
+                "STANISLAWZOLTEK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "PAWELTANAJNO": 0.1,
+                "MAREKJAKUBIAK": 0.1
+            },
+            "numerical": {
+                "ANDRZEJDUDA": 610850,
+                "RAFALTRZASKOWSKI": 517447,
+                "SZYMONHOLOWNIA": 259916,
+                "KRZYSZTOFBOSAK": 94797,
+                "WLADYSLAWKOSINIAKKAMYSZ": 40470,
+                "ROBERTBIEDRON": 36048,
+                "STANISLAWZOLTEK": 3487,
+                "WALDEMARWITKOWSKI": 2827,
+                "MAREKJAKUBIAK": 2249,
+                "PAWELTANAJNO": 2211,
+                "MIROSLAWPIOTROWSKI": 1550
+            },
+            "totals": {
+                "totalPeople": 2422645,
+                "totalVotes": 1571852
+            }
+        },
+        "zachodniopomorskie": {
+            "frequence": 61.2,
+            "percentage": {
+                "RAFALTRZASKOWSKI": 37.4,
+                "ANDRZEJDUDA": 35.7,
+                "SZYMONHOLOWNIA": 15.8,
+                "KRZYSZTOFBOSAK": 5.7,
+                "ROBERTBIEDRON": 2.6,
+                "WLADYSLAWKOSINIAKKAMYSZ": 2.1,
+                "PAWELTANAJNO": 0.2,
+                "MAREKJAKUBIAK": 0.2,
+                "STANISLAWZOLTEK": 0.2,
+                "MIROSLAWPIOTROWSKI": 0.1,
+                "WALDEMARWITKOWSKI": 0.1
+            },
+            "numerical": {
+                "RAFALTRZASKOWSKI": 264891,
+                "ANDRZEJDUDA": 253114,
+                "SZYMONHOLOWNIA": 111906,
+                "KRZYSZTOFBOSAK": 40101,
+                "ROBERTBIEDRON": 18743,
+                "WLADYSLAWKOSINIAKKAMYSZ": 14831,
+                "STANISLAWZOLTEK": 1439,
+                "PAWELTANAJNO": 1154,
+                "MAREKJAKUBIAK": 1066,
+                "WALDEMARWITKOWSKI": 914,
+                "MIROSLAWPIOTROWSKI": 618
+            },
+            "totals": {
+                "totalPeople": 1162716,
+                "totalVotes": 708777
+            }
+        }
+    }
+}

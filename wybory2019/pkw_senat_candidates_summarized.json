@@ -1,0 +1,2915 @@
+{
+    "data": {
+        "mandates": {
+            "PIS": 48,
+            "KOBW": 43,
+            "PSL": 3,
+            "SLD": 2,
+            "INNE": 4
+        },
+        "candidates": {
+            "1": {
+                "constituency": {
+                    "name": "Legnica",
+                    "tableName": "nr 1, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 1 [Legnica]"
+                },
+                "candidates": [
+                    {
+                        "name": "ŚLUSARZ Rafał Józef",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 45420,
+                        "mandate": true
+                    }
+                ]
+            },
+            "2": {
+                "constituency": {
+                    "name": "Legnica",
+                    "tableName": "nr 2, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 2 [Legnica]"
+                },
+                "candidates": [
+                    {
+                        "name": "MRÓZ Krzysztof Stanisław",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 49938,
+                        "mandate": true
+                    }
+                ]
+            },
+            "3": {
+                "constituency": {
+                    "name": "Legnica",
+                    "tableName": "nr 3, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 3 [Legnica]"
+                },
+                "candidates": [
+                    {
+                        "name": "CZUDOWSKA Dorota ",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 86312,
+                        "mandate": true
+                    }
+                ]
+            },
+            "4": {
+                "constituency": {
+                    "name": "Wałbrzych",
+                    "tableName": "nr 4, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 4 [Wałbrzych]"
+                },
+                "candidates": [
+                    {
+                        "name": "KOŁACZ-LESZCZYŃSKA Agnieszka Maria",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 70209,
+                        "mandate": true
+                    }
+                ]
+            },
+            "5": {
+                "constituency": {
+                    "name": "Wałbrzych",
+                    "tableName": "nr 5, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 5 [Wałbrzych]"
+                },
+                "candidates": [
+                    {
+                        "name": "SZWED Aleksander Jakub",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 61035,
+                        "mandate": true
+                    }
+                ]
+            },
+            "6": {
+                "constituency": {
+                    "name": "Wrocław",
+                    "tableName": "nr 6, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 6 [Wrocław]"
+                },
+                "candidates": [
+                    {
+                        "name": "ZDROJEWSKI  Bogdan Andrzej",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 133374,
+                        "mandate": true
+                    }
+                ]
+            },
+            "7": {
+                "constituency": {
+                    "name": "Wrocław",
+                    "tableName": "nr 7, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 7 [Wrocław]"
+                },
+                "candidates": [
+                    {
+                        "name": "CHYBICKA  Alicja Paulina",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 113877,
+                        "mandate": true
+                    }
+                ]
+            },
+            "8": {
+                "constituency": {
+                    "name": "Wrocław",
+                    "tableName": "nr 8, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 8 [Wrocław]"
+                },
+                "candidates": [
+                    {
+                        "name": "ZDROJEWSKA Barbara Grażyna ",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 122071,
+                        "mandate": true
+                    }
+                ]
+            },
+            "9": {
+                "constituency": {
+                    "name": "Bydgoszcz",
+                    "tableName": "nr 9, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 9 [Bydgoszcz]"
+                },
+                "candidates": [
+                    {
+                        "name": "KOBIAK Andrzej",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 150472,
+                        "mandate": true
+                    }
+                ]
+            },
+            "10": {
+                "constituency": {
+                    "name": "Bydgoszcz",
+                    "tableName": "nr 10, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 10 [Bydgoszcz]"
+                },
+                "candidates": [
+                    {
+                        "name": "BREJZA Krzysztof",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 79054,
+                        "mandate": true
+                    }
+                ]
+            },
+            "11": {
+                "constituency": {
+                    "name": "Toruń",
+                    "tableName": "nr 11, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 11 [Toruń]"
+                },
+                "candidates": [
+                    {
+                        "name": "MĘŻYDŁO  Antoni",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 98699,
+                        "mandate": true
+                    }
+                ]
+            },
+            "12": {
+                "constituency": {
+                    "name": "Toruń",
+                    "tableName": "nr 12, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 12 [Toruń]"
+                },
+                "candidates": [
+                    {
+                        "name": "BOBER Ryszard Jakub",
+                        "commity": "KOMITET WYBORCZY POLSKIE STRONNICTWO LUDOWE",
+                        "party": "PSL",
+                        "votes": 52619,
+                        "mandate": true
+                    }
+                ]
+            },
+            "13": {
+                "constituency": {
+                    "name": "Toruń",
+                    "tableName": "nr 13, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 13 [Toruń]"
+                },
+                "candidates": [
+                    {
+                        "name": "ŁYCZAK Józef Mikołaj",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 60432,
+                        "mandate": true
+                    }
+                ]
+            },
+            "14": {
+                "constituency": {
+                    "name": "Lublin",
+                    "tableName": "nr 14, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 14 [Lublin]"
+                },
+                "candidates": [
+                    {
+                        "name": "GOGACZ Stanisław",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 121240,
+                        "mandate": true
+                    }
+                ]
+            },
+            "15": {
+                "constituency": {
+                    "name": "Lublin",
+                    "tableName": "nr 15, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 15 [Lublin]"
+                },
+                "candidates": [
+                    {
+                        "name": "CZELEJ Grzegorz",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 116605,
+                        "mandate": true
+                    }
+                ]
+            },
+            "16": {
+                "constituency": {
+                    "name": "Lublin",
+                    "tableName": "nr 16, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 16 [Lublin]"
+                },
+                "candidates": [
+                    {
+                        "name": "BURY Jacek",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 84889,
+                        "mandate": true
+                    }
+                ]
+            },
+            "17": {
+                "constituency": {
+                    "name": "Chełm",
+                    "tableName": "nr 17, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 17 [Chełm]"
+                },
+                "candidates": [
+                    {
+                        "name": "BIERECKI Grzegorz Michał ",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 68666,
+                        "mandate": true
+                    }
+                ]
+            },
+            "18": {
+                "constituency": {
+                    "name": "Chełm",
+                    "tableName": "nr 18, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 18 [Chełm]"
+                },
+                "candidates": [
+                    {
+                        "name": "ZAJĄC  Józef",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 61416,
+                        "mandate": true
+                    }
+                ]
+            },
+            "19": {
+                "constituency": {
+                    "name": "Chełm",
+                    "tableName": "nr 19, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 19 [Chełm]"
+                },
+                "candidates": [
+                    {
+                        "name": "CHRÓŚCIKOWSKI Jerzy Mieczysław",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 112993,
+                        "mandate": true
+                    }
+                ]
+            },
+            "20": {
+                "constituency": {
+                    "name": "Zielona Góra",
+                    "tableName": "nr 20, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 20 [Zielona Góra]"
+                },
+                "candidates": [
+                    {
+                        "name": "DOWHAN Robert ",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 97398,
+                        "mandate": true
+                    }
+                ]
+            },
+            "21": {
+                "constituency": {
+                    "name": "Zielona Góra",
+                    "tableName": "nr 21, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 21 [Zielona Góra]"
+                },
+                "candidates": [
+                    {
+                        "name": "KOMARNICKI Władysław ",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 69298,
+                        "mandate": true
+                    }
+                ]
+            },
+            "22": {
+                "constituency": {
+                    "name": "Zielona Góra",
+                    "tableName": "nr 22, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 22 [Zielona Góra]"
+                },
+                "candidates": [
+                    {
+                        "name": "TYSZKIEWICZ Wadim",
+                        "commity": "KOMITET WYBORCZY WYBORCÓW WADIM TYSZKIEWICZ",
+                        "party": "INNE",
+                        "votes": 63675,
+                        "mandate": true
+                    }
+                ]
+            },
+            "23": {
+                "constituency": {
+                    "name": "Łódź",
+                    "tableName": "nr 23, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 23 [Łódź]"
+                },
+                "candidates": [
+                    {
+                        "name": "DUNIN  Artur Jerzy",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 134414,
+                        "mandate": true
+                    }
+                ]
+            },
+            "24": {
+                "constituency": {
+                    "name": "Łódź",
+                    "tableName": "nr 24, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 24 [Łódź]"
+                },
+                "candidates": [
+                    {
+                        "name": "KWIATKOWSKI  Krzysztof ",
+                        "commity": "KOMITET WYBORCZY WYBORCÓW KRZYSZTOFA KWIATKOWSKIEGO",
+                        "party": "INNE",
+                        "votes": 96891,
+                        "mandate": true
+                    }
+                ]
+            },
+            "25": {
+                "constituency": {
+                    "name": "Sieradz",
+                    "tableName": "nr 25, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 25 [Sieradz]"
+                },
+                "candidates": [
+                    {
+                        "name": "BŁASZCZYK Przemysław Jacek",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 69998,
+                        "mandate": true
+                    }
+                ]
+            },
+            "26": {
+                "constituency": {
+                    "name": "Sieradz",
+                    "tableName": "nr 26, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 26 [Sieradz]"
+                },
+                "candidates": [
+                    {
+                        "name": "ŁUCZAK Maciej Adam ",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 70561,
+                        "mandate": true
+                    }
+                ]
+            },
+            "27": {
+                "constituency": {
+                    "name": "Sieradz",
+                    "tableName": "nr 27, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 27 [Sieradz]"
+                },
+                "candidates": [
+                    {
+                        "name": "SEWERYŃSKI Michał ",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 86706,
+                        "mandate": true
+                    }
+                ]
+            },
+            "28": {
+                "constituency": {
+                    "name": "Piotrków Trybunalski",
+                    "tableName": "nr 28, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 28 [Piotrków Trybunalski]"
+                },
+                "candidates": [
+                    {
+                        "name": "DOBKOWSKI  Wiesław Józef",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 102812,
+                        "mandate": true
+                    }
+                ]
+            },
+            "29": {
+                "constituency": {
+                    "name": "Piotrków Trybunalski",
+                    "tableName": "nr 29, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 29 [Piotrków Trybunalski]"
+                },
+                "candidates": [
+                    {
+                        "name": "AMBROZIK Rafał Michał ",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 83024,
+                        "mandate": true
+                    }
+                ]
+            },
+            "30": {
+                "constituency": {
+                    "name": "Kraków",
+                    "tableName": "nr 30, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 30 [Kraków]"
+                },
+                "candidates": [
+                    {
+                        "name": "PAJĄK Andrzej Michał ",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 179338,
+                        "mandate": true
+                    }
+                ]
+            },
+            "31": {
+                "constituency": {
+                    "name": "Kraków",
+                    "tableName": "nr 31, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 31 [Kraków]"
+                },
+                "candidates": [
+                    {
+                        "name": "PĘK  Marek",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 122468,
+                        "mandate": true
+                    }
+                ]
+            },
+            "32": {
+                "constituency": {
+                    "name": "Kraków",
+                    "tableName": "nr 32, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 32 [Kraków]"
+                },
+                "candidates": [
+                    {
+                        "name": "FEDOROWICZ  Jerzy Feliks",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 117177,
+                        "mandate": true
+                    }
+                ]
+            },
+            "33": {
+                "constituency": {
+                    "name": "Kraków",
+                    "tableName": "nr 33, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 33 [Kraków]"
+                },
+                "candidates": [
+                    {
+                        "name": "KLICH Bogdan Adam",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 123080,
+                        "mandate": true
+                    }
+                ]
+            },
+            "34": {
+                "constituency": {
+                    "name": "Tarnów",
+                    "tableName": "nr 34, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 34 [Tarnów]"
+                },
+                "candidates": [
+                    {
+                        "name": "BERNACKI Włodzimierz",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 97648,
+                        "mandate": true
+                    }
+                ]
+            },
+            "35": {
+                "constituency": {
+                    "name": "Tarnów",
+                    "tableName": "nr 35, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 35 [Tarnów]"
+                },
+                "candidates": [
+                    {
+                        "name": "WIATR Kazimierz Adam",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 98317,
+                        "mandate": true
+                    }
+                ]
+            },
+            "36": {
+                "constituency": {
+                    "name": "Nowy Sącz",
+                    "tableName": "nr 36, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 36 [Nowy Sącz]"
+                },
+                "candidates": [
+                    {
+                        "name": "HAMERSKI Jan Wincenty",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 113454,
+                        "mandate": true
+                    }
+                ]
+            },
+            "37": {
+                "constituency": {
+                    "name": "Nowy Sącz",
+                    "tableName": "nr 37, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 37 [Nowy Sącz]"
+                },
+                "candidates": [
+                    {
+                        "name": "DURLAK Wiktor Michał",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 107119,
+                        "mandate": true
+                    }
+                ]
+            },
+            "38": {
+                "constituency": {
+                    "name": "Płock",
+                    "tableName": "nr 38, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 38 [Płock]"
+                },
+                "candidates": [
+                    {
+                        "name": "MARTYNOWSKI Marek Eryk",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 115800,
+                        "mandate": true
+                    }
+                ]
+            },
+            "39": {
+                "constituency": {
+                    "name": "Płock",
+                    "tableName": "nr 39, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 39 [Płock]"
+                },
+                "candidates": [
+                    {
+                        "name": "JACKOWSKI Jan Maria",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 83808,
+                        "mandate": true
+                    }
+                ]
+            },
+            "40": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "tableName": "nr 40, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 40 [Warszawa]"
+                },
+                "candidates": [
+                    {
+                        "name": "HIBNER Jolanta Emilia",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 146318,
+                        "mandate": true
+                    }
+                ]
+            },
+            "41": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "tableName": "nr 41, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 41 [Warszawa]"
+                },
+                "candidates": [
+                    {
+                        "name": "KAMIŃSKI Michał Tomasz",
+                        "commity": "KOMITET WYBORCZY POLSKIE STRONNICTWO LUDOWE",
+                        "party": "PSL",
+                        "votes": 176496,
+                        "mandate": true
+                    }
+                ]
+            },
+            "42": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "tableName": "nr 42, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 42 [Warszawa]"
+                },
+                "candidates": [
+                    {
+                        "name": "BOROWSKI Marek Stefan",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 153994,
+                        "mandate": true
+                    }
+                ]
+            },
+            "43": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "tableName": "nr 43, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 43 [Warszawa]"
+                },
+                "candidates": [
+                    {
+                        "name": "BORYS-DAMIĘCKA Barbara",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 157359,
+                        "mandate": true
+                    }
+                ]
+            },
+            "44": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "tableName": "nr 44, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 44 [Warszawa]"
+                },
+                "candidates": [
+                    {
+                        "name": "UJAZDOWSKI Kazimierz Michał",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 308627,
+                        "mandate": true
+                    }
+                ]
+            },
+            "45": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "tableName": "nr 45, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 45 [Warszawa]"
+                },
+                "candidates": [
+                    {
+                        "name": "POCIEJ Aleksander August",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 175660,
+                        "mandate": true
+                    }
+                ]
+            },
+            "46": {
+                "constituency": {
+                    "name": "Siedlce",
+                    "tableName": "nr 46, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 46 [Siedlce]"
+                },
+                "candidates": [
+                    {
+                        "name": "MAMĄTOW Robert Adam",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 104694,
+                        "mandate": true
+                    }
+                ]
+            },
+            "47": {
+                "constituency": {
+                    "name": "Siedlce",
+                    "tableName": "nr 47, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 47 [Siedlce]"
+                },
+                "candidates": [
+                    {
+                        "name": "KOC Maria Zofia",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 99549,
+                        "mandate": true
+                    }
+                ]
+            },
+            "48": {
+                "constituency": {
+                    "name": "Siedlce",
+                    "tableName": "nr 48, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 48 [Siedlce]"
+                },
+                "candidates": [
+                    {
+                        "name": "KRASKA Waldemar Jerzy",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 72101,
+                        "mandate": true
+                    }
+                ]
+            },
+            "49": {
+                "constituency": {
+                    "name": "Radom",
+                    "tableName": "nr 49, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 49 [Radom]"
+                },
+                "candidates": [
+                    {
+                        "name": "KARCZEWSKI Stanisław",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 70878,
+                        "mandate": true
+                    }
+                ]
+            },
+            "50": {
+                "constituency": {
+                    "name": "Radom",
+                    "tableName": "nr 50, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 50 [Radom]"
+                },
+                "candidates": [
+                    {
+                        "name": "SKURKIEWICZ Wojciech",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 126296,
+                        "mandate": true
+                    }
+                ]
+            },
+            "51": {
+                "constituency": {
+                    "name": "Opole",
+                    "tableName": "nr 51, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 51 [Opole]"
+                },
+                "candidates": [
+                    {
+                        "name": "CZERWIŃSKI  Jerzy",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 73426,
+                        "mandate": true
+                    }
+                ]
+            },
+            "52": {
+                "constituency": {
+                    "name": "Opole",
+                    "tableName": "nr 52, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 52 [Opole]"
+                },
+                "candidates": [
+                    {
+                        "name": "JAZŁOWIECKA Danuta",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 60597,
+                        "mandate": true
+                    }
+                ]
+            },
+            "53": {
+                "constituency": {
+                    "name": "Opole",
+                    "tableName": "nr 53, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 53 [Opole]"
+                },
+                "candidates": [
+                    {
+                        "name": "GODYLA Beniamin Wincenty",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 53012,
+                        "mandate": true
+                    }
+                ]
+            },
+            "54": {
+                "constituency": {
+                    "name": "Rzeszów",
+                    "tableName": "nr 54, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 54 [Rzeszów]"
+                },
+                "candidates": [
+                    {
+                        "name": "SAGATOWSKA Janina Zofia ",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 94603,
+                        "mandate": true
+                    }
+                ]
+            },
+            "55": {
+                "constituency": {
+                    "name": "Rzeszów",
+                    "tableName": "nr 55, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 55 [Rzeszów]"
+                },
+                "candidates": [
+                    {
+                        "name": "PUPA Zdzisław Stanisław",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 155404,
+                        "mandate": true
+                    }
+                ]
+            },
+            "56": {
+                "constituency": {
+                    "name": "Rzeszów",
+                    "tableName": "nr 56, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 56 [Rzeszów]"
+                },
+                "candidates": [
+                    {
+                        "name": "OŻÓG Stanisław",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 123900,
+                        "mandate": true
+                    }
+                ]
+            },
+            "57": {
+                "constituency": {
+                    "name": "Krosno",
+                    "tableName": "nr 57, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 57 [Krosno]"
+                },
+                "candidates": [
+                    {
+                        "name": "ZAJĄC  Alicja Maria",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 100300,
+                        "mandate": true
+                    }
+                ]
+            },
+            "58": {
+                "constituency": {
+                    "name": "Krosno",
+                    "tableName": "nr 58, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 58 [Krosno]"
+                },
+                "candidates": [
+                    {
+                        "name": "GOLBA Mieczysław Józef",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 150594,
+                        "mandate": true
+                    }
+                ]
+            },
+            "59": {
+                "constituency": {
+                    "name": "Białystok",
+                    "tableName": "nr 59, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 59 [Białystok]"
+                },
+                "candidates": [
+                    {
+                        "name": "KOMOROWSKI Marek Adam",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 111737,
+                        "mandate": true
+                    }
+                ]
+            },
+            "60": {
+                "constituency": {
+                    "name": "Białystok",
+                    "tableName": "nr 60, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 60 [Białystok]"
+                },
+                "candidates": [
+                    {
+                        "name": "GROMKO Mariusz Krzysztof",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 104694,
+                        "mandate": true
+                    }
+                ]
+            },
+            "61": {
+                "constituency": {
+                    "name": "Białystok",
+                    "tableName": "nr 61, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 61 [Białystok]"
+                },
+                "candidates": [
+                    {
+                        "name": "BOGUCKI Jacek",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 48257,
+                        "mandate": true
+                    }
+                ]
+            },
+            "62": {
+                "constituency": {
+                    "name": "Słupsk",
+                    "tableName": "nr 62, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 62 [Słupsk]"
+                },
+                "candidates": [
+                    {
+                        "name": "KLEINA Kazimierz Mariusz",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 123191,
+                        "mandate": true
+                    }
+                ]
+            },
+            "63": {
+                "constituency": {
+                    "name": "Słupsk",
+                    "tableName": "nr 63, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 63 [Słupsk]"
+                },
+                "candidates": [
+                    {
+                        "name": "LAMCZYK Stanisław Józef",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 90404,
+                        "mandate": true
+                    }
+                ]
+            },
+            "64": {
+                "constituency": {
+                    "name": "Słupsk",
+                    "tableName": "nr 64, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 64 [Słupsk]"
+                },
+                "candidates": [
+                    {
+                        "name": "RYBICKI Sławomir Piotr",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 106970,
+                        "mandate": true
+                    }
+                ]
+            },
+            "65": {
+                "constituency": {
+                    "name": "Gdańsk",
+                    "tableName": "nr 65, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 65 [Gdańsk]"
+                },
+                "candidates": [
+                    {
+                        "name": "BORUSEWICZ Bogdan Michał",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 195056,
+                        "mandate": true
+                    }
+                ]
+            },
+            "66": {
+                "constituency": {
+                    "name": "Gdańsk",
+                    "tableName": "nr 66, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 66 [Gdańsk]"
+                },
+                "candidates": [
+                    {
+                        "name": "ŚWILSKI Ryszard Jan",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 87639,
+                        "mandate": true
+                    }
+                ]
+            },
+            "67": {
+                "constituency": {
+                    "name": "Gdańsk",
+                    "tableName": "nr 67, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 67 [Gdańsk]"
+                },
+                "candidates": [
+                    {
+                        "name": "CZARNOBAJ Leszek",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 53771,
+                        "mandate": true
+                    }
+                ]
+            },
+            "68": {
+                "constituency": {
+                    "name": "Częstochowa",
+                    "tableName": "nr 68, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 68 [Częstochowa]"
+                },
+                "candidates": [
+                    {
+                        "name": "MAJER Ryszard Bogdan",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 82080,
+                        "mandate": true
+                    }
+                ]
+            },
+            "69": {
+                "constituency": {
+                    "name": "Częstochowa",
+                    "tableName": "nr 69, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 69 [Częstochowa]"
+                },
+                "candidates": [
+                    {
+                        "name": "KONIECZNY Wojciech Jan",
+                        "commity": "KOMITET WYBORCZY SOJUSZ LEWICY DEMOKRATYCZNEJ",
+                        "party": "SLD",
+                        "votes": 49261,
+                        "mandate": true
+                    }
+                ]
+            },
+            "70": {
+                "constituency": {
+                    "name": "Katowice",
+                    "tableName": "nr 70, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 70 [Katowice]"
+                },
+                "candidates": [
+                    {
+                        "name": "FRANKIEWICZ Zygmunt Mieczysław ",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 124255,
+                        "mandate": true
+                    }
+                ]
+            },
+            "71": {
+                "constituency": {
+                    "name": "Katowice",
+                    "tableName": "nr 71, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 71 [Katowice]"
+                },
+                "candidates": [
+                    {
+                        "name": "BIEDA Halina Maria",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 74605,
+                        "mandate": true
+                    }
+                ]
+            },
+            "72": {
+                "constituency": {
+                    "name": "Bielsko-Biała",
+                    "tableName": "nr 72, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 72 [Bielsko-Biała]"
+                },
+                "candidates": [
+                    {
+                        "name": "GAWĘDA Ewa Maria",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 97412,
+                        "mandate": true
+                    }
+                ]
+            },
+            "73": {
+                "constituency": {
+                    "name": "Bielsko-Biała",
+                    "tableName": "nr 73, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 73 [Bielsko-Biała]"
+                },
+                "candidates": [
+                    {
+                        "name": "PIECHA Wojciech Piotr",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 68619,
+                        "mandate": true
+                    }
+                ]
+            },
+            "74": {
+                "constituency": {
+                    "name": "Katowice",
+                    "tableName": "nr 74, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 74 [Katowice]"
+                },
+                "candidates": [
+                    {
+                        "name": "TOBISZOWSKA Dorota Jolanta",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 71383,
+                        "mandate": true
+                    }
+                ]
+            },
+            "75": {
+                "constituency": {
+                    "name": "Katowice",
+                    "tableName": "nr 75, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 75 [Katowice]"
+                },
+                "candidates": [
+                    {
+                        "name": "MORAWSKA-STANECKA Gabriela Anna",
+                        "commity": "KOMITET WYBORCZY SOJUSZ LEWICY DEMOKRATYCZNEJ",
+                        "party": "SLD",
+                        "votes": 64172,
+                        "mandate": true
+                    }
+                ]
+            },
+            "76": {
+                "constituency": {
+                    "name": "Katowice",
+                    "tableName": "nr 76, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 76 [Katowice]"
+                },
+                "candidates": [
+                    {
+                        "name": "MAŁECKA-LIBERA Beata Maria",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 82090,
+                        "mandate": true
+                    }
+                ]
+            },
+            "77": {
+                "constituency": {
+                    "name": "Katowice",
+                    "tableName": "nr 77, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 77 [Katowice]"
+                },
+                "candidates": [
+                    {
+                        "name": "SEKUŁA Joanna",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 83771,
+                        "mandate": true
+                    }
+                ]
+            },
+            "78": {
+                "constituency": {
+                    "name": "Bielsko-Biała",
+                    "tableName": "nr 78, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 78 [Bielsko-Biała]"
+                },
+                "candidates": [
+                    {
+                        "name": "GORGOŃ-KOMOR Agnieszka Aleksandra",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 114113,
+                        "mandate": true
+                    }
+                ]
+            },
+            "79": {
+                "constituency": {
+                    "name": "Bielsko-Biała",
+                    "tableName": "nr 79, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 79 [Bielsko-Biała]"
+                },
+                "candidates": [
+                    {
+                        "name": "KOPEĆ Tadeusz Wiktor",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 78655,
+                        "mandate": true
+                    }
+                ]
+            },
+            "80": {
+                "constituency": {
+                    "name": "Katowice",
+                    "tableName": "nr 80, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 80 [Katowice]"
+                },
+                "candidates": [
+                    {
+                        "name": "PLURA Marek Mirosław",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 92332,
+                        "mandate": true
+                    }
+                ]
+            },
+            "81": {
+                "constituency": {
+                    "name": "Kielce",
+                    "tableName": "nr 81, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 81 [Kielce]"
+                },
+                "candidates": [
+                    {
+                        "name": "WŁOSOWICZ Jacek Władysław",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 121321,
+                        "mandate": true
+                    }
+                ]
+            },
+            "82": {
+                "constituency": {
+                    "name": "Kielce",
+                    "tableName": "nr 82, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 82 [Kielce]"
+                },
+                "candidates": [
+                    {
+                        "name": "RUSIECKI Jarosław",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 87428,
+                        "mandate": true
+                    }
+                ]
+            },
+            "83": {
+                "constituency": {
+                    "name": "Kielce",
+                    "tableName": "nr 83, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 83 [Kielce]"
+                },
+                "candidates": [
+                    {
+                        "name": "SŁOŃ Krzysztof Marek",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 97471,
+                        "mandate": true
+                    }
+                ]
+            },
+            "84": {
+                "constituency": {
+                    "name": "Elbląg",
+                    "tableName": "nr 84, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 84 [Elbląg]"
+                },
+                "candidates": [
+                    {
+                        "name": "WCISŁA Jerzy",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 57022,
+                        "mandate": true
+                    }
+                ]
+            },
+            "85": {
+                "constituency": {
+                    "name": "Elbląg",
+                    "tableName": "nr 85, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 85 [Elbląg]"
+                },
+                "candidates": [
+                    {
+                        "name": "ORZECHOWSKA Bogusława",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 51378,
+                        "mandate": true
+                    }
+                ]
+            },
+            "86": {
+                "constituency": {
+                    "name": "Olsztyn",
+                    "tableName": "nr 86, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 86 [Olsztyn]"
+                },
+                "candidates": [
+                    {
+                        "name": "STAROŃ Lidia Ewa",
+                        "commity": "KOMITET WYBORCZY WYBORCÓW LIDIA STAROŃ – ZAWSZE PO STRONIE LUDZI",
+                        "party": "INNE",
+                        "votes": 106035,
+                        "mandate": true
+                    }
+                ]
+            },
+            "87": {
+                "constituency": {
+                    "name": "Olsztyn",
+                    "tableName": "nr 87, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 87 [Olsztyn]"
+                },
+                "candidates": [
+                    {
+                        "name": "KOPICZKO Małgorzata",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 63910,
+                        "mandate": true
+                    }
+                ]
+            },
+            "88": {
+                "constituency": {
+                    "name": "Piła",
+                    "tableName": "nr 88, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 88 [Piła]"
+                },
+                "candidates": [
+                    {
+                        "name": "SZEJNFELD Adam Stanisław",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 77873,
+                        "mandate": true
+                    }
+                ]
+            },
+            "89": {
+                "constituency": {
+                    "name": "Piła",
+                    "tableName": "nr 89, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 89 [Piła]"
+                },
+                "candidates": [
+                    {
+                        "name": "LIBICKI Jan Filip",
+                        "commity": "KOMITET WYBORCZY POLSKIE STRONNICTWO LUDOWE",
+                        "party": "PSL",
+                        "votes": 105042,
+                        "mandate": true
+                    }
+                ]
+            },
+            "90": {
+                "constituency": {
+                    "name": "Poznań",
+                    "tableName": "nr 90, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 90 [Poznań]"
+                },
+                "candidates": [
+                    {
+                        "name": "ROTNICKA Jadwiga Kazimiera",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 142987,
+                        "mandate": true
+                    }
+                ]
+            },
+            "91": {
+                "constituency": {
+                    "name": "Poznań",
+                    "tableName": "nr 91, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 91 [Poznań]"
+                },
+                "candidates": [
+                    {
+                        "name": "BOSACKI Marcin Rafał",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 213492,
+                        "mandate": true
+                    }
+                ]
+            },
+            "92": {
+                "constituency": {
+                    "name": "Konin",
+                    "tableName": "nr 92, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 92 [Konin]"
+                },
+                "candidates": [
+                    {
+                        "name": "ARNDT Paweł Antoni",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 76897,
+                        "mandate": true
+                    }
+                ]
+            },
+            "93": {
+                "constituency": {
+                    "name": "Konin",
+                    "tableName": "nr 93, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 93 [Konin]"
+                },
+                "candidates": [
+                    {
+                        "name": "BUDNER Margareta",
+                        "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+                        "party": "PIS",
+                        "votes": 98117,
+                        "mandate": true
+                    }
+                ]
+            },
+            "94": {
+                "constituency": {
+                    "name": "Kalisz",
+                    "tableName": "nr 94, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 94 [Kalisz]"
+                },
+                "candidates": [
+                    {
+                        "name": "ZIEMNIAK Wojciech Stanisław",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 77057,
+                        "mandate": true
+                    }
+                ]
+            },
+            "95": {
+                "constituency": {
+                    "name": "Kalisz",
+                    "tableName": "nr 95, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 95 [Kalisz]"
+                },
+                "candidates": [
+                    {
+                        "name": "MATECKA Ewa Jolanta",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 80084,
+                        "mandate": true
+                    }
+                ]
+            },
+            "96": {
+                "constituency": {
+                    "name": "Kalisz",
+                    "tableName": "nr 96, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 96 [Kalisz]"
+                },
+                "candidates": [
+                    {
+                        "name": "PĘCHERZ Janusz Andrzej",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 72579,
+                        "mandate": true
+                    }
+                ]
+            },
+            "97": {
+                "constituency": {
+                    "name": "Szczecin",
+                    "tableName": "nr 97, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 97 [Szczecin]"
+                },
+                "candidates": [
+                    {
+                        "name": "GRODZKI Tomasz Paweł",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 149245,
+                        "mandate": true
+                    }
+                ]
+            },
+            "98": {
+                "constituency": {
+                    "name": "Szczecin",
+                    "tableName": "nr 98, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 98 [Szczecin]"
+                },
+                "candidates": [
+                    {
+                        "name": "KOCHAN Magdalena Maria ",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 135041,
+                        "mandate": true
+                    }
+                ]
+            },
+            "99": {
+                "constituency": {
+                    "name": "Koszalin",
+                    "tableName": "nr 99, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 99 [Koszalin]"
+                },
+                "candidates": [
+                    {
+                        "name": "GROMEK Janusz",
+                        "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+                        "party": "KOBW",
+                        "votes": 59348,
+                        "mandate": true
+                    }
+                ]
+            },
+            "100": {
+                "constituency": {
+                    "name": "Koszalin",
+                    "tableName": "nr 100, Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 100 [Koszalin]"
+                },
+                "candidates": [
+                    {
+                        "name": "GAWŁOWSKI Stanisław",
+                        "commity": "KOMITET WYBORCZY WYBORCÓW DEMOKRACJA OBYWATELSKA",
+                        "party": "INNE",
+                        "votes": 44956,
+                        "mandate": true
+                    }
+                ]
+            }
+        },
+        "percentage": {
+            "1": {
+                "constituency": {
+                    "name": "Legnica",
+                    "nameFormatted": "Okręg wyborczy nr 1 [Legnica]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 45420,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.4520363281154753
+                    }
+                }
+            },
+            "2": {
+                "constituency": {
+                    "name": "Legnica",
+                    "nameFormatted": "Okręg wyborczy nr 2 [Legnica]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 49938,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.4970011042146764
+                    }
+                }
+            },
+            "3": {
+                "constituency": {
+                    "name": "Legnica",
+                    "nameFormatted": "Okręg wyborczy nr 3 [Legnica]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 86312,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.8590083565016051
+                    }
+                }
+            },
+            "4": {
+                "constituency": {
+                    "name": "Wałbrzych",
+                    "nameFormatted": "Okręg wyborczy nr 4 [Wałbrzych]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 70209,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.6987454548802159
+                    }
+                }
+            },
+            "5": {
+                "constituency": {
+                    "name": "Wałbrzych",
+                    "nameFormatted": "Okręg wyborczy nr 5 [Wałbrzych]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 61035,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.607442476585822
+                    }
+                }
+            },
+            "6": {
+                "constituency": {
+                    "name": "Wrocław",
+                    "nameFormatted": "Okręg wyborczy nr 6 [Wrocław]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 133374,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.3273864646867768
+                    }
+                }
+            },
+            "7": {
+                "constituency": {
+                    "name": "Wrocław",
+                    "nameFormatted": "Okręg wyborczy nr 7 [Wrocław]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 113877,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.1333452429944073
+                    }
+                }
+            },
+            "8": {
+                "constituency": {
+                    "name": "Wrocław",
+                    "nameFormatted": "Okręg wyborczy nr 8 [Wrocław]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 122071,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.2148949055346585
+                    }
+                }
+            },
+            "9": {
+                "constituency": {
+                    "name": "Bydgoszcz",
+                    "nameFormatted": "Okręg wyborczy nr 9 [Bydgoszcz]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 150472,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.4975519675075253
+                    }
+                }
+            },
+            "10": {
+                "constituency": {
+                    "name": "Bydgoszcz",
+                    "nameFormatted": "Okręg wyborczy nr 10 [Bydgoszcz]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 79054,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.7867741057428619
+                    }
+                }
+            },
+            "11": {
+                "constituency": {
+                    "name": "Toruń",
+                    "nameFormatted": "Okręg wyborczy nr 11 [Toruń]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 98699,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.982288277161367
+                    }
+                }
+            },
+            "12": {
+                "constituency": {
+                    "name": "Toruń",
+                    "nameFormatted": "Okręg wyborczy nr 12 [Toruń]"
+                },
+                "parties": {
+                    "PSL": {
+                        "votes": 52619,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.5236833894563672
+                    }
+                }
+            },
+            "13": {
+                "constituency": {
+                    "name": "Toruń",
+                    "nameFormatted": "Okręg wyborczy nr 13 [Toruń]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 60432,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.6014412016881198
+                    }
+                }
+            },
+            "14": {
+                "constituency": {
+                    "name": "Lublin",
+                    "nameFormatted": "Okręg wyborczy nr 14 [Lublin]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 121240,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.2066244918696658
+                    }
+                }
+            },
+            "15": {
+                "constituency": {
+                    "name": "Lublin",
+                    "nameFormatted": "Okręg wyborczy nr 15 [Lublin]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 116605,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.160495289297776
+                    }
+                }
+            },
+            "16": {
+                "constituency": {
+                    "name": "Lublin",
+                    "nameFormatted": "Okręg wyborczy nr 16 [Lublin]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 84889,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.8448461439320691
+                    }
+                }
+            },
+            "17": {
+                "constituency": {
+                    "name": "Chełm",
+                    "nameFormatted": "Okręg wyborczy nr 17 [Chełm]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 68666,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.6833889587489481
+                    }
+                }
+            },
+            "18": {
+                "constituency": {
+                    "name": "Chełm",
+                    "nameFormatted": "Okręg wyborczy nr 18 [Chełm]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 61416,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.6112343268943203
+                    }
+                }
+            },
+            "19": {
+                "constituency": {
+                    "name": "Chełm",
+                    "nameFormatted": "Okręg wyborczy nr 19 [Chełm]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 112993,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.1245473540896498
+                    }
+                }
+            },
+            "20": {
+                "constituency": {
+                    "name": "Zielona Góra",
+                    "nameFormatted": "Okręg wyborczy nr 20 [Zielona Góra]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 97398,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.9693402528795919
+                    }
+                }
+            },
+            "21": {
+                "constituency": {
+                    "name": "Zielona Góra",
+                    "nameFormatted": "Okręg wyborczy nr 21 [Zielona Góra]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 69298,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.6896788521740688
+                    }
+                }
+            },
+            "22": {
+                "constituency": {
+                    "name": "Zielona Góra",
+                    "nameFormatted": "Okręg wyborczy nr 22 [Zielona Góra]"
+                },
+                "parties": {
+                    "INNE": {
+                        "votes": 63675,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.633716714943921
+                    }
+                }
+            },
+            "23": {
+                "constituency": {
+                    "name": "Łódź",
+                    "nameFormatted": "Okręg wyborczy nr 23 [Łódź]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 134414,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.3377369222217854
+                    }
+                }
+            },
+            "24": {
+                "constituency": {
+                    "name": "Łódź",
+                    "nameFormatted": "Okręg wyborczy nr 24 [Łódź]"
+                },
+                "parties": {
+                    "INNE": {
+                        "votes": 96891,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.9642944048312752
+                    }
+                }
+            },
+            "25": {
+                "constituency": {
+                    "name": "Sieradz",
+                    "nameFormatted": "Okręg wyborczy nr 25 [Sieradz]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 69998,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.6966455062841709
+                    }
+                }
+            },
+            "26": {
+                "constituency": {
+                    "name": "Sieradz",
+                    "nameFormatted": "Okręg wyborczy nr 26 [Sieradz]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 70561,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.7022486866612957
+                    }
+                }
+            },
+            "27": {
+                "constituency": {
+                    "name": "Sieradz",
+                    "nameFormatted": "Okręg wyborczy nr 27 [Sieradz]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 86706,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.8629295875292909
+                    }
+                }
+            },
+            "28": {
+                "constituency": {
+                    "name": "Piotrków Trybunalski",
+                    "nameFormatted": "Okręg wyborczy nr 28 [Piotrków Trybunalski]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 102812,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.0232223462397236
+                    }
+                }
+            },
+            "29": {
+                "constituency": {
+                    "name": "Piotrków Trybunalski",
+                    "nameFormatted": "Okręg wyborczy nr 29 [Piotrków Trybunalski]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 83024,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.8262849869101545
+                    }
+                }
+            },
+            "30": {
+                "constituency": {
+                    "name": "Kraków",
+                    "nameFormatted": "Okręg wyborczy nr 30 [Kraków]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 179338,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.7848368782821027
+                    }
+                }
+            },
+            "31": {
+                "constituency": {
+                    "name": "Kraków",
+                    "nameFormatted": "Okręg wyborczy nr 31 [Kraków]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 122468,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.2188459936513876
+                    }
+                }
+            },
+            "32": {
+                "constituency": {
+                    "name": "Kraków",
+                    "nameFormatted": "Okręg wyborczy nr 32 [Kraków]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 117177,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.1661880409420309
+                    }
+                }
+            },
+            "33": {
+                "constituency": {
+                    "name": "Kraków",
+                    "nameFormatted": "Okręg wyborczy nr 33 [Kraków]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 123080,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.2249368398162197
+                    }
+                }
+            },
+            "34": {
+                "constituency": {
+                    "name": "Tarnów",
+                    "nameFormatted": "Okręg wyborczy nr 34 [Tarnów]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 97648,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.9718283436331998
+                    }
+                }
+            },
+            "35": {
+                "constituency": {
+                    "name": "Tarnów",
+                    "nameFormatted": "Okręg wyborczy nr 35 [Tarnów]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 98317,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.9784864744898543
+                    }
+                }
+            },
+            "36": {
+                "constituency": {
+                    "name": "Nowy Sącz",
+                    "nameFormatted": "Okręg wyborczy nr 36 [Nowy Sącz]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 113454,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.1291353934393027
+                    }
+                }
+            },
+            "37": {
+                "constituency": {
+                    "name": "Nowy Sącz",
+                    "nameFormatted": "Okręg wyborczy nr 37 [Nowy Sącz]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 107119,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.0660871737428796
+                    }
+                }
+            },
+            "38": {
+                "constituency": {
+                    "name": "Płock",
+                    "nameFormatted": "Okręg wyborczy nr 38 [Płock]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 115800,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.1524836370711589
+                    }
+                }
+            },
+            "39": {
+                "constituency": {
+                    "name": "Płock",
+                    "nameFormatted": "Okręg wyborczy nr 39 [Płock]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 83808,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.8340876395134688
+                    }
+                }
+            },
+            "40": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "nameFormatted": "Okręg wyborczy nr 40 [Warszawa]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 146318,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.456209851545577
+                    }
+                }
+            },
+            "41": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "nameFormatted": "Okręg wyborczy nr 41 [Warszawa]"
+                },
+                "parties": {
+                    "PSL": {
+                        "votes": 176496,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.7565522625950885
+                    }
+                }
+            },
+            "42": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "nameFormatted": "Okręg wyborczy nr 42 [Warszawa]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 153994,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.5326041900443528
+                    }
+                }
+            },
+            "43": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "nameFormatted": "Okręg wyborczy nr 43 [Warszawa]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 157359,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.5660938915879146
+                    }
+                }
+            },
+            "44": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "nameFormatted": "Okręg wyborczy nr 44 [Warszawa]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 308627,
+                        "percentageContituency": 100,
+                        "percentageCountry": 3.071567940054927
+                    }
+                }
+            },
+            "45": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "nameFormatted": "Okręg wyborczy nr 45 [Warszawa]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 175660,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.7482320871150239
+                    }
+                }
+            },
+            "46": {
+                "constituency": {
+                    "name": "Siedlce",
+                    "nameFormatted": "Okręg wyborczy nr 46 [Siedlce]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 104694,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.0419526934328835
+                    }
+                }
+            },
+            "47": {
+                "constituency": {
+                    "name": "Siedlce",
+                    "nameFormatted": "Okręg wyborczy nr 47 [Siedlce]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 99549,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.9907477857236339
+                    }
+                }
+            },
+            "48": {
+                "constituency": {
+                    "name": "Siedlce",
+                    "nameFormatted": "Okręg wyborczy nr 48 [Siedlce]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 72101,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.7175753257035201
+                    }
+                }
+            },
+            "49": {
+                "constituency": {
+                    "name": "Radom",
+                    "nameFormatted": "Okręg wyborczy nr 49 [Radom]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 70878,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.7054035857368705
+                    }
+                }
+            },
+            "50": {
+                "constituency": {
+                    "name": "Radom",
+                    "nameFormatted": "Okręg wyborczy nr 50 [Radom]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 126296,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.2569436392706312
+                    }
+                }
+            },
+            "51": {
+                "constituency": {
+                    "name": "Opole",
+                    "nameFormatted": "Okręg wyborczy nr 51 [Opole]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 73426,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.7307622066976417
+                    }
+                }
+            },
+            "52": {
+                "constituency": {
+                    "name": "Opole",
+                    "nameFormatted": "Okręg wyborczy nr 52 [Opole]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 60597,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.603083341585501
+                    }
+                }
+            },
+            "53": {
+                "constituency": {
+                    "name": "Opole",
+                    "nameFormatted": "Okręg wyborczy nr 53 [Opole]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 53012,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.5275946681210387
+                    }
+                }
+            },
+            "54": {
+                "constituency": {
+                    "name": "Rzeszów",
+                    "nameFormatted": "Okręg wyborczy nr 54 [Rzeszów]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 94603,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.941523398254256
+                    }
+                }
+            },
+            "55": {
+                "constituency": {
+                    "name": "Rzeszów",
+                    "nameFormatted": "Okręg wyborczy nr 55 [Rzeszów]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 155404,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.546637021894701
+                    }
+                }
+            },
+            "56": {
+                "constituency": {
+                    "name": "Rzeszów",
+                    "nameFormatted": "Okręg wyborczy nr 56 [Rzeszów]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 123900,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.2330977774880534
+                    }
+                }
+            },
+            "57": {
+                "constituency": {
+                    "name": "Krosno",
+                    "nameFormatted": "Okręg wyborczy nr 57 [Krosno]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 100300,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.9982220103474718
+                    }
+                }
+            },
+            "58": {
+                "constituency": {
+                    "name": "Krosno",
+                    "nameFormatted": "Okręg wyborczy nr 58 [Krosno]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 150594,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.4987661557952858
+                    }
+                }
+            },
+            "59": {
+                "constituency": {
+                    "name": "Białystok",
+                    "nameFormatted": "Okręg wyborczy nr 59 [Białystok]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 111737,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.1120471861435242
+                    }
+                }
+            },
+            "60": {
+                "constituency": {
+                    "name": "Białystok",
+                    "nameFormatted": "Okręg wyborczy nr 60 [Białystok]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 104694,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.0419526934328835
+                    }
+                }
+            },
+            "61": {
+                "constituency": {
+                    "name": "Białystok",
+                    "nameFormatted": "Okręg wyborczy nr 61 [Białystok]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 48257,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.48027118198741725
+                    }
+                }
+            },
+            "62": {
+                "constituency": {
+                    "name": "Słupsk",
+                    "nameFormatted": "Okręg wyborczy nr 62 [Słupsk]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 123191,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.2260415521108217
+                    }
+                }
+            },
+            "63": {
+                "constituency": {
+                    "name": "Słupsk",
+                    "nameFormatted": "Okręg wyborczy nr 63 [Słupsk]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 90404,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.8997334259566584
+                    }
+                }
+            },
+            "64": {
+                "constituency": {
+                    "name": "Słupsk",
+                    "nameFormatted": "Okręg wyborczy nr 64 [Słupsk]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 106970,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.0646042716537294
+                    }
+                }
+            },
+            "65": {
+                "constituency": {
+                    "name": "Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 65 [Gdańsk]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 195056,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.9412681201429356
+                    }
+                }
+            },
+            "66": {
+                "constituency": {
+                    "name": "Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 66 [Gdańsk]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 87639,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.8722151422217556
+                    }
+                }
+            },
+            "67": {
+                "constituency": {
+                    "name": "Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 67 [Gdańsk]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 53771,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.535148511648992
+                    }
+                }
+            },
+            "68": {
+                "constituency": {
+                    "name": "Częstochowa",
+                    "nameFormatted": "Okręg wyborczy nr 68 [Częstochowa]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 82080,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.8168899562245313
+                    }
+                }
+            },
+            "69": {
+                "constituency": {
+                    "name": "Częstochowa",
+                    "nameFormatted": "Okręg wyborczy nr 69 [Częstochowa]"
+                },
+                "parties": {
+                    "SLD": {
+                        "votes": 49261,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.4902633544539064
+                    }
+                }
+            },
+            "70": {
+                "constituency": {
+                    "name": "Katowice",
+                    "nameFormatted": "Okręg wyborczy nr 70 [Katowice]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 124255,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.2366308663581767
+                    }
+                }
+            },
+            "71": {
+                "constituency": {
+                    "name": "Katowice",
+                    "nameFormatted": "Okręg wyborczy nr 71 [Katowice]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 74605,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.7424960426916564
+                    }
+                }
+            },
+            "72": {
+                "constituency": {
+                    "name": "Bielsko-Biała",
+                    "nameFormatted": "Okręg wyborczy nr 72 [Bielsko-Biała]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 97412,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.9694795859617938
+                    }
+                }
+            },
+            "73": {
+                "constituency": {
+                    "name": "Bielsko-Biała",
+                    "nameFormatted": "Okręg wyborczy nr 73 [Bielsko-Biała]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 68619,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.6829211976872699
+                    }
+                }
+            },
+            "74": {
+                "constituency": {
+                    "name": "Katowice",
+                    "nameFormatted": "Okręg wyborczy nr 74 [Katowice]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 71383,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.7104295290591583
+                    }
+                }
+            },
+            "75": {
+                "constituency": {
+                    "name": "Katowice",
+                    "nameFormatted": "Okręg wyborczy nr 75 [Katowice]"
+                },
+                "parties": {
+                    "SLD": {
+                        "votes": 64172,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.6386630393620933
+                    }
+                }
+            },
+            "76": {
+                "constituency": {
+                    "name": "Katowice",
+                    "nameFormatted": "Okręg wyborczy nr 76 [Katowice]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 82090,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.8169894798546755
+                    }
+                }
+            },
+            "77": {
+                "constituency": {
+                    "name": "Katowice",
+                    "nameFormatted": "Okręg wyborczy nr 77 [Katowice]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 83771,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.8337194020819348
+                    }
+                }
+            },
+            "78": {
+                "constituency": {
+                    "name": "Bielsko-Biała",
+                    "nameFormatted": "Okręg wyborczy nr 78 [Bielsko-Biała]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 114113,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.135694000665813
+                    }
+                }
+            },
+            "79": {
+                "constituency": {
+                    "name": "Bielsko-Biała",
+                    "nameFormatted": "Okręg wyborczy nr 79 [Bielsko-Biała]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 78655,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.7828031129001036
+                    }
+                }
+            },
+            "80": {
+                "constituency": {
+                    "name": "Katowice",
+                    "nameFormatted": "Okręg wyborczy nr 80 [Katowice]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 92332,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.9189215818484822
+                    }
+                }
+            },
+            "81": {
+                "constituency": {
+                    "name": "Kielce",
+                    "nameFormatted": "Okręg wyborczy nr 81 [Kielce]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 121321,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.2074306332738347
+                    }
+                }
+            },
+            "82": {
+                "constituency": {
+                    "name": "Kielce",
+                    "nameFormatted": "Okręg wyborczy nr 82 [Kielce]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 87428,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.8701151936257105
+                    }
+                }
+            },
+            "83": {
+                "constituency": {
+                    "name": "Kielce",
+                    "nameFormatted": "Okręg wyborczy nr 83 [Kielce]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 97471,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.9700667753796454
+                    }
+                }
+            },
+            "84": {
+                "constituency": {
+                    "name": "Elbląg",
+                    "nameFormatted": "Okręg wyborczy nr 84 [Elbląg]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 57022,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.5675036438089086
+                    }
+                }
+            },
+            "85": {
+                "constituency": {
+                    "name": "Elbląg",
+                    "nameFormatted": "Okręg wyborczy nr 85 [Elbląg]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 51378,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.5113325069554576
+                    }
+                }
+            },
+            "86": {
+                "constituency": {
+                    "name": "Olsztyn",
+                    "nameFormatted": "Okręg wyborczy nr 86 [Olsztyn]"
+                },
+                "parties": {
+                    "INNE": {
+                        "votes": 106035,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.055298812235236
+                    }
+                }
+            },
+            "87": {
+                "constituency": {
+                    "name": "Olsztyn",
+                    "nameFormatted": "Okręg wyborczy nr 87 [Olsztyn]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 63910,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.6360555202523123
+                    }
+                }
+            },
+            "88": {
+                "constituency": {
+                    "name": "Piła",
+                    "nameFormatted": "Okręg wyborczy nr 88 [Piła]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 77873,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.7750203650228182
+                    }
+                }
+            },
+            "89": {
+                "constituency": {
+                    "name": "Piła",
+                    "nameFormatted": "Okręg wyborczy nr 89 [Piła]"
+                },
+                "parties": {
+                    "PSL": {
+                        "votes": 105042,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.0454161157619057
+                    }
+                }
+            },
+            "90": {
+                "constituency": {
+                    "name": "Poznań",
+                    "nameFormatted": "Okręg wyborczy nr 90 [Poznań]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 142987,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.423058530344506
+                    }
+                }
+            },
+            "91": {
+                "constituency": {
+                    "name": "Poznań",
+                    "nameFormatted": "Okręg wyborczy nr 91 [Poznań]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 213492,
+                        "percentageContituency": 100,
+                        "percentageCountry": 2.1247498846769934
+                    }
+                }
+            },
+            "92": {
+                "constituency": {
+                    "name": "Konin",
+                    "nameFormatted": "Okręg wyborczy nr 92 [Konin]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 76897,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.7653068587207332
+                    }
+                }
+            },
+            "93": {
+                "constituency": {
+                    "name": "Konin",
+                    "nameFormatted": "Okręg wyborczy nr 93 [Konin]"
+                },
+                "parties": {
+                    "PIS": {
+                        "votes": 98117,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.976496001886968
+                    }
+                }
+            },
+            "94": {
+                "constituency": {
+                    "name": "Kalisz",
+                    "nameFormatted": "Okręg wyborczy nr 94 [Kalisz]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 77057,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.7668992368030423
+                    }
+                }
+            },
+            "95": {
+                "constituency": {
+                    "name": "Kalisz",
+                    "nameFormatted": "Okręg wyborczy nr 95 [Kalisz]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 80084,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.7970250396477262
+                    }
+                }
+            },
+            "96": {
+                "constituency": {
+                    "name": "Kalisz",
+                    "nameFormatted": "Okręg wyborczy nr 96 [Kalisz]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 72579,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.7223325552244184
+                    }
+                }
+            },
+            "97": {
+                "constituency": {
+                    "name": "Szczecin",
+                    "nameFormatted": "Okręg wyborczy nr 97 [Szczecin]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 149245,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.485340418088818
+                    }
+                }
+            },
+            "98": {
+                "constituency": {
+                    "name": "Szczecin",
+                    "nameFormatted": "Okręg wyborczy nr 98 [Szczecin]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 135041,
+                        "percentageContituency": 100,
+                        "percentageCountry": 1.343977053831834
+                    }
+                }
+            },
+            "99": {
+                "constituency": {
+                    "name": "Koszalin",
+                    "nameFormatted": "Okręg wyborczy nr 99 [Koszalin]"
+                },
+                "parties": {
+                    "KOBW": {
+                        "votes": 59348,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.5906528401804761
+                    }
+                }
+            },
+            "100": {
+                "constituency": {
+                    "name": "Koszalin",
+                    "nameFormatted": "Okręg wyborczy nr 100 [Koszalin]"
+                },
+                "parties": {
+                    "INNE": {
+                        "votes": 44956,
+                        "percentageContituency": 100,
+                        "percentageCountry": 0.4474184316767791
+                    }
+                }
+            }
+        }
+    }
+}

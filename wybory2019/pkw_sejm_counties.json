@@ -1,0 +1,3771 @@
+{
+    "config": {
+        "frequence": 61.74
+    },
+    "counties": {
+        "frequence": 58.18062992125984,
+        "dolnoslaskie": {
+            "Powiat_bolesławiecki": {
+                "frequence": 55.87,
+                "PIS": 42.44,
+                "KOBW": 20.52,
+                "SLD": 17.67,
+                "PSL": 7.21,
+                "KONF": 6.73,
+                "BEZP": 5.43,
+                "INNE": 0
+            },
+            "Powiat_dzierżoniowski": {
+                "frequence": 55.4,
+                "PIS": 43.61,
+                "KOBW": 26.51,
+                "SLD": 11.17,
+                "PSL": 10.52,
+                "KONF": 5.64,
+                "BEZP": 2.54,
+                "INNE": 0
+            },
+            "Powiat_głogowski": {
+                "frequence": 60.26,
+                "PIS": 44.28,
+                "KOBW": 26.16,
+                "SLD": 16.69,
+                "KONF": 5.29,
+                "PSL": 5.07,
+                "BEZP": 2.51,
+                "INNE": 0
+            },
+            "Powiat_górowski": {
+                "frequence": 50.39,
+                "PIS": 48.83,
+                "KOBW": 22.58,
+                "SLD": 11.26,
+                "PSL": 8.09,
+                "KONF": 5.56,
+                "BEZP": 3.68,
+                "INNE": 0
+            },
+            "Powiat_jaworski": {
+                "frequence": 54.96,
+                "PIS": 47.98,
+                "KOBW": 21.4,
+                "SLD": 13.26,
+                "PSL": 10.22,
+                "KONF": 5.39,
+                "BEZP": 1.74,
+                "INNE": 0
+            },
+            "Powiat_jeleniogórski": {
+                "frequence": 58.64,
+                "KOBW": 33.48,
+                "PIS": 31.64,
+                "SLD": 19.41,
+                "PSL": 7.67,
+                "KONF": 6.06,
+                "BEZP": 1.74,
+                "INNE": 0
+            },
+            "Powiat_kamiennogórski": {
+                "frequence": 55.19,
+                "PIS": 41.22,
+                "KOBW": 32.24,
+                "SLD": 14.9,
+                "KONF": 5.29,
+                "PSL": 4.72,
+                "BEZP": 1.63,
+                "INNE": 0
+            },
+            "Powiat_kłodzki": {
+                "frequence": 55.02,
+                "PIS": 41.34,
+                "KOBW": 31.25,
+                "SLD": 11.63,
+                "PSL": 7.86,
+                "KONF": 5.64,
+                "BEZP": 2.28,
+                "INNE": 0
+            },
+            "Powiat_legnicki": {
+                "frequence": 57.62,
+                "PIS": 48.2,
+                "KOBW": 19.79,
+                "SLD": 11.9,
+                "PSL": 10.77,
+                "KONF": 6.03,
+                "BEZP": 3.32,
+                "INNE": 0
+            },
+            "Powiat_lubański": {
+                "frequence": 54.45,
+                "PIS": 39.76,
+                "KOBW": 25.52,
+                "SLD": 18.11,
+                "PSL": 7.88,
+                "KONF": 6.14,
+                "BEZP": 2.6,
+                "INNE": 0
+            },
+            "Powiat_lubiński": {
+                "frequence": 62.35,
+                "PIS": 48.96,
+                "KOBW": 20.54,
+                "SLD": 14.03,
+                "BEZP": 6.03,
+                "KONF": 5.81,
+                "PSL": 4.61,
+                "INNE": 0
+            },
+            "Powiat_lwówecki": {
+                "frequence": 51.75,
+                "PIS": 39.99,
+                "KOBW": 21.16,
+                "SLD": 16.21,
+                "PSL": 13.74,
+                "KONF": 6.34,
+                "BEZP": 2.56,
+                "INNE": 0
+            },
+            "Powiat_milicki": {
+                "frequence": 55.69,
+                "PIS": 46.22,
+                "KOBW": 18.21,
+                "PSL": 15.18,
+                "SLD": 11.1,
+                "KONF": 5.57,
+                "BEZP": 3.73,
+                "INNE": 0
+            },
+            "Powiat_oleśnicki": {
+                "frequence": 57.91,
+                "PIS": 40.38,
+                "KOBW": 26.86,
+                "SLD": 12.24,
+                "PSL": 9.18,
+                "KONF": 6.84,
+                "BEZP": 4.5,
+                "INNE": 0
+            },
+            "Powiat_oławski": {
+                "frequence": 63.06,
+                "PIS": 43.29,
+                "KOBW": 27.62,
+                "SLD": 11.51,
+                "KONF": 7.06,
+                "PSL": 6.84,
+                "BEZP": 3.67,
+                "INNE": 0
+            },
+            "Powiat_polkowicki": {
+                "frequence": 57.92,
+                "PIS": 54.61,
+                "KOBW": 17.43,
+                "SLD": 12.14,
+                "KONF": 6.26,
+                "PSL": 6.24,
+                "BEZP": 3.31,
+                "INNE": 0
+            },
+            "Powiat_strzeliński": {
+                "frequence": 56.71,
+                "PIS": 48.02,
+                "KOBW": 26.46,
+                "PSL": 9.9,
+                "SLD": 7.81,
+                "KONF": 5.51,
+                "BEZP": 2.3,
+                "INNE": 0
+            },
+            "Powiat_średzki": {
+                "frequence": 58.18,
+                "PIS": 44.27,
+                "KOBW": 25.89,
+                "SLD": 11.78,
+                "PSL": 7.74,
+                "KONF": 7.08,
+                "BEZP": 3.24,
+                "INNE": 0
+            },
+            "Powiat_świdnicki": {
+                "frequence": 58.7,
+                "PIS": 41.14,
+                "KOBW": 31.04,
+                "SLD": 14.27,
+                "KONF": 6.3,
+                "PSL": 5.22,
+                "BEZP": 2.03,
+                "INNE": 0
+            },
+            "Powiat_trzebnicki": {
+                "frequence": 60.29,
+                "PIS": 42.92,
+                "KOBW": 26.9,
+                "SLD": 11.68,
+                "KONF": 6.88,
+                "PSL": 6.84,
+                "BEZP": 4.78,
+                "INNE": 0
+            },
+            "Powiat_wałbrzyski": {
+                "frequence": 54.2,
+                "PIS": 36.69,
+                "KOBW": 36.56,
+                "SLD": 12.82,
+                "PSL": 6.5,
+                "KONF": 5.14,
+                "BEZP": 2.28,
+                "INNE": 0
+            },
+            "Powiat_wołowski": {
+                "frequence": 55.43,
+                "PIS": 45.68,
+                "KOBW": 25.04,
+                "SLD": 12.87,
+                "PSL": 6.79,
+                "KONF": 6.43,
+                "BEZP": 3.18,
+                "INNE": 0
+            },
+            "Powiat_wrocławski": {
+                "frequence": 68.43,
+                "PIS": 35.34,
+                "KOBW": 32.72,
+                "SLD": 12.89,
+                "PSL": 7.43,
+                "KONF": 7.34,
+                "BEZP": 4.28,
+                "INNE": 0
+            },
+            "Powiat_ząbkowicki": {
+                "frequence": 52.63,
+                "PIS": 46.74,
+                "KOBW": 24.79,
+                "PSL": 12.74,
+                "SLD": 9.39,
+                "KONF": 4.48,
+                "BEZP": 1.87,
+                "INNE": 0
+            },
+            "Powiat_zgorzelecki": {
+                "frequence": 54.69,
+                "PIS": 41.4,
+                "KOBW": 23.6,
+                "SLD": 15.87,
+                "PSL": 10.41,
+                "KONF": 5.9,
+                "BEZP": 2.82,
+                "INNE": 0
+            },
+            "Powiat_złotoryjski": {
+                "frequence": 54.14,
+                "PIS": 44.9,
+                "KOBW": 22.84,
+                "SLD": 17.92,
+                "PSL": 8.25,
+                "KONF": 4.55,
+                "BEZP": 1.55,
+                "INNE": 0
+            },
+            "Miasto_Jelenia Góra": {
+                "frequence": 62.9,
+                "KOBW": 34.81,
+                "PIS": 31.11,
+                "SLD": 21.93,
+                "PSL": 5.39,
+                "KONF": 5.23,
+                "BEZP": 1.52,
+                "INNE": 0
+            },
+            "Miasto_Legnica": {
+                "frequence": 59.87,
+                "PIS": 39.72,
+                "KOBW": 28.32,
+                "SLD": 17.41,
+                "KONF": 6.35,
+                "PSL": 4.98,
+                "BEZP": 3.22,
+                "INNE": 0
+            },
+            "Miasto_Wrocław": {
+                "frequence": 71.17,
+                "KOBW": 37.07,
+                "PIS": 28.92,
+                "SLD": 18.33,
+                "KONF": 8.01,
+                "PSL": 5.07,
+                "BEZP": 2.61,
+                "INNE": 0
+            },
+            "Miasto_Wałbrzych": {
+                "frequence": 56.11,
+                "KOBW": 42.15,
+                "PIS": 33.89,
+                "SLD": 13.09,
+                "KONF": 4.24,
+                "PSL": 3.59,
+                "BEZP": 3.04,
+                "INNE": 0
+            }
+        },
+        "kujawsko-pomorskie": {
+            "Powiat_aleksandrowski": {
+                "frequence": 56.96,
+                "PIS": 45.41,
+                "KOBW": 20.9,
+                "SLD": 15.33,
+                "PSL": 10.23,
+                "KONF": 6.22,
+                "BEZP": 1.91,
+                "INNE": 0
+            },
+            "Powiat_brodnicki": {
+                "frequence": 54.24,
+                "PIS": 42.88,
+                "PSL": 29.13,
+                "KOBW": 13.92,
+                "SLD": 8.61,
+                "KONF": 4.71,
+                "BEZP": 0.75,
+                "INNE": 0
+            },
+            "Powiat_bydgoski": {
+                "frequence": 61.97,
+                "KOBW": 33.34,
+                "PIS": 32.87,
+                "SLD": 15.71,
+                "PSL": 8.6,
+                "KONF": 8.22,
+                "BEZP": 1.26,
+                "INNE": 0
+            },
+            "Powiat_chełmiński": {
+                "frequence": 52.54,
+                "PIS": 39.86,
+                "KOBW": 28.92,
+                "SLD": 12.03,
+                "PSL": 11.28,
+                "KONF": 6.7,
+                "BEZP": 1.21,
+                "INNE": 0
+            },
+            "Powiat_golubsko-dobrzyński": {
+                "frequence": 52.16,
+                "PIS": 49.98,
+                "KOBW": 19.17,
+                "PSL": 13.13,
+                "SLD": 10.45,
+                "KONF": 6.2,
+                "BEZP": 1.08,
+                "INNE": 0
+            },
+            "Powiat_grudziądzki": {
+                "frequence": 49.48,
+                "PIS": 47.76,
+                "KOBW": 20.03,
+                "PSL": 12.91,
+                "SLD": 11.78,
+                "KONF": 6.19,
+                "BEZP": 1.33,
+                "INNE": 0
+            },
+            "Powiat_inowrocławski": {
+                "frequence": 57.47,
+                "PIS": 37.66,
+                "KOBW": 30,
+                "SLD": 13.49,
+                "PSL": 11.45,
+                "KONF": 5.82,
+                "BEZP": 1.58,
+                "INNE": 0
+            },
+            "Powiat_lipnowski": {
+                "frequence": 49.08,
+                "PIS": 47.62,
+                "PSL": 23.29,
+                "KOBW": 12.54,
+                "SLD": 10.75,
+                "KONF": 4.91,
+                "BEZP": 0.89,
+                "INNE": 0
+            },
+            "Powiat_mogileński": {
+                "frequence": 54.36,
+                "PIS": 40.86,
+                "KOBW": 20.57,
+                "PSL": 20.53,
+                "SLD": 11.36,
+                "KONF": 5.63,
+                "BEZP": 1.06,
+                "INNE": 0
+            },
+            "Powiat_nakielski": {
+                "frequence": 54.84,
+                "PIS": 40.14,
+                "KOBW": 25.18,
+                "SLD": 14.35,
+                "PSL": 11.24,
+                "KONF": 7.31,
+                "BEZP": 1.77,
+                "INNE": 0
+            },
+            "Powiat_radziejowski": {
+                "frequence": 51.21,
+                "PIS": 55.69,
+                "KOBW": 15.08,
+                "PSL": 12.28,
+                "SLD": 11.24,
+                "KONF": 4.53,
+                "BEZP": 1.18,
+                "INNE": 0
+            },
+            "Powiat_rypiński": {
+                "frequence": 50.43,
+                "PIS": 49.81,
+                "PSL": 16.04,
+                "KOBW": 15.95,
+                "SLD": 11.45,
+                "KONF": 5.72,
+                "BEZP": 1.02,
+                "INNE": 0
+            },
+            "Powiat_sępoleński": {
+                "frequence": 51.72,
+                "PIS": 42.32,
+                "KOBW": 26,
+                "SLD": 12.54,
+                "PSL": 10.95,
+                "KONF": 6.14,
+                "BEZP": 2.04,
+                "INNE": 0
+            },
+            "Powiat_świecki": {
+                "frequence": 53.41,
+                "PIS": 40.5,
+                "KOBW": 31.2,
+                "SLD": 10.21,
+                "PSL": 9.77,
+                "KONF": 7.25,
+                "BEZP": 1.07,
+                "INNE": 0
+            },
+            "Powiat_toruński": {
+                "frequence": 57.82,
+                "PIS": 39.89,
+                "KOBW": 30.53,
+                "SLD": 12.41,
+                "PSL": 8.74,
+                "KONF": 7.39,
+                "BEZP": 1.03,
+                "INNE": 0
+            },
+            "Powiat_tucholski": {
+                "frequence": 56.05,
+                "PIS": 48.58,
+                "KOBW": 24.12,
+                "PSL": 9.53,
+                "SLD": 9.12,
+                "KONF": 7.76,
+                "BEZP": 0.89,
+                "INNE": 0
+            },
+            "Powiat_wąbrzeski": {
+                "frequence": 50.68,
+                "PIS": 39.94,
+                "KOBW": 30.91,
+                "PSL": 10.53,
+                "SLD": 10.28,
+                "KONF": 6.62,
+                "BEZP": 1.72,
+                "INNE": 0
+            },
+            "Powiat_włocławski": {
+                "frequence": 50.29,
+                "PIS": 51.12,
+                "KOBW": 16.33,
+                "SLD": 14.51,
+                "PSL": 11.44,
+                "KONF": 5.25,
+                "BEZP": 1.34,
+                "INNE": 0
+            },
+            "Powiat_żniński": {
+                "frequence": 55.47,
+                "PIS": 41.89,
+                "KOBW": 29.12,
+                "PSL": 11.84,
+                "SLD": 10.06,
+                "KONF": 5.72,
+                "BEZP": 1.38,
+                "INNE": 0
+            },
+            "Miasto_Bydgoszcz": {
+                "frequence": 66.77,
+                "KOBW": 34.74,
+                "PIS": 31.94,
+                "SLD": 19.23,
+                "KONF": 7.46,
+                "PSL": 5.52,
+                "BEZP": 1.11,
+                "INNE": 0
+            },
+            "Miasto_Grudziądz": {
+                "frequence": 57.49,
+                "PIS": 34.31,
+                "KOBW": 30.9,
+                "SLD": 19.52,
+                "PSL": 7.94,
+                "KONF": 6.32,
+                "BEZP": 1.01,
+                "INNE": 0
+            },
+            "Miasto_Toruń": {
+                "frequence": 66.62,
+                "KOBW": 38.66,
+                "PIS": 31.55,
+                "SLD": 16.39,
+                "KONF": 7.67,
+                "PSL": 4.82,
+                "BEZP": 0.9,
+                "INNE": 0
+            },
+            "Miasto_Włocławek": {
+                "frequence": 58.62,
+                "PIS": 34.37,
+                "KOBW": 29.1,
+                "SLD": 23.51,
+                "KONF": 5.87,
+                "PSL": 5.53,
+                "BEZP": 1.63,
+                "INNE": 0
+            }
+        },
+        "lubelskie": {
+            "Powiat_bialski": {
+                "frequence": 56.57,
+                "PIS": 60.89,
+                "KOBW": 17.94,
+                "PSL": 10.79,
+                "KONF": 5.35,
+                "SLD": 3.97,
+                "BEZP": 1.06,
+                "INNE": 0
+            },
+            "Powiat_biłgorajski": {
+                "frequence": 56.77,
+                "PIS": 65,
+                "PSL": 14.2,
+                "KOBW": 7.81,
+                "KONF": 6.8,
+                "SLD": 5.49,
+                "BEZP": 0.7,
+                "INNE": 0
+            },
+            "Powiat_chełmski": {
+                "frequence": 48.53,
+                "PIS": 61.19,
+                "KOBW": 15.8,
+                "PSL": 11.02,
+                "KONF": 6.03,
+                "SLD": 5.07,
+                "BEZP": 0.89,
+                "INNE": 0
+            },
+            "Powiat_hrubieszowski": {
+                "frequence": 48.92,
+                "PIS": 62.38,
+                "PSL": 12.58,
+                "SLD": 12.02,
+                "KOBW": 7.66,
+                "KONF": 4.58,
+                "BEZP": 0.78,
+                "INNE": 0
+            },
+            "Powiat_janowski": {
+                "frequence": 60.21,
+                "PIS": 77.19,
+                "PSL": 6.62,
+                "KOBW": 6.03,
+                "KONF": 5.33,
+                "SLD": 4.29,
+                "BEZP": 0.54,
+                "INNE": 0
+            },
+            "Powiat_krasnostawski": {
+                "frequence": 51.89,
+                "PIS": 61.29,
+                "KOBW": 14.52,
+                "PSL": 9.78,
+                "SLD": 7.35,
+                "KONF": 6.02,
+                "BEZP": 1.04,
+                "INNE": 0
+            },
+            "Powiat_kraśnicki": {
+                "frequence": 56,
+                "PIS": 62.46,
+                "PSL": 12.88,
+                "KOBW": 12.77,
+                "SLD": 6.07,
+                "KONF": 4.97,
+                "BEZP": 0.85,
+                "INNE": 0
+            },
+            "Powiat_lubartowski": {
+                "frequence": 58.15,
+                "PIS": 61.81,
+                "KOBW": 10.94,
+                "PSL": 10.7,
+                "KONF": 9.08,
+                "SLD": 5.99,
+                "BEZP": 1.49,
+                "INNE": 0
+            },
+            "Powiat_lubelski": {
+                "frequence": 60.77,
+                "PIS": 58,
+                "KOBW": 14.74,
+                "PSL": 12.72,
+                "KONF": 7.21,
+                "SLD": 6.09,
+                "BEZP": 1.24,
+                "INNE": 0
+            },
+            "Powiat_łęczyński": {
+                "frequence": 57.24,
+                "PIS": 60.12,
+                "KOBW": 17.27,
+                "PSL": 8.08,
+                "KONF": 7.72,
+                "SLD": 5.41,
+                "BEZP": 1.41,
+                "INNE": 0
+            },
+            "Powiat_łukowski": {
+                "frequence": 59.59,
+                "PIS": 68.02,
+                "PSL": 10.51,
+                "KOBW": 8.89,
+                "KONF": 6.01,
+                "SLD": 4.87,
+                "BEZP": 1.7,
+                "INNE": 0
+            },
+            "Powiat_opolski": {
+                "frequence": 52.45,
+                "PIS": 62.52,
+                "KOBW": 12.28,
+                "PSL": 10.8,
+                "SLD": 7.12,
+                "KONF": 5.97,
+                "BEZP": 1.32,
+                "INNE": 0
+            },
+            "Powiat_parczewski": {
+                "frequence": 54.38,
+                "PIS": 59.41,
+                "PSL": 14.17,
+                "KOBW": 11.82,
+                "KONF": 6.64,
+                "SLD": 6.4,
+                "BEZP": 1.57,
+                "INNE": 0
+            },
+            "Powiat_puławski": {
+                "frequence": 60.83,
+                "PIS": 53.91,
+                "KOBW": 20.41,
+                "SLD": 8.34,
+                "PSL": 8.05,
+                "KONF": 7.86,
+                "BEZP": 1.42,
+                "INNE": 0
+            },
+            "Powiat_radzyński": {
+                "frequence": 56.55,
+                "PIS": 64.29,
+                "PSL": 13.95,
+                "KOBW": 8.47,
+                "KONF": 5.55,
+                "SLD": 5.4,
+                "BEZP": 2.33,
+                "INNE": 0
+            },
+            "Powiat_rycki": {
+                "frequence": 59.52,
+                "PIS": 60.54,
+                "PSL": 13.9,
+                "KOBW": 10.68,
+                "SLD": 8.55,
+                "KONF": 5.13,
+                "BEZP": 1.2,
+                "INNE": 0
+            },
+            "Powiat_świdnicki": {
+                "frequence": 59.68,
+                "PIS": 56.2,
+                "KOBW": 18.29,
+                "PSL": 9.85,
+                "SLD": 7.83,
+                "KONF": 6.57,
+                "BEZP": 1.25,
+                "INNE": 0
+            },
+            "Powiat_tomaszowski": {
+                "frequence": 52.11,
+                "PIS": 63.25,
+                "PSL": 15.73,
+                "KOBW": 8.94,
+                "KONF": 5.55,
+                "SLD": 5.55,
+                "BEZP": 0.98,
+                "INNE": 0
+            },
+            "Powiat_włodawski": {
+                "frequence": 53.13,
+                "PIS": 52.84,
+                "PSL": 18.02,
+                "KOBW": 14.4,
+                "SLD": 8.45,
+                "KONF": 5.41,
+                "BEZP": 0.87,
+                "INNE": 0
+            },
+            "Powiat_zamojski": {
+                "frequence": 53.6,
+                "PIS": 66.97,
+                "PSL": 12.61,
+                "KOBW": 8.1,
+                "KONF": 5.26,
+                "SLD": 5.26,
+                "BEZP": 1.8,
+                "INNE": 0
+            },
+            "Miasto_Biała Podlaska": {
+                "frequence": 61.67,
+                "PIS": 48.13,
+                "KOBW": 32.31,
+                "KONF": 6.69,
+                "SLD": 6.12,
+                "PSL": 5.76,
+                "BEZP": 0.98,
+                "INNE": 0
+            },
+            "Miasto_Chełm": {
+                "frequence": 56.75,
+                "PIS": 46.16,
+                "KOBW": 29.32,
+                "SLD": 11.06,
+                "KONF": 6.3,
+                "PSL": 6.2,
+                "BEZP": 0.96,
+                "INNE": 0
+            },
+            "Miasto_Lublin": {
+                "frequence": 66.24,
+                "PIS": 42.52,
+                "KOBW": 31.9,
+                "SLD": 10.82,
+                "KONF": 7.79,
+                "PSL": 5.55,
+                "BEZP": 1.42,
+                "INNE": 0
+            },
+            "Miasto_Zamość": {
+                "frequence": 56.99,
+                "PIS": 49.11,
+                "KOBW": 20.87,
+                "SLD": 11.84,
+                "PSL": 10.88,
+                "KONF": 6.01,
+                "BEZP": 1.28,
+                "INNE": 0
+            }
+        },
+        "lubuskie": {
+            "Powiat_gorzowski": {
+                "frequence": 56.86,
+                "PIS": 34.73,
+                "KOBW": 31.88,
+                "SLD": 15.41,
+                "PSL": 10.05,
+                "KONF": 7.94,
+                "INNE": 0
+            },
+            "Powiat_krośnieński": {
+                "frequence": 53.13,
+                "PIS": 31.67,
+                "KOBW": 27.31,
+                "PSL": 22.39,
+                "SLD": 13.41,
+                "KONF": 5.23,
+                "INNE": 0
+            },
+            "Powiat_międzyrzecki": {
+                "frequence": 55.69,
+                "PIS": 34.4,
+                "KOBW": 27.96,
+                "SLD": 16.12,
+                "PSL": 14.43,
+                "KONF": 7.09,
+                "INNE": 0
+            },
+            "Powiat_nowosolski": {
+                "frequence": 56.58,
+                "PIS": 37.49,
+                "KOBW": 29.82,
+                "SLD": 13.94,
+                "PSL": 11.26,
+                "KONF": 7.48,
+                "INNE": 0
+            },
+            "Powiat_słubicki": {
+                "frequence": 53.98,
+                "KOBW": 34.39,
+                "PIS": 32.29,
+                "SLD": 16.51,
+                "PSL": 9.65,
+                "KONF": 7.15,
+                "INNE": 0
+            },
+            "Powiat_strzelecko-drezdenecki": {
+                "frequence": 51.21,
+                "PIS": 39.23,
+                "KOBW": 26.75,
+                "PSL": 15.53,
+                "SLD": 12.66,
+                "KONF": 5.83,
+                "INNE": 0
+            },
+            "Powiat_sulęciński": {
+                "frequence": 51.64,
+                "PIS": 40.27,
+                "KOBW": 27.21,
+                "SLD": 13.88,
+                "PSL": 10.96,
+                "KONF": 7.68,
+                "INNE": 0
+            },
+            "Powiat_świebodziński": {
+                "frequence": 55.86,
+                "PIS": 35.17,
+                "KOBW": 30.48,
+                "SLD": 13.86,
+                "PSL": 12.91,
+                "KONF": 7.57,
+                "INNE": 0
+            },
+            "Powiat_zielonogórski": {
+                "frequence": 56.96,
+                "PIS": 33.4,
+                "KOBW": 30.57,
+                "SLD": 16.82,
+                "PSL": 11.55,
+                "KONF": 7.65,
+                "INNE": 0
+            },
+            "Powiat_żagański": {
+                "frequence": 52.66,
+                "PIS": 39.83,
+                "KOBW": 25.82,
+                "SLD": 15.02,
+                "PSL": 11.82,
+                "KONF": 7.51,
+                "INNE": 0
+            },
+            "Powiat_żarski": {
+                "frequence": 53.24,
+                "PIS": 35.32,
+                "KOBW": 28.81,
+                "SLD": 14.64,
+                "PSL": 12.76,
+                "KONF": 8.47,
+                "INNE": 0
+            },
+            "Powiat_wschowski": {
+                "frequence": 53.02,
+                "PIS": 48.17,
+                "KOBW": 21.08,
+                "SLD": 12.47,
+                "PSL": 11.78,
+                "KONF": 6.5,
+                "INNE": 0
+            },
+            "Miasto_Gorzów Wielkopolski": {
+                "frequence": 61.82,
+                "KOBW": 39.18,
+                "PIS": 32.57,
+                "SLD": 15.14,
+                "KONF": 7.49,
+                "PSL": 5.61,
+                "INNE": 0
+            },
+            "Miasto_Zielona Góra": {
+                "frequence": 68.07,
+                "KOBW": 35.66,
+                "PIS": 26.68,
+                "SLD": 19.83,
+                "PSL": 11.43,
+                "KONF": 6.39,
+                "INNE": 0
+            }
+        },
+        "lodzkie": {
+            "Powiat_bełchatowski": {
+                "frequence": 63.88,
+                "PIS": 59.73,
+                "KOBW": 11.67,
+                "SLD": 11.58,
+                "KONF": 10,
+                "PSL": 7.03,
+                "INNE": 0
+            },
+            "Powiat_kutnowski": {
+                "frequence": 56.32,
+                "PIS": 52.26,
+                "KOBW": 17.9,
+                "SLD": 14.97,
+                "PSL": 7.95,
+                "KONF": 5.26,
+                "BEZP": 1.66,
+                "INNE": 0
+            },
+            "Powiat_łaski": {
+                "frequence": 61.15,
+                "PIS": 50.15,
+                "KOBW": 21.27,
+                "SLD": 10.72,
+                "PSL": 9.43,
+                "KONF": 6.62,
+                "BEZP": 1.81,
+                "INNE": 0
+            },
+            "Powiat_łęczycki": {
+                "frequence": 54.66,
+                "PIS": 57.62,
+                "KOBW": 14.23,
+                "PSL": 11.91,
+                "SLD": 10.01,
+                "KONF": 4.88,
+                "BEZP": 1.34,
+                "INNE": 0
+            },
+            "Powiat_łowicki": {
+                "frequence": 59.77,
+                "PIS": 56.11,
+                "PSL": 13.22,
+                "SLD": 12.61,
+                "KOBW": 11.37,
+                "KONF": 5.59,
+                "BEZP": 1.1,
+                "INNE": 0
+            },
+            "Powiat_łódzki wschodni": {
+                "frequence": 67.93,
+                "PIS": 44.59,
+                "KOBW": 26.99,
+                "SLD": 13.02,
+                "KONF": 7.74,
+                "PSL": 7.67,
+                "INNE": 0
+            },
+            "Powiat_opoczyński": {
+                "frequence": 63.58,
+                "PIS": 64.39,
+                "PSL": 18.42,
+                "KOBW": 6.88,
+                "SLD": 5.66,
+                "KONF": 4.64,
+                "INNE": 0
+            },
+            "Powiat_pabianicki": {
+                "frequence": 66.46,
+                "PIS": 39.13,
+                "KOBW": 30.48,
+                "SLD": 15.53,
+                "KONF": 6.71,
+                "PSL": 5.98,
+                "BEZP": 2.17,
+                "INNE": 0
+            },
+            "Powiat_pajęczański": {
+                "frequence": 59.98,
+                "PIS": 62.33,
+                "PSL": 12.49,
+                "KOBW": 10.7,
+                "SLD": 8.28,
+                "KONF": 5.41,
+                "BEZP": 0.79,
+                "INNE": 0
+            },
+            "Powiat_piotrkowski": {
+                "frequence": 60.72,
+                "PIS": 64.74,
+                "PSL": 10.05,
+                "KOBW": 9.59,
+                "SLD": 9.1,
+                "KONF": 6.51,
+                "INNE": 0
+            },
+            "Powiat_poddębicki": {
+                "frequence": 58.14,
+                "PIS": 55.95,
+                "PSL": 15.55,
+                "KOBW": 13.53,
+                "SLD": 9.01,
+                "KONF": 4.96,
+                "BEZP": 1,
+                "INNE": 0
+            },
+            "Powiat_radomszczański": {
+                "frequence": 57.85,
+                "PIS": 55.62,
+                "KOBW": 22.4,
+                "SLD": 9.81,
+                "PSL": 6.35,
+                "KONF": 5.81,
+                "INNE": 0
+            },
+            "Powiat_rawski": {
+                "frequence": 58.52,
+                "PIS": 58,
+                "PSL": 17.88,
+                "KOBW": 10.01,
+                "SLD": 7.72,
+                "KONF": 6.39,
+                "INNE": 0
+            },
+            "Powiat_sieradzki": {
+                "frequence": 59.7,
+                "PIS": 54.45,
+                "KOBW": 18.24,
+                "PSL": 10.47,
+                "SLD": 9.69,
+                "KONF": 6.19,
+                "BEZP": 0.96,
+                "INNE": 0
+            },
+            "Powiat_skierniewicki": {
+                "frequence": 61.26,
+                "PIS": 65.43,
+                "PSL": 11.82,
+                "KOBW": 9.54,
+                "SLD": 6.65,
+                "KONF": 6.56,
+                "INNE": 0
+            },
+            "Powiat_tomaszowski": {
+                "frequence": 61.78,
+                "PIS": 52.02,
+                "KOBW": 18.14,
+                "PSL": 12.01,
+                "SLD": 11.37,
+                "KONF": 6.46,
+                "INNE": 0
+            },
+            "Powiat_wieluński": {
+                "frequence": 60.05,
+                "PIS": 55.19,
+                "PSL": 14.74,
+                "KOBW": 14.46,
+                "SLD": 9.49,
+                "KONF": 5.33,
+                "BEZP": 0.79,
+                "INNE": 0
+            },
+            "Powiat_wieruszowski": {
+                "frequence": 57.93,
+                "PIS": 54.1,
+                "KOBW": 14.37,
+                "PSL": 13.22,
+                "SLD": 10.24,
+                "KONF": 6.91,
+                "BEZP": 1.16,
+                "INNE": 0
+            },
+            "Powiat_zduńskowolski": {
+                "frequence": 61.72,
+                "PIS": 47.59,
+                "KOBW": 19.37,
+                "PSL": 15.74,
+                "SLD": 10.16,
+                "KONF": 6.24,
+                "BEZP": 0.9,
+                "INNE": 0
+            },
+            "Powiat_zgierski": {
+                "frequence": 64.94,
+                "PIS": 40.81,
+                "KOBW": 30.3,
+                "SLD": 13.83,
+                "PSL": 6.61,
+                "KONF": 5.77,
+                "BEZP": 2.68,
+                "INNE": 0
+            },
+            "Powiat_brzeziński": {
+                "frequence": 61.79,
+                "PIS": 53.62,
+                "KOBW": 16.9,
+                "PSL": 11.89,
+                "SLD": 10.8,
+                "KONF": 6.79,
+                "INNE": 0
+            },
+            "Miasto_Łódź": {
+                "frequence": 68.66,
+                "KOBW": 37.53,
+                "PIS": 30.82,
+                "SLD": 21.23,
+                "KONF": 6.53,
+                "PSL": 3.9,
+                "INNE": 0
+            },
+            "Miasto_Piotrków Trybunalski": {
+                "frequence": 63.81,
+                "PIS": 43.85,
+                "KOBW": 23.24,
+                "SLD": 20.42,
+                "KONF": 6.38,
+                "PSL": 6.1,
+                "INNE": 0
+            },
+            "Miasto_Skierniewice": {
+                "frequence": 66.78,
+                "PIS": 40.64,
+                "KOBW": 27.55,
+                "SLD": 14.73,
+                "PSL": 10.18,
+                "KONF": 6.89,
+                "INNE": 0
+            }
+        },
+        "malopolskie": {
+            "Powiat_bocheński": {
+                "frequence": 63.83,
+                "PIS": 65.08,
+                "KOBW": 11.86,
+                "PSL": 11.41,
+                "KONF": 6.62,
+                "SLD": 5.03,
+                "INNE": 0
+            },
+            "Powiat_brzeski": {
+                "frequence": 59.29,
+                "PIS": 63.62,
+                "PSL": 13.49,
+                "KOBW": 10.14,
+                "KONF": 8.44,
+                "SLD": 4.31,
+                "INNE": 0
+            },
+            "Powiat_chrzanowski": {
+                "frequence": 62.82,
+                "PIS": 44.39,
+                "KOBW": 30.18,
+                "SLD": 12.79,
+                "KONF": 7.15,
+                "PSL": 5.48,
+                "INNE": 0
+            },
+            "Powiat_dąbrowski": {
+                "frequence": 53.63,
+                "PIS": 70.19,
+                "PSL": 14.43,
+                "KONF": 6.56,
+                "KOBW": 5.81,
+                "SLD": 3.02,
+                "INNE": 0
+            },
+            "Powiat_gorlicki": {
+                "frequence": 57.62,
+                "PIS": 61.92,
+                "KOBW": 15.07,
+                "PSL": 10.43,
+                "SLD": 6.45,
+                "KONF": 6.14,
+                "INNE": 0
+            },
+            "Powiat_krakowski": {
+                "frequence": 65.44,
+                "PIS": 50.85,
+                "KOBW": 22.69,
+                "SLD": 8.67,
+                "PSL": 8.4,
+                "KONF": 7.81,
+                "BEZP": 1.32,
+                "PRAW": 0.26,
+                "INNE": 0
+            },
+            "Powiat_limanowski": {
+                "frequence": 62.04,
+                "PIS": 71.82,
+                "PSL": 10.9,
+                "KOBW": 7.23,
+                "KONF": 6.86,
+                "SLD": 3.2,
+                "INNE": 0
+            },
+            "Powiat_miechowski": {
+                "frequence": 55.94,
+                "PIS": 61.59,
+                "KOBW": 11.94,
+                "PSL": 11.05,
+                "SLD": 7.9,
+                "KONF": 5.69,
+                "BEZP": 1.59,
+                "PRAW": 0.24,
+                "INNE": 0
+            },
+            "Powiat_myślenicki": {
+                "frequence": 63.97,
+                "PIS": 62.33,
+                "KOBW": 17.83,
+                "KONF": 8.02,
+                "PSL": 6.6,
+                "SLD": 5.22,
+                "INNE": 0
+            },
+            "Powiat_nowosądecki": {
+                "frequence": 63.98,
+                "PIS": 71.84,
+                "KOBW": 10.2,
+                "KONF": 6.53,
+                "PSL": 6.29,
+                "SLD": 5.14,
+                "INNE": 0
+            },
+            "Powiat_nowotarski": {
+                "frequence": 54.52,
+                "PIS": 66.69,
+                "KOBW": 14.15,
+                "KONF": 7.73,
+                "PSL": 6.18,
+                "SLD": 5.25,
+                "INNE": 0
+            },
+            "Powiat_olkuski": {
+                "frequence": 63.87,
+                "PIS": 51.11,
+                "KOBW": 20.48,
+                "PSL": 10.81,
+                "SLD": 9.76,
+                "KONF": 6.82,
+                "BEZP": 0.83,
+                "PRAW": 0.19,
+                "INNE": 0
+            },
+            "Powiat_oświęcimski": {
+                "frequence": 64.96,
+                "PIS": 48.32,
+                "KOBW": 27.31,
+                "SLD": 10.38,
+                "PSL": 7.73,
+                "KONF": 6.25,
+                "INNE": 0
+            },
+            "Powiat_proszowicki": {
+                "frequence": 55.3,
+                "PIS": 62.56,
+                "PSL": 18.44,
+                "KOBW": 8.05,
+                "KONF": 5.63,
+                "SLD": 5.33,
+                "INNE": 0
+            },
+            "Powiat_suski": {
+                "frequence": 59.54,
+                "PIS": 62.83,
+                "KOBW": 15.39,
+                "PSL": 8.14,
+                "KONF": 7.66,
+                "SLD": 5.98,
+                "INNE": 0
+            },
+            "Powiat_tarnowski": {
+                "frequence": 58.84,
+                "PIS": 67.52,
+                "PSL": 12.73,
+                "KOBW": 9.06,
+                "KONF": 6.46,
+                "SLD": 4.24,
+                "INNE": 0
+            },
+            "Powiat_tatrzański": {
+                "frequence": 60.36,
+                "PIS": 56.03,
+                "KOBW": 23.79,
+                "KONF": 7.72,
+                "SLD": 6.82,
+                "PSL": 5.64,
+                "INNE": 0
+            },
+            "Powiat_wadowicki": {
+                "frequence": 61.78,
+                "PIS": 54.03,
+                "KOBW": 21.14,
+                "PSL": 10.95,
+                "SLD": 7.15,
+                "KONF": 6.73,
+                "INNE": 0
+            },
+            "Powiat_wielicki": {
+                "frequence": 65.2,
+                "PIS": 48.41,
+                "KOBW": 22.77,
+                "PSL": 12.95,
+                "KONF": 8.26,
+                "SLD": 7.6,
+                "INNE": 0
+            },
+            "Miasto_Kraków": {
+                "frequence": 71.21,
+                "KOBW": 35.3,
+                "PIS": 33.22,
+                "SLD": 15.11,
+                "KONF": 8.31,
+                "PSL": 6.25,
+                "BEZP": 1.52,
+                "PRAW": 0.29,
+                "INNE": 0
+            },
+            "Miasto_Nowy Sącz": {
+                "frequence": 64.93,
+                "PIS": 52.42,
+                "KOBW": 22.49,
+                "SLD": 13.24,
+                "KONF": 7.01,
+                "PSL": 4.84,
+                "INNE": 0
+            },
+            "Miasto_Tarnów": {
+                "frequence": 61.65,
+                "PIS": 44.75,
+                "KOBW": 23.17,
+                "PSL": 14.34,
+                "SLD": 10.64,
+                "KONF": 7.1,
+                "INNE": 0
+            }
+        },
+        "mazowieckie": {
+            "Powiat_białobrzeski": {
+                "frequence": 60.22,
+                "PIS": 65.41,
+                "KOBW": 12.91,
+                "PSL": 12.01,
+                "KONF": 4.37,
+                "SLD": 4.3,
+                "BEZP": 0.54,
+                "SPLM": 0.46,
+                "INNE": 0
+            },
+            "Powiat_ciechanowski": {
+                "frequence": 57.45,
+                "PIS": 54.24,
+                "KOBW": 15.94,
+                "PSL": 14.33,
+                "SLD": 8.91,
+                "KONF": 5.12,
+                "BEZP": 1.46,
+                "INNE": 0
+            },
+            "Powiat_garwoliński": {
+                "frequence": 62.81,
+                "PIS": 67.19,
+                "PSL": 11.04,
+                "KOBW": 9.81,
+                "KONF": 5.61,
+                "SLD": 4.48,
+                "BEZP": 1.57,
+                "AZER": 0.3,
+                "INNE": 0
+            },
+            "Powiat_gostyniński": {
+                "frequence": 55.96,
+                "PIS": 55.66,
+                "KOBW": 17.11,
+                "PSL": 12.58,
+                "SLD": 8.58,
+                "KONF": 5.04,
+                "BEZP": 1.03,
+                "INNE": 0
+            },
+            "Powiat_grodziski": {
+                "frequence": 70.41,
+                "PIS": 37.93,
+                "KOBW": 28.6,
+                "SLD": 13.89,
+                "PSL": 11.21,
+                "KONF": 6.49,
+                "BEZP": 1.89,
+                "INNE": 0
+            },
+            "Powiat_grójecki": {
+                "frequence": 61.98,
+                "PIS": 50.56,
+                "PSL": 21.03,
+                "KOBW": 12.16,
+                "SLD": 8.35,
+                "KONF": 6.52,
+                "BEZP": 0.8,
+                "SPLM": 0.58,
+                "INNE": 0
+            },
+            "Powiat_kozienicki": {
+                "frequence": 60.04,
+                "PIS": 61.26,
+                "KOBW": 17.81,
+                "PSL": 8.14,
+                "SLD": 6.33,
+                "KONF": 5.12,
+                "BEZP": 0.68,
+                "SPLM": 0.65,
+                "INNE": 0
+            },
+            "Powiat_legionowski": {
+                "frequence": 72.04,
+                "PIS": 37.64,
+                "KOBW": 34.2,
+                "SLD": 13.71,
+                "PSL": 6.92,
+                "KONF": 5.63,
+                "BEZP": 1.91,
+                "INNE": 0
+            },
+            "Powiat_lipski": {
+                "frequence": 52.46,
+                "PIS": 62.34,
+                "PSL": 13.02,
+                "KOBW": 9.66,
+                "SLD": 6.94,
+                "KONF": 6.72,
+                "BEZP": 0.76,
+                "SPLM": 0.55,
+                "INNE": 0
+            },
+            "Powiat_łosicki": {
+                "frequence": 57.69,
+                "PIS": 66.55,
+                "PSL": 13.06,
+                "KONF": 7.05,
+                "KOBW": 6.49,
+                "SLD": 5.16,
+                "BEZP": 1.4,
+                "AZER": 0.29,
+                "INNE": 0
+            },
+            "Powiat_makowski": {
+                "frequence": 56.06,
+                "PIS": 62.51,
+                "PSL": 14.93,
+                "KOBW": 9.65,
+                "SLD": 6.2,
+                "KONF": 5.76,
+                "BEZP": 0.64,
+                "AZER": 0.3,
+                "INNE": 0
+            },
+            "Powiat_miński": {
+                "frequence": 66.18,
+                "PIS": 50.21,
+                "KOBW": 24.67,
+                "PSL": 8.14,
+                "SLD": 8.12,
+                "KONF": 7.23,
+                "BEZP": 1.23,
+                "AZER": 0.39,
+                "INNE": 0
+            },
+            "Powiat_mławski": {
+                "frequence": 54.71,
+                "PIS": 56.5,
+                "PSL": 14.15,
+                "KOBW": 13.9,
+                "SLD": 7.64,
+                "KONF": 6.09,
+                "BEZP": 1.71,
+                "INNE": 0
+            },
+            "Powiat_nowodworski": {
+                "frequence": 61.78,
+                "PIS": 45.14,
+                "KOBW": 22.1,
+                "SLD": 12.88,
+                "PSL": 12.44,
+                "KONF": 5.95,
+                "BEZP": 1.48,
+                "INNE": 0
+            },
+            "Powiat_ostrołęcki": {
+                "frequence": 53.98,
+                "PIS": 66.62,
+                "PSL": 12.5,
+                "KOBW": 8.22,
+                "KONF": 6.18,
+                "SLD": 5.05,
+                "BEZP": 1.18,
+                "AZER": 0.25,
+                "INNE": 0
+            },
+            "Powiat_ostrowski": {
+                "frequence": 58.07,
+                "PIS": 63.26,
+                "PSL": 13.18,
+                "KOBW": 12.42,
+                "KONF": 5.21,
+                "SLD": 5.14,
+                "BEZP": 0.54,
+                "AZER": 0.25,
+                "INNE": 0
+            },
+            "Powiat_otwocki": {
+                "frequence": 70.27,
+                "PIS": 47.17,
+                "KOBW": 22.25,
+                "SLD": 11.52,
+                "PSL": 10.33,
+                "KONF": 6.95,
+                "BEZP": 1.78,
+                "INNE": 0
+            },
+            "Powiat_piaseczyński": {
+                "frequence": 72.79,
+                "PIS": 35.17,
+                "KOBW": 34.64,
+                "SLD": 14.96,
+                "PSL": 7.3,
+                "KONF": 6.24,
+                "BEZP": 1.69,
+                "INNE": 0
+            },
+            "Powiat_płocki": {
+                "frequence": 55.88,
+                "PIS": 56.79,
+                "PSL": 18.14,
+                "KOBW": 11.63,
+                "SLD": 7.12,
+                "KONF": 4.96,
+                "BEZP": 1.36,
+                "INNE": 0
+            },
+            "Powiat_płoński": {
+                "frequence": 52.91,
+                "PIS": 56.13,
+                "KOBW": 14.7,
+                "PSL": 13.59,
+                "SLD": 8.61,
+                "KONF": 4.91,
+                "BEZP": 2.06,
+                "INNE": 0
+            },
+            "Powiat_pruszkowski": {
+                "frequence": 74.27,
+                "PIS": 35.79,
+                "KOBW": 30.84,
+                "SLD": 14.02,
+                "PSL": 9.56,
+                "KONF": 6.4,
+                "BEZP": 3.39,
+                "INNE": 0
+            },
+            "Powiat_przasnyski": {
+                "frequence": 54.55,
+                "PIS": 59.73,
+                "PSL": 20.05,
+                "KOBW": 8.25,
+                "SLD": 5.71,
+                "KONF": 5.02,
+                "BEZP": 1.23,
+                "INNE": 0
+            },
+            "Powiat_przysuski": {
+                "frequence": 60.98,
+                "PIS": 70.36,
+                "PSL": 10.87,
+                "KOBW": 8.36,
+                "KONF": 5.31,
+                "SLD": 3.85,
+                "SPLM": 0.86,
+                "BEZP": 0.39,
+                "INNE": 0
+            },
+            "Powiat_pułtuski": {
+                "frequence": 59.02,
+                "PIS": 56.44,
+                "PSL": 21.6,
+                "KOBW": 9.22,
+                "SLD": 6.44,
+                "KONF": 5.32,
+                "BEZP": 0.65,
+                "AZER": 0.33,
+                "INNE": 0
+            },
+            "Powiat_radomski": {
+                "frequence": 59.66,
+                "PIS": 66.02,
+                "KOBW": 11.99,
+                "PSL": 8.53,
+                "SLD": 6.07,
+                "KONF": 5.87,
+                "BEZP": 0.76,
+                "SPLM": 0.75,
+                "INNE": 0
+            },
+            "Powiat_siedlecki": {
+                "frequence": 61.31,
+                "PIS": 69.3,
+                "PSL": 12.2,
+                "KONF": 6.72,
+                "KOBW": 6.41,
+                "SLD": 4.35,
+                "BEZP": 0.81,
+                "AZER": 0.21,
+                "INNE": 0
+            },
+            "Powiat_sierpecki": {
+                "frequence": 52.88,
+                "PIS": 58.34,
+                "PSL": 15.89,
+                "KOBW": 12.02,
+                "SLD": 8.17,
+                "KONF": 4.37,
+                "BEZP": 1.21,
+                "INNE": 0
+            },
+            "Powiat_sochaczewski": {
+                "frequence": 62.1,
+                "PIS": 50.55,
+                "PSL": 20.01,
+                "KOBW": 14.11,
+                "SLD": 7.55,
+                "KONF": 5.88,
+                "BEZP": 1.9,
+                "INNE": 0
+            },
+            "Powiat_sokołowski": {
+                "frequence": 62.05,
+                "PIS": 63.21,
+                "PSL": 15.21,
+                "KOBW": 9.27,
+                "KONF": 5.7,
+                "SLD": 5.15,
+                "BEZP": 1.15,
+                "AZER": 0.3,
+                "INNE": 0
+            },
+            "Powiat_szydłowiecki": {
+                "frequence": 56.24,
+                "PIS": 67.17,
+                "KOBW": 13.11,
+                "PSL": 7.18,
+                "SLD": 5.56,
+                "KONF": 5.5,
+                "BEZP": 0.75,
+                "SPLM": 0.73,
+                "INNE": 0
+            },
+            "Powiat_warszawski zachodni": {
+                "frequence": 72.03,
+                "PIS": 38.59,
+                "KOBW": 32.62,
+                "SLD": 13.27,
+                "PSL": 7,
+                "KONF": 6.64,
+                "BEZP": 1.88,
+                "INNE": 0
+            },
+            "Powiat_węgrowski": {
+                "frequence": 60.08,
+                "PIS": 62.93,
+                "KOBW": 13.55,
+                "PSL": 10.81,
+                "KONF": 6.28,
+                "SLD": 5.15,
+                "BEZP": 0.96,
+                "AZER": 0.32,
+                "INNE": 0
+            },
+            "Powiat_wołomiński": {
+                "frequence": 68.09,
+                "PIS": 48.66,
+                "KOBW": 22.58,
+                "SLD": 11.05,
+                "KONF": 7.71,
+                "PSL": 7.44,
+                "BEZP": 2.56,
+                "INNE": 0
+            },
+            "Powiat_wyszkowski": {
+                "frequence": 60.63,
+                "PIS": 58.6,
+                "PSL": 14.18,
+                "KOBW": 12.49,
+                "KONF": 7.26,
+                "SLD": 6.09,
+                "BEZP": 1.07,
+                "AZER": 0.33,
+                "INNE": 0
+            },
+            "Powiat_zwoleński": {
+                "frequence": 55.14,
+                "PIS": 64.25,
+                "PSL": 14.96,
+                "KOBW": 8.62,
+                "KONF": 5.63,
+                "SLD": 5.34,
+                "SPLM": 0.61,
+                "BEZP": 0.6,
+                "INNE": 0
+            },
+            "Powiat_żuromiński": {
+                "frequence": 53.78,
+                "PIS": 57.3,
+                "PSL": 19.11,
+                "KOBW": 10.62,
+                "SLD": 8.09,
+                "KONF": 3.87,
+                "BEZP": 1.01,
+                "INNE": 0
+            },
+            "Powiat_żyrardowski": {
+                "frequence": 62.72,
+                "PIS": 46.98,
+                "KOBW": 23.37,
+                "SLD": 10.74,
+                "PSL": 10.22,
+                "KONF": 6.28,
+                "BEZP": 2.41,
+                "INNE": 0
+            },
+            "Miasto_Ostrołęka": {
+                "frequence": 60.43,
+                "PIS": 50.4,
+                "KOBW": 20.3,
+                "SLD": 10.6,
+                "PSL": 9.61,
+                "KONF": 7.44,
+                "BEZP": 1.26,
+                "AZER": 0.38,
+                "INNE": 0
+            },
+            "Miasto_Płock": {
+                "frequence": 64.17,
+                "PIS": 40.65,
+                "KOBW": 29.09,
+                "PSL": 12.24,
+                "SLD": 11.88,
+                "KONF": 5.07,
+                "BEZP": 1.08,
+                "INNE": 0
+            },
+            "Miasto_Radom": {
+                "frequence": 64.88,
+                "PIS": 47.75,
+                "KOBW": 28.23,
+                "SLD": 10.14,
+                "KONF": 6.16,
+                "PSL": 5.9,
+                "SPLM": 0.92,
+                "BEZP": 0.91,
+                "INNE": 0
+            },
+            "Miasto_Siedlce": {
+                "frequence": 65.2,
+                "PIS": 49.54,
+                "KOBW": 21.2,
+                "SLD": 10.77,
+                "PSL": 9.08,
+                "KONF": 7.69,
+                "BEZP": 1.4,
+                "AZER": 0.32,
+                "INNE": 0
+            },
+            "Miasto_Warszawa": {
+                "frequence": 77.07,
+                "KOBW": 42.96,
+                "PIS": 28.26,
+                "SLD": 17.47,
+                "KONF": 6.37,
+                "PSL": 4.94,
+                "INNE": 0
+            }
+        },
+        "opolskie": {
+            "Powiat_brzeski": {
+                "frequence": 56.22,
+                "PIS": 44.27,
+                "KOBW": 23.08,
+                "PSL": 15.41,
+                "SLD": 10.42,
+                "KONF": 6.44,
+                "MNIE": 0.38,
+                "INNE": 0
+            },
+            "Powiat_głubczycki": {
+                "frequence": 51.3,
+                "PIS": 54.04,
+                "KOBW": 23.46,
+                "SLD": 8.81,
+                "PSL": 7.92,
+                "KONF": 4.88,
+                "MNIE": 0.9,
+                "INNE": 0
+            },
+            "Powiat_kędzierzyńsko-kozielski": {
+                "frequence": 51.97,
+                "PIS": 33.17,
+                "KOBW": 31.07,
+                "SLD": 12.07,
+                "MNIE": 9.91,
+                "PSL": 7.6,
+                "KONF": 6.18,
+                "INNE": 0
+            },
+            "Powiat_kluczborski": {
+                "frequence": 50.9,
+                "PIS": 40.54,
+                "KOBW": 23.1,
+                "PSL": 14.12,
+                "SLD": 10.96,
+                "KONF": 6.31,
+                "MNIE": 4.97,
+                "INNE": 0
+            },
+            "Powiat_krapkowicki": {
+                "frequence": 46.15,
+                "PIS": 29,
+                "KOBW": 25.58,
+                "MNIE": 21.1,
+                "SLD": 9.95,
+                "PSL": 8.43,
+                "KONF": 5.95,
+                "INNE": 0
+            },
+            "Powiat_namysłowski": {
+                "frequence": 55.33,
+                "PIS": 44.23,
+                "KOBW": 21.31,
+                "PSL": 16.5,
+                "SLD": 11.46,
+                "KONF": 5.59,
+                "MNIE": 0.91,
+                "INNE": 0
+            },
+            "Powiat_nyski": {
+                "frequence": 53.2,
+                "PIS": 48.13,
+                "KOBW": 22.85,
+                "SLD": 13.98,
+                "PSL": 9.35,
+                "KONF": 5.09,
+                "MNIE": 0.6,
+                "INNE": 0
+            },
+            "Powiat_oleski": {
+                "frequence": 49.22,
+                "PIS": 41.81,
+                "KOBW": 19.38,
+                "PSL": 11.18,
+                "MNIE": 11.04,
+                "SLD": 10.95,
+                "KONF": 5.64,
+                "INNE": 0
+            },
+            "Powiat_opolski": {
+                "frequence": 49.19,
+                "PIS": 29.45,
+                "KOBW": 27.14,
+                "MNIE": 17.44,
+                "PSL": 11.03,
+                "SLD": 9.55,
+                "KONF": 5.38,
+                "INNE": 0
+            },
+            "Powiat_prudnicki": {
+                "frequence": 49.95,
+                "PIS": 45.12,
+                "KOBW": 19.62,
+                "MNIE": 11.07,
+                "SLD": 9.58,
+                "PSL": 9.13,
+                "KONF": 5.47,
+                "INNE": 0
+            },
+            "Powiat_strzelecki": {
+                "frequence": 46.67,
+                "PIS": 32.57,
+                "KOBW": 25.72,
+                "MNIE": 21.26,
+                "SLD": 8.4,
+                "PSL": 6.77,
+                "KONF": 5.28,
+                "INNE": 0
+            },
+            "Miasto_Opole": {
+                "frequence": 65.89,
+                "KOBW": 39.42,
+                "PIS": 26.25,
+                "SLD": 16.19,
+                "PSL": 8.74,
+                "KONF": 5.99,
+                "MNIE": 3.4,
+                "INNE": 0
+            }
+        },
+        "podkarpackie": {
+            "Powiat_bieszczadzki": {
+                "frequence": 52.05,
+                "PIS": 49.86,
+                "KOBW": 21.81,
+                "PSL": 11.57,
+                "SLD": 9.06,
+                "KONF": 7.7,
+                "INNE": 0
+            },
+            "Powiat_brzozowski": {
+                "frequence": 55.97,
+                "PIS": 75.77,
+                "KOBW": 8.2,
+                "KONF": 6.58,
+                "PSL": 5.32,
+                "SLD": 4.13,
+                "INNE": 0
+            },
+            "Powiat_dębicki": {
+                "frequence": 59.98,
+                "PIS": 65.42,
+                "KOBW": 13.9,
+                "PSL": 8.21,
+                "KONF": 7.15,
+                "SLD": 4.92,
+                "SPLM": 0.41,
+                "INNE": 0
+            },
+            "Powiat_jarosławski": {
+                "frequence": 57.72,
+                "PIS": 65.63,
+                "KOBW": 15.93,
+                "PSL": 8.38,
+                "KONF": 6.12,
+                "SLD": 3.94,
+                "INNE": 0
+            },
+            "Powiat_jasielski": {
+                "frequence": 57.23,
+                "PIS": 68.75,
+                "KOBW": 14.27,
+                "KONF": 7.23,
+                "SLD": 4.91,
+                "PSL": 4.84,
+                "INNE": 0
+            },
+            "Powiat_kolbuszowski": {
+                "frequence": 55.71,
+                "PIS": 72.22,
+                "KONF": 9.81,
+                "KOBW": 6.91,
+                "PSL": 6.72,
+                "SLD": 3.96,
+                "SPLM": 0.39,
+                "INNE": 0
+            },
+            "Powiat_krośnieński": {
+                "frequence": 57.49,
+                "PIS": 65.96,
+                "KOBW": 13.64,
+                "PSL": 7.66,
+                "KONF": 7.05,
+                "SLD": 5.69,
+                "INNE": 0
+            },
+            "Powiat_leżajski": {
+                "frequence": 58.11,
+                "PIS": 74.16,
+                "KOBW": 8.55,
+                "KONF": 7.95,
+                "PSL": 5.42,
+                "SLD": 3.63,
+                "SPLM": 0.29,
+                "INNE": 0
+            },
+            "Powiat_lubaczowski": {
+                "frequence": 53.16,
+                "PIS": 64.09,
+                "PSL": 14.35,
+                "SLD": 8.23,
+                "KONF": 6.92,
+                "KOBW": 6.41,
+                "INNE": 0
+            },
+            "Powiat_łańcucki": {
+                "frequence": 62.48,
+                "PIS": 68.91,
+                "KOBW": 10.29,
+                "KONF": 8.53,
+                "PSL": 7.24,
+                "SLD": 4.53,
+                "SPLM": 0.5,
+                "INNE": 0
+            },
+            "Powiat_mielecki": {
+                "frequence": 59.72,
+                "PIS": 62.6,
+                "KOBW": 13.66,
+                "PSL": 10.54,
+                "KONF": 6.45,
+                "SLD": 6.11,
+                "SPLM": 0.64,
+                "INNE": 0
+            },
+            "Powiat_niżański": {
+                "frequence": 53.57,
+                "PIS": 70.42,
+                "KONF": 8.37,
+                "KOBW": 7.74,
+                "SLD": 6.83,
+                "PSL": 6.05,
+                "SPLM": 0.59,
+                "INNE": 0
+            },
+            "Powiat_przemyski": {
+                "frequence": 53.26,
+                "PIS": 65.56,
+                "KOBW": 11.87,
+                "PSL": 10.91,
+                "KONF": 7.18,
+                "SLD": 4.48,
+                "INNE": 0
+            },
+            "Powiat_przeworski": {
+                "frequence": 56.85,
+                "PIS": 69.41,
+                "KOBW": 10.73,
+                "PSL": 9.43,
+                "KONF": 6.07,
+                "SLD": 4.36,
+                "INNE": 0
+            },
+            "Powiat_ropczycko-sędziszowski": {
+                "frequence": 61.39,
+                "PIS": 72.02,
+                "PSL": 9.29,
+                "KONF": 7.27,
+                "KOBW": 7.08,
+                "SLD": 3.98,
+                "SPLM": 0.37,
+                "INNE": 0
+            },
+            "Powiat_rzeszowski": {
+                "frequence": 63.09,
+                "PIS": 67.59,
+                "KOBW": 10.86,
+                "KONF": 8.56,
+                "PSL": 7.33,
+                "SLD": 5.12,
+                "SPLM": 0.54,
+                "INNE": 0
+            },
+            "Powiat_sanocki": {
+                "frequence": 55,
+                "PIS": 59.4,
+                "KOBW": 22.92,
+                "PSL": 5.94,
+                "SLD": 5.88,
+                "KONF": 5.86,
+                "INNE": 0
+            },
+            "Powiat_stalowowolski": {
+                "frequence": 56.66,
+                "PIS": 61.12,
+                "KOBW": 15.46,
+                "KONF": 8.58,
+                "SLD": 7.69,
+                "PSL": 5.9,
+                "SPLM": 1.24,
+                "INNE": 0
+            },
+            "Powiat_strzyżowski": {
+                "frequence": 57.04,
+                "PIS": 69.98,
+                "KOBW": 8.87,
+                "KONF": 8.85,
+                "PSL": 7.09,
+                "SLD": 4.71,
+                "SPLM": 0.51,
+                "INNE": 0
+            },
+            "Powiat_tarnobrzeski": {
+                "frequence": 54.89,
+                "PIS": 63.89,
+                "KOBW": 12.4,
+                "PSL": 11.94,
+                "KONF": 6.41,
+                "SLD": 4.7,
+                "SPLM": 0.67,
+                "INNE": 0
+            },
+            "Powiat_leski": {
+                "frequence": 58.38,
+                "PIS": 53.85,
+                "KOBW": 19.02,
+                "PSL": 11.81,
+                "SLD": 9.17,
+                "KONF": 6.15,
+                "INNE": 0
+            },
+            "Miasto_Krosno": {
+                "frequence": 60.77,
+                "PIS": 47.94,
+                "KOBW": 27.83,
+                "SLD": 11.39,
+                "KONF": 7.8,
+                "PSL": 5.03,
+                "INNE": 0
+            },
+            "Miasto_Przemyśl": {
+                "frequence": 56.02,
+                "PIS": 47.45,
+                "KOBW": 27.78,
+                "SLD": 10.34,
+                "KONF": 8.37,
+                "PSL": 6.05,
+                "INNE": 0
+            },
+            "Miasto_Rzeszów": {
+                "frequence": 65.68,
+                "PIS": 42.96,
+                "KOBW": 26.78,
+                "SLD": 12.28,
+                "KONF": 9.9,
+                "PSL": 7.35,
+                "SPLM": 0.72,
+                "INNE": 0
+            },
+            "Miasto_Tarnobrzeg": {
+                "frequence": 58.87,
+                "PIS": 45.1,
+                "KOBW": 27.8,
+                "SLD": 9.97,
+                "PSL": 8.41,
+                "KONF": 8.02,
+                "SPLM": 0.69,
+                "INNE": 0
+            }
+        },
+        "podlaskie": {
+            "Powiat_augustowski": {
+                "frequence": 52.33,
+                "PIS": 55.02,
+                "KOBW": 16.15,
+                "PSL": 14.74,
+                "SLD": 6.85,
+                "KONF": 5.84,
+                "BEZP": 0.7,
+                "SPLM": 0.37,
+                "AZER": 0.35,
+                "INNE": 0
+            },
+            "Powiat_białostocki": {
+                "frequence": 59.75,
+                "PIS": 53.24,
+                "KOBW": 22.04,
+                "SLD": 8.65,
+                "KONF": 7.58,
+                "PSL": 6.7,
+                "BEZP": 0.96,
+                "SPLM": 0.5,
+                "AZER": 0.33,
+                "INNE": 0
+            },
+            "Powiat_bielski": {
+                "frequence": 53.58,
+                "PIS": 50.94,
+                "KOBW": 25.59,
+                "SLD": 9.9,
+                "PSL": 7.72,
+                "KONF": 4.5,
+                "BEZP": 0.77,
+                "SPLM": 0.3,
+                "AZER": 0.27,
+                "INNE": 0
+            },
+            "Powiat_grajewski": {
+                "frequence": 50.57,
+                "PIS": 61.16,
+                "PSL": 14.01,
+                "KOBW": 11.22,
+                "KONF": 7.43,
+                "SLD": 5.1,
+                "AZER": 0.41,
+                "BEZP": 0.38,
+                "SPLM": 0.3,
+                "INNE": 0
+            },
+            "Powiat_hajnowski": {
+                "frequence": 49.16,
+                "KOBW": 34.35,
+                "PIS": 29.93,
+                "SLD": 15.93,
+                "PSL": 12.2,
+                "KONF": 5.67,
+                "BEZP": 0.76,
+                "AZER": 0.58,
+                "SPLM": 0.58,
+                "INNE": 0
+            },
+            "Powiat_kolneński": {
+                "frequence": 50.37,
+                "PIS": 68.39,
+                "PSL": 13.01,
+                "KOBW": 6.49,
+                "KONF": 5.61,
+                "SLD": 5.51,
+                "BEZP": 0.4,
+                "SPLM": 0.31,
+                "AZER": 0.28,
+                "INNE": 0
+            },
+            "Powiat_łomżyński": {
+                "frequence": 54.1,
+                "PIS": 71.53,
+                "PSL": 9.38,
+                "KOBW": 8.83,
+                "KONF": 5.87,
+                "SLD": 3.29,
+                "BEZP": 0.62,
+                "SPLM": 0.26,
+                "AZER": 0.23,
+                "INNE": 0
+            },
+            "Powiat_moniecki": {
+                "frequence": 48.58,
+                "PIS": 63.98,
+                "KOBW": 12.53,
+                "PSL": 11.65,
+                "KONF": 6.41,
+                "SLD": 4.35,
+                "BEZP": 0.51,
+                "SPLM": 0.34,
+                "AZER": 0.24,
+                "INNE": 0
+            },
+            "Powiat_sejneński": {
+                "frequence": 47.94,
+                "PIS": 46.64,
+                "KOBW": 20.21,
+                "PSL": 16.25,
+                "SLD": 9.29,
+                "KONF": 5.46,
+                "AZER": 0.85,
+                "BEZP": 0.71,
+                "SPLM": 0.59,
+                "INNE": 0
+            },
+            "Powiat_siemiatycki": {
+                "frequence": 49.53,
+                "PIS": 53.62,
+                "KOBW": 19.4,
+                "PSL": 12.28,
+                "SLD": 7.93,
+                "KONF": 5.6,
+                "BEZP": 0.6,
+                "SPLM": 0.36,
+                "AZER": 0.2,
+                "INNE": 0
+            },
+            "Powiat_sokólski": {
+                "frequence": 51.57,
+                "PIS": 60.48,
+                "PSL": 13.46,
+                "KOBW": 11.79,
+                "KONF": 7.4,
+                "SLD": 5.9,
+                "BEZP": 0.39,
+                "AZER": 0.31,
+                "SPLM": 0.27,
+                "INNE": 0
+            },
+            "Powiat_suwalski": {
+                "frequence": 53,
+                "PIS": 58.17,
+                "PSL": 16.26,
+                "KOBW": 11.79,
+                "KONF": 6.6,
+                "SLD": 5.66,
+                "SPLM": 0.57,
+                "BEZP": 0.56,
+                "AZER": 0.39,
+                "INNE": 0
+            },
+            "Powiat_wysokomazowiecki": {
+                "frequence": 58.55,
+                "PIS": 72.57,
+                "PSL": 10.66,
+                "KOBW": 6.59,
+                "KONF": 5.53,
+                "SLD": 3.62,
+                "BEZP": 0.59,
+                "SPLM": 0.23,
+                "AZER": 0.22,
+                "INNE": 0
+            },
+            "Powiat_zambrowski": {
+                "frequence": 54.5,
+                "PIS": 62.48,
+                "PSL": 16.47,
+                "KOBW": 9.61,
+                "KONF": 5.59,
+                "SLD": 4.71,
+                "BEZP": 0.47,
+                "SPLM": 0.45,
+                "AZER": 0.23,
+                "INNE": 0
+            },
+            "Miasto_Białystok": {
+                "frequence": 65.72,
+                "PIS": 40.3,
+                "KOBW": 30.29,
+                "SLD": 13.99,
+                "KONF": 8.43,
+                "PSL": 5.22,
+                "BEZP": 0.91,
+                "SPLM": 0.52,
+                "AZER": 0.33,
+                "INNE": 0
+            },
+            "Miasto_Łomża": {
+                "frequence": 58.48,
+                "PIS": 54.03,
+                "KOBW": 24.11,
+                "SLD": 6.91,
+                "PSL": 6.69,
+                "KONF": 6.38,
+                "BEZP": 1.2,
+                "AZER": 0.36,
+                "SPLM": 0.32,
+                "INNE": 0
+            },
+            "Miasto_Suwałki": {
+                "frequence": 56.92,
+                "PIS": 45.58,
+                "KOBW": 25.21,
+                "PSL": 10.31,
+                "SLD": 9.67,
+                "KONF": 7.1,
+                "BEZP": 0.92,
+                "SPLM": 0.67,
+                "AZER": 0.54,
+                "INNE": 0
+            }
+        },
+        "pomorskie": {
+            "Powiat_bytowski": {
+                "frequence": 54.18,
+                "PIS": 43.72,
+                "KOBW": 26.69,
+                "SLD": 13.54,
+                "PSL": 9.39,
+                "KONF": 6.65,
+                "INNE": 0
+            },
+            "Powiat_chojnicki": {
+                "frequence": 58.61,
+                "PIS": 45.33,
+                "KOBW": 30.66,
+                "SLD": 8.84,
+                "PSL": 8.02,
+                "KONF": 7.15,
+                "INNE": 0
+            },
+            "Powiat_człuchowski": {
+                "frequence": 51.34,
+                "PIS": 37.76,
+                "KOBW": 34.57,
+                "SLD": 12.09,
+                "PSL": 9.23,
+                "KONF": 6.35,
+                "INNE": 0
+            },
+            "Powiat_gdański": {
+                "frequence": 64.13,
+                "KOBW": 42.79,
+                "PIS": 30,
+                "SLD": 12.16,
+                "KONF": 8.33,
+                "PSL": 6.72,
+                "INNE": 0
+            },
+            "Powiat_kartuski": {
+                "frequence": 65.6,
+                "PIS": 45.37,
+                "KOBW": 32.04,
+                "PSL": 8.14,
+                "KONF": 7.42,
+                "SLD": 7.03,
+                "INNE": 0
+            },
+            "Powiat_kościerski": {
+                "frequence": 61.03,
+                "PIS": 46.25,
+                "KOBW": 22.62,
+                "PSL": 15.36,
+                "SLD": 8.16,
+                "KONF": 7.61,
+                "INNE": 0
+            },
+            "Powiat_kwidzyński": {
+                "frequence": 53.13,
+                "PIS": 39.31,
+                "KOBW": 32.1,
+                "SLD": 15.37,
+                "KONF": 7.91,
+                "PSL": 5.31,
+                "INNE": 0
+            },
+            "Powiat_lęborski": {
+                "frequence": 58.69,
+                "KOBW": 34.94,
+                "PIS": 34.83,
+                "SLD": 12.86,
+                "PSL": 9.56,
+                "KONF": 7.8,
+                "INNE": 0
+            },
+            "Powiat_malborski": {
+                "frequence": 55.46,
+                "KOBW": 35.36,
+                "PIS": 33.73,
+                "SLD": 14.82,
+                "PSL": 8.88,
+                "KONF": 7.22,
+                "INNE": 0
+            },
+            "Powiat_nowodworski": {
+                "frequence": 54.55,
+                "KOBW": 40.75,
+                "PIS": 34.24,
+                "SLD": 10.4,
+                "PSL": 8.22,
+                "KONF": 6.4,
+                "INNE": 0
+            },
+            "Powiat_pucki": {
+                "frequence": 63.78,
+                "KOBW": 37.38,
+                "PIS": 36.89,
+                "SLD": 10.5,
+                "PSL": 8.06,
+                "KONF": 7.16,
+                "INNE": 0
+            },
+            "Powiat_słupski": {
+                "frequence": 52.68,
+                "PIS": 37.29,
+                "KOBW": 31.2,
+                "SLD": 16.09,
+                "PSL": 9.27,
+                "KONF": 6.16,
+                "INNE": 0
+            },
+            "Powiat_starogardzki": {
+                "frequence": 56.47,
+                "PIS": 47.83,
+                "KOBW": 24.03,
+                "PSL": 11.14,
+                "SLD": 9.99,
+                "KONF": 7.02,
+                "INNE": 0
+            },
+            "Powiat_tczewski": {
+                "frequence": 57.07,
+                "PIS": 40.73,
+                "KOBW": 30.74,
+                "SLD": 11.77,
+                "PSL": 8.81,
+                "KONF": 7.96,
+                "INNE": 0
+            },
+            "Powiat_wejherowski": {
+                "frequence": 64.37,
+                "PIS": 36.63,
+                "KOBW": 36.23,
+                "SLD": 11.28,
+                "KONF": 8.33,
+                "PSL": 7.54,
+                "INNE": 0
+            },
+            "Powiat_sztumski": {
+                "frequence": 47.22,
+                "PIS": 39.52,
+                "KOBW": 33.83,
+                "SLD": 11.41,
+                "PSL": 9.47,
+                "KONF": 5.77,
+                "INNE": 0
+            },
+            "Miasto_Gdańsk": {
+                "frequence": 72.54,
+                "KOBW": 47.99,
+                "PIS": 26.69,
+                "SLD": 14.51,
+                "KONF": 7.07,
+                "PSL": 3.75,
+                "INNE": 0
+            },
+            "Miasto_Gdynia": {
+                "frequence": 72.5,
+                "KOBW": 45.63,
+                "PIS": 25.85,
+                "SLD": 15.51,
+                "KONF": 7.38,
+                "PSL": 5.63,
+                "INNE": 0
+            },
+            "Miasto_Słupsk": {
+                "frequence": 62.29,
+                "KOBW": 36.03,
+                "PIS": 33.24,
+                "SLD": 18.69,
+                "KONF": 6.08,
+                "PSL": 5.97,
+                "INNE": 0
+            },
+            "Miasto_Sopot": {
+                "frequence": 74.32,
+                "KOBW": 50.11,
+                "PIS": 25.08,
+                "SLD": 15.66,
+                "KONF": 5.6,
+                "PSL": 3.54,
+                "INNE": 0
+            }
+        },
+        "slaskie": {
+            "Powiat_będziński": {
+                "frequence": 63.17,
+                "PIS": 34.01,
+                "KOBW": 32.1,
+                "SLD": 22.34,
+                "KONF": 6.79,
+                "PSL": 4.75,
+                "INNE": 0
+            },
+            "Powiat_bielski": {
+                "frequence": 66.81,
+                "PIS": 45.69,
+                "KOBW": 26.44,
+                "SLD": 11.23,
+                "PSL": 8.68,
+                "KONF": 7.96,
+                "INNE": 0
+            },
+            "Powiat_cieszyński": {
+                "frequence": 62.3,
+                "PIS": 41.48,
+                "KOBW": 28.3,
+                "SLD": 14.31,
+                "PSL": 8.19,
+                "KONF": 7.72,
+                "INNE": 0
+            },
+            "Powiat_częstochowski": {
+                "frequence": 60.47,
+                "PIS": 49.6,
+                "KOBW": 18.64,
+                "SLD": 12.58,
+                "PSL": 11.25,
+                "KONF": 5.9,
+                "BEZP": 2.04,
+                "INNE": 0
+            },
+            "Powiat_gliwicki": {
+                "frequence": 58.29,
+                "PIS": 43.18,
+                "KOBW": 29.52,
+                "SLD": 10.29,
+                "KONF": 8.21,
+                "PSL": 6.65,
+                "BEZP": 2.15,
+                "INNE": 0
+            },
+            "Powiat_kłobucki": {
+                "frequence": 58.62,
+                "PIS": 47.3,
+                "PSL": 19.17,
+                "KOBW": 14.35,
+                "SLD": 11.22,
+                "KONF": 6,
+                "BEZP": 1.95,
+                "INNE": 0
+            },
+            "Powiat_lubliniecki": {
+                "frequence": 55.16,
+                "PIS": 49.32,
+                "KOBW": 24.04,
+                "SLD": 8.25,
+                "PSL": 7.9,
+                "KONF": 6.23,
+                "BEZP": 4.26,
+                "INNE": 0
+            },
+            "Powiat_mikołowski": {
+                "frequence": 65.74,
+                "PIS": 42.33,
+                "KOBW": 31.57,
+                "SLD": 10.07,
+                "KONF": 7.85,
+                "PSL": 6.37,
+                "BEZP": 1.8,
+                "INNE": 0
+            },
+            "Powiat_myszkowski": {
+                "frequence": 58.28,
+                "PIS": 48.75,
+                "KOBW": 19.09,
+                "SLD": 15.49,
+                "PSL": 7.15,
+                "KONF": 6.43,
+                "BEZP": 3.09,
+                "INNE": 0
+            },
+            "Powiat_pszczyński": {
+                "frequence": 66.23,
+                "PIS": 53.21,
+                "KOBW": 23.94,
+                "SLD": 8.71,
+                "KONF": 7.49,
+                "PSL": 6.65,
+                "INNE": 0
+            },
+            "Powiat_raciborski": {
+                "frequence": 50.02,
+                "PIS": 45.8,
+                "KOBW": 30.26,
+                "SLD": 9.76,
+                "PSL": 6.53,
+                "KONF": 6.3,
+                "BEZP": 1.35,
+                "INNE": 0
+            },
+            "Powiat_rybnicki": {
+                "frequence": 61.34,
+                "PIS": 53.42,
+                "KOBW": 26.21,
+                "KONF": 6.92,
+                "SLD": 6.73,
+                "PSL": 5.12,
+                "BEZP": 1.61,
+                "INNE": 0
+            },
+            "Powiat_tarnogórski": {
+                "frequence": 61.4,
+                "PIS": 41.92,
+                "KOBW": 29.23,
+                "SLD": 12.57,
+                "PSL": 7.87,
+                "KONF": 6.44,
+                "BEZP": 1.96,
+                "INNE": 0
+            },
+            "Powiat_bieruńsko-lędziński": {
+                "frequence": 64.5,
+                "PIS": 56.9,
+                "KOBW": 23.19,
+                "SLD": 7.72,
+                "KONF": 7.36,
+                "PSL": 4.83,
+                "INNE": 0
+            },
+            "Powiat_wodzisławski": {
+                "frequence": 60.66,
+                "PIS": 51.87,
+                "KOBW": 23.99,
+                "SLD": 9.67,
+                "KONF": 7.04,
+                "PSL": 5.86,
+                "BEZP": 1.57,
+                "INNE": 0
+            },
+            "Powiat_zawierciański": {
+                "frequence": 60.96,
+                "PIS": 46.26,
+                "KOBW": 24.16,
+                "SLD": 14.67,
+                "KONF": 7.9,
+                "PSL": 7.01,
+                "INNE": 0
+            },
+            "Powiat_żywiecki": {
+                "frequence": 62.22,
+                "PIS": 58.13,
+                "KOBW": 20.67,
+                "SLD": 7.9,
+                "PSL": 6.68,
+                "KONF": 6.62,
+                "INNE": 0
+            },
+            "Miasto_Bielsko-Biała": {
+                "frequence": 67.5,
+                "PIS": 39.35,
+                "KOBW": 34.4,
+                "SLD": 13.71,
+                "KONF": 7.26,
+                "PSL": 5.28,
+                "INNE": 0
+            },
+            "Miasto_Bytom": {
+                "frequence": 56.45,
+                "PIS": 39,
+                "KOBW": 29.2,
+                "SLD": 15.6,
+                "KONF": 6.89,
+                "PSL": 5.8,
+                "BEZP": 3.51,
+                "INNE": 0
+            },
+            "Miasto_Chorzów": {
+                "frequence": 60.41,
+                "KOBW": 41.97,
+                "PIS": 33.28,
+                "SLD": 12.5,
+                "KONF": 7.76,
+                "PSL": 4.49,
+                "INNE": 0
+            },
+            "Miasto_Częstochowa": {
+                "frequence": 65.85,
+                "PIS": 37.37,
+                "KOBW": 28.45,
+                "SLD": 21.06,
+                "KONF": 6.05,
+                "PSL": 4.19,
+                "BEZP": 2.89,
+                "INNE": 0
+            },
+            "Miasto_Dąbrowa Górnicza": {
+                "frequence": 63.89,
+                "PIS": 35.59,
+                "KOBW": 28.35,
+                "SLD": 25.64,
+                "KONF": 6.14,
+                "PSL": 4.28,
+                "INNE": 0
+            },
+            "Miasto_Gliwice": {
+                "frequence": 65.73,
+                "KOBW": 39.25,
+                "PIS": 31.7,
+                "SLD": 13.61,
+                "KONF": 7.51,
+                "PSL": 4.86,
+                "BEZP": 3.07,
+                "INNE": 0
+            },
+            "Miasto_Jastrzębie-Zdrój": {
+                "frequence": 60.94,
+                "PIS": 53.33,
+                "KOBW": 23.23,
+                "SLD": 10.6,
+                "KONF": 7.2,
+                "PSL": 4.37,
+                "BEZP": 1.26,
+                "INNE": 0
+            },
+            "Miasto_Jaworzno": {
+                "frequence": 61.9,
+                "PIS": 40.72,
+                "KOBW": 31.81,
+                "SLD": 14.32,
+                "KONF": 7.06,
+                "PSL": 6.09,
+                "INNE": 0
+            },
+            "Miasto_Katowice": {
+                "frequence": 67.55,
+                "KOBW": 40.93,
+                "PIS": 33.83,
+                "SLD": 14.02,
+                "KONF": 7.26,
+                "PSL": 3.95,
+                "INNE": 0
+            },
+            "Miasto_Mysłowice": {
+                "frequence": 63.85,
+                "PIS": 43.39,
+                "KOBW": 33.76,
+                "SLD": 11.04,
+                "KONF": 6.78,
+                "PSL": 5.03,
+                "INNE": 0
+            },
+            "Miasto_Piekary Śląskie": {
+                "frequence": 61.67,
+                "PIS": 43.99,
+                "KOBW": 39.96,
+                "SLD": 7.31,
+                "KONF": 5.53,
+                "PSL": 3.21,
+                "INNE": 0
+            },
+            "Miasto_Ruda Śląska": {
+                "frequence": 60.16,
+                "PIS": 44.26,
+                "KOBW": 32.87,
+                "SLD": 10.44,
+                "KONF": 7.61,
+                "PSL": 4.83,
+                "INNE": 0
+            },
+            "Miasto_Rybnik": {
+                "frequence": 62.49,
+                "PIS": 45.53,
+                "KOBW": 30.43,
+                "SLD": 9.91,
+                "KONF": 7.29,
+                "PSL": 5.28,
+                "BEZP": 1.58,
+                "INNE": 0
+            },
+            "Miasto_Siemianowice Śląskie": {
+                "frequence": 63.18,
+                "KOBW": 39.12,
+                "PIS": 35.44,
+                "SLD": 13.79,
+                "KONF": 7.58,
+                "PSL": 4.07,
+                "INNE": 0
+            },
+            "Miasto_Sosnowiec": {
+                "frequence": 64.03,
+                "PIS": 33.53,
+                "KOBW": 30.88,
+                "SLD": 26.8,
+                "KONF": 5.3,
+                "PSL": 3.48,
+                "INNE": 0
+            },
+            "Miasto_Świętochłowice": {
+                "frequence": 56.73,
+                "PIS": 40.02,
+                "KOBW": 36.38,
+                "SLD": 11.1,
+                "KONF": 7.6,
+                "PSL": 4.91,
+                "INNE": 0
+            },
+            "Miasto_Tychy": {
+                "frequence": 66.84,
+                "PIS": 40.63,
+                "KOBW": 35.45,
+                "SLD": 11.54,
+                "KONF": 7.7,
+                "PSL": 4.67,
+                "INNE": 0
+            },
+            "Miasto_Zabrze": {
+                "frequence": 53.43,
+                "PIS": 36.22,
+                "KOBW": 32.89,
+                "SLD": 14.05,
+                "KONF": 9.42,
+                "PSL": 5.31,
+                "BEZP": 2.11,
+                "INNE": 0
+            },
+            "Miasto_Żory": {
+                "frequence": 63.2,
+                "PIS": 45.35,
+                "KOBW": 29.01,
+                "SLD": 10.74,
+                "KONF": 7.62,
+                "PSL": 5.8,
+                "BEZP": 1.47,
+                "INNE": 0
+            }
+        },
+        "swietokrzyskie": {
+            "Powiat_buski": {
+                "frequence": 56.08,
+                "PIS": 59.49,
+                "PSL": 14.93,
+                "KOBW": 10.97,
+                "SLD": 8,
+                "KONF": 4.67,
+                "SPLM": 1.11,
+                "BEZP": 0.83,
+                "INNE": 0
+            },
+            "Powiat_jędrzejowski": {
+                "frequence": 56.98,
+                "PIS": 63.34,
+                "PSL": 12.91,
+                "KOBW": 9.74,
+                "SLD": 7.33,
+                "KONF": 4.93,
+                "SPLM": 1.05,
+                "BEZP": 0.68,
+                "INNE": 0
+            },
+            "Powiat_kazimierski": {
+                "frequence": 48.51,
+                "PIS": 59.06,
+                "PSL": 17.89,
+                "KOBW": 11.36,
+                "SLD": 5.6,
+                "KONF": 4.9,
+                "BEZP": 0.6,
+                "SPLM": 0.59,
+                "INNE": 0
+            },
+            "Powiat_kielecki": {
+                "frequence": 59.02,
+                "PIS": 61.7,
+                "KOBW": 12.84,
+                "PSL": 8.78,
+                "SLD": 7.16,
+                "KONF": 6.88,
+                "SPLM": 1.59,
+                "BEZP": 1.05,
+                "INNE": 0
+            },
+            "Powiat_konecki": {
+                "frequence": 55.82,
+                "PIS": 60.56,
+                "SLD": 12.28,
+                "KOBW": 12.21,
+                "PSL": 8.04,
+                "KONF": 5.15,
+                "SPLM": 1.1,
+                "BEZP": 0.66,
+                "INNE": 0
+            },
+            "Powiat_opatowski": {
+                "frequence": 52.13,
+                "PIS": 64.41,
+                "PSL": 14.72,
+                "KOBW": 7.24,
+                "SLD": 6.86,
+                "KONF": 4.49,
+                "SPLM": 1.25,
+                "BEZP": 1.02,
+                "INNE": 0
+            },
+            "Powiat_ostrowiecki": {
+                "frequence": 54.42,
+                "PIS": 49.49,
+                "KOBW": 19.36,
+                "SLD": 14.54,
+                "PSL": 8,
+                "KONF": 6,
+                "SPLM": 1.48,
+                "BEZP": 1.14,
+                "INNE": 0
+            },
+            "Powiat_pińczowski": {
+                "frequence": 52.85,
+                "PIS": 60.14,
+                "KOBW": 12.53,
+                "PSL": 12.46,
+                "SLD": 7.89,
+                "KONF": 5.03,
+                "SPLM": 1.08,
+                "BEZP": 0.86,
+                "INNE": 0
+            },
+            "Powiat_sandomierski": {
+                "frequence": 53.41,
+                "PIS": 53.66,
+                "PSL": 17.43,
+                "KOBW": 13.09,
+                "SLD": 8.25,
+                "KONF": 5.94,
+                "SPLM": 0.85,
+                "BEZP": 0.78,
+                "INNE": 0
+            },
+            "Powiat_skarżyski": {
+                "frequence": 57.86,
+                "PIS": 48.23,
+                "KOBW": 25.68,
+                "SLD": 11.99,
+                "KONF": 6.09,
+                "PSL": 5.36,
+                "SPLM": 1.55,
+                "BEZP": 1.1,
+                "INNE": 0
+            },
+            "Powiat_starachowicki": {
+                "frequence": 58.25,
+                "PIS": 53.78,
+                "KOBW": 20.95,
+                "SLD": 9.74,
+                "KONF": 6.9,
+                "PSL": 5.8,
+                "SPLM": 1.57,
+                "BEZP": 1.26,
+                "INNE": 0
+            },
+            "Powiat_staszowski": {
+                "frequence": 55.19,
+                "PIS": 65.25,
+                "PSL": 11.84,
+                "KOBW": 8.6,
+                "SLD": 7.33,
+                "KONF": 5.28,
+                "BEZP": 0.87,
+                "SPLM": 0.84,
+                "INNE": 0
+            },
+            "Powiat_włoszczowski": {
+                "frequence": 57.56,
+                "PIS": 63.74,
+                "PSL": 16.55,
+                "SLD": 6.68,
+                "KOBW": 6.3,
+                "KONF": 5.41,
+                "SPLM": 0.81,
+                "BEZP": 0.51,
+                "INNE": 0
+            },
+            "Miasto_Kielce": {
+                "frequence": 66.75,
+                "PIS": 39.94,
+                "KOBW": 29.83,
+                "SLD": 14.45,
+                "KONF": 6.63,
+                "PSL": 5.74,
+                "SPLM": 2.37,
+                "BEZP": 1.04,
+                "INNE": 0
+            }
+        },
+        "warminsko-mazurskie": {
+            "Powiat_bartoszycki": {
+                "frequence": 48.68,
+                "PIS": 41.54,
+                "KOBW": 32.16,
+                "SLD": 11.26,
+                "PSL": 7.84,
+                "KONF": 4.94,
+                "BEZP": 2.27,
+                "INNE": 0
+            },
+            "Powiat_braniewski": {
+                "frequence": 48.73,
+                "PIS": 38.03,
+                "KOBW": 27.72,
+                "PSL": 12.27,
+                "SLD": 10.56,
+                "BEZP": 5.92,
+                "KONF": 5.49,
+                "INNE": 0
+            },
+            "Powiat_działdowski": {
+                "frequence": 51.41,
+                "PIS": 48.22,
+                "KOBW": 20.02,
+                "PSL": 15.2,
+                "SLD": 8.98,
+                "KONF": 5.37,
+                "BEZP": 2.21,
+                "INNE": 0
+            },
+            "Powiat_elbląski": {
+                "frequence": 47.83,
+                "PIS": 41.56,
+                "KOBW": 27.07,
+                "SLD": 11.59,
+                "PSL": 11.19,
+                "KONF": 5.61,
+                "BEZP": 2.98,
+                "INNE": 0
+            },
+            "Powiat_ełcki": {
+                "frequence": 49.78,
+                "PIS": 43.34,
+                "KOBW": 24.22,
+                "SLD": 13.55,
+                "PSL": 9.17,
+                "KONF": 8.93,
+                "SPLM": 0.78,
+                "INNE": 0
+            },
+            "Powiat_giżycki": {
+                "frequence": 53.24,
+                "PIS": 37.01,
+                "KOBW": 28.79,
+                "PSL": 14.18,
+                "SLD": 12.46,
+                "KONF": 6.86,
+                "SPLM": 0.7,
+                "INNE": 0
+            },
+            "Powiat_iławski": {
+                "frequence": 53.46,
+                "PIS": 43.91,
+                "KOBW": 24.76,
+                "PSL": 13.03,
+                "SLD": 9.41,
+                "KONF": 6.68,
+                "BEZP": 2.21,
+                "INNE": 0
+            },
+            "Powiat_kętrzyński": {
+                "frequence": 48.77,
+                "PIS": 39.47,
+                "KOBW": 20.86,
+                "PSL": 17.31,
+                "SLD": 15.46,
+                "KONF": 6.3,
+                "SPLM": 0.6,
+                "INNE": 0
+            },
+            "Powiat_lidzbarski": {
+                "frequence": 50.96,
+                "PIS": 39.13,
+                "KOBW": 36.72,
+                "SLD": 9.18,
+                "PSL": 6.68,
+                "KONF": 6.02,
+                "BEZP": 2.27,
+                "INNE": 0
+            },
+            "Powiat_mrągowski": {
+                "frequence": 52.69,
+                "PIS": 38.56,
+                "KOBW": 29.78,
+                "PSL": 12.82,
+                "SLD": 11.77,
+                "KONF": 6.48,
+                "SPLM": 0.6,
+                "INNE": 0
+            },
+            "Powiat_nidzicki": {
+                "frequence": 49.1,
+                "PIS": 51.74,
+                "KOBW": 20.47,
+                "SLD": 11.09,
+                "PSL": 9.75,
+                "KONF": 6.26,
+                "SPLM": 0.68,
+                "INNE": 0
+            },
+            "Powiat_nowomiejski": {
+                "frequence": 53.86,
+                "PIS": 49.08,
+                "PSL": 21.32,
+                "KOBW": 14.78,
+                "SLD": 9.09,
+                "KONF": 4.22,
+                "BEZP": 1.51,
+                "INNE": 0
+            },
+            "Powiat_olecki": {
+                "frequence": 47.36,
+                "PIS": 47.28,
+                "KOBW": 18.86,
+                "PSL": 15.43,
+                "SLD": 11.19,
+                "KONF": 6.53,
+                "SPLM": 0.71,
+                "INNE": 0
+            },
+            "Powiat_olsztyński": {
+                "frequence": 54.01,
+                "PIS": 35.01,
+                "KOBW": 26.88,
+                "PSL": 16.36,
+                "SLD": 13.43,
+                "KONF": 7.61,
+                "SPLM": 0.71,
+                "INNE": 0
+            },
+            "Powiat_ostródzki": {
+                "frequence": 51.49,
+                "PIS": 37.64,
+                "KOBW": 30.35,
+                "SLD": 12.89,
+                "PSL": 10.39,
+                "KONF": 6.09,
+                "BEZP": 2.64,
+                "INNE": 0
+            },
+            "Powiat_piski": {
+                "frequence": 49.33,
+                "PIS": 51.97,
+                "KOBW": 17.3,
+                "PSL": 14.88,
+                "SLD": 8.97,
+                "KONF": 6.38,
+                "SPLM": 0.5,
+                "INNE": 0
+            },
+            "Powiat_szczycieński": {
+                "frequence": 51.47,
+                "PIS": 45.33,
+                "KOBW": 20.05,
+                "PSL": 16.39,
+                "SLD": 10.96,
+                "KONF": 6.45,
+                "SPLM": 0.83,
+                "INNE": 0
+            },
+            "Powiat_gołdapski": {
+                "frequence": 46.42,
+                "PIS": 40.73,
+                "KOBW": 27.21,
+                "SLD": 13.66,
+                "PSL": 12.62,
+                "KONF": 5.1,
+                "SPLM": 0.67,
+                "INNE": 0
+            },
+            "Powiat_węgorzewski": {
+                "frequence": 50.04,
+                "PIS": 39.59,
+                "KOBW": 23.22,
+                "PSL": 18.53,
+                "SLD": 12.39,
+                "KONF": 5.69,
+                "SPLM": 0.59,
+                "INNE": 0
+            },
+            "Miasto_Elbląg": {
+                "frequence": 60.04,
+                "PIS": 35.72,
+                "KOBW": 34.81,
+                "SLD": 15.61,
+                "PSL": 6.27,
+                "KONF": 5.47,
+                "BEZP": 2.13,
+                "INNE": 0
+            },
+            "Miasto_Olsztyn": {
+                "frequence": 67.12,
+                "KOBW": 33.7,
+                "PIS": 31.11,
+                "SLD": 17.68,
+                "PSL": 9.76,
+                "KONF": 6.99,
+                "SPLM": 0.76,
+                "INNE": 0
+            }
+        },
+        "wielkopolskie": {
+            "Powiat_chodzieski": {
+                "frequence": 60.62,
+                "PIS": 31.2,
+                "KOBW": 30.34,
+                "PSL": 16.69,
+                "SLD": 14.78,
+                "KONF": 6.98,
+                "INNE": 0
+            },
+            "Powiat_czarnkowsko-trzcianecki": {
+                "frequence": 57.09,
+                "PIS": 37.88,
+                "KOBW": 27.8,
+                "PSL": 16.54,
+                "SLD": 11.55,
+                "KONF": 6.23,
+                "INNE": 0
+            },
+            "Powiat_gnieźnieński": {
+                "frequence": 61.39,
+                "PIS": 38.24,
+                "KOBW": 25.2,
+                "SLD": 22.11,
+                "PSL": 7.37,
+                "KONF": 6.41,
+                "AZER": 0.67,
+                "INNE": 0
+            },
+            "Powiat_gostyński": {
+                "frequence": 55.49,
+                "PIS": 45.16,
+                "KOBW": 21.34,
+                "SLD": 12.72,
+                "PSL": 10.83,
+                "KONF": 9.96,
+                "INNE": 0
+            },
+            "Powiat_grodziski": {
+                "frequence": 58.65,
+                "PIS": 41.2,
+                "KOBW": 28.8,
+                "PSL": 11.49,
+                "SLD": 11.2,
+                "KONF": 7.31,
+                "INNE": 0
+            },
+            "Powiat_jarociński": {
+                "frequence": 58.43,
+                "PIS": 47.92,
+                "KOBW": 17.98,
+                "PSL": 16.69,
+                "SLD": 11.84,
+                "KONF": 5.58,
+                "INNE": 0
+            },
+            "Powiat_kaliski": {
+                "frequence": 57.21,
+                "PIS": 55.25,
+                "PSL": 15.03,
+                "KOBW": 13.57,
+                "SLD": 10.53,
+                "KONF": 5.62,
+                "INNE": 0
+            },
+            "Powiat_kępiński": {
+                "frequence": 60.96,
+                "PIS": 43.26,
+                "KOBW": 33.41,
+                "PSL": 9.61,
+                "SLD": 8.22,
+                "KONF": 5.5,
+                "INNE": 0
+            },
+            "Powiat_kolski": {
+                "frequence": 55.89,
+                "PIS": 58.17,
+                "KOBW": 15.12,
+                "SLD": 11.09,
+                "PSL": 9.43,
+                "KONF": 5.77,
+                "AZER": 0.42,
+                "INNE": 0
+            },
+            "Powiat_koniński": {
+                "frequence": 55.75,
+                "PIS": 59.12,
+                "KOBW": 14.25,
+                "SLD": 10.69,
+                "PSL": 10.02,
+                "KONF": 5.4,
+                "AZER": 0.51,
+                "INNE": 0
+            },
+            "Powiat_kościański": {
+                "frequence": 59.86,
+                "PIS": 38.63,
+                "KOBW": 26.25,
+                "PSL": 15.91,
+                "SLD": 12.91,
+                "KONF": 6.3,
+                "INNE": 0
+            },
+            "Powiat_krotoszyński": {
+                "frequence": 57.38,
+                "PIS": 44.94,
+                "KOBW": 19.46,
+                "PSL": 18.43,
+                "SLD": 10.76,
+                "KONF": 6.4,
+                "INNE": 0
+            },
+            "Powiat_leszczyński": {
+                "frequence": 59.38,
+                "PIS": 40.82,
+                "KOBW": 24.2,
+                "SLD": 14.69,
+                "PSL": 12.93,
+                "KONF": 7.36,
+                "INNE": 0
+            },
+            "Powiat_międzychodzki": {
+                "frequence": 56.95,
+                "PIS": 32.49,
+                "KOBW": 31.31,
+                "SLD": 20.81,
+                "PSL": 9.45,
+                "KONF": 5.93,
+                "INNE": 0
+            },
+            "Powiat_nowotomyski": {
+                "frequence": 61.34,
+                "KOBW": 39.59,
+                "PIS": 33.81,
+                "PSL": 10.66,
+                "SLD": 9.29,
+                "KONF": 6.64,
+                "INNE": 0
+            },
+            "Powiat_obornicki": {
+                "frequence": 59.8,
+                "PIS": 32.98,
+                "KOBW": 27.34,
+                "PSL": 20.12,
+                "SLD": 13.05,
+                "KONF": 6.51,
+                "INNE": 0
+            },
+            "Powiat_ostrowski": {
+                "frequence": 61.28,
+                "PIS": 43.23,
+                "KOBW": 28.82,
+                "SLD": 11.07,
+                "PSL": 10.23,
+                "KONF": 6.65,
+                "INNE": 0
+            },
+            "Powiat_ostrzeszowski": {
+                "frequence": 58.08,
+                "PIS": 44.45,
+                "PSL": 20.41,
+                "KOBW": 19.75,
+                "SLD": 9.22,
+                "KONF": 6.18,
+                "INNE": 0
+            },
+            "Powiat_pilski": {
+                "frequence": 60.73,
+                "PIS": 36.26,
+                "KOBW": 29.4,
+                "SLD": 15.24,
+                "PSL": 12.44,
+                "KONF": 6.66,
+                "INNE": 0
+            },
+            "Powiat_pleszewski": {
+                "frequence": 57.99,
+                "PIS": 46.7,
+                "KOBW": 20.46,
+                "PSL": 17.66,
+                "SLD": 9.62,
+                "KONF": 5.57,
+                "INNE": 0
+            },
+            "Powiat_poznański": {
+                "frequence": 71.98,
+                "KOBW": 43.99,
+                "PIS": 27.09,
+                "SLD": 14.38,
+                "PSL": 7.9,
+                "KONF": 6.64,
+                "INNE": 0
+            },
+            "Powiat_rawicki": {
+                "frequence": 55.48,
+                "PIS": 40.71,
+                "KOBW": 22.73,
+                "SLD": 17.86,
+                "PSL": 12.38,
+                "KONF": 6.32,
+                "INNE": 0
+            },
+            "Powiat_słupecki": {
+                "frequence": 56.13,
+                "PIS": 50.24,
+                "KOBW": 16.28,
+                "PSL": 13.69,
+                "SLD": 13.27,
+                "KONF": 5.93,
+                "AZER": 0.58,
+                "INNE": 0
+            },
+            "Powiat_szamotulski": {
+                "frequence": 61.09,
+                "KOBW": 35.2,
+                "PIS": 33.14,
+                "SLD": 13.7,
+                "PSL": 11.92,
+                "KONF": 6.04,
+                "INNE": 0
+            },
+            "Powiat_średzki": {
+                "frequence": 61.09,
+                "PIS": 38.02,
+                "KOBW": 21.11,
+                "SLD": 14.4,
+                "KONF": 14.2,
+                "PSL": 11.44,
+                "AZER": 0.83,
+                "INNE": 0
+            },
+            "Powiat_śremski": {
+                "frequence": 59.75,
+                "PIS": 38.56,
+                "KOBW": 23.91,
+                "SLD": 17.4,
+                "PSL": 10.86,
+                "KONF": 8.3,
+                "AZER": 0.97,
+                "INNE": 0
+            },
+            "Powiat_turecki": {
+                "frequence": 58.31,
+                "PIS": 56.65,
+                "PSL": 14.3,
+                "KOBW": 13.17,
+                "SLD": 9.79,
+                "KONF": 5.48,
+                "AZER": 0.6,
+                "INNE": 0
+            },
+            "Powiat_wągrowiecki": {
+                "frequence": 57.37,
+                "PIS": 36.66,
+                "KOBW": 24.73,
+                "PSL": 17.86,
+                "SLD": 13.57,
+                "KONF": 7.19,
+                "INNE": 0
+            },
+            "Powiat_wolsztyński": {
+                "frequence": 60.76,
+                "PIS": 37.31,
+                "KOBW": 31.89,
+                "PSL": 12.68,
+                "SLD": 11.14,
+                "KONF": 6.98,
+                "INNE": 0
+            },
+            "Powiat_wrzesiński": {
+                "frequence": 61.26,
+                "PIS": 41.28,
+                "KOBW": 27.25,
+                "SLD": 15.18,
+                "PSL": 8.61,
+                "KONF": 6.98,
+                "AZER": 0.7,
+                "INNE": 0
+            },
+            "Powiat_złotowski": {
+                "frequence": 53.72,
+                "PIS": 37.9,
+                "KOBW": 28.32,
+                "SLD": 13.71,
+                "PSL": 13.41,
+                "KONF": 6.67,
+                "INNE": 0
+            },
+            "Miasto_Kalisz": {
+                "frequence": 65.2,
+                "PIS": 34.68,
+                "KOBW": 30.11,
+                "SLD": 21.7,
+                "PSL": 7.04,
+                "KONF": 6.46,
+                "INNE": 0
+            },
+            "Miasto_Konin": {
+                "frequence": 63.21,
+                "PIS": 42.22,
+                "KOBW": 27.68,
+                "SLD": 17.95,
+                "PSL": 6.09,
+                "KONF": 5.42,
+                "AZER": 0.64,
+                "INNE": 0
+            },
+            "Miasto_Leszno": {
+                "frequence": 65.45,
+                "KOBW": 36.14,
+                "PIS": 28.11,
+                "SLD": 21.87,
+                "KONF": 7.41,
+                "PSL": 6.46,
+                "INNE": 0
+            },
+            "Miasto_Poznań": {
+                "frequence": 73.95,
+                "KOBW": 46.34,
+                "PIS": 24.11,
+                "SLD": 17.94,
+                "KONF": 6.59,
+                "PSL": 5.02,
+                "INNE": 0
+            }
+        },
+        "zachodniopomorskie": {
+            "Powiat_białogardzki": {
+                "frequence": 50.72,
+                "PIS": 37.11,
+                "KOBW": 33.53,
+                "SLD": 14.86,
+                "PSL": 9.45,
+                "KONF": 5.05,
+                "INNE": 0
+            },
+            "Powiat_choszczeński": {
+                "frequence": 48.13,
+                "PIS": 40.94,
+                "KOBW": 29.48,
+                "SLD": 13.64,
+                "PSL": 10.36,
+                "KONF": 5.57,
+                "INNE": 0
+            },
+            "Powiat_drawski": {
+                "frequence": 50.54,
+                "PIS": 38.38,
+                "KOBW": 29.36,
+                "SLD": 15.28,
+                "PSL": 10.97,
+                "KONF": 6.01,
+                "INNE": 0
+            },
+            "Powiat_goleniowski": {
+                "frequence": 54.16,
+                "PIS": 36.61,
+                "KOBW": 29.62,
+                "SLD": 14.8,
+                "PSL": 12.55,
+                "KONF": 6.44,
+                "INNE": 0
+            },
+            "Powiat_gryficki": {
+                "frequence": 51.31,
+                "PIS": 37.61,
+                "KOBW": 31.91,
+                "PSL": 13.49,
+                "SLD": 11.49,
+                "KONF": 5.5,
+                "INNE": 0
+            },
+            "Powiat_gryfiński": {
+                "frequence": 52,
+                "PIS": 42.54,
+                "KOBW": 27.18,
+                "SLD": 15.18,
+                "PSL": 8.64,
+                "KONF": 6.46,
+                "INNE": 0
+            },
+            "Powiat_kamieński": {
+                "frequence": 53.58,
+                "PIS": 36.18,
+                "KOBW": 33.22,
+                "SLD": 13.52,
+                "PSL": 11.98,
+                "KONF": 5.11,
+                "INNE": 0
+            },
+            "Powiat_kołobrzeski": {
+                "frequence": 61.32,
+                "PIS": 36.34,
+                "KOBW": 33.71,
+                "SLD": 17.26,
+                "PSL": 7.29,
+                "KONF": 5.41,
+                "INNE": 0
+            },
+            "Powiat_koszaliński": {
+                "frequence": 55.05,
+                "PIS": 37.18,
+                "KOBW": 28.28,
+                "SLD": 15.59,
+                "PSL": 11.86,
+                "KONF": 7.08,
+                "INNE": 0
+            },
+            "Powiat_myśliborski": {
+                "frequence": 51.32,
+                "PIS": 38.44,
+                "KOBW": 35.87,
+                "SLD": 11.33,
+                "PSL": 7.65,
+                "KONF": 6.72,
+                "INNE": 0
+            },
+            "Powiat_policki": {
+                "frequence": 65.42,
+                "KOBW": 41.64,
+                "PIS": 29.9,
+                "SLD": 16.08,
+                "KONF": 7.33,
+                "PSL": 5.04,
+                "INNE": 0
+            },
+            "Powiat_pyrzycki": {
+                "frequence": 51.56,
+                "PIS": 48.46,
+                "KOBW": 21.23,
+                "SLD": 12.38,
+                "PSL": 12.24,
+                "KONF": 5.69,
+                "INNE": 0
+            },
+            "Powiat_sławieński": {
+                "frequence": 53.54,
+                "PIS": 39.8,
+                "KOBW": 27.67,
+                "SLD": 15.95,
+                "PSL": 10.72,
+                "KONF": 5.85,
+                "INNE": 0
+            },
+            "Powiat_stargardzki": {
+                "frequence": 57.11,
+                "PIS": 37.84,
+                "KOBW": 32.55,
+                "SLD": 14.02,
+                "PSL": 8.53,
+                "KONF": 7.05,
+                "INNE": 0
+            },
+            "Powiat_szczecinecki": {
+                "frequence": 52.63,
+                "PIS": 41.49,
+                "KOBW": 32.52,
+                "SLD": 10.82,
+                "PSL": 8.37,
+                "KONF": 6.79,
+                "INNE": 0
+            },
+            "Powiat_świdwiński": {
+                "frequence": 50.34,
+                "PIS": 41.58,
+                "KOBW": 25.94,
+                "SLD": 14.86,
+                "PSL": 12.17,
+                "KONF": 5.45,
+                "INNE": 0
+            },
+            "Powiat_wałecki": {
+                "frequence": 54.43,
+                "PIS": 35.86,
+                "KOBW": 34.67,
+                "SLD": 13.57,
+                "PSL": 9.7,
+                "KONF": 6.2,
+                "INNE": 0
+            },
+            "Powiat_łobeski": {
+                "frequence": 48.24,
+                "PIS": 40.57,
+                "KOBW": 28.01,
+                "PSL": 14.53,
+                "SLD": 11.58,
+                "KONF": 5.31,
+                "INNE": 0
+            },
+            "Miasto_Koszalin": {
+                "frequence": 65.27,
+                "KOBW": 38.39,
+                "PIS": 29.59,
+                "SLD": 18.32,
+                "PSL": 7.75,
+                "KONF": 5.96,
+                "INNE": 0
+            },
+            "Miasto_Szczecin": {
+                "frequence": 66.56,
+                "KOBW": 40.47,
+                "PIS": 32.13,
+                "SLD": 15.97,
+                "KONF": 6.79,
+                "PSL": 4.64,
+                "INNE": 0
+            },
+            "Miasto_Świnoujście": {
+                "frequence": 61.97,
+                "KOBW": 33.44,
+                "PIS": 30.18,
+                "SLD": 26.7,
+                "KONF": 5.32,
+                "PSL": 4.36,
+                "INNE": 0
+            }
+        }
+    }
+}

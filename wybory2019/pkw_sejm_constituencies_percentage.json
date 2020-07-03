@@ -1,0 +1,1201 @@
+{
+    "config": {},
+    "data": {
+        "overall": {
+            "frequence": 60.91804878048782
+        },
+        "percentage": {
+            "1": {
+                "constituency": {
+                    "name": "Legnica",
+                    "nameFormatted": "Okręg wyborczy nr 1 [Legnica]"
+                },
+                "frequence": 57.8,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 42.4
+                    },
+                    "KOBW": {
+                        "percentageContituency": 25.02
+                    },
+                    "SLD": {
+                        "percentageContituency": 16.43
+                    },
+                    "PSL": {
+                        "percentageContituency": 7.17
+                    },
+                    "KONF": {
+                        "percentageContituency": 5.85
+                    },
+                    "BEZP": {
+                        "percentageContituency": 3.12
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "2": {
+                "constituency": {
+                    "name": "Wałbrzych",
+                    "nameFormatted": "Okręg wyborczy nr 2 [Wałbrzych]"
+                },
+                "frequence": 55.83,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 40.54
+                    },
+                    "KOBW": {
+                        "percentageContituency": 32.09
+                    },
+                    "SLD": {
+                        "percentageContituency": 12.35
+                    },
+                    "PSL": {
+                        "percentageContituency": 7.25
+                    },
+                    "KONF": {
+                        "percentageContituency": 5.42
+                    },
+                    "BEZP": {
+                        "percentageContituency": 2.34
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "3": {
+                "constituency": {
+                    "name": "Wrocław",
+                    "nameFormatted": "Okręg wyborczy nr 3 [Wrocław]"
+                },
+                "frequence": 65.89,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 34.67
+                    },
+                    "KOBW": {
+                        "percentageContituency": 32.8
+                    },
+                    "SLD": {
+                        "percentageContituency": 15.41
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.45
+                    },
+                    "PSL": {
+                        "percentageContituency": 6.46
+                    },
+                    "BEZP": {
+                        "percentageContituency": 3.21
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "4": {
+                "constituency": {
+                    "name": "Bydgoszcz",
+                    "nameFormatted": "Okręg wyborczy nr 4 [Bydgoszcz]"
+                },
+                "frequence": 59.9,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 36.43
+                    },
+                    "KOBW": {
+                        "percentageContituency": 31.05
+                    },
+                    "SLD": {
+                        "percentageContituency": 15.17
+                    },
+                    "PSL": {
+                        "percentageContituency": 9.02
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.05
+                    },
+                    "BEZP": {
+                        "percentageContituency": 1.29
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "5": {
+                "constituency": {
+                    "name": "Toruń",
+                    "nameFormatted": "Okręg wyborczy nr 5 [Toruń]"
+                },
+                "frequence": 56.37,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 40.38
+                    },
+                    "KOBW": {
+                        "percentageContituency": 26.42
+                    },
+                    "SLD": {
+                        "percentageContituency": 14.83
+                    },
+                    "PSL": {
+                        "percentageContituency": 10.88
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.33
+                    },
+                    "BEZP": {
+                        "percentageContituency": 1.16
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "6": {
+                "constituency": {
+                    "name": "Lublin",
+                    "nameFormatted": "Okręg wyborczy nr 6 [Lublin]"
+                },
+                "frequence": 60.88,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 55.39
+                    },
+                    "KOBW": {
+                        "percentageContituency": 19.3
+                    },
+                    "SLD": {
+                        "percentageContituency": 9.1
+                    },
+                    "PSL": {
+                        "percentageContituency": 7.81
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.07
+                    },
+                    "BEZP": {
+                        "percentageContituency": 1.32
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "7": {
+                "constituency": {
+                    "name": "Chełm",
+                    "nameFormatted": "Okręg wyborczy nr 7 [Chełm]"
+                },
+                "frequence": 54.4,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 59.5
+                    },
+                    "KOBW": {
+                        "percentageContituency": 14.8
+                    },
+                    "PSL": {
+                        "percentageContituency": 11.86
+                    },
+                    "SLD": {
+                        "percentageContituency": 6.83
+                    },
+                    "KONF": {
+                        "percentageContituency": 5.84
+                    },
+                    "BEZP": {
+                        "percentageContituency": 1.16
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "8": {
+                "constituency": {
+                    "name": "Zielona Góra",
+                    "nameFormatted": "Okręg wyborczy nr 8 [Zielona Góra]"
+                },
+                "frequence": 57.2,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 34.3
+                    },
+                    "KOBW": {
+                        "percentageContituency": 31.27
+                    },
+                    "SLD": {
+                        "percentageContituency": 15.61
+                    },
+                    "PSL": {
+                        "percentageContituency": 11.63
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.19
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "9": {
+                "constituency": {
+                    "name": "Łódź",
+                    "nameFormatted": "Okręg wyborczy nr 9 [Łódź]"
+                },
+                "frequence": 68.32,
+                "parties": {
+                    "KOBW": {
+                        "percentageContituency": 35.82
+                    },
+                    "PIS": {
+                        "percentageContituency": 32.9
+                    },
+                    "SLD": {
+                        "percentageContituency": 20.1
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.65
+                    },
+                    "PSL": {
+                        "percentageContituency": 4.53
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "10": {
+                "constituency": {
+                    "name": "Piotrków Trybunalski",
+                    "nameFormatted": "Okręg wyborczy nr 10 [Piotrków Trybunalski]"
+                },
+                "frequence": 61.81,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 56.21
+                    },
+                    "KOBW": {
+                        "percentageContituency": 15.64
+                    },
+                    "SLD": {
+                        "percentageContituency": 10.95
+                    },
+                    "PSL": {
+                        "percentageContituency": 10.44
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.76
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "11": {
+                "constituency": {
+                    "name": "Sieradz",
+                    "nameFormatted": "Okręg wyborczy nr 11 [Sieradz]"
+                },
+                "frequence": 60.92,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 49.81
+                    },
+                    "KOBW": {
+                        "percentageContituency": 20.48
+                    },
+                    "SLD": {
+                        "percentageContituency": 11.98
+                    },
+                    "PSL": {
+                        "percentageContituency": 10.29
+                    },
+                    "KONF": {
+                        "percentageContituency": 5.88
+                    },
+                    "BEZP": {
+                        "percentageContituency": 1.56
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "12": {
+                "constituency": {
+                    "name": "Kraków",
+                    "nameFormatted": "Okręg wyborczy nr 12 [Kraków]"
+                },
+                "frequence": 62.86,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 53.48
+                    },
+                    "KOBW": {
+                        "percentageContituency": 23.04
+                    },
+                    "SLD": {
+                        "percentageContituency": 8.51
+                    },
+                    "PSL": {
+                        "percentageContituency": 7.9
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.06
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "13": {
+                "constituency": {
+                    "name": "Kraków",
+                    "nameFormatted": "Okręg wyborczy nr 13 [Kraków]"
+                },
+                "frequence": 68.57,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 39.56
+                    },
+                    "KOBW": {
+                        "percentageContituency": 30.48
+                    },
+                    "SLD": {
+                        "percentageContituency": 13.01
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.99
+                    },
+                    "PSL": {
+                        "percentageContituency": 7.27
+                    },
+                    "BEZP": {
+                        "percentageContituency": 1.42
+                    },
+                    "PRAW": {
+                        "percentageContituency": 0.27
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "14": {
+                "constituency": {
+                    "name": "Nowy Sącz",
+                    "nameFormatted": "Okręg wyborczy nr 14 [Nowy Sącz]"
+                },
+                "frequence": 60.28,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 65.8
+                    },
+                    "KOBW": {
+                        "percentageContituency": 13.83
+                    },
+                    "PSL": {
+                        "percentageContituency": 7.35
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.95
+                    },
+                    "SLD": {
+                        "percentageContituency": 6.07
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "15": {
+                "constituency": {
+                    "name": "Tarnów",
+                    "nameFormatted": "Okręg wyborczy nr 15 [Tarnów]"
+                },
+                "frequence": 60.47,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 59.59
+                    },
+                    "KOBW": {
+                        "percentageContituency": 14
+                    },
+                    "PSL": {
+                        "percentageContituency": 13.35
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.11
+                    },
+                    "SLD": {
+                        "percentageContituency": 5.94
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "16": {
+                "constituency": {
+                    "name": "Płock",
+                    "nameFormatted": "Okręg wyborczy nr 16 [Płock]"
+                },
+                "frequence": 57.68,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 52.45
+                    },
+                    "KOBW": {
+                        "percentageContituency": 16.85
+                    },
+                    "PSL": {
+                        "percentageContituency": 15.17
+                    },
+                    "SLD": {
+                        "percentageContituency": 8.76
+                    },
+                    "KONF": {
+                        "percentageContituency": 5.24
+                    },
+                    "BEZP": {
+                        "percentageContituency": 1.53
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "17": {
+                "constituency": {
+                    "name": "Radom",
+                    "nameFormatted": "Okręg wyborczy nr 17 [Radom]"
+                },
+                "frequence": 60.84,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 57.83
+                    },
+                    "KOBW": {
+                        "percentageContituency": 17.15
+                    },
+                    "PSL": {
+                        "percentageContituency": 10.2
+                    },
+                    "SLD": {
+                        "percentageContituency": 7.43
+                    },
+                    "KONF": {
+                        "percentageContituency": 5.89
+                    },
+                    "BEZP": {
+                        "percentageContituency": 0.76
+                    },
+                    "SPLM": {
+                        "percentageContituency": 0.75
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "18": {
+                "constituency": {
+                    "name": "Siedlce",
+                    "nameFormatted": "Okręg wyborczy nr 18 [Siedlce]"
+                },
+                "frequence": 60.98,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 59.76
+                    },
+                    "KOBW": {
+                        "percentageContituency": 13.94
+                    },
+                    "PSL": {
+                        "percentageContituency": 11.94
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.49
+                    },
+                    "SLD": {
+                        "percentageContituency": 6.45
+                    },
+                    "BEZP": {
+                        "percentageContituency": 1.11
+                    },
+                    "AZER": {
+                        "percentageContituency": 0.31
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "19": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "nameFormatted": "Okręg wyborczy nr 19 [Warszawa]"
+                },
+                "frequence": 79.75,
+                "parties": {
+                    "KOBW": {
+                        "percentageContituency": 42.05
+                    },
+                    "PIS": {
+                        "percentageContituency": 27.49
+                    },
+                    "SLD": {
+                        "percentageContituency": 18.19
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.51
+                    },
+                    "PSL": {
+                        "percentageContituency": 4.75
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "20": {
+                "constituency": {
+                    "name": "Warszawa",
+                    "nameFormatted": "Okręg wyborczy nr 20 [Warszawa]"
+                },
+                "frequence": 70.56,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 40.89
+                    },
+                    "KOBW": {
+                        "percentageContituency": 28.61
+                    },
+                    "SLD": {
+                        "percentageContituency": 13.09
+                    },
+                    "PSL": {
+                        "percentageContituency": 8.6
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.63
+                    },
+                    "BEZP": {
+                        "percentageContituency": 2.19
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "21": {
+                "constituency": {
+                    "name": "Opole",
+                    "nameFormatted": "Okręg wyborczy nr 21 [Opole]"
+                },
+                "frequence": 52.91,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 37.64
+                    },
+                    "KOBW": {
+                        "percentageContituency": 26.71
+                    },
+                    "SLD": {
+                        "percentageContituency": 11.74
+                    },
+                    "PSL": {
+                        "percentageContituency": 10.31
+                    },
+                    "MNIE": {
+                        "percentageContituency": 7.9
+                    },
+                    "KONF": {
+                        "percentageContituency": 5.7
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "22": {
+                "constituency": {
+                    "name": "Krosno",
+                    "nameFormatted": "Okręg wyborczy nr 22 [Krosno]"
+                },
+                "frequence": 56.37,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 63.36
+                    },
+                    "KOBW": {
+                        "percentageContituency": 15.94
+                    },
+                    "PSL": {
+                        "percentageContituency": 7.85
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.81
+                    },
+                    "SLD": {
+                        "percentageContituency": 6.04
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "23": {
+                "constituency": {
+                    "name": "Rzeszów",
+                    "nameFormatted": "Okręg wyborczy nr 23 [Rzeszów]"
+                },
+                "frequence": 60.13,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 62.38
+                    },
+                    "KOBW": {
+                        "percentageContituency": 14.39
+                    },
+                    "KONF": {
+                        "percentageContituency": 8.25
+                    },
+                    "PSL": {
+                        "percentageContituency": 7.79
+                    },
+                    "SLD": {
+                        "percentageContituency": 6.59
+                    },
+                    "SPLM": {
+                        "percentageContituency": 0.6
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "24": {
+                "constituency": {
+                    "name": "Białystok",
+                    "nameFormatted": "Okręg wyborczy nr 24 [Białystok]"
+                },
+                "frequence": 56.97,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 52.04
+                    },
+                    "KOBW": {
+                        "percentageContituency": 21.04
+                    },
+                    "PSL": {
+                        "percentageContituency": 9.33
+                    },
+                    "SLD": {
+                        "percentageContituency": 9.09
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.96
+                    },
+                    "PRAW": {
+                        "percentageContituency": 0.77
+                    },
+                    "SPLM": {
+                        "percentageContituency": 0.44
+                    },
+                    "AZER": {
+                        "percentageContituency": 0.34
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "25": {
+                "constituency": {
+                    "name": "Gdańsk",
+                    "nameFormatted": "Okręg wyborczy nr 25 [Gdańsk]"
+                },
+                "frequence": 64.21,
+                "parties": {
+                    "KOBW": {
+                        "percentageContituency": 41.31
+                    },
+                    "PIS": {
+                        "percentageContituency": 32.1
+                    },
+                    "SLD": {
+                        "percentageContituency": 13.47
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.21
+                    },
+                    "PSL": {
+                        "percentageContituency": 5.9
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "26": {
+                "constituency": {
+                    "name": "Słupsk",
+                    "nameFormatted": "Okręg wyborczy nr 26 [Słupsk]"
+                },
+                "frequence": 62.79,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 36.43
+                    },
+                    "KOBW": {
+                        "percentageContituency": 35.85
+                    },
+                    "SLD": {
+                        "percentageContituency": 12.47
+                    },
+                    "PSL": {
+                        "percentageContituency": 7.94
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.3
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "27": {
+                "constituency": {
+                    "name": "Bielsko-Biała",
+                    "nameFormatted": "Okręg wyborczy nr 27 [Bielsko-Biała]"
+                },
+                "frequence": 64.91,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 46.76
+                    },
+                    "KOBW": {
+                        "percentageContituency": 27.2
+                    },
+                    "SLD": {
+                        "percentageContituency": 11.48
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.42
+                    },
+                    "PSL": {
+                        "percentageContituency": 7.13
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "28": {
+                "constituency": {
+                    "name": "Częstochowa",
+                    "nameFormatted": "Okręg wyborczy nr 28 [Częstochowa]"
+                },
+                "frequence": 61.22,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 44.28
+                    },
+                    "KOBW": {
+                        "percentageContituency": 22.63
+                    },
+                    "SLD": {
+                        "percentageContituency": 15.59
+                    },
+                    "PSL": {
+                        "percentageContituency": 8.68
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.07
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "29": {
+                "constituency": {
+                    "name": "Katowice",
+                    "nameFormatted": "Okręg wyborczy nr 29 [Katowice]"
+                },
+                "frequence": 59.18,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 37.75
+                    },
+                    "KOBW": {
+                        "percentageContituency": 32.61
+                    },
+                    "SLD": {
+                        "percentageContituency": 13.38
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.67
+                    },
+                    "PSL": {
+                        "percentageContituency": 5.99
+                    },
+                    "BEZP": {
+                        "percentageContituency": 2.61
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "30": {
+                "constituency": {
+                    "name": "Bielsko-Biała",
+                    "nameFormatted": "Okręg wyborczy nr 30 [Bielsko-Biała]"
+                },
+                "frequence": 60.41,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 48.28
+                    },
+                    "KOBW": {
+                        "percentageContituency": 27.71
+                    },
+                    "SLD": {
+                        "percentageContituency": 9.68
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.17
+                    },
+                    "PSL": {
+                        "percentageContituency": 5.64
+                    },
+                    "BEZP": {
+                        "percentageContituency": 1.54
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "31": {
+                "constituency": {
+                    "name": "Katowice",
+                    "nameFormatted": "Okręg wyborczy nr 31 [Katowice]"
+                },
+                "frequence": 63.7,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 39.21
+                    },
+                    "KOBW": {
+                        "percentageContituency": 37.17
+                    },
+                    "SLD": {
+                        "percentageContituency": 11.91
+                    },
+                    "KONF": {
+                        "percentageContituency": 7.33
+                    },
+                    "PSL": {
+                        "percentageContituency": 4.37
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "32": {
+                "constituency": {
+                    "name": "Katowice",
+                    "nameFormatted": "Okręg wyborczy nr 32 [Katowice]"
+                },
+                "frequence": 62.99,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 37.13
+                    },
+                    "KOBW": {
+                        "percentageContituency": 29.66
+                    },
+                    "SLD": {
+                        "percentageContituency": 21.9
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.45
+                    },
+                    "PSL": {
+                        "percentageContituency": 4.85
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "33": {
+                "constituency": {
+                    "name": "Kielce",
+                    "nameFormatted": "Okręg wyborczy nr 33 [Kielce]"
+                },
+                "frequence": 57.7,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 55.18
+                    },
+                    "KOBW": {
+                        "percentageContituency": 16.65
+                    },
+                    "SLD": {
+                        "percentageContituency": 9.95
+                    },
+                    "PSL": {
+                        "percentageContituency": 9.88
+                    },
+                    "KONF": {
+                        "percentageContituency": 5.95
+                    },
+                    "SPLM": {
+                        "percentageContituency": 1.45
+                    },
+                    "BEZP": {
+                        "percentageContituency": 0.95
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "34": {
+                "constituency": {
+                    "name": "Elbląg",
+                    "nameFormatted": "Okręg wyborczy nr 34 [Elbląg]"
+                },
+                "frequence": 52.71,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 40.86
+                    },
+                    "KOBW": {
+                        "percentageContituency": 28.43
+                    },
+                    "SLD": {
+                        "percentageContituency": 11.64
+                    },
+                    "PSL": {
+                        "percentageContituency": 10.89
+                    },
+                    "KONF": {
+                        "percentageContituency": 5.66
+                    },
+                    "BEZP": {
+                        "percentageContituency": 2.52
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "35": {
+                "constituency": {
+                    "name": "Olsztyn",
+                    "nameFormatted": "Okręg wyborczy nr 35 [Olsztyn]"
+                },
+                "frequence": 54.32,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 38.82
+                    },
+                    "KOBW": {
+                        "percentageContituency": 26.46
+                    },
+                    "SLD": {
+                        "percentageContituency": 13.84
+                    },
+                    "PSL": {
+                        "percentageContituency": 13.19
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.97
+                    },
+                    "SPLM": {
+                        "percentageContituency": 0.71
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "36": {
+                "constituency": {
+                    "name": "Kalisz",
+                    "nameFormatted": "Okręg wyborczy nr 36 [Kalisz]"
+                },
+                "frequence": 59.67,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 42.48
+                    },
+                    "KOBW": {
+                        "percentageContituency": 24.72
+                    },
+                    "SLD": {
+                        "percentageContituency": 13.43
+                    },
+                    "PSL": {
+                        "percentageContituency": 12.8
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.57
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "37": {
+                "constituency": {
+                    "name": "Konin",
+                    "nameFormatted": "Okręg wyborczy nr 37 [Konin]"
+                },
+                "frequence": 59.08,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 47.29
+                    },
+                    "KOBW": {
+                        "percentageContituency": 20.48
+                    },
+                    "SLD": {
+                        "percentageContituency": 15.04
+                    },
+                    "PSL": {
+                        "percentageContituency": 9.81
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.74
+                    },
+                    "AZER": {
+                        "percentageContituency": 0.64
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "38": {
+                "constituency": {
+                    "name": "Piła",
+                    "nameFormatted": "Okręg wyborczy nr 38 [Piła]"
+                },
+                "frequence": 59.11,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 35.64
+                    },
+                    "KOBW": {
+                        "percentageContituency": 30.6
+                    },
+                    "PSL": {
+                        "percentageContituency": 13.86
+                    },
+                    "SLD": {
+                        "percentageContituency": 13.28
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.62
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "39": {
+                "constituency": {
+                    "name": "Poznań",
+                    "nameFormatted": "Okręg wyborczy nr 39 [Poznań]"
+                },
+                "frequence": 73.13,
+                "parties": {
+                    "KOBW": {
+                        "percentageContituency": 45.38
+                    },
+                    "PIS": {
+                        "percentageContituency": 25.33
+                    },
+                    "SLD": {
+                        "percentageContituency": 16.49
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.61
+                    },
+                    "PSL": {
+                        "percentageContituency": 6.2
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "40": {
+                "constituency": {
+                    "name": "Koszalin",
+                    "nameFormatted": "Okręg wyborczy nr 40 [Koszalin]"
+                },
+                "frequence": 55.46,
+                "parties": {
+                    "PIS": {
+                        "percentageContituency": 36.83
+                    },
+                    "KOBW": {
+                        "percentageContituency": 32.31
+                    },
+                    "SLD": {
+                        "percentageContituency": 15.44
+                    },
+                    "PSL": {
+                        "percentageContituency": 9.43
+                    },
+                    "KONF": {
+                        "percentageContituency": 5.98
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            },
+            "41": {
+                "constituency": {
+                    "name": "Szczecin",
+                    "nameFormatted": "Okręg wyborczy nr 41 [Szczecin]"
+                },
+                "frequence": 59.36,
+                "parties": {
+                    "KOBW": {
+                        "percentageContituency": 35.71
+                    },
+                    "PIS": {
+                        "percentageContituency": 35.11
+                    },
+                    "SLD": {
+                        "percentageContituency": 15.25
+                    },
+                    "PSL": {
+                        "percentageContituency": 7.4
+                    },
+                    "KONF": {
+                        "percentageContituency": 6.53
+                    },
+                    "INNE": {
+                        "percentageContituency": 0
+                    }
+                }
+            }
+        }
+    }
+}

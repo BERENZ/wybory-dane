@@ -1,0 +1,1211 @@
+{
+    "mandaty": {
+        "PIS": 48,
+        "KOBW": 43,
+        "PSL": 3,
+        "SLD": 2,
+        "INNE": 4
+    },
+    "data": [
+        {
+            "name": "UJAZDOWSKI Kazimierz Michał",
+            "constituency": {
+                "name": "Warszawa",
+                "tableName": "nr 44, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 44 [Warszawa]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 308627,
+            "mandate": true
+        },
+        {
+            "name": "BOSACKI Marcin Rafał",
+            "constituency": {
+                "name": "Poznań",
+                "tableName": "nr 91, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 91 [Poznań]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 213492,
+            "mandate": true
+        },
+        {
+            "name": "BORUSEWICZ Bogdan Michał",
+            "constituency": {
+                "name": "Gdańsk",
+                "tableName": "nr 65, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 65 [Gdańsk]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 195056,
+            "mandate": true
+        },
+        {
+            "name": "PAJĄK Andrzej Michał ",
+            "constituency": {
+                "name": "Kraków",
+                "tableName": "nr 30, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 30 [Kraków]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 179338,
+            "mandate": true
+        },
+        {
+            "name": "KAMIŃSKI Michał Tomasz",
+            "constituency": {
+                "name": "Warszawa",
+                "tableName": "nr 41, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 41 [Warszawa]"
+            },
+            "commity": "KOMITET WYBORCZY POLSKIE STRONNICTWO LUDOWE",
+            "party": "PSL",
+            "votes": 176496,
+            "mandate": true
+        },
+        {
+            "name": "POCIEJ Aleksander August",
+            "constituency": {
+                "name": "Warszawa",
+                "tableName": "nr 45, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 45 [Warszawa]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 175660,
+            "mandate": true
+        },
+        {
+            "name": "BORYS-DAMIĘCKA Barbara",
+            "constituency": {
+                "name": "Warszawa",
+                "tableName": "nr 43, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 43 [Warszawa]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 157359,
+            "mandate": true
+        },
+        {
+            "name": "PUPA Zdzisław Stanisław",
+            "constituency": {
+                "name": "Rzeszów",
+                "tableName": "nr 55, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 55 [Rzeszów]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 155404,
+            "mandate": true
+        },
+        {
+            "name": "BOROWSKI Marek Stefan",
+            "constituency": {
+                "name": "Warszawa",
+                "tableName": "nr 42, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 42 [Warszawa]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 153994,
+            "mandate": true
+        },
+        {
+            "name": "GOLBA Mieczysław Józef",
+            "constituency": {
+                "name": "Krosno",
+                "tableName": "nr 58, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 58 [Krosno]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 150594,
+            "mandate": true
+        },
+        {
+            "name": "KOBIAK Andrzej",
+            "constituency": {
+                "name": "Bydgoszcz",
+                "tableName": "nr 9, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 9 [Bydgoszcz]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 150472,
+            "mandate": true
+        },
+        {
+            "name": "GRODZKI Tomasz Paweł",
+            "constituency": {
+                "name": "Szczecin",
+                "tableName": "nr 97, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 97 [Szczecin]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 149245,
+            "mandate": true
+        },
+        {
+            "name": "HIBNER Jolanta Emilia",
+            "constituency": {
+                "name": "Warszawa",
+                "tableName": "nr 40, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 40 [Warszawa]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 146318,
+            "mandate": true
+        },
+        {
+            "name": "ROTNICKA Jadwiga Kazimiera",
+            "constituency": {
+                "name": "Poznań",
+                "tableName": "nr 90, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 90 [Poznań]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 142987,
+            "mandate": true
+        },
+        {
+            "name": "KOCHAN Magdalena Maria ",
+            "constituency": {
+                "name": "Szczecin",
+                "tableName": "nr 98, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 98 [Szczecin]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 135041,
+            "mandate": true
+        },
+        {
+            "name": "DUNIN  Artur Jerzy",
+            "constituency": {
+                "name": "Łódź",
+                "tableName": "nr 23, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 23 [Łódź]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 134414,
+            "mandate": true
+        },
+        {
+            "name": "ZDROJEWSKI  Bogdan Andrzej",
+            "constituency": {
+                "name": "Wrocław",
+                "tableName": "nr 6, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 6 [Wrocław]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 133374,
+            "mandate": true
+        },
+        {
+            "name": "SKURKIEWICZ Wojciech",
+            "constituency": {
+                "name": "Radom",
+                "tableName": "nr 50, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 50 [Radom]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 126296,
+            "mandate": true
+        },
+        {
+            "name": "FRANKIEWICZ Zygmunt Mieczysław ",
+            "constituency": {
+                "name": "Katowice",
+                "tableName": "nr 70, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 70 [Katowice]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 124255,
+            "mandate": true
+        },
+        {
+            "name": "OŻÓG Stanisław",
+            "constituency": {
+                "name": "Rzeszów",
+                "tableName": "nr 56, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 56 [Rzeszów]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 123900,
+            "mandate": true
+        },
+        {
+            "name": "KLEINA Kazimierz Mariusz",
+            "constituency": {
+                "name": "Słupsk",
+                "tableName": "nr 62, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 62 [Słupsk]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 123191,
+            "mandate": true
+        },
+        {
+            "name": "KLICH Bogdan Adam",
+            "constituency": {
+                "name": "Kraków",
+                "tableName": "nr 33, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 33 [Kraków]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 123080,
+            "mandate": true
+        },
+        {
+            "name": "PĘK  Marek",
+            "constituency": {
+                "name": "Kraków",
+                "tableName": "nr 31, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 31 [Kraków]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 122468,
+            "mandate": true
+        },
+        {
+            "name": "ZDROJEWSKA Barbara Grażyna ",
+            "constituency": {
+                "name": "Wrocław",
+                "tableName": "nr 8, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 8 [Wrocław]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 122071,
+            "mandate": true
+        },
+        {
+            "name": "WŁOSOWICZ Jacek Władysław",
+            "constituency": {
+                "name": "Kielce",
+                "tableName": "nr 81, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 81 [Kielce]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 121321,
+            "mandate": true
+        },
+        {
+            "name": "GOGACZ Stanisław",
+            "constituency": {
+                "name": "Lublin",
+                "tableName": "nr 14, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 14 [Lublin]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 121240,
+            "mandate": true
+        },
+        {
+            "name": "FEDOROWICZ  Jerzy Feliks",
+            "constituency": {
+                "name": "Kraków",
+                "tableName": "nr 32, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 32 [Kraków]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 117177,
+            "mandate": true
+        },
+        {
+            "name": "CZELEJ Grzegorz",
+            "constituency": {
+                "name": "Lublin",
+                "tableName": "nr 15, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 15 [Lublin]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 116605,
+            "mandate": true
+        },
+        {
+            "name": "MARTYNOWSKI Marek Eryk",
+            "constituency": {
+                "name": "Płock",
+                "tableName": "nr 38, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 38 [Płock]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 115800,
+            "mandate": true
+        },
+        {
+            "name": "GORGOŃ-KOMOR Agnieszka Aleksandra",
+            "constituency": {
+                "name": "Bielsko-Biała",
+                "tableName": "nr 78, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 78 [Bielsko-Biała]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 114113,
+            "mandate": true
+        },
+        {
+            "name": "CHYBICKA  Alicja Paulina",
+            "constituency": {
+                "name": "Wrocław",
+                "tableName": "nr 7, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 7 [Wrocław]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 113877,
+            "mandate": true
+        },
+        {
+            "name": "HAMERSKI Jan Wincenty",
+            "constituency": {
+                "name": "Nowy Sącz",
+                "tableName": "nr 36, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 36 [Nowy Sącz]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 113454,
+            "mandate": true
+        },
+        {
+            "name": "CHRÓŚCIKOWSKI Jerzy Mieczysław",
+            "constituency": {
+                "name": "Chełm",
+                "tableName": "nr 19, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 19 [Chełm]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 112993,
+            "mandate": true
+        },
+        {
+            "name": "KOMOROWSKI Marek Adam",
+            "constituency": {
+                "name": "Białystok",
+                "tableName": "nr 59, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 59 [Białystok]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 111737,
+            "mandate": true
+        },
+        {
+            "name": "DURLAK Wiktor Michał",
+            "constituency": {
+                "name": "Nowy Sącz",
+                "tableName": "nr 37, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 37 [Nowy Sącz]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 107119,
+            "mandate": true
+        },
+        {
+            "name": "RYBICKI Sławomir Piotr",
+            "constituency": {
+                "name": "Słupsk",
+                "tableName": "nr 64, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 64 [Słupsk]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 106970,
+            "mandate": true
+        },
+        {
+            "name": "STAROŃ Lidia Ewa",
+            "constituency": {
+                "name": "Olsztyn",
+                "tableName": "nr 86, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 86 [Olsztyn]"
+            },
+            "commity": "KOMITET WYBORCZY WYBORCÓW LIDIA STAROŃ – ZAWSZE PO STRONIE LUDZI",
+            "party": "INNE",
+            "votes": 106035,
+            "mandate": true
+        },
+        {
+            "name": "LIBICKI Jan Filip",
+            "constituency": {
+                "name": "Piła",
+                "tableName": "nr 89, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 89 [Piła]"
+            },
+            "commity": "KOMITET WYBORCZY POLSKIE STRONNICTWO LUDOWE",
+            "party": "PSL",
+            "votes": 105042,
+            "mandate": true
+        },
+        {
+            "name": "MAMĄTOW Robert Adam",
+            "constituency": {
+                "name": "Siedlce",
+                "tableName": "nr 46, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 46 [Siedlce]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 104694,
+            "mandate": true
+        },
+        {
+            "name": "GROMKO Mariusz Krzysztof",
+            "constituency": {
+                "name": "Białystok",
+                "tableName": "nr 60, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 60 [Białystok]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 104694,
+            "mandate": true
+        },
+        {
+            "name": "DOBKOWSKI  Wiesław Józef",
+            "constituency": {
+                "name": "Piotrków Trybunalski",
+                "tableName": "nr 28, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 28 [Piotrków Trybunalski]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 102812,
+            "mandate": true
+        },
+        {
+            "name": "ZAJĄC  Alicja Maria",
+            "constituency": {
+                "name": "Krosno",
+                "tableName": "nr 57, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 57 [Krosno]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 100300,
+            "mandate": true
+        },
+        {
+            "name": "KOC Maria Zofia",
+            "constituency": {
+                "name": "Siedlce",
+                "tableName": "nr 47, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 47 [Siedlce]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 99549,
+            "mandate": true
+        },
+        {
+            "name": "MĘŻYDŁO  Antoni",
+            "constituency": {
+                "name": "Toruń",
+                "tableName": "nr 11, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 11 [Toruń]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 98699,
+            "mandate": true
+        },
+        {
+            "name": "WIATR Kazimierz Adam",
+            "constituency": {
+                "name": "Tarnów",
+                "tableName": "nr 35, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 35 [Tarnów]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 98317,
+            "mandate": true
+        },
+        {
+            "name": "BUDNER Margareta",
+            "constituency": {
+                "name": "Konin",
+                "tableName": "nr 93, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 93 [Konin]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 98117,
+            "mandate": true
+        },
+        {
+            "name": "BERNACKI Włodzimierz",
+            "constituency": {
+                "name": "Tarnów",
+                "tableName": "nr 34, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 34 [Tarnów]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 97648,
+            "mandate": true
+        },
+        {
+            "name": "SŁOŃ Krzysztof Marek",
+            "constituency": {
+                "name": "Kielce",
+                "tableName": "nr 83, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 83 [Kielce]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 97471,
+            "mandate": true
+        },
+        {
+            "name": "GAWĘDA Ewa Maria",
+            "constituency": {
+                "name": "Bielsko-Biała",
+                "tableName": "nr 72, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 72 [Bielsko-Biała]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 97412,
+            "mandate": true
+        },
+        {
+            "name": "DOWHAN Robert ",
+            "constituency": {
+                "name": "Zielona Góra",
+                "tableName": "nr 20, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 20 [Zielona Góra]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 97398,
+            "mandate": true
+        },
+        {
+            "name": "KWIATKOWSKI  Krzysztof ",
+            "constituency": {
+                "name": "Łódź",
+                "tableName": "nr 24, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 24 [Łódź]"
+            },
+            "commity": "KOMITET WYBORCZY WYBORCÓW KRZYSZTOFA KWIATKOWSKIEGO",
+            "party": "INNE",
+            "votes": 96891,
+            "mandate": true
+        },
+        {
+            "name": "SAGATOWSKA Janina Zofia ",
+            "constituency": {
+                "name": "Rzeszów",
+                "tableName": "nr 54, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 54 [Rzeszów]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 94603,
+            "mandate": true
+        },
+        {
+            "name": "PLURA Marek Mirosław",
+            "constituency": {
+                "name": "Katowice",
+                "tableName": "nr 80, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 80 [Katowice]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 92332,
+            "mandate": true
+        },
+        {
+            "name": "LAMCZYK Stanisław Józef",
+            "constituency": {
+                "name": "Słupsk",
+                "tableName": "nr 63, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 63 [Słupsk]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 90404,
+            "mandate": true
+        },
+        {
+            "name": "ŚWILSKI Ryszard Jan",
+            "constituency": {
+                "name": "Gdańsk",
+                "tableName": "nr 66, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 66 [Gdańsk]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 87639,
+            "mandate": true
+        },
+        {
+            "name": "RUSIECKI Jarosław",
+            "constituency": {
+                "name": "Kielce",
+                "tableName": "nr 82, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 82 [Kielce]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 87428,
+            "mandate": true
+        },
+        {
+            "name": "SEWERYŃSKI Michał ",
+            "constituency": {
+                "name": "Sieradz",
+                "tableName": "nr 27, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 27 [Sieradz]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 86706,
+            "mandate": true
+        },
+        {
+            "name": "CZUDOWSKA Dorota ",
+            "constituency": {
+                "name": "Legnica",
+                "tableName": "nr 3, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 3 [Legnica]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 86312,
+            "mandate": true
+        },
+        {
+            "name": "BURY Jacek",
+            "constituency": {
+                "name": "Lublin",
+                "tableName": "nr 16, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 16 [Lublin]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 84889,
+            "mandate": true
+        },
+        {
+            "name": "JACKOWSKI Jan Maria",
+            "constituency": {
+                "name": "Płock",
+                "tableName": "nr 39, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 39 [Płock]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 83808,
+            "mandate": true
+        },
+        {
+            "name": "SEKUŁA Joanna",
+            "constituency": {
+                "name": "Katowice",
+                "tableName": "nr 77, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 77 [Katowice]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 83771,
+            "mandate": true
+        },
+        {
+            "name": "AMBROZIK Rafał Michał ",
+            "constituency": {
+                "name": "Piotrków Trybunalski",
+                "tableName": "nr 29, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 29 [Piotrków Trybunalski]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 83024,
+            "mandate": true
+        },
+        {
+            "name": "MAŁECKA-LIBERA Beata Maria",
+            "constituency": {
+                "name": "Katowice",
+                "tableName": "nr 76, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 76 [Katowice]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 82090,
+            "mandate": true
+        },
+        {
+            "name": "MAJER Ryszard Bogdan",
+            "constituency": {
+                "name": "Częstochowa",
+                "tableName": "nr 68, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 68 [Częstochowa]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 82080,
+            "mandate": true
+        },
+        {
+            "name": "MATECKA Ewa Jolanta",
+            "constituency": {
+                "name": "Kalisz",
+                "tableName": "nr 95, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 95 [Kalisz]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 80084,
+            "mandate": true
+        },
+        {
+            "name": "BREJZA Krzysztof",
+            "constituency": {
+                "name": "Bydgoszcz",
+                "tableName": "nr 10, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 10 [Bydgoszcz]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 79054,
+            "mandate": true
+        },
+        {
+            "name": "KOPEĆ Tadeusz Wiktor",
+            "constituency": {
+                "name": "Bielsko-Biała",
+                "tableName": "nr 79, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 79 [Bielsko-Biała]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 78655,
+            "mandate": true
+        },
+        {
+            "name": "SZEJNFELD Adam Stanisław",
+            "constituency": {
+                "name": "Piła",
+                "tableName": "nr 88, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 88 [Piła]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 77873,
+            "mandate": true
+        },
+        {
+            "name": "ZIEMNIAK Wojciech Stanisław",
+            "constituency": {
+                "name": "Kalisz",
+                "tableName": "nr 94, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 94 [Kalisz]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 77057,
+            "mandate": true
+        },
+        {
+            "name": "ARNDT Paweł Antoni",
+            "constituency": {
+                "name": "Konin",
+                "tableName": "nr 92, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 92 [Konin]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 76897,
+            "mandate": true
+        },
+        {
+            "name": "BIEDA Halina Maria",
+            "constituency": {
+                "name": "Katowice",
+                "tableName": "nr 71, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 71 [Katowice]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 74605,
+            "mandate": true
+        },
+        {
+            "name": "CZERWIŃSKI  Jerzy",
+            "constituency": {
+                "name": "Opole",
+                "tableName": "nr 51, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 51 [Opole]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 73426,
+            "mandate": true
+        },
+        {
+            "name": "PĘCHERZ Janusz Andrzej",
+            "constituency": {
+                "name": "Kalisz",
+                "tableName": "nr 96, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 96 [Kalisz]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 72579,
+            "mandate": true
+        },
+        {
+            "name": "KRASKA Waldemar Jerzy",
+            "constituency": {
+                "name": "Siedlce",
+                "tableName": "nr 48, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 48 [Siedlce]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 72101,
+            "mandate": true
+        },
+        {
+            "name": "TOBISZOWSKA Dorota Jolanta",
+            "constituency": {
+                "name": "Katowice",
+                "tableName": "nr 74, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 74 [Katowice]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 71383,
+            "mandate": true
+        },
+        {
+            "name": "KARCZEWSKI Stanisław",
+            "constituency": {
+                "name": "Radom",
+                "tableName": "nr 49, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 49 [Radom]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 70878,
+            "mandate": true
+        },
+        {
+            "name": "ŁUCZAK Maciej Adam ",
+            "constituency": {
+                "name": "Sieradz",
+                "tableName": "nr 26, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 26 [Sieradz]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 70561,
+            "mandate": true
+        },
+        {
+            "name": "KOŁACZ-LESZCZYŃSKA Agnieszka Maria",
+            "constituency": {
+                "name": "Wałbrzych",
+                "tableName": "nr 4, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 4 [Wałbrzych]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 70209,
+            "mandate": true
+        },
+        {
+            "name": "BŁASZCZYK Przemysław Jacek",
+            "constituency": {
+                "name": "Sieradz",
+                "tableName": "nr 25, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 25 [Sieradz]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 69998,
+            "mandate": true
+        },
+        {
+            "name": "KOMARNICKI Władysław ",
+            "constituency": {
+                "name": "Zielona Góra",
+                "tableName": "nr 21, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 21 [Zielona Góra]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 69298,
+            "mandate": true
+        },
+        {
+            "name": "BIERECKI Grzegorz Michał ",
+            "constituency": {
+                "name": "Chełm",
+                "tableName": "nr 17, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 17 [Chełm]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 68666,
+            "mandate": true
+        },
+        {
+            "name": "PIECHA Wojciech Piotr",
+            "constituency": {
+                "name": "Bielsko-Biała",
+                "tableName": "nr 73, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 73 [Bielsko-Biała]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 68619,
+            "mandate": true
+        },
+        {
+            "name": "MORAWSKA-STANECKA Gabriela Anna",
+            "constituency": {
+                "name": "Katowice",
+                "tableName": "nr 75, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 75 [Katowice]"
+            },
+            "commity": "KOMITET WYBORCZY SOJUSZ LEWICY DEMOKRATYCZNEJ",
+            "party": "SLD",
+            "votes": 64172,
+            "mandate": true
+        },
+        {
+            "name": "KOPICZKO Małgorzata",
+            "constituency": {
+                "name": "Olsztyn",
+                "tableName": "nr 87, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 87 [Olsztyn]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 63910,
+            "mandate": true
+        },
+        {
+            "name": "TYSZKIEWICZ Wadim",
+            "constituency": {
+                "name": "Zielona Góra",
+                "tableName": "nr 22, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 22 [Zielona Góra]"
+            },
+            "commity": "KOMITET WYBORCZY WYBORCÓW WADIM TYSZKIEWICZ",
+            "party": "INNE",
+            "votes": 63675,
+            "mandate": true
+        },
+        {
+            "name": "ZAJĄC  Józef",
+            "constituency": {
+                "name": "Chełm",
+                "tableName": "nr 18, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 18 [Chełm]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 61416,
+            "mandate": true
+        },
+        {
+            "name": "SZWED Aleksander Jakub",
+            "constituency": {
+                "name": "Wałbrzych",
+                "tableName": "nr 5, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 5 [Wałbrzych]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 61035,
+            "mandate": true
+        },
+        {
+            "name": "JAZŁOWIECKA Danuta",
+            "constituency": {
+                "name": "Opole",
+                "tableName": "nr 52, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 52 [Opole]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 60597,
+            "mandate": true
+        },
+        {
+            "name": "ŁYCZAK Józef Mikołaj",
+            "constituency": {
+                "name": "Toruń",
+                "tableName": "nr 13, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 13 [Toruń]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 60432,
+            "mandate": true
+        },
+        {
+            "name": "GROMEK Janusz",
+            "constituency": {
+                "name": "Koszalin",
+                "tableName": "nr 99, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 99 [Koszalin]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 59348,
+            "mandate": true
+        },
+        {
+            "name": "WCISŁA Jerzy",
+            "constituency": {
+                "name": "Elbląg",
+                "tableName": "nr 84, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 84 [Elbląg]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 57022,
+            "mandate": true
+        },
+        {
+            "name": "CZARNOBAJ Leszek",
+            "constituency": {
+                "name": "Gdańsk",
+                "tableName": "nr 67, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 67 [Gdańsk]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 53771,
+            "mandate": true
+        },
+        {
+            "name": "GODYLA Beniamin Wincenty",
+            "constituency": {
+                "name": "Opole",
+                "tableName": "nr 53, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 53 [Opole]"
+            },
+            "commity": "KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL ZIELONI",
+            "party": "KOBW",
+            "votes": 53012,
+            "mandate": true
+        },
+        {
+            "name": "BOBER Ryszard Jakub",
+            "constituency": {
+                "name": "Toruń",
+                "tableName": "nr 12, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 12 [Toruń]"
+            },
+            "commity": "KOMITET WYBORCZY POLSKIE STRONNICTWO LUDOWE",
+            "party": "PSL",
+            "votes": 52619,
+            "mandate": true
+        },
+        {
+            "name": "ORZECHOWSKA Bogusława",
+            "constituency": {
+                "name": "Elbląg",
+                "tableName": "nr 85, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 85 [Elbląg]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 51378,
+            "mandate": true
+        },
+        {
+            "name": "MRÓZ Krzysztof Stanisław",
+            "constituency": {
+                "name": "Legnica",
+                "tableName": "nr 2, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 2 [Legnica]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 49938,
+            "mandate": true
+        },
+        {
+            "name": "KONIECZNY Wojciech Jan",
+            "constituency": {
+                "name": "Częstochowa",
+                "tableName": "nr 69, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 69 [Częstochowa]"
+            },
+            "commity": "KOMITET WYBORCZY SOJUSZ LEWICY DEMOKRATYCZNEJ",
+            "party": "SLD",
+            "votes": 49261,
+            "mandate": true
+        },
+        {
+            "name": "BOGUCKI Jacek",
+            "constituency": {
+                "name": "Białystok",
+                "tableName": "nr 61, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 61 [Białystok]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 48257,
+            "mandate": true
+        },
+        {
+            "name": "ŚLUSARZ Rafał Józef",
+            "constituency": {
+                "name": "Legnica",
+                "tableName": "nr 1, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 1 [Legnica]"
+            },
+            "commity": "KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ",
+            "party": "PIS",
+            "votes": 45420,
+            "mandate": true
+        },
+        {
+            "name": "GAWŁOWSKI Stanisław",
+            "constituency": {
+                "name": "Koszalin",
+                "tableName": "nr 100, Gdańsk",
+                "nameFormatted": "Okręg wyborczy nr 100 [Koszalin]"
+            },
+            "commity": "KOMITET WYBORCZY WYBORCÓW DEMOKRACJA OBYWATELSKA",
+            "party": "INNE",
+            "votes": 44956,
+            "mandate": true
+        }
+    ]
+}
