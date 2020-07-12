@@ -1,0 +1,1110 @@
+{
+    "NR": {
+        "ANDRZEJDUDA": {
+            "support": 1
+        },
+        "RAFALTRZASKOWSKI": {
+            "support": 2
+        }
+    },
+    "support": {
+        "ANDRZEJDUDA": {
+            "support": 50.4
+        },
+        "RAFALTRZASKOWSKI": {
+            "support": 49.6
+        }
+    },
+    "SEJM_2019_row": {
+        "PSL": {
+            "ANDRZEJDUDA": {
+                "support": 28.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 71.3
+            }
+        },
+        "PiS": {
+            "ANDRZEJDUDA": {
+                "support": 96.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 3.2
+            }
+        },
+        "SLD": {
+            "ANDRZEJDUDA": {
+                "support": 8.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 91.8
+            }
+        },
+        "Konfederacja": {
+            "ANDRZEJDUDA": {
+                "support": 39.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 60.9
+            }
+        },
+        "Koalicja Obywatelska": {
+            "ANDRZEJDUDA": {
+                "support": 1.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 98.2
+            }
+        },
+        "Inne partie i ugrupowania": {
+            "ANDRZEJDUDA": {
+                "support": 16.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 83.7
+            }
+        },
+        "Nie głosowałem": {
+            "ANDRZEJDUDA": {
+                "support": 37.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 62.3
+            }
+        },
+        "Nie pamiętam": {
+            "ANDRZEJDUDA": {
+                "support": 39.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 60.5
+            }
+        }
+    },
+    "PREZYDENT_2015_row": {
+        "Andrzej Duda": {
+            "ANDRZEJDUDA": {
+                "support": 90.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 9.1
+            }
+        },
+        "Bronisław Komorowski": {
+            "ANDRZEJDUDA": {
+                "support": 4.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 95.7
+            }
+        },
+        "Nie głosowałem": {
+            "ANDRZEJDUDA": {
+                "support": 29.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 70.6
+            }
+        },
+        "Nie pamiętam": {
+            "ANDRZEJDUDA": {
+                "support": 38.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 61.4
+            }
+        }
+    },
+    "WIEK_row": {
+        "18 - 29 lat": {
+            "ANDRZEJDUDA": {
+                "support": 35.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 64.4
+            }
+        },
+        "30 - 39 lat": {
+            "ANDRZEJDUDA": {
+                "support": 44.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 55.4
+            }
+        },
+        "40 - 49 lat": {
+            "ANDRZEJDUDA": {
+                "support": 44.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 55.2
+            }
+        },
+        "50 - 59 lat": {
+            "ANDRZEJDUDA": {
+                "support": 59.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 40.9
+            }
+        },
+        "60 i wiecej lat": {
+            "ANDRZEJDUDA": {
+                "support": 61.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 38.3
+            }
+        }
+    },
+    "PLEC_row": {
+        "Mezczyzni": {
+            "ANDRZEJDUDA": {
+                "support": 51.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 48.7
+            }
+        },
+        "Kobiety": {
+            "ANDRZEJDUDA": {
+                "support": 49.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 50.4
+            }
+        }
+    },
+    "WYKSZTALCENIE_row": {
+        "Podstawowe": {
+            "ANDRZEJDUDA": {
+                "support": 77.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 22.7
+            }
+        },
+        "Zasadnicze zawodowe": {
+            "ANDRZEJDUDA": {
+                "support": 74.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 25.3
+            }
+        },
+        "Średnie i pomaturalne": {
+            "ANDRZEJDUDA": {
+                "support": 50.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 49.7
+            }
+        },
+        "Licencjat i wyższe": {
+            "ANDRZEJDUDA": {
+                "support": 34.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 65.9
+            }
+        }
+    },
+    "GRUPA_row": {
+        "Właściciel / współwłaściciel firmy": {
+            "ANDRZEJDUDA": {
+                "support": 33.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 66.9
+            }
+        },
+        "Dyrektor / kierownik / specjalista": {
+            "ANDRZEJDUDA": {
+                "support": 31.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 68.1
+            }
+        },
+        "Pracownik administracji lub usług": {
+            "ANDRZEJDUDA": {
+                "support": 43.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 56.2
+            }
+        },
+        "Rolnik": {
+            "ANDRZEJDUDA": {
+                "support": 81
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 19
+            }
+        },
+        "Robotnik": {
+            "ANDRZEJDUDA": {
+                "support": 65.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 34.1
+            }
+        },
+        "Uczeń / student": {
+            "ANDRZEJDUDA": {
+                "support": 29.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 70.3
+            }
+        },
+        "Osoba bezrobotna": {
+            "ANDRZEJDUDA": {
+                "support": 65
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 35
+            }
+        },
+        "Emeryt / rencista": {
+            "ANDRZEJDUDA": {
+                "support": 63.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 36.6
+            }
+        },
+        "Inny": {
+            "ANDRZEJDUDA": {
+                "support": 50.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 49.8
+            }
+        }
+    },
+    "MIEJSCOWOSC_row": {
+        "Wieś": {
+            "ANDRZEJDUDA": {
+                "support": 63.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 36.8
+            }
+        },
+        "Miasto do 50 tys.": {
+            "ANDRZEJDUDA": {
+                "support": 46.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 53.8
+            }
+        },
+        "Miasto 51-200 tys.": {
+            "ANDRZEJDUDA": {
+                "support": 49
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 51
+            }
+        },
+        "Miasto 201-500 tys.": {
+            "ANDRZEJDUDA": {
+                "support": 38.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 61.9
+            }
+        },
+        "Miasto pow. 500 tys.": {
+            "ANDRZEJDUDA": {
+                "support": 33.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 66.5
+            }
+        }
+    },
+    "WOJEWODZTWA_row": {
+        "dolnoslaskie": {
+            "ANDRZEJDUDA": {
+                "support": 41.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 58.6
+            }
+        },
+        "kujawsko-pomorskie": {
+            "ANDRZEJDUDA": {
+                "support": 46.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 53.9
+            }
+        },
+        "lubelskie": {
+            "ANDRZEJDUDA": {
+                "support": 64.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 35.6
+            }
+        },
+        "lubuskie": {
+            "ANDRZEJDUDA": {
+                "support": 36.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 63.1
+            }
+        },
+        "lodzkie": {
+            "ANDRZEJDUDA": {
+                "support": 57.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 42.9
+            }
+        },
+        "malopolskie": {
+            "ANDRZEJDUDA": {
+                "support": 57.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 42.8
+            }
+        },
+        "mazowieckie": {
+            "ANDRZEJDUDA": {
+                "support": 51
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 49
+            }
+        },
+        "opolskie": {
+            "ANDRZEJDUDA": {
+                "support": 44.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 55.6
+            }
+        },
+        "podkarpackie": {
+            "ANDRZEJDUDA": {
+                "support": 72.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 27.4
+            }
+        },
+        "podlaskie": {
+            "ANDRZEJDUDA": {
+                "support": 60
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 40
+            }
+        },
+        "pomorskie": {
+            "ANDRZEJDUDA": {
+                "support": 33.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 66.4
+            }
+        },
+        "slaskie": {
+            "ANDRZEJDUDA": {
+                "support": 47.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 52.3
+            }
+        },
+        "swietokrzyskie": {
+            "ANDRZEJDUDA": {
+                "support": 63.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 36.6
+            }
+        },
+        "warminsko-mazurskie": {
+            "ANDRZEJDUDA": {
+                "support": 46.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 53.1
+            }
+        },
+        "wielkopolskie": {
+            "ANDRZEJDUDA": {
+                "support": 44.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 55.3
+            }
+        },
+        "zachodniopomorskie": {
+            "ANDRZEJDUDA": {
+                "support": 36.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 63.1
+            }
+        }
+    },
+    "SEJM_2019_col": {
+        "PSL": {
+            "ANDRZEJDUDA": {
+                "support": 1.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 4.2
+            }
+        },
+        "PiS": {
+            "ANDRZEJDUDA": {
+                "support": 79.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 2.7
+            }
+        },
+        "SLD": {
+            "ANDRZEJDUDA": {
+                "support": 0.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 9.6
+            }
+        },
+        "Konfederacja": {
+            "ANDRZEJDUDA": {
+                "support": 3.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 5.7
+            }
+        },
+        "Koalicja Obywatelska": {
+            "ANDRZEJDUDA": {
+                "support": 0.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 53.4
+            }
+        },
+        "Inne partie i ugrupowania": {
+            "ANDRZEJDUDA": {
+                "support": 0.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 3.5
+            }
+        },
+        "Nie głosowałem": {
+            "ANDRZEJDUDA": {
+                "support": 6.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 10.8
+            }
+        },
+        "Nie pamiętam": {
+            "ANDRZEJDUDA": {
+                "support": 6.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 10.1
+            }
+        }
+    },
+    "PREZYDENT_2015_col": {
+        "Andrzej Duda": {
+            "ANDRZEJDUDA": {
+                "support": 84.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 8.6
+            }
+        },
+        "Bronisław Komorowski": {
+            "ANDRZEJDUDA": {
+                "support": 2.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 64.4
+            }
+        },
+        "Nie głosowałem": {
+            "ANDRZEJDUDA": {
+                "support": 7.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 18.9
+            }
+        },
+        "Nie pamiętam": {
+            "ANDRZEJDUDA": {
+                "support": 5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 8.1
+            }
+        }
+    },
+    "WIEK_col": {
+        "18 - 29 lat": {
+            "ANDRZEJDUDA": {
+                "support": 12
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 21.9
+            }
+        },
+        "30 - 39 lat": {
+            "ANDRZEJDUDA": {
+                "support": 16.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 21.1
+            }
+        },
+        "40 - 49 lat": {
+            "ANDRZEJDUDA": {
+                "support": 17.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 21.5
+            }
+        },
+        "50 - 59 lat": {
+            "ANDRZEJDUDA": {
+                "support": 19.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 13.7
+            }
+        },
+        "60 i wiecej lat": {
+            "ANDRZEJDUDA": {
+                "support": 34.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 21.8
+            }
+        }
+    },
+    "PLEC_col": {
+        "Mezczyzni": {
+            "ANDRZEJDUDA": {
+                "support": 45.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 44.2
+            }
+        },
+        "Kobiety": {
+            "ANDRZEJDUDA": {
+                "support": 54.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 55.8
+            }
+        }
+    },
+    "WYKSZTALCENIE_col": {
+        "Podstawowe": {
+            "ANDRZEJDUDA": {
+                "support": 8.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 2.6
+            }
+        },
+        "Zasadnicze zawodowe": {
+            "ANDRZEJDUDA": {
+                "support": 27.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 9.4
+            }
+        },
+        "Średnie i pomaturalne": {
+            "ANDRZEJDUDA": {
+                "support": 38.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 39
+            }
+        },
+        "Licencjat i wyższe": {
+            "ANDRZEJDUDA": {
+                "support": 24.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 49
+            }
+        }
+    },
+    "GRUPA_col": {
+        "Właściciel / współwłaściciel firmy": {
+            "ANDRZEJDUDA": {
+                "support": 7.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 14.6
+            }
+        },
+        "Dyrektor / kierownik / specjalista": {
+            "ANDRZEJDUDA": {
+                "support": 7.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 16.5
+            }
+        },
+        "Pracownik administracji lub usług": {
+            "ANDRZEJDUDA": {
+                "support": 15.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 20.4
+            }
+        },
+        "Rolnik": {
+            "ANDRZEJDUDA": {
+                "support": 7.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 1.9
+            }
+        },
+        "Robotnik": {
+            "ANDRZEJDUDA": {
+                "support": 13.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 7
+            }
+        },
+        "Uczeń / student": {
+            "ANDRZEJDUDA": {
+                "support": 4.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 9.8
+            }
+        },
+        "Osoba bezrobotna": {
+            "ANDRZEJDUDA": {
+                "support": 3.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 1.9
+            }
+        },
+        "Emeryt / rencista": {
+            "ANDRZEJDUDA": {
+                "support": 31.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 18.4
+            }
+        },
+        "Inny": {
+            "ANDRZEJDUDA": {
+                "support": 9.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 9.5
+            }
+        }
+    },
+    "MIEJSCOWOSC_col": {
+        "Wieś": {
+            "ANDRZEJDUDA": {
+                "support": 50
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 29.5
+            }
+        },
+        "Miasto do 50 tys.": {
+            "ANDRZEJDUDA": {
+                "support": 23.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 28.1
+            }
+        },
+        "Miasto 51-200 tys.": {
+            "ANDRZEJDUDA": {
+                "support": 6.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 6.4
+            }
+        },
+        "Miasto 201-500 tys.": {
+            "ANDRZEJDUDA": {
+                "support": 12.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 21
+            }
+        },
+        "Miasto pow. 500 tys.": {
+            "ANDRZEJDUDA": {
+                "support": 7.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 15
+            }
+        }
+    },
+    "WOJEWODZTWA_col": {
+        "dolnoslaskie": {
+            "ANDRZEJDUDA": {
+                "support": 5.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 8.5
+            }
+        },
+        "kujawsko-pomorskie": {
+            "ANDRZEJDUDA": {
+                "support": 4.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 5.3
+            }
+        },
+        "lubelskie": {
+            "ANDRZEJDUDA": {
+                "support": 7.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 4
+            }
+        },
+        "lubuskie": {
+            "ANDRZEJDUDA": {
+                "support": 2.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 3.6
+            }
+        },
+        "lodzkie": {
+            "ANDRZEJDUDA": {
+                "support": 7.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 5.4
+            }
+        },
+        "malopolskie": {
+            "ANDRZEJDUDA": {
+                "support": 10.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 7.9
+            }
+        },
+        "mazowieckie": {
+            "ANDRZEJDUDA": {
+                "support": 14.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 13.7
+            }
+        },
+        "opolskie": {
+            "ANDRZEJDUDA": {
+                "support": 2.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 2.8
+            }
+        },
+        "podkarpackie": {
+            "ANDRZEJDUDA": {
+                "support": 9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 3.4
+            }
+        },
+        "podlaskie": {
+            "ANDRZEJDUDA": {
+                "support": 3.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 2.4
+            }
+        },
+        "pomorskie": {
+            "ANDRZEJDUDA": {
+                "support": 4.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 8.8
+            }
+        },
+        "slaskie": {
+            "ANDRZEJDUDA": {
+                "support": 10.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 12
+            }
+        },
+        "swietokrzyskie": {
+            "ANDRZEJDUDA": {
+                "support": 4.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 2.4
+            }
+        },
+        "warminsko-mazurskie": {
+            "ANDRZEJDUDA": {
+                "support": 3.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 4.1
+            }
+        },
+        "wielkopolskie": {
+            "ANDRZEJDUDA": {
+                "support": 8.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 10.3
+            }
+        },
+        "zachodniopomorskie": {
+            "ANDRZEJDUDA": {
+                "support": 3.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 5.4
+            }
+        }
+    },
+    "PREZYDENT_I_tura_row": {
+        "Biedroń Robert": {
+            "ANDRZEJDUDA": {
+                "support": 15.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 84.2
+            }
+        },
+        "Bosak Krzysztof": {
+            "ANDRZEJDUDA": {
+                "support": 51.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 48.5
+            }
+        },
+        "Duda Andrzej": {
+            "ANDRZEJDUDA": {
+                "support": 99.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.9
+            }
+        },
+        "Hołownia Szymon": {
+            "ANDRZEJDUDA": {
+                "support": 14.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 85.5
+            }
+        },
+        "Jakubiak Marek": {
+            "ANDRZEJDUDA": {
+                "support": 67.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 32.6
+            }
+        },
+        "Kosiniak-Kamysz Władysław": {
+            "ANDRZEJDUDA": {
+                "support": 23.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 76.7
+            }
+        },
+        "Piotrowski Mirosław": {
+            "ANDRZEJDUDA": {
+                "support": 78.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 21.7
+            }
+        },
+        "Tanajno Paweł": {
+            "ANDRZEJDUDA": {
+                "support": 13.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 86.8
+            }
+        },
+        "Trzaskowski Rafał": {
+            "ANDRZEJDUDA": {
+                "support": 0.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 99.3
+            }
+        },
+        "Witkowski Waldemar": {
+            "ANDRZEJDUDA": {
+                "support": 11
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 89
+            }
+        },
+        "Żółtek Stanisław": {
+            "ANDRZEJDUDA": {
+                "support": 31.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 68.4
+            }
+        },
+        "Nie głosowałem": {
+            "ANDRZEJDUDA": {
+                "support": 49
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 51
+            }
+        },
+        "Nie pamiętam": {
+            "ANDRZEJDUDA": {
+                "support": 56.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 43.8
+            }
+        }
+    },
+    "PREZYDENT_I_tura_col": {
+        "Biedroń Robert": {
+            "ANDRZEJDUDA": {
+                "support": 0.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 4.8
+            }
+        },
+        "Bosak Krzysztof": {
+            "ANDRZEJDUDA": {
+                "support": 6.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 5.9
+            }
+        },
+        "Duda Andrzej": {
+            "ANDRZEJDUDA": {
+                "support": 81.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.7
+            }
+        },
+        "Hołownia Szymon": {
+            "ANDRZEJDUDA": {
+                "support": 3.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 20.3
+            }
+        },
+        "Jakubiak Marek": {
+            "ANDRZEJDUDA": {
+                "support": 0.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.1
+            }
+        },
+        "Kosiniak-Kamysz Władysław": {
+            "ANDRZEJDUDA": {
+                "support": 0.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 2.4
+            }
+        },
+        "Piotrowski Mirosław": {
+            "ANDRZEJDUDA": {
+                "support": 0.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            }
+        },
+        "Tanajno Paweł": {
+            "ANDRZEJDUDA": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.3
+            }
+        },
+        "Trzaskowski Rafał": {
+            "ANDRZEJDUDA": {
+                "support": 0.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 58.4
+            }
+        },
+        "Witkowski Waldemar": {
+            "ANDRZEJDUDA": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.3
+            }
+        },
+        "Żółtek Stanisław": {
+            "ANDRZEJDUDA": {
+                "support": 0.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.3
+            }
+        },
+        "Nie głosowałem": {
+            "ANDRZEJDUDA": {
+                "support": 5.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 6
+            }
+        },
+        "Nie pamiętam": {
+            "ANDRZEJDUDA": {
+                "support": 0.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.5
+            }
+        }
+    }
+}

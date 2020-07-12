@@ -1,0 +1,172 @@
+{
+    "support": {
+        "ANDRZEJDUDA": {
+            "support": 50.4
+        },
+        "RAFALTRZASKOWSKI": {
+            "support": 49.6
+        }
+    },
+    "voivods": {
+        "dolnoslaskie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 41.4
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 58.6
+                }
+            }
+        },
+        "kujawsko-pomorskie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 46.1
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 53.9
+                }
+            }
+        },
+        "lubelskie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 64.4
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 35.6
+                }
+            }
+        },
+        "lubuskie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 36.9
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 63.1
+                }
+            }
+        },
+        "lodzkie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 57.1
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 42.9
+                }
+            }
+        },
+        "malopolskie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 57.2
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 42.8
+                }
+            }
+        },
+        "mazowieckie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 51
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 49
+                }
+            }
+        },
+        "opolskie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 44.4
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 55.6
+                }
+            }
+        },
+        "podkarpackie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 72.6
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 27.4
+                }
+            }
+        },
+        "podlaskie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 60
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 40
+                }
+            }
+        },
+        "pomorskie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 33.6
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 66.4
+                }
+            }
+        },
+        "slaskie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 47.7
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 52.3
+                }
+            }
+        },
+        "swietokrzyskie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 63.4
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 36.6
+                }
+            }
+        },
+        "warminsko-mazurskie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 46.9
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 53.1
+                }
+            }
+        },
+        "wielkopolskie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 44.7
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 55.3
+                }
+            }
+        },
+        "zachodniopomorskie": {
+            "percentage": {
+                "ANDRZEJDUDA": {
+                    "support": 36.9
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 63.1
+                }
+            }
+        }
+    }
+}
