@@ -20,7 +20,7 @@ https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-frekwencja-
 https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-wyniki-slupki-2020_v3.json
 https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-wyniki-mapa-2020_v3.json
 https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-frekwencja-slupki-2020_v3.json
-https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-frekwencja-mapa-2020_v3.json
+https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-frekwencja-mapa-2020_v3.jsonn
 https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/kantar-ii-tura_v1.json
 https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/kantar-ii-tura_v2.json
 https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/kantar-ii-tura_v3.json
@@ -29,3 +29,10 @@ https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-ii-tura-wyn
 https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-ii-tura-wyniki-mapa_v1.json
 https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-ii-tura-frekwencja-slupki_v1.json
 https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-ii-tura-frekwencja-mapa_v1.json
+https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-ii-tura-wyniki-slupki_v2.json
+https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-wyniki-slupki-2020_v4.json
+https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-wyniki-mapa-2020_v4.json
+https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-frekwencja-slupki-2020_v4.json
+https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-frekwencja-mapa-2020_v4.json
+https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-ii-tura-wyniki-mapa_v2.json
+https://widgets.online.tvwisla.com.pl/widgets/uploads/importer/ipsos-ii-tura-wyniki-slupki_v3.json

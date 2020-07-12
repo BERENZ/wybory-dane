@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: widgets/uploads/importer/ipsos-frekwencja-mapa-2020_v3.jsonn</li>
+<li>RequestId: 87C5AE80CEE8FA77</li>
+<li>HostId: 8PlWHig+BnabQjrWyOEW701CqnBf2ACGmMXt8JIOW18tBwQfetqPgf60mkTEbnkyGxHv8y9v0EM=</li>
+</ul>
+<hr/>
+</body>
+</html>
