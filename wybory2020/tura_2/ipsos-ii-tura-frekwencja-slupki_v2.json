@@ -1,0 +1,39 @@
+{
+    "ogolem": 68.9,
+    "wiek": {
+        "18-29-lat": 68.2,
+        "30-39-lat": 67.2,
+        "40-49-lat": 75.6,
+        "50-59-lat": 76.3,
+        "60-i-wiecej-lat": 62.9
+    },
+    "plec": {
+        "mezczyzni": 65.4,
+        "kobiety": 72.1
+    },
+    "miejscowosc": {
+        "wies": 68.2,
+        "miasto-do-50-tys.": 68.4,
+        "miasto-51-200-tys.": 66.8,
+        "miasto-201-500-tys.": 68.9,
+        "miasto-pow.-500-tys.": 74.2
+    },
+    "wojewodztwa": {
+        "dolnoslaskie": 65.2,
+        "kujawsko-pomorskie": 63.8,
+        "lubelskie": 66.1,
+        "lubuskie": 70.5,
+        "lodzkie": 69.1,
+        "malopolskie": 71.9,
+        "mazowieckie": 74.7,
+        "opolskie": 62.5,
+        "podkarpackie": 68.9,
+        "podlaskie": 65.6,
+        "pomorskie": 71.6,
+        "slaskie": 67.4,
+        "swietokrzyskie": 66.3,
+        "warminsko-mazurskie": 64.3,
+        "wielkopolskie": 70.5,
+        "zachodniopomorskie": 70.8
+    }
+}

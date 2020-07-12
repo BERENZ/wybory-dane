@@ -1,0 +1,1222 @@
+{
+    "NR": {
+        "NIEWIEM": {
+            "support": 1
+        },
+        "RAFALTRZASKOWSKI": {
+            "support": 2
+        },
+        "ANDRZEJDUDA": {
+            "support": 3
+        }
+    },
+    "support": {
+        "NIEWIEM": {
+            "support": 7
+        },
+        "RAFALTRZASKOWSKI": {
+            "support": 47
+        },
+        "ANDRZEJDUDA": {
+            "support": 46
+        }
+    },
+    "SEJM_2019_row": {
+        "PSL": {
+            "NIEWIEM": {
+                "support": 44.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 11.8
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "PiS": {
+            "NIEWIEM": {
+                "support": 9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 15.3
+            },
+            "ANDRZEJDUDA": {
+                "support": 24.8
+            }
+        },
+        "SLD": {
+            "NIEWIEM": {
+                "support": 10.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 22.9
+            }
+        },
+        "Konfederacja": {
+            "NIEWIEM": {
+                "support": 33.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Koalicja Obywatelska": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Inne partie i ugrupowania": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Nie głosowałem": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Nie pamiętam": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    },
+    "PREZYDENT_2015_row": {
+        "Andrzej Duda": {
+            "NIEWIEM": {
+                "support": 24.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 9.4
+            }
+        },
+        "Bronisław Komorowski": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 24.3
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Nie głosowałem": {
+            "NIEWIEM": {
+                "support": 15.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 9.6
+            },
+            "ANDRZEJDUDA": {
+                "support": 34.7
+            }
+        },
+        "Nie pamiętam": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    },
+    "WIEK_row": {
+        "18 - 29 lat": {
+            "NIEWIEM": {
+                "support": 49.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "30 - 39 lat": {
+            "NIEWIEM": {
+                "support": 32.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 19.4
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "40 - 49 lat": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 22.3
+            }
+        },
+        "50 - 59 lat": {
+            "NIEWIEM": {
+                "support": 10.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "60 i wiecej lat": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 12.3
+            },
+            "ANDRZEJDUDA": {
+                "support": 29.7
+            }
+        }
+    },
+    "PLEC_row": {
+        "Mezczyzni": {
+            "NIEWIEM": {
+                "support": 24.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 27.5
+            }
+        },
+        "Kobiety": {
+            "NIEWIEM": {
+                "support": 7.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 7.6
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    },
+    "WYKSZTALCENIE_row": {
+        "Podstawowe": {
+            "NIEWIEM": {
+                "support": 42.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 19
+            }
+        },
+        "Zasadnicze zawodowe": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 16.4
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Średnie i pomaturalne": {
+            "NIEWIEM": {
+                "support": 22.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 32.7
+            }
+        },
+        "Licencjat i wyższe": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    },
+    "GRUPA_row": {
+        "Właściciel / współwłaściciel firmy": {
+            "NIEWIEM": {
+                "support": 51.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Dyrektor / kierownik / specjalista": {
+            "NIEWIEM": {
+                "support": 30.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 27.9
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Pracownik administracji lub usług": {
+            "NIEWIEM": {
+                "support": 5.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 23
+            }
+        },
+        "Rolnik": {
+            "NIEWIEM": {
+                "support": 42.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Robotnik": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Uczeń / student": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Osoba bezrobotna": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Emeryt / rencista": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 37.8
+            }
+        },
+        "Inny": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 20.5
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    },
+    "MIEJSCOWOSC_row": {
+        "Wieś": {
+            "NIEWIEM": {
+                "support": 57.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Miasto do 50 tys.": {
+            "NIEWIEM": {
+                "support": 10.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 4.1
+            },
+            "ANDRZEJDUDA": {
+                "support": 9.9
+            }
+        },
+        "Miasto 51-200 tys.": {
+            "NIEWIEM": {
+                "support": 16.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 10.1
+            },
+            "ANDRZEJDUDA": {
+                "support": 24.5
+            }
+        },
+        "Miasto 201-500 tys.": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Miasto pow. 500 tys.": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    },
+    "WOJEWODZTWA_row": {
+        "dolnoslaskie": {
+            "NIEWIEM": {
+                "support": 7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 47
+            },
+            "ANDRZEJDUDA": {
+                "support": 46
+            }
+        },
+        "kujawsko-pomorskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "lubelskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "lubuskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "lodzkie": {
+            "NIEWIEM": {
+                "support": 5.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "malopolskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "mazowieckie": {
+            "NIEWIEM": {
+                "support": 19.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "opolskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "podkarpackie": {
+            "NIEWIEM": {
+                "support": 34.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "podlaskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "pomorskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "slaskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "swietokrzyskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "warminsko-mazurskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "wielkopolskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "zachodniopomorskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    },
+    "SEJM_2019_col": {
+        "PSL": {
+            "NIEWIEM": {
+                "support": 48.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 40.1
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "PiS": {
+            "NIEWIEM": {
+                "support": 11.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 59.9
+            },
+            "ANDRZEJDUDA": {
+                "support": 40.1
+            }
+        },
+        "SLD": {
+            "NIEWIEM": {
+                "support": 20.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 59.9
+            }
+        },
+        "Konfederacja": {
+            "NIEWIEM": {
+                "support": 20.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Koalicja Obywatelska": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Inne partie i ugrupowania": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Nie głosowałem": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Nie pamiętam": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    },
+    "PREZYDENT_2015_col": {
+        "Andrzej Duda": {
+            "NIEWIEM": {
+                "support": 79.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 40.1
+            }
+        },
+        "Bronisław Komorowski": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 59.9
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Nie głosowałem": {
+            "NIEWIEM": {
+                "support": 20.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 40.1
+            },
+            "ANDRZEJDUDA": {
+                "support": 59.9
+            }
+        },
+        "Nie pamiętam": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    },
+    "WIEK_col": {
+        "18 - 29 lat": {
+            "NIEWIEM": {
+                "support": 48.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "30 - 39 lat": {
+            "NIEWIEM": {
+                "support": 31.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 59.9
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "40 - 49 lat": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 59.9
+            }
+        },
+        "50 - 59 lat": {
+            "NIEWIEM": {
+                "support": 20.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "60 i wiecej lat": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 40.1
+            },
+            "ANDRZEJDUDA": {
+                "support": 40.1
+            }
+        }
+    },
+    "PLEC_col": {
+        "Mezczyzni": {
+            "NIEWIEM": {
+                "support": 68.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 100
+            }
+        },
+        "Kobiety": {
+            "NIEWIEM": {
+                "support": 31.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 100
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    },
+    "WYKSZTALCENIE_col": {
+        "Podstawowe": {
+            "NIEWIEM": {
+                "support": 68.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 40.1
+            }
+        },
+        "Zasadnicze zawodowe": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 100
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Średnie i pomaturalne": {
+            "NIEWIEM": {
+                "support": 31.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 59.9
+            }
+        },
+        "Licencjat i wyższe": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    },
+    "GRUPA_col": {
+        "Właściciel / współwłaściciel firmy": {
+            "NIEWIEM": {
+                "support": 48.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Dyrektor / kierownik / specjalista": {
+            "NIEWIEM": {
+                "support": 20.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 59.9
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Pracownik administracji lub usług": {
+            "NIEWIEM": {
+                "support": 11.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 59.9
+            }
+        },
+        "Rolnik": {
+            "NIEWIEM": {
+                "support": 20.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Robotnik": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Uczeń / student": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Osoba bezrobotna": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Emeryt / rencista": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 40.1
+            }
+        },
+        "Inny": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 40.1
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    },
+    "MIEJSCOWOSC_col": {
+        "Wieś": {
+            "NIEWIEM": {
+                "support": 28
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Miasto do 50 tys.": {
+            "NIEWIEM": {
+                "support": 52.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 63.5
+            },
+            "ANDRZEJDUDA": {
+                "support": 63.5
+            }
+        },
+        "Miasto 51-200 tys.": {
+            "NIEWIEM": {
+                "support": 19.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 36.5
+            },
+            "ANDRZEJDUDA": {
+                "support": 36.5
+            }
+        },
+        "Miasto 201-500 tys.": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "Miasto pow. 500 tys.": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    },
+    "WOJEWODZTWA_col": {
+        "dolnoslaskie": {
+            "NIEWIEM": {
+                "support": 67
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 100
+            },
+            "ANDRZEJDUDA": {
+                "support": 100
+            }
+        },
+        "kujawsko-pomorskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "lubelskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "lubuskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "lodzkie": {
+            "NIEWIEM": {
+                "support": 2.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "malopolskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "mazowieckie": {
+            "NIEWIEM": {
+                "support": 10.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "opolskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "podkarpackie": {
+            "NIEWIEM": {
+                "support": 19.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "podlaskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "pomorskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "slaskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "swietokrzyskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "warminsko-mazurskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "wielkopolskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        },
+        "zachodniopomorskie": {
+            "NIEWIEM": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            },
+            "ANDRZEJDUDA": {
+                "support": 0
+            }
+        }
+    }
+}

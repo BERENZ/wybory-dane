@@ -1,347 +1,60 @@
 {
-    "config": {
-        "namedComponents": {
-            "INNE": {
-                "name": "Nie  wiem",
-                "pkw_name": "Nie  wiem",
-                "ipsos_name": "Nie  wiem",
-                "shortname": "Nie  wiem",
-                "identifier": "INNE",
-                "color": "#B8B8B8",
-                "logo": "/uploads/Untitled_2_6f0268c605.png"
-            },
-            "ROBERTBIEDRON": {
-                "name": "Robert Biedroń",
-                "pkw_name": "Robert Biedroń",
-                "ipsos_name": "Robert Biedroń",
-                "shortname": "R. Biedroń",
-                "identifier": "ROBERTBIEDRON",
-                "color": "#CC2C31",
-                "logo": "/uploads/10_aceb18e0c2.png"
-            },
-            "KRZYSZTOFBOSAK": {
-                "name": "Krzysztof Bosak",
-                "pkw_name": "Krzysztof Bosak",
-                "ipsos_name": "Krzysztof Bosak",
-                "shortname": "K. Bosak",
-                "identifier": "KRZYSZTOFBOSAK",
-                "color": "#6C3D21",
-                "logo": "/uploads/5_3f5f291a0f.png"
-            },
-            "ANDRZEJDUDA": {
-                "name": "Andrzej Duda",
-                "pkw_name": "Andrzej Duda",
-                "ipsos_name": "Andrzej Duda",
-                "shortname": "A. Duda",
-                "identifier": "ANDRZEJDUDA",
-                "color": "#113568",
-                "logo": "/uploads/3_6a670dd2c7.png"
-            },
-            "SZYMONHOLOWNIA": {
-                "name": "Szymon Hołownia",
-                "pkw_name": "Szymon Hołownia",
-                "ipsos_name": "Szymon Hołownia",
-                "shortname": "S. Hołownia",
-                "identifier": "SZYMONHOLOWNIA",
-                "color": "#FFD24C",
-                "logo": "/uploads/2_8e67239891.png"
-            },
-            "MAREKJAKUBIAK": {
-                "name": "Marek Jakubiak",
-                "pkw_name": "Marek Jakubiak",
-                "ipsos_name": "Marek Jakubiak",
-                "shortname": "M. Jakubiak",
-                "identifier": "MAREKJAKUBIAK",
-                "color": "#259FD4",
-                "logo": "/uploads/7_9ee39069d1.png"
-            },
-            "RAFALTRZASKOWSKI": {
-                "name": "Rafał Trzaskowski",
-                "pkw_name": "Rafał Trzaskowski",
-                "ipsos_name": "Rafał Trzaskowski",
-                "shortname": "R. Trzaskowski",
-                "identifier": "RAFALTRZASKOWSKI",
-                "color": "#F88F2D",
-                "logo": "/uploads/9_d660c184cc.png"
-            },
-            "WLADYSLAWKOSINIAKKAMYSZ": {
-                "name": "Władysław Kosiniak-Kamysz",
-                "pkw_name": "Władysław Kosiniak-Kamysz",
-                "ipsos_name": "Władysław Kosiniak-Kamysz",
-                "shortname": "W. Kosiniak-Kamysz",
-                "identifier": "WLADYSLAWKOSINIAKKAMYSZ",
-                "color": "#3EB53D",
-                "logo": "/uploads/4_d9fe1f3c69.png"
-            },
-            "MIROSLAWPIOTROWSKI": {
-                "name": "Mirosław Piotrowski",
-                "pkw_name": "Mirosław Piotrowski",
-                "ipsos_name": "Mirosław Piotrowski",
-                "shortname": "M. Piotrowski",
-                "identifier": "MIROSLAWPIOTROWSKI",
-                "color": "#73209E",
-                "logo": "/uploads/6_5cd27afbfa.png"
-            },
-            "PAWELTANAJNO": {
-                "name": "Paweł Tanajno",
-                "pkw_name": "Paweł Tanajno",
-                "ipsos_name": "Paweł Tanajno",
-                "shortname": "P. Tanajno",
-                "identifier": "PAWELTANAJNO",
-                "color": "#17655A",
-                "logo": "/uploads/8_0694da6fd1.png"
-            },
-            "STANISLAWZOLTEK": {
-                "name": "Stanisław Żółtek",
-                "pkw_name": "Stanisław Żółtek",
-                "ipsos_name": "Stanisław Żółtek",
-                "shortname": "S. Żółtek",
-                "identifier": "STANISLAWZOLTEK",
-                "color": "#BA1067",
-                "logo": "/uploads/1_da9606b79c.png"
-            },
-            "WALDEMARWITKOWSKI": {
-                "name": "Waldemar Witkowski",
-                "pkw_name": "Waldemar Witkowski",
-                "ipsos_name": "Waldemar Witkowski",
-                "shortname": "W. Witkowski",
-                "identifier": "WALDEMARWITKOWSKI",
-                "color": "#2C52CC",
-                "logo": "/uploads/Waldemar_Witkowski_50f37b3592.png"
-            },
-            "NIEWIEM": {
-                "name": "Nie wiem",
-                "pkw_name": "Nie wiem",
-                "ipsos_name": "Nie wiem",
-                "shortname": "Nie wiem",
-                "identifier": "NIEWIEM",
-                "color": "#B8B8B8",
-                "logo": "/uploads/Untitled_2_6f0268c605.png"
-            }
-        },
-        "components": [
-            {
-                "name": "Nie  wiem",
-                "pkw_name": "Nie  wiem",
-                "ipsos_name": "Nie  wiem",
-                "shortname": "Nie  wiem",
-                "identifier": "INNE",
-                "color": "#B8B8B8",
-                "logo": "/uploads/Untitled_2_6f0268c605.png"
-            },
-            {
-                "name": "Robert Biedroń",
-                "pkw_name": "Robert Biedroń",
-                "ipsos_name": "Robert Biedroń",
-                "shortname": "R. Biedroń",
-                "identifier": "ROBERTBIEDRON",
-                "color": "#CC2C31",
-                "logo": "/uploads/10_aceb18e0c2.png"
-            },
-            {
-                "name": "Krzysztof Bosak",
-                "pkw_name": "Krzysztof Bosak",
-                "ipsos_name": "Krzysztof Bosak",
-                "shortname": "K. Bosak",
-                "identifier": "KRZYSZTOFBOSAK",
-                "color": "#6C3D21",
-                "logo": "/uploads/5_3f5f291a0f.png"
-            },
-            {
-                "name": "Andrzej Duda",
-                "pkw_name": "Andrzej Duda",
-                "ipsos_name": "Andrzej Duda",
-                "shortname": "A. Duda",
-                "identifier": "ANDRZEJDUDA",
-                "color": "#113568",
-                "logo": "/uploads/3_6a670dd2c7.png"
-            },
-            {
-                "name": "Szymon Hołownia",
-                "pkw_name": "Szymon Hołownia",
-                "ipsos_name": "Szymon Hołownia",
-                "shortname": "S. Hołownia",
-                "identifier": "SZYMONHOLOWNIA",
-                "color": "#FFD24C",
-                "logo": "/uploads/2_8e67239891.png"
-            },
-            {
-                "name": "Marek Jakubiak",
-                "pkw_name": "Marek Jakubiak",
-                "ipsos_name": "Marek Jakubiak",
-                "shortname": "M. Jakubiak",
-                "identifier": "MAREKJAKUBIAK",
-                "color": "#259FD4",
-                "logo": "/uploads/7_9ee39069d1.png"
-            },
-            {
-                "name": "Rafał Trzaskowski",
-                "pkw_name": "Rafał Trzaskowski",
-                "ipsos_name": "Rafał Trzaskowski",
-                "shortname": "R. Trzaskowski",
-                "identifier": "RAFALTRZASKOWSKI",
-                "color": "#F88F2D",
-                "logo": "/uploads/9_d660c184cc.png"
-            },
-            {
-                "name": "Władysław Kosiniak-Kamysz",
-                "pkw_name": "Władysław Kosiniak-Kamysz",
-                "ipsos_name": "Władysław Kosiniak-Kamysz",
-                "shortname": "W. Kosiniak-Kamysz",
-                "identifier": "WLADYSLAWKOSINIAKKAMYSZ",
-                "color": "#3EB53D",
-                "logo": "/uploads/4_d9fe1f3c69.png"
-            },
-            {
-                "name": "Mirosław Piotrowski",
-                "pkw_name": "Mirosław Piotrowski",
-                "ipsos_name": "Mirosław Piotrowski",
-                "shortname": "M. Piotrowski",
-                "identifier": "MIROSLAWPIOTROWSKI",
-                "color": "#73209E",
-                "logo": "/uploads/6_5cd27afbfa.png"
-            },
-            {
-                "name": "Paweł Tanajno",
-                "pkw_name": "Paweł Tanajno",
-                "ipsos_name": "Paweł Tanajno",
-                "shortname": "P. Tanajno",
-                "identifier": "PAWELTANAJNO",
-                "color": "#17655A",
-                "logo": "/uploads/8_0694da6fd1.png"
-            },
-            {
-                "name": "Stanisław Żółtek",
-                "pkw_name": "Stanisław Żółtek",
-                "ipsos_name": "Stanisław Żółtek",
-                "shortname": "S. Żółtek",
-                "identifier": "STANISLAWZOLTEK",
-                "color": "#BA1067",
-                "logo": "/uploads/1_da9606b79c.png"
-            },
-            {
-                "name": "Waldemar Witkowski",
-                "pkw_name": "Waldemar Witkowski",
-                "ipsos_name": "Waldemar Witkowski",
-                "shortname": "W. Witkowski",
-                "identifier": "WALDEMARWITKOWSKI",
-                "color": "#2C52CC",
-                "logo": "/uploads/Waldemar_Witkowski_50f37b3592.png"
-            },
-            {
-                "name": "Nie wiem",
-                "pkw_name": "Nie wiem",
-                "ipsos_name": "Nie wiem",
-                "shortname": "Nie wiem",
-                "identifier": "NIEWIEM",
-                "color": "#B8B8B8",
-                "logo": "/uploads/Untitled_2_6f0268c605.png"
-            }
-        ],
-        "voivodships": [
-            {
-                "name": "Dolnośląskie",
-                "identifier": "dolnoslaskie"
-            },
-            {
-                "name": "Kójawsko Pomorskie",
-                "identifier": "kujawsko-pomorskie"
-            },
-            {
-                "name": "Lubelskie",
-                "identifier": "lubelskie"
-            },
-            {
-                "name": "Lubuskie",
-                "identifier": "lubuskie"
-            },
-            {
-                "name": "Łódzkie",
-                "identifier": "lodzkie"
-            },
-            {
-                "name": "Małopolskie",
-                "identifier": "malopolskie"
-            },
-            {
-                "name": "Mazowieckie",
-                "identifier": "mazowieckie"
-            },
-            {
-                "name": "Opolskie",
-                "identifier": "opolskie"
-            },
-            {
-                "name": "Podkarpackie",
-                "identifier": "podkarpackie"
-            },
-            {
-                "name": "Podlaskie",
-                "identifier": "podlaskie"
-            },
-            {
-                "name": "Pomorskie",
-                "identifier": "pomorskie"
-            },
-            {
-                "name": "Śląskie",
-                "identifier": "slaskie"
-            },
-            {
-                "name": "Świętokrzyskie",
-                "identifier": "swietokrzyskie"
-            },
-            {
-                "name": "Warmińsko-Mazurskie",
-                "identifier": "warminsko-mazurskie"
-            },
-            {
-                "name": "Wielkopolskie",
-                "identifier": "wielkopolskie"
-            },
-            {
-                "name": "Zachodniopomorskie",
-                "identifier": "zachodniopomorskie"
-            }
-        ]
-    },
-    "dataFiles": {
-        "ipsos-wyniki-slupki-2020": "/uploads/ipsos-wyniki-slupki-2020.json",
-        "ipsos-wyniki-mapa-2020": "/uploads/ipsos-wyniki-mapa-2020.json",
-        "ipsos-frekwencja-slupki-2020": "/uploads/ipsos-frekwencja-slupki-2020.json",
-        "ipsos-frekwencja-mapa-2020": "/uploads/ipsos-frekwencja-mapa-2020.json",
-        "pkw-wojewodztwa-2020": "/uploads/pkw-wojewodztwa-2020.json",
-        "pkw-powiat-2020": "/uploads/pkw-powiat-2020.json",
-        "pkw-gmina-2020": "/uploads/pkw-gmina-2020.json",
-        "kantar": "/uploads/kantar.json",
-        "kantar-ii-tura": "/uploads/kantar-ii-tura.json",
-        "ipsos-wyniki-slupki-2020_v1": "/uploads/ipsos-wyniki-slupki-2020_v1.json",
-        "ipsos-wyniki-mapa-2020_v1": "/uploads/ipsos-wyniki-mapa-2020_v1.json",
-        "ipsos-frekwencja-slupki-2020_v1": "/uploads/ipsos-frekwencja-slupki-2020_v1.json",
-        "ipsos-frekwencja-mapa-2020_v1": "/uploads/ipsos-frekwencja-mapa-2020_v1.json",
-        "kantar_v1": "/uploads/kantar_v1.json",
-        "ipsos-wyniki-slupki-2020_v2": "/uploads/ipsos-wyniki-slupki-2020_v2.json",
-        "ipsos-wyniki-mapa-2020_v2": "/uploads/ipsos-wyniki-mapa-2020_v2.json",
-        "ipsos-frekwencja-slupki-2020_v2": "/uploads/ipsos-frekwencja-slupki-2020_v2.json",
-        "ipsos-frekwencja-mapa-2020_v2": "/uploads/ipsos-frekwencja-mapa-2020_v2.json",
-        "ipsos-wyniki-slupki-2020_v3": "/uploads/ipsos-wyniki-slupki-2020_v3.json",
-        "ipsos-wyniki-mapa-2020_v3": "/uploads/ipsos-wyniki-mapa-2020_v3.json",
-        "ipsos-frekwencja-slupki-2020_v3": "/uploads/ipsos-frekwencja-slupki-2020_v3.json",
-        "ipsos-frekwencja-mapa-2020_v3": "/uploads/ipsos-frekwencja-mapa-2020_v3.json",
-        "pkw-powiat-2020_v1": "/uploads/pkw-powiat-2020_v1.json",
-        "pkw-gmina-2020_v1": "/uploads/pkw-gmina-2020_v1.json",
-        "pkw-gmina-2020_v2": "/uploads/pkw-gmina-2020_v2.json",
-        "pkw-wojewodztwa-2020_v1": "/uploads/pkw-wojewodztwa-2020_v1.json",
-        "pkw-wojewodztwa-2020_v2": "/uploads/pkw-wojewodztwa-2020_v2.json",
-        "pkw-powiat-2020_v2": "/uploads/pkw-powiat-2020_v2.json",
-        "pkw-gmina-2020_v3": "/uploads/pkw-gmina-2020_v3.json",
-        "pkw-wojewodztwa-2020_v3": "/uploads/pkw-wojewodztwa-2020_v3.json",
-        "pkw-powiat-2020_v3": "/uploads/pkw-powiat-2020_v3.json",
-        "pkw-gmina-2020_v4": "/uploads/pkw-gmina-2020_v4.json",
-        "pkw-powiat-2020_v4": "/uploads/pkw-powiat-2020_v4.json",
-        "kantar-ii-tura_v1": "/uploads/kantar-ii-tura_v1.json",
-        "kantar-ii-tura_v2": "/uploads/kantar-ii-tura_v2.json",
-        "kantar-ii-tura_v3": "/uploads/kantar-ii-tura_v3.json",
-        "kantar-ii-tura_v4": "/uploads/kantar-ii-tura_v4.json"
-    }
+  "ipsos-wyniki-slupki-2020": "/widgets/uploads/importer/ipsos-wyniki-slupki-2020.json",
+  "ipsos-wyniki-mapa-2020": "/widgets/uploads/importer/ipsos-wyniki-mapa-2020.json",
+  "ipsos-frekwencja-slupki-2020": "/widgets/uploads/importer/ipsos-frekwencja-slupki-2020.json",
+  "ipsos-frekwencja-mapa-2020": "/widgets/uploads/importer/ipsos-frekwencja-mapa-2020.json",
+  "pkw-wojewodztwa-2020": "/widgets/uploads/importer/pkw-wojewodztwa-2020.json",
+  "pkw-powiat-2020": "/widgets/uploads/importer/pkw-powiat-2020.json",
+  "pkw-gmina-2020": "/widgets/uploads/importer/pkw-gmina-2020.json",
+  "kantar": "/widgets/uploads/importer/kantar.json",
+  "kantar-ii-tura": "/widgets/uploads/importer/kantar-ii-tura.json",
+  "ipsos-ii-tura-wyniki-slupki": "/widgets/uploads/importer/ipsos-ii-tura-wyniki-slupki.json",
+  "ipsos-ii-tura-wyniki-mapa": "/widgets/uploads/importer/ipsos-ii-tura-wyniki-mapa.json",
+  "ipsos-ii-tura-frekwencja-slupki": "/widgets/uploads/importer/ipsos-ii-tura-frekwencja-slupki.json",
+  "ipsos-ii-tura-frekwencja-mapa": "/widgets/uploads/importer/ipsos-ii-tura-frekwencja-mapa.json",
+  "pkw-ii-tura-wojewodztwa": "/widgets/uploads/importer/pkw-ii-tura-wojewodztwa.json",
+  "pkw-ii-tura-powiaty": "/widgets/uploads/importer/pkw-ii-tura-powiaty.json",
+  "pkw-ii-tura-gminy": "/widgets/uploads/importer/pkw-ii-tura-gminy.json",
+  "pkw-ii-tura-wojewodztwa-procentowe": "/widgets/uploads/importer/pkw-ii-tura-wojewodztwa-procentowe.json",
+  "pkw-ii-tura-powiaty-procentowe": "/widgets/uploads/importer/pkw-ii-tura-powiaty-procentowe.json",
+  "pkw-ii-tura-gminy-procentowe": "/widgets/uploads/importer/pkw-ii-tura-gminy-procentowe.json",
+  "kantar_ii_tura_test_JJ": "/widgets/uploads/importer/kantar_ii_tura_test_JJ.json",
+  "ipsos-wyniki-slupki-2020_v1": "/widgets/uploads/importer/ipsos-wyniki-slupki-2020_v1.json",
+  "ipsos-wyniki-mapa-2020_v1": "/widgets/uploads/importer/ipsos-wyniki-mapa-2020_v1.json",
+  "ipsos-frekwencja-slupki-2020_v1": "/widgets/uploads/importer/ipsos-frekwencja-slupki-2020_v1.json",
+  "ipsos-frekwencja-mapa-2020_v1": "/widgets/uploads/importer/ipsos-frekwencja-mapa-2020_v1.json",
+  "kantar_v1": "/widgets/uploads/importer/kantar_v1.json",
+  "ipsos-wyniki-slupki-2020_v2": "/widgets/uploads/importer/ipsos-wyniki-slupki-2020_v2.json",
+  "ipsos-wyniki-mapa-2020_v2": "/widgets/uploads/importer/ipsos-wyniki-mapa-2020_v2.json",
+  "ipsos-frekwencja-slupki-2020_v2": "/widgets/uploads/importer/ipsos-frekwencja-slupki-2020_v2.json",
+  "ipsos-frekwencja-mapa-2020_v2": "/widgets/uploads/importer/ipsos-frekwencja-mapa-2020_v2.json",
+  "ipsos-wyniki-slupki-2020_v3": "/widgets/uploads/importer/ipsos-wyniki-slupki-2020_v3.json",
+  "ipsos-wyniki-mapa-2020_v3": "/widgets/uploads/importer/ipsos-wyniki-mapa-2020_v3.json",
+  "ipsos-frekwencja-slupki-2020_v3": "/widgets/uploads/importer/ipsos-frekwencja-slupki-2020_v3.json",
+  "ipsos-frekwencja-mapa-2020_v3": "/widgets/uploads/importer/ipsos-frekwencja-mapa-2020_v3.json",
+  "pkw-powiat-2020_v1": "/widgets/uploads/importer/pkw-powiat-2020_v1.json",
+  "pkw-gmina-2020_v1": "/widgets/uploads/importer/pkw-gmina-2020_v1.json",
+  "pkw-gmina-2020_v2": "/widgets/uploads/importer/pkw-gmina-2020_v2.json",
+  "pkw-wojewodztwa-2020_v1": "/widgets/uploads/importer/pkw-wojewodztwa-2020_v1.json",
+  "pkw-wojewodztwa-2020_v2": "/widgets/uploads/importer/pkw-wojewodztwa-2020_v2.json",
+  "pkw-powiat-2020_v2": "/widgets/uploads/importer/pkw-powiat-2020_v2.json",
+  "pkw-gmina-2020_v3": "/widgets/uploads/importer/pkw-gmina-2020_v3.json",
+  "pkw-wojewodztwa-2020_v3": "/widgets/uploads/importer/pkw-wojewodztwa-2020_v3.json",
+  "pkw-powiat-2020_v3": "/widgets/uploads/importer/pkw-powiat-2020_v3.json",
+  "pkw-gmina-2020_v4": "/widgets/uploads/importer/pkw-gmina-2020_v4.json",
+  "pkw-powiat-2020_v4": "/widgets/uploads/importer/pkw-powiat-2020_v4.json",
+  "kantar-ii-tura_v1": "/widgets/uploads/importer/kantar-ii-tura_v1.json",
+  "kantar-ii-tura_v2": "/widgets/uploads/importer/kantar-ii-tura_v2.json",
+  "kantar-ii-tura_v3": "/widgets/uploads/importer/kantar-ii-tura_v3.json",
+  "kantar-ii-tura_v4": "/widgets/uploads/importer/kantar-ii-tura_v4.json",
+  "ipsos-ii-tura-wyniki-slupki_v1": "/widgets/uploads/importer/ipsos-ii-tura-wyniki-slupki_v1.json",
+  "ipsos-ii-tura-wyniki-mapa_v1": "/widgets/uploads/importer/ipsos-ii-tura-wyniki-mapa_v1.json",
+  "ipsos-ii-tura-frekwencja-slupki_v1": "/widgets/uploads/importer/ipsos-ii-tura-frekwencja-slupki_v1.json",
+  "ipsos-ii-tura-frekwencja-mapa_v1": "/widgets/uploads/importer/ipsos-ii-tura-frekwencja-mapa_v1.json",
+  "ipsos-ii-tura-wyniki-slupki_v2": "/widgets/uploads/importer/ipsos-ii-tura-wyniki-slupki_v2.json",
+  "ipsos-ii-tura-wyniki-mapa_v2": "/widgets/uploads/importer/ipsos-ii-tura-wyniki-mapa_v2.json",
+  "ipsos-ii-tura-wyniki-slupki_v3": "/widgets/uploads/importer/ipsos-ii-tura-wyniki-slupki_v3.json",
+  "ipsos-ii-tura-frekwencja-slupki_v2": "/widgets/uploads/importer/ipsos-ii-tura-frekwencja-slupki_v2.json",
+  "ipsos-ii-tura-frekwencja-mapa_v2": "/widgets/uploads/importer/ipsos-ii-tura-frekwencja-mapa_v2.json",
+  "kantar_ii_tura_test_JJ_v1": "/widgets/uploads/importer/kantar_ii_tura_test_JJ_v1.json"
 }
