@@ -1,256 +1,171 @@
 {
     "support": {
-        "ANDRZEJDUDA": 42.9,
-        "RAFALTRZASKOWSKI": 30.3,
-        "SZYMONHOLOWNIA": 14,
-        "KRZYSZTOFBOSAK": 6.9,
-        "WLADYSLAWKOSINIAKKAMYSZ": 2.5,
-        "ROBERTBIEDRON": 2.3,
-        "WALDEMARWITKOWSKI": 0.3,
-        "STANISLAWZOLTEK": 0.3,
-        "PAWELTANAJNO": 0.2,
-        "MAREKJAKUBIAK": 0.2,
-        "MIROSLAWPIOTROWSKI": 0.1
+        "ANDRZEJDUDA": {
+            "support": 51
+        },
+        "RAFALTRZASKOWSKI": {
+            "support": 49
+        }
     },
     "voivods": {
         "dolnoslaskie": {
             "percentage": {
-                "RAFALTRZASKOWSKI": 38.1,
-                "ANDRZEJDUDA": 36.1,
-                "SZYMONHOLOWNIA": 13.8,
-                "KRZYSZTOFBOSAK": 6.6,
-                "ROBERTBIEDRON": 2.2,
-                "WLADYSLAWKOSINIAKKAMYSZ": 2.1,
-                "MAREKJAKUBIAK": 0.3,
-                "WALDEMARWITKOWSKI": 0.3,
-                "PAWELTANAJNO": 0.2,
-                "STANISLAWZOLTEK": 0.2,
-                "MIROSLAWPIOTROWSKI": 0.1
+                "ANDRZEJDUDA": {
+                    "support": 42.4
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 57.6
+                }
             }
         },
         "kujawsko-pomorskie": {
             "percentage": {
-                "ANDRZEJDUDA": 41.1,
-                "RAFALTRZASKOWSKI": 31.2,
-                "SZYMONHOLOWNIA": 14.6,
-                "KRZYSZTOFBOSAK": 7.6,
-                "WLADYSLAWKOSINIAKKAMYSZ": 2.5,
-                "ROBERTBIEDRON": 2.3,
-                "STANISLAWZOLTEK": 0.3,
-                "WALDEMARWITKOWSKI": 0.2,
-                "PAWELTANAJNO": 0.1,
-                "MAREKJAKUBIAK": 0.1,
-                "MIROSLAWPIOTROWSKI": 0
+                "ANDRZEJDUDA": {
+                    "support": 46.6
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 53.4
+                }
             }
         },
         "lubelskie": {
             "percentage": {
-                "ANDRZEJDUDA": 57.1,
-                "RAFALTRZASKOWSKI": 18.4,
-                "SZYMONHOLOWNIA": 11.5,
-                "KRZYSZTOFBOSAK": 7.5,
-                "WLADYSLAWKOSINIAKKAMYSZ": 2.8,
-                "ROBERTBIEDRON": 1.8,
-                "STANISLAWZOLTEK": 0.3,
-                "MIROSLAWPIOTROWSKI": 0.2,
-                "PAWELTANAJNO": 0.2,
-                "MAREKJAKUBIAK": 0.2,
-                "WALDEMARWITKOWSKI": 0
+                "ANDRZEJDUDA": {
+                    "support": 65
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 35
+                }
             }
         },
         "lubuskie": {
             "percentage": {
-                "RAFALTRZASKOWSKI": 40.9,
-                "ANDRZEJDUDA": 29.5,
-                "SZYMONHOLOWNIA": 20.3,
-                "KRZYSZTOFBOSAK": 5.1,
-                "ROBERTBIEDRON": 1.7,
-                "WLADYSLAWKOSINIAKKAMYSZ": 1.3,
-                "WALDEMARWITKOWSKI": 0.5,
-                "MAREKJAKUBIAK": 0.3,
-                "PAWELTANAJNO": 0.2,
-                "STANISLAWZOLTEK": 0.2,
-                "MIROSLAWPIOTROWSKI": 0
+                "ANDRZEJDUDA": {
+                    "support": 37.1
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 62.9
+                }
             }
         },
         "lodzkie": {
             "percentage": {
-                "ANDRZEJDUDA": 48.3,
-                "RAFALTRZASKOWSKI": 26.9,
-                "SZYMONHOLOWNIA": 13.5,
-                "KRZYSZTOFBOSAK": 5.4,
-                "WLADYSLAWKOSINIAKKAMYSZ": 2.8,
-                "ROBERTBIEDRON": 2.3,
-                "WALDEMARWITKOWSKI": 0.3,
-                "PAWELTANAJNO": 0.2,
-                "STANISLAWZOLTEK": 0.2,
-                "MAREKJAKUBIAK": 0.1,
-                "MIROSLAWPIOTROWSKI": 0
+                "ANDRZEJDUDA": {
+                    "support": 57.4
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 42.6
+                }
             }
         },
         "malopolskie": {
             "percentage": {
-                "ANDRZEJDUDA": 47.2,
-                "RAFALTRZASKOWSKI": 26.2,
-                "SZYMONHOLOWNIA": 11.4,
-                "KRZYSZTOFBOSAK": 8.4,
-                "WLADYSLAWKOSINIAKKAMYSZ": 3.4,
-                "ROBERTBIEDRON": 2.3,
-                "WALDEMARWITKOWSKI": 0.3,
-                "STANISLAWZOLTEK": 0.3,
-                "MIROSLAWPIOTROWSKI": 0.2,
-                "MAREKJAKUBIAK": 0.2,
-                "PAWELTANAJNO": 0.1
+                "ANDRZEJDUDA": {
+                    "support": 57.6
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 42.4
+                }
             }
         },
         "mazowieckie": {
             "percentage": {
-                "ANDRZEJDUDA": 42.3,
-                "RAFALTRZASKOWSKI": 34.2,
-                "SZYMONHOLOWNIA": 12,
-                "KRZYSZTOFBOSAK": 5.7,
-                "ROBERTBIEDRON": 2.6,
-                "WLADYSLAWKOSINIAKKAMYSZ": 2.4,
-                "MAREKJAKUBIAK": 0.2,
-                "WALDEMARWITKOWSKI": 0.2,
-                "STANISLAWZOLTEK": 0.2,
-                "MIROSLAWPIOTROWSKI": 0.1,
-                "PAWELTANAJNO": 0.1
+                "ANDRZEJDUDA": {
+                    "support": 51.8
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 48.2
+                }
             }
         },
         "opolskie": {
             "percentage": {
-                "ANDRZEJDUDA": 38,
-                "RAFALTRZASKOWSKI": 35.1,
-                "SZYMONHOLOWNIA": 16.3,
-                "KRZYSZTOFBOSAK": 6.3,
-                "WLADYSLAWKOSINIAKKAMYSZ": 2.4,
-                "ROBERTBIEDRON": 1.4,
-                "STANISLAWZOLTEK": 0.3,
-                "MIROSLAWPIOTROWSKI": 0.1,
-                "MAREKJAKUBIAK": 0.1,
-                "PAWELTANAJNO": 0,
-                "WALDEMARWITKOWSKI": 0
+                "ANDRZEJDUDA": {
+                    "support": 45.3
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 54.7
+                }
             }
         },
         "podkarpackie": {
             "percentage": {
-                "ANDRZEJDUDA": 62,
-                "RAFALTRZASKOWSKI": 13.9,
-                "SZYMONHOLOWNIA": 10.4,
-                "KRZYSZTOFBOSAK": 8.8,
-                "WLADYSLAWKOSINIAKKAMYSZ": 2.8,
-                "ROBERTBIEDRON": 1.3,
-                "STANISLAWZOLTEK": 0.3,
-                "WALDEMARWITKOWSKI": 0.2,
-                "MIROSLAWPIOTROWSKI": 0.1,
-                "PAWELTANAJNO": 0.1,
-                "MAREKJAKUBIAK": 0.1
+                "ANDRZEJDUDA": {
+                    "support": 73
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 27
+                }
             }
         },
         "podlaskie": {
             "percentage": {
-                "ANDRZEJDUDA": 50.4,
-                "RAFALTRZASKOWSKI": 19.8,
-                "SZYMONHOLOWNIA": 17.3,
-                "KRZYSZTOFBOSAK": 6.5,
-                "WLADYSLAWKOSINIAKKAMYSZ": 3.4,
-                "ROBERTBIEDRON": 1.8,
-                "STANISLAWZOLTEK": 0.3,
-                "PAWELTANAJNO": 0.2,
-                "MIROSLAWPIOTROWSKI": 0.1,
-                "MAREKJAKUBIAK": 0.1,
-                "WALDEMARWITKOWSKI": 0.1
+                "ANDRZEJDUDA": {
+                    "support": 61
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 39
+                }
             }
         },
         "pomorskie": {
             "percentage": {
-                "RAFALTRZASKOWSKI": 42.7,
-                "ANDRZEJDUDA": 28,
-                "SZYMONHOLOWNIA": 16.9,
-                "KRZYSZTOFBOSAK": 6.3,
-                "WLADYSLAWKOSINIAKKAMYSZ": 2.4,
-                "ROBERTBIEDRON": 2.4,
-                "WALDEMARWITKOWSKI": 0.4,
-                "STANISLAWZOLTEK": 0.4,
-                "MIROSLAWPIOTROWSKI": 0.2,
-                "MAREKJAKUBIAK": 0.2,
-                "PAWELTANAJNO": 0.1
+                "ANDRZEJDUDA": {
+                    "support": 34.2
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 65.8
+                }
             }
         },
         "slaskie": {
             "percentage": {
-                "ANDRZEJDUDA": 41.8,
-                "RAFALTRZASKOWSKI": 30.5,
-                "SZYMONHOLOWNIA": 15.5,
-                "KRZYSZTOFBOSAK": 7.1,
-                "ROBERTBIEDRON": 2.5,
-                "WLADYSLAWKOSINIAKKAMYSZ": 1.4,
-                "STANISLAWZOLTEK": 0.5,
-                "WALDEMARWITKOWSKI": 0.3,
-                "MAREKJAKUBIAK": 0.2,
-                "MIROSLAWPIOTROWSKI": 0.1,
-                "PAWELTANAJNO": 0.1
+                "ANDRZEJDUDA": {
+                    "support": 48.5
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 51.5
+                }
             }
         },
         "swietokrzyskie": {
             "percentage": {
-                "ANDRZEJDUDA": 57.6,
-                "RAFALTRZASKOWSKI": 19.3,
-                "SZYMONHOLOWNIA": 11.2,
-                "KRZYSZTOFBOSAK": 6.6,
-                "WLADYSLAWKOSINIAKKAMYSZ": 2.9,
-                "ROBERTBIEDRON": 1.7,
-                "WALDEMARWITKOWSKI": 0.3,
-                "STANISLAWZOLTEK": 0.2,
-                "MIROSLAWPIOTROWSKI": 0.1,
-                "MAREKJAKUBIAK": 0.1,
-                "PAWELTANAJNO": 0
+                "ANDRZEJDUDA": {
+                    "support": 63.9
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 36.1
+                }
             }
         },
         "warminsko-mazurskie": {
             "percentage": {
-                "ANDRZEJDUDA": 39.6,
-                "RAFALTRZASKOWSKI": 31.1,
-                "SZYMONHOLOWNIA": 12.5,
-                "KRZYSZTOFBOSAK": 7,
-                "WLADYSLAWKOSINIAKKAMYSZ": 4.2,
-                "ROBERTBIEDRON": 2.8,
-                "WALDEMARWITKOWSKI": 1,
-                "MIROSLAWPIOTROWSKI": 0.5,
-                "STANISLAWZOLTEK": 0.5,
-                "PAWELTANAJNO": 0.4,
-                "MAREKJAKUBIAK": 0.4
+                "ANDRZEJDUDA": {
+                    "support": 47.8
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 52.2
+                }
             }
         },
         "wielkopolskie": {
             "percentage": {
-                "ANDRZEJDUDA": 34.6,
-                "RAFALTRZASKOWSKI": 32.8,
-                "SZYMONHOLOWNIA": 17.7,
-                "KRZYSZTOFBOSAK": 7.7,
-                "WLADYSLAWKOSINIAKKAMYSZ": 3.1,
-                "ROBERTBIEDRON": 2.8,
-                "PAWELTANAJNO": 0.4,
-                "MAREKJAKUBIAK": 0.3,
-                "MIROSLAWPIOTROWSKI": 0.2,
-                "WALDEMARWITKOWSKI": 0.2,
-                "STANISLAWZOLTEK": 0.2
+                "ANDRZEJDUDA": {
+                    "support": 45.3
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 54.7
+                }
             }
         },
         "zachodniopomorskie": {
             "percentage": {
-                "RAFALTRZASKOWSKI": 37.7,
-                "ANDRZEJDUDA": 35.6,
-                "SZYMONHOLOWNIA": 15.9,
-                "KRZYSZTOFBOSAK": 5.8,
-                "ROBERTBIEDRON": 2.3,
-                "WLADYSLAWKOSINIAKKAMYSZ": 1.7,
-                "MIROSLAWPIOTROWSKI": 0.2,
-                "PAWELTANAJNO": 0.2,
-                "MAREKJAKUBIAK": 0.2,
-                "WALDEMARWITKOWSKI": 0.2,
-                "STANISLAWZOLTEK": 0.2
+                "ANDRZEJDUDA": {
+                    "support": 37.6
+                },
+                "RAFALTRZASKOWSKI": {
+                    "support": 62.4
+                }
             }
         }
     }

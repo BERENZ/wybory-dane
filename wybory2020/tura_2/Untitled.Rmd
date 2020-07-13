@@ -1,0 +1,315 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+library(jsonlite)
+library(tidyverse)
+library(data.table)
+library(ggrepel)
+library(lmtest)
+library(sandwich)
+library(rvest)
+```
+
+```{r}
+dane <- read_json("https://widgets.online.tvwisla.com.pl/uploads/ipsos-wyniki-slupki-2020_v1.json", simplifyVector = T, flatten = TRUE)
+
+data.frame(na_kogo = dane$PREZYDENT_2015_row$`Andrzej Duda` %>% unlist()) %>%
+  rownames_to_column() %>%
+  mutate(kto_2015 = "Duda") %>%
+  bind_rows(
+    data.frame(na_kogo = dane$PREZYDENT_2015_row$`Bronisław Komorowski` %>% unlist()) %>%
+      rownames_to_column() %>%
+      mutate(kto_2015 = "Komorowski")
+  ) %>%
+  mutate(rowname = ifelse(rowname %in% c("ANDRZEJDUDA", "KRZYSZTOFBOSAK", "SZYMONHOLOWNIA", "RAFALTRZASKOWSKI",
+                                         "WLADYSLAWKOSINIAKKAMYSZ", "ROBERTBIEDRON"), rowname, "Pozostali")) %>%
+  count(kto_2015, rowname, wt = na_kogo) %>%
+  ggplot(data = ., aes(x = kto_2015, y= n, fill = rowname)) + 
+  geom_col(color = "black") +
+  scale_fill_brewer(type = "qual", palette = "Set1", name = "Na kogo w 2020") +
+  theme_bw() + 
+  labs(x = "Na kogo w 2015", y = "Odsetek")
+```
+
+```{r}
+exit_poll <- read_json("https://gist.githubusercontent.com/BERENZ/337b1a3006b8a8f19454a08fb07196e0/raw/4328223161bb9f0ab92f4ff7fa162fd8b391261c/ipsos-wyniki-slupki-2020_v1.json")
+
+
+bind_rows(
+  rbindlist(exit_poll$SEJM_2019_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "parl"),
+  rbindlist(exit_poll$WIEK_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "wiek"),
+  rbindlist(exit_poll$PREZYDENT_2015_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "prezydent"),
+  rbindlist(exit_poll$PLEC_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "plec"),
+  rbindlist(exit_poll$WYKSZTALCENIE_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "wyksz"),
+  rbindlist(exit_poll$GRUPA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "grupa"),
+  rbindlist(exit_poll$MIEJSCOWOSC_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "miejsc"),
+  rbindlist(exit_poll$WOJEWODZTWA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "woj")
+) -> exit_poll_df
+
+exit_poll_df %>%
+  gather(kto, val, -id, -zm) %>%
+  mutate(kto = ifelse(kto %in% c("ANDRZEJDUDA", "KRZYSZTOFBOSAK", "SZYMONHOLOWNIA", "RAFALTRZASKOWSKI",
+                                         "WLADYSLAWKOSINIAKKAMYSZ", "ROBERTBIEDRON"), kto, "Pozostali"),
+         kto = factor(kto,
+                          c("ANDRZEJDUDA", "RAFALTRZASKOWSKI", "SZYMONHOLOWNIA", "KRZYSZTOFBOSAK", 
+                                         "ROBERTBIEDRON", "WLADYSLAWKOSINIAKKAMYSZ", "Pozostali"),
+                          c("Duda", "Trzaskowski", "Hołownia","Bosak",   "Biedroń", "Kosiniak-Kamysz", "Pozostali"),
+                          ordered = T)) %>%
+  mutate(val = as.numeric(val)) %>%
+  count(zm, id, kto, wt = val, name = "exit") %>%
+  ggplot(data = ., aes(x = id, y = exit, fill = kto)) +
+  geom_col(color = "black") +
+  facet_wrap(~zm, scales = "free_x", ncol = 4) +
+  scale_fill_brewer(type = "qual", palette = "Set1") +
+  theme_bw() + 
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1)) +
+  labs(x = "", y = "Odsetek", fill = "Kandydat", caption = "Źródło: Opracowanie własne na podstawie danych IPSOS (@mberesewicz)") -> p
+ 
+
+ggsave(plot = p, file = "~/git/misc/wybory-plot-2020.png", width = 14, height = 10)
+```
+
+```{r}
+exit_poll <- read_json("https://gist.githubusercontent.com/BERENZ/337b1a3006b8a8f19454a08fb07196e0/raw/4328223161bb9f0ab92f4ff7fa162fd8b391261c/ipsos-wyniki-slupki-2020_v1.json")
+late_poll <- read_json("https://gist.githubusercontent.com/BERENZ/68e556730373f36789f3334969d61903/raw/0e1d69deeeabcd245797292613e4663187653206/ipsos-wyniki-slupki-2020_v2.json")
+
+bind_rows(
+bind_rows(
+  rbindlist(exit_poll$PE_2019_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "parl"),
+  rbindlist(exit_poll$WIEK_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "wiek"),
+  rbindlist(exit_poll$PREZYDENT_2015_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "prezydent"),
+  rbindlist(exit_poll$PLEC_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "plec"),
+  rbindlist(exit_poll$WYKSZTALCENIE_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "wyksz"),
+  rbindlist(exit_poll$GRUPA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "grupa"),
+  rbindlist(exit_poll$MIEJSCOWOSC_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "miejsc"),
+  rbindlist(exit_poll$WOJEWODZTWA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "woj")
+) %>%
+  mutate(source = "exit"), 
+bind_rows(
+  rbindlist(late_poll$PE_2019_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "parl"),
+  rbindlist(late_poll$WIEK_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "wiek"),
+  rbindlist(late_poll$PREZYDENT_2015_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "prezydent"),
+  rbindlist(late_poll$PLEC_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "plec"),
+  rbindlist(late_poll$WYKSZTALCENIE_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "wyksz"),
+  rbindlist(late_poll$GRUPA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "grupa"),
+  rbindlist(late_poll$MIEJSCOWOSC_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "miejsc"),
+  rbindlist(late_poll$WOJEWODZTWA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "woj")
+) %>%
+  mutate(source = "late")) -> exit_vs_late
+
+```
+
+```{r}
+exit_vs_late %>%
+  select(source, zm, id, Trzaskowski = RAFALTRZASKOWSKI, Duda = ANDRZEJDUDA) %>%
+  gather(kandydat, val, Trzaskowski, Duda) %>%
+  spread(source, val) %>%
+  mutate(diff = exit  - late) %>%
+  arrange(-diff) %>%
+  #filter(diff != 0) %>%
+  ggplot(data = ., aes(x = id, y = diff, fill = kandydat)) +
+  geom_col(position = "dodge") +
+  facet_wrap(~zm, scales = "free_y") +
+  coord_flip() +
+  theme_bw() +
+  scale_fill_brewer(type = "qual", palette = "Set1") + 
+  labs(y = "Różnica między exit, a late poll (w punktach procentowych)", x = "", fill = "Kandydat",
+       caption = 
+       "Interpretacja: Wartości ujemne -- exit poll nie doszacował poparcia w danej grupy, 
+                      Wartości dodanie -- exit poll przeszacował poparcie w danej grupie. \n 
+       Źródło: Opracowanie własne na podstawie danych IPSOS (exit i late; @mberesewicz).") -> p
+```
+
+```{r}
+ggsave(plot = p, file = "~/git/misc/wybory-plot-2020-compare.png", width = 12, height = 8)
+```
+
+Obciązenie
+
+```{r}
+ipsos1 <- read_json("https://widgets.online.tvwisla.com.pl/uploads/ipsos-wyniki-slupki-2020_v1.json")
+ipsos3 <- read_json("https://widgets.online.tvwisla.com.pl/uploads/ipsos-wyniki-slupki-2020_v3.json")
+pkw <- read_json("https://widgets.online.tvwisla.com.pl/uploads/pkw-wojewodztwa-2020_v3.json")
+etyk <- read_json("https://widgets.online.tvwisla.com.pl/uploads/config.json")
+
+rbindlist(ipsos1$WOJEWODZTWA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "exit") %>%
+  bind_rows(
+    rbindlist(ipsos3$WOJEWODZTWA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "late")
+  ) %>%
+  bind_rows(
+    pkw$voivods %>%
+  map('percentage') %>%
+  rbindlist(use.names=TRUE, idcol = "id") %>% 
+  mutate(zm = "pkw")
+  )  %>%
+  gather(kandydaci, val, -zm,-id) %>%
+  spread(zm, val) %>%
+  mutate(bias_exit = exit - pkw,
+         bias_late = late - pkw) %>%
+  #select(id, kandydaci, bias_exit, bias_late, pkw) %>%
+  left_join(
+    etyk$config$namedComponents %>% map("shortname") %>% unlist() %>% as.data.frame() %>%
+      rownames_to_column("kandydaci") %>%
+      rename(short = 2)) %>% 
+  left_join(
+    data_frame(freq =  pkw$voivods %>% map('totals') %>% map_dbl("totalPeople"),
+               id = pkw$voivods %>% map('totals')  %>% map_dbl("totalPeople")%>% names())
+  ) -> dane_model 
+
+```
+
+```{r}
+cat(" ===== exit poll analiza (model regresji liniowej (odporne błędy standardowe, HC2 + cluster) ==== ")
+m1 <- lm(bias_exit ~ -1 +  short, data = dane_model, weight = freq)
+coeftest(m1, vcov = vcovCL(x = m1, cluster = ~id, type = "HC2"))
+cat(" ===== late poll analiza (model regresji liniowej (odporne błędy standardowe, HC2 + cluster) ==== ")
+m2 <- lm(bias_late ~ -1 +  short, data = dane_model, weight = freq)
+coeftest(m2, vcov = vcovCL(x = m1, cluster = ~id, type = "HC2"))
+```
+
+
+```{r}
+dane_model %>%
+  gather(bias, val, bias_exit, bias_late)  %>%
+  filter(str_detect(kandydaci, "DUDA|TRZASKOWSKI|BOSAK|HOLOWNIA")) %>%
+  group_by(short, bias) %>%
+  summarise(m = weighted.mean(val, freq))  %>%
+  ungroup() %>%
+  spread(bias, m) %>%
+  rename(Kandydat = short, `Obciażenie exit`=bias_exit, `Obciążenie late`=bias_late)
+```
+
+```{r}
+dane_model %>%
+  mutate(exit = exit / 100,
+         late = late / 100,
+         pkw = pkw / 100,
+         z = (exit - pkw)/sqrt(exit*(1-exit)),
+         z_log = log(abs(z)),
+         z_log = ifelse(is.infinite(z_log),0,z_log)) %>%
+  filter(str_detect(short, "Duda|Trzas|Bosak")) %>%
+  ggplot(data = ., aes(x = log10(freq), y = z, size = log10(freq))) +
+  geom_point(pch = 1) +
+  geom_smooth(method = "lm", se = F) + 
+  facet_wrap(~short)
+```
+
+```{r}
+dane_model %>%
+  mutate(exit = exit /100,
+         pkw = pkw/ 100,
+         z = (exit - pkw)/sqrt(exit*(1-exit)),
+         z_log = log(abs(z)),
+         z_log = ifelse(is.infinite(z_log),0,z_log)) %>%
+  filter(str_detect(short, "Duda|Trzas|Bosak")) %>%
+  group_by(short) %>%
+  do(m = broom::tidy(lm(z_log ~ log(freq), data = .))) %>%
+  unnest()
+```
+
+```{r}
+exit_poll <- read_json("https://gist.githubusercontent.com/BERENZ/d128ca326972e4e26fb9727b96afb15a/raw/54f1c6424147ae8313f91ee4cbb0188eecee3bc6/ipsos-ii-tura-wyniki-slupki.json")
+
+
+bind_rows(
+  rbindlist(exit_poll$SEJM_2019_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "parl"),
+  rbindlist(exit_poll$WIEK_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "wiek"),
+  rbindlist(exit_poll$PREZYDENT_2015_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "prezydent"),
+  rbindlist(exit_poll$PREZYDENT_I_tura_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "I tura"),
+  rbindlist(exit_poll$PLEC_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "plec"),
+  rbindlist(exit_poll$WYKSZTALCENIE_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "wyksz"),
+  rbindlist(exit_poll$GRUPA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "grupa"),
+  rbindlist(exit_poll$MIEJSCOWOSC_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "miejsc"),
+  rbindlist(exit_poll$WOJEWODZTWA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "woj")
+) -> exit_poll_df
+
+exit_poll_df %>%
+  gather(kto, val, -id, -zm) %>%
+  mutate(kto = ifelse(kto %in% c("ANDRZEJDUDA", "KRZYSZTOFBOSAK", "SZYMONHOLOWNIA", "RAFALTRZASKOWSKI",
+                                         "WLADYSLAWKOSINIAKKAMYSZ", "ROBERTBIEDRON"), kto, "Pozostali"),
+         kto = factor(kto,
+                          c("ANDRZEJDUDA", "RAFALTRZASKOWSKI", "SZYMONHOLOWNIA", "KRZYSZTOFBOSAK", 
+                                         "ROBERTBIEDRON", "WLADYSLAWKOSINIAKKAMYSZ", "Pozostali"),
+                          c("Duda", "Trzaskowski", "Hołownia","Bosak",   "Biedroń", "Kosiniak-Kamysz", "Pozostali"),
+                          ordered = T)) %>%
+  mutate(val = as.numeric(val)) %>%
+  count(zm, id, kto, wt = val, name = "exit") %>%
+  ggplot(data = ., aes(x = id, y = exit, fill = kto)) +
+  geom_col(color = "black") +
+  facet_wrap(~zm, scales = "free_x", ncol = 3) +
+  scale_fill_brewer(type = "qual", palette = "Set1") +
+  theme_bw() + 
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1)) +
+  labs(x = "", y = "Odsetek", fill = "Kandydat", caption = "Źródło: Opracowanie własne na podstawie danych Exit Poll IPSOS II tura (@mberesewicz)") -> p
+ 
+p
+
+ggsave(plot = p, file = "~/git/misc/wybory-plot-2020-druga.png", width = 14, height = 10)
+
+```
+
+
+```{r}
+exit_poll <- read_json("~/git/misc/wybory_polska/wybory2020/tura_2/ipsos-ii-tura-wyniki-slupki_v1.json")
+late_poll <- read_json("~/git/misc/wybory_polska/wybory2020/tura_2/ipsos-ii-tura-wyniki-slupki_v4.json")
+
+bind_rows(
+bind_rows(
+  rbindlist(exit_poll$PE_2019_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "parl"),
+  rbindlist(exit_poll$WIEK_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "wiek"),
+  rbindlist(exit_poll$PREZYDENT_2015_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "prezydent"),
+  rbindlist(exit_poll$PREZYDENT_I_tura_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "I tura"),
+  rbindlist(exit_poll$PLEC_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "plec"),
+  rbindlist(exit_poll$WYKSZTALCENIE_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "wyksz"),
+  rbindlist(exit_poll$GRUPA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "grupa"),
+  rbindlist(exit_poll$MIEJSCOWOSC_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "miejsc"),
+  rbindlist(exit_poll$WOJEWODZTWA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "woj")
+) %>%
+  mutate(source = "exit"), 
+bind_rows(
+  rbindlist(late_poll$PE_2019_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "parl"),
+  rbindlist(late_poll$WIEK_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "wiek"),
+  rbindlist(late_poll$PREZYDENT_2015_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "prezydent"),
+  rbindlist(exit_poll$PREZYDENT_I_tura_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "I tura"),
+  rbindlist(late_poll$PLEC_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "plec"),
+  rbindlist(late_poll$WYKSZTALCENIE_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "wyksz"),
+  rbindlist(late_poll$GRUPA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "grupa"),
+  rbindlist(late_poll$MIEJSCOWOSC_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "miejsc"),
+  rbindlist(late_poll$WOJEWODZTWA_row, use.names=TRUE, idcol = "id") %>% mutate(zm = "woj")
+) %>%
+  mutate(source = "late")) -> exit_vs_late
+
+```
+
+```{r}
+exit_vs_late %>%
+  unnest() %>%
+  select(source, zm, id, Trzaskowski = RAFALTRZASKOWSKI, Duda = ANDRZEJDUDA) %>%
+  gather(kandydat, val, Trzaskowski, Duda) %>%
+  spread(source, val) %>%
+  mutate(diff = exit  - late) %>%
+  group_by(kandydat) %>%
+  arrange(-diff) %>%
+  #filter(diff != 0) %>%
+  ggplot(data = ., aes(x = id, y = diff, fill = kandydat)) +
+  geom_col(position = "dodge") +
+  facet_wrap(~zm, scales = "free_y") +
+  coord_flip() +
+  theme_bw() +
+  scale_fill_brewer(type = "qual", palette = "Set1") + 
+  labs(y = "Różnica między exit, a late poll (w punktach procentowych)", x = "", fill = "Kandydat",
+       caption = 
+       "Interpretacja: Wartości ujemne -- exit poll nie doszacował poparcia w danej grupy, 
+                       Wartości dodanie -- exit poll przeszacował poparcie w danej grupie. \n 
+       Źródło: Opracowanie własne na podstawie danych IPSOS II tura (exit i late z 90% badanych komisji; @mberesewicz).",
+       title = "Różnice w poparciu między exit poll i late poll (90% komisji)") -> p
+```
+
+```{r}
+ggsave(plot = p, file = "~/git/misc/wybory-plot-2020-druga-comp.png", width = 14, height = 10)
+```
+

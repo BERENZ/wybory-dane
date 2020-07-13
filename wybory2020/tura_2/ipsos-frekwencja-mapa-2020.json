@@ -1,55 +1,55 @@
 {
     "country": {
-        "frequence": 68.9
+        "frequence": 63.8
     },
     "voivods": {
         "dolnoslaskie": {
-            "frequence": 65.2
+            "frequence": 60.2
         },
         "kujawsko-pomorskie": {
-            "frequence": 63.8
+            "frequence": 59.6
         },
         "lubelskie": {
-            "frequence": 66.1
+            "frequence": 62.9
         },
         "lubuskie": {
-            "frequence": 70.5
+            "frequence": 66
         },
         "lodzkie": {
-            "frequence": 69.1
+            "frequence": 63.8
         },
         "malopolskie": {
-            "frequence": 71.9
-        },
-        "mazowieckie": {
-            "frequence": 74.7
-        },
-        "opolskie": {
-            "frequence": 62.5
-        },
-        "podkarpackie": {
-            "frequence": 68.9
-        },
-        "podlaskie": {
-            "frequence": 65.6
-        },
-        "pomorskie": {
-            "frequence": 71.6
-        },
-        "slaskie": {
-            "frequence": 67.4
-        },
-        "swietokrzyskie": {
             "frequence": 66.3
         },
+        "mazowieckie": {
+            "frequence": 69.6
+        },
+        "opolskie": {
+            "frequence": 58
+        },
+        "podkarpackie": {
+            "frequence": 63.4
+        },
+        "podlaskie": {
+            "frequence": 61.8
+        },
+        "pomorskie": {
+            "frequence": 63.4
+        },
+        "slaskie": {
+            "frequence": 63.8
+        },
+        "swietokrzyskie": {
+            "frequence": 59.1
+        },
         "warminsko-mazurskie": {
-            "frequence": 64.3
+            "frequence": 58.9
         },
         "wielkopolskie": {
-            "frequence": 70.5
+            "frequence": 65.3
         },
         "zachodniopomorskie": {
-            "frequence": 70.8
+            "frequence": 62.6
         }
     }
 }

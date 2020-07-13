@@ -1,39 +1,39 @@
 {
-    "ogolem": 64.3,
+    "ogolem": 63.8,
     "wiek": {
-        "18-29-lat": 64.5,
-        "30-39-lat": 65.1,
-        "40-49-lat": 70.1,
-        "50-59-lat": 72.8,
-        "60-i-wiecej-lat": 55.9
+        "18-29-lat": 64,
+        "30-39-lat": 64.6,
+        "40-49-lat": 69.6,
+        "50-59-lat": 72.3,
+        "60-i-wiecej-lat": 55.4
     },
     "plec": {
-        "mezczyzni": 62.6,
-        "kobiety": 65.8
+        "mezczyzni": 62.1,
+        "kobiety": 65.3
     },
     "miejscowosc": {
-        "wies": 62.2,
-        "miasto-do-50-tys.": 64.1,
-        "miasto-51-200-tys.": 62.2,
-        "miasto-201-500-tys.": 65.5,
-        "miasto-pow.-500-tys.": 71.5
+        "wies": 61.7,
+        "miasto-do-50-tys.": 63.6,
+        "miasto-51-200-tys.": 61.7,
+        "miasto-201-500-tys.": 65,
+        "miasto-pow.-500-tys.": 71
     },
     "wojewodztwa": {
-        "dolnoslaskie": 60.7,
-        "kujawsko-pomorskie": 60.1,
-        "lubelskie": 63.4,
-        "lubuskie": 66.5,
-        "lodzkie": 64.3,
-        "malopolskie": 66.8,
-        "mazowieckie": 70.1,
-        "opolskie": 58.5,
-        "podkarpackie": 63.9,
-        "podlaskie": 62.3,
-        "pomorskie": 63.9,
-        "slaskie": 64.3,
-        "swietokrzyskie": 59.6,
-        "warminsko-mazurskie": 59.4,
-        "wielkopolskie": 65.8,
-        "zachodniopomorskie": 63.1
+        "dolnoslaskie": 60.2,
+        "kujawsko-pomorskie": 59.6,
+        "lubelskie": 62.9,
+        "lubuskie": 66,
+        "lodzkie": 63.8,
+        "malopolskie": 66.3,
+        "mazowieckie": 69.6,
+        "opolskie": 58,
+        "podkarpackie": 63.4,
+        "podlaskie": 61.8,
+        "pomorskie": 63.4,
+        "slaskie": 63.8,
+        "swietokrzyskie": 59.1,
+        "warminsko-mazurskie": 58.9,
+        "wielkopolskie": 65.3,
+        "zachodniopomorskie": 62.6
     }
 }

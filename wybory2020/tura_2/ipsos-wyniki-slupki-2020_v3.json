@@ -1,1438 +1,1110 @@
 {
     "NR": {
-        "STANISLAWZOLTEK": 11,
-        "WALDEMARWITKOWSKI": 10,
-        "RAFALTRZASKOWSKI": 9,
-        "PAWELTANAJNO": 8,
-        "MIROSLAWPIOTROWSKI": 7,
-        "WLADYSLAWKOSINIAKKAMYSZ": 6,
-        "MAREKJAKUBIAK": 5,
-        "SZYMONHOLOWNIA": 4,
-        "ANDRZEJDUDA": 3,
-        "KRZYSZTOFBOSAK": 2,
-        "ROBERTBIEDRON": 1
+        "ANDRZEJDUDA": {
+            "support": 1
+        },
+        "RAFALTRZASKOWSKI": {
+            "support": 2
+        }
     },
     "support": {
-        "ANDRZEJDUDA": 42.9,
-        "RAFALTRZASKOWSKI": 30.3,
-        "SZYMONHOLOWNIA": 14,
-        "KRZYSZTOFBOSAK": 6.9,
-        "WLADYSLAWKOSINIAKKAMYSZ": 2.5,
-        "ROBERTBIEDRON": 2.3,
-        "WALDEMARWITKOWSKI": 0.3,
-        "STANISLAWZOLTEK": 0.3,
-        "PAWELTANAJNO": 0.2,
-        "MAREKJAKUBIAK": 0.2,
-        "MIROSLAWPIOTROWSKI": 0.1
+        "ANDRZEJDUDA": {
+            "support": 51
+        },
+        "RAFALTRZASKOWSKI": {
+            "support": 49
+        }
     },
     "SEJM_2019_row": {
         "PSL": {
-            "WLADYSLAWKOSINIAKKAMYSZ": 34.6,
-            "SZYMONHOLOWNIA": 23.4,
-            "RAFALTRZASKOWSKI": 19.9,
-            "ANDRZEJDUDA": 12,
-            "KRZYSZTOFBOSAK": 5.7,
-            "ROBERTBIEDRON": 3.3,
-            "STANISLAWZOLTEK": 0.4,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "PAWELTANAJNO": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "WALDEMARWITKOWSKI": 0.1
+            "ANDRZEJDUDA": {
+                "support": 29.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 70.6
+            }
         },
         "PiS": {
-            "ANDRZEJDUDA": 91.7,
-            "SZYMONHOLOWNIA": 3.1,
-            "KRZYSZTOFBOSAK": 2.5,
-            "RAFALTRZASKOWSKI": 1.6,
-            "WLADYSLAWKOSINIAKKAMYSZ": 0.5,
-            "ROBERTBIEDRON": 0.3,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "MAREKJAKUBIAK": 0.1,
-            "STANISLAWZOLTEK": 0.1,
-            "PAWELTANAJNO": 0,
-            "WALDEMARWITKOWSKI": 0
+            "ANDRZEJDUDA": {
+                "support": 96.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 3.1
+            }
         },
         "SLD": {
-            "RAFALTRZASKOWSKI": 45.9,
-            "SZYMONHOLOWNIA": 22.1,
-            "ROBERTBIEDRON": 17.3,
-            "ANDRZEJDUDA": 5.8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 3.4,
-            "KRZYSZTOFBOSAK": 2.9,
-            "WALDEMARWITKOWSKI": 1.5,
-            "MIROSLAWPIOTROWSKI": 0.4,
-            "MAREKJAKUBIAK": 0.3,
-            "PAWELTANAJNO": 0.2,
-            "STANISLAWZOLTEK": 0.2
+            "ANDRZEJDUDA": {
+                "support": 8.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 91.7
+            }
         },
         "Konfederacja": {
-            "KRZYSZTOFBOSAK": 63.9,
-            "SZYMONHOLOWNIA": 16.6,
-            "RAFALTRZASKOWSKI": 9.4,
-            "ANDRZEJDUDA": 4.1,
-            "WLADYSLAWKOSINIAKKAMYSZ": 1.8,
-            "ROBERTBIEDRON": 1.6,
-            "STANISLAWZOLTEK": 1.5,
-            "MAREKJAKUBIAK": 0.4,
-            "WALDEMARWITKOWSKI": 0.4,
-            "PAWELTANAJNO": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1
+            "ANDRZEJDUDA": {
+                "support": 40
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 60
+            }
         },
         "Koalicja Obywatelska": {
-            "RAFALTRZASKOWSKI": 79.8,
-            "SZYMONHOLOWNIA": 14.8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 1.3,
-            "ROBERTBIEDRON": 1.3,
-            "KRZYSZTOFBOSAK": 1.2,
-            "ANDRZEJDUDA": 0.8,
-            "WALDEMARWITKOWSKI": 0.3,
-            "MAREKJAKUBIAK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "PAWELTANAJNO": 0.1,
-            "STANISLAWZOLTEK": 0.1
+            "ANDRZEJDUDA": {
+                "support": 1.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 98.2
+            }
         },
         "Inne partie i ugrupowania": {
-            "SZYMONHOLOWNIA": 52.1,
-            "RAFALTRZASKOWSKI": 22.7,
-            "ROBERTBIEDRON": 7.1,
-            "KRZYSZTOFBOSAK": 5.8,
-            "ANDRZEJDUDA": 4,
-            "WLADYSLAWKOSINIAKKAMYSZ": 3.4,
-            "STANISLAWZOLTEK": 1.7,
-            "WALDEMARWITKOWSKI": 1,
-            "PAWELTANAJNO": 0.9,
-            "MAREKJAKUBIAK": 0.9,
-            "MIROSLAWPIOTROWSKI": 0.4
+            "ANDRZEJDUDA": {
+                "support": 16.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 83.2
+            }
         },
         "Nie głosowałem": {
-            "SZYMONHOLOWNIA": 32.9,
-            "RAFALTRZASKOWSKI": 28,
-            "ANDRZEJDUDA": 17.9,
-            "KRZYSZTOFBOSAK": 12.2,
-            "ROBERTBIEDRON": 4.4,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.5,
-            "WALDEMARWITKOWSKI": 0.6,
-            "STANISLAWZOLTEK": 0.5,
-            "MIROSLAWPIOTROWSKI": 0.4,
-            "PAWELTANAJNO": 0.4,
-            "MAREKJAKUBIAK": 0.2
+            "ANDRZEJDUDA": {
+                "support": 38.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 61.7
+            }
         },
         "Nie pamiętam": {
-            "SZYMONHOLOWNIA": 33.1,
-            "RAFALTRZASKOWSKI": 29.8,
-            "ANDRZEJDUDA": 21.5,
-            "KRZYSZTOFBOSAK": 6.9,
-            "WLADYSLAWKOSINIAKKAMYSZ": 3.4,
-            "ROBERTBIEDRON": 3.1,
-            "STANISLAWZOLTEK": 0.9,
-            "PAWELTANAJNO": 0.6,
-            "WALDEMARWITKOWSKI": 0.4,
-            "MAREKJAKUBIAK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1
+            "ANDRZEJDUDA": {
+                "support": 40.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 59.9
+            }
         }
     },
     "PREZYDENT_2015_row": {
         "Andrzej Duda": {
-            "ANDRZEJDUDA": 82.4,
-            "KRZYSZTOFBOSAK": 5.8,
-            "SZYMONHOLOWNIA": 5.7,
-            "RAFALTRZASKOWSKI": 3.6,
-            "WLADYSLAWKOSINIAKKAMYSZ": 1.3,
-            "ROBERTBIEDRON": 0.6,
-            "STANISLAWZOLTEK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "PAWELTANAJNO": 0.1,
-            "MAREKJAKUBIAK": 0.1,
-            "WALDEMARWITKOWSKI": 0.1
+            "ANDRZEJDUDA": {
+                "support": 91.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 8.9
+            }
         },
         "Bronisław Komorowski": {
-            "RAFALTRZASKOWSKI": 69.8,
-            "SZYMONHOLOWNIA": 18.3,
-            "WLADYSLAWKOSINIAKKAMYSZ": 3.2,
-            "ROBERTBIEDRON": 2.8,
-            "ANDRZEJDUDA": 2.6,
-            "KRZYSZTOFBOSAK": 2.3,
-            "MAREKJAKUBIAK": 0.3,
-            "WALDEMARWITKOWSKI": 0.3,
-            "STANISLAWZOLTEK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "PAWELTANAJNO": 0.1
+            "ANDRZEJDUDA": {
+                "support": 4.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 95.6
+            }
         },
         "Nie głosowałem": {
-            "RAFALTRZASKOWSKI": 29.4,
-            "SZYMONHOLOWNIA": 25.6,
-            "KRZYSZTOFBOSAK": 18.3,
-            "ANDRZEJDUDA": 14,
-            "ROBERTBIEDRON": 6.3,
-            "WLADYSLAWKOSINIAKKAMYSZ": 3.8,
-            "WALDEMARWITKOWSKI": 0.8,
-            "STANISLAWZOLTEK": 0.6,
-            "MIROSLAWPIOTROWSKI": 0.4,
-            "PAWELTANAJNO": 0.4,
-            "MAREKJAKUBIAK": 0.4
+            "ANDRZEJDUDA": {
+                "support": 30.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 69.9
+            }
         },
         "Nie pamiętam": {
-            "RAFALTRZASKOWSKI": 30.9,
-            "SZYMONHOLOWNIA": 25.5,
-            "ANDRZEJDUDA": 21.9,
-            "KRZYSZTOFBOSAK": 11.9,
-            "WLADYSLAWKOSINIAKKAMYSZ": 4.6,
-            "ROBERTBIEDRON": 3.3,
-            "STANISLAWZOLTEK": 0.8,
-            "PAWELTANAJNO": 0.4,
-            "WALDEMARWITKOWSKI": 0.4,
-            "MAREKJAKUBIAK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1
+            "ANDRZEJDUDA": {
+                "support": 39.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 60.8
+            }
         }
     },
     "WIEK_row": {
         "18 - 29 lat": {
-            "RAFALTRZASKOWSKI": 24.5,
-            "SZYMONHOLOWNIA": 23.9,
-            "KRZYSZTOFBOSAK": 21.7,
-            "ANDRZEJDUDA": 20.3,
-            "ROBERTBIEDRON": 5.7,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2,
-            "STANISLAWZOLTEK": 0.9,
-            "WALDEMARWITKOWSKI": 0.5,
-            "PAWELTANAJNO": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1
+            "ANDRZEJDUDA": {
+                "support": 36.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 63.7
+            }
         },
         "30 - 39 lat": {
-            "ANDRZEJDUDA": 34.4,
-            "RAFALTRZASKOWSKI": 30.2,
-            "SZYMONHOLOWNIA": 20.7,
-            "KRZYSZTOFBOSAK": 8.5,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.6,
-            "ROBERTBIEDRON": 2.4,
-            "STANISLAWZOLTEK": 0.4,
-            "WALDEMARWITKOWSKI": 0.3,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "PAWELTANAJNO": 0.1
+            "ANDRZEJDUDA": {
+                "support": 45.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 54.7
+            }
         },
         "40 - 49 lat": {
-            "ANDRZEJDUDA": 38.9,
-            "RAFALTRZASKOWSKI": 34.7,
-            "SZYMONHOLOWNIA": 15.8,
-            "KRZYSZTOFBOSAK": 4.1,
-            "WLADYSLAWKOSINIAKKAMYSZ": 3.4,
-            "ROBERTBIEDRON": 1.8,
-            "PAWELTANAJNO": 0.3,
-            "MAREKJAKUBIAK": 0.3,
-            "WALDEMARWITKOWSKI": 0.3,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "STANISLAWZOLTEK": 0.2
+            "ANDRZEJDUDA": {
+                "support": 45.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 54.4
+            }
         },
         "50 - 59 lat": {
-            "ANDRZEJDUDA": 52.8,
-            "RAFALTRZASKOWSKI": 30.4,
-            "SZYMONHOLOWNIA": 9.4,
-            "KRZYSZTOFBOSAK": 2.8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.6,
-            "ROBERTBIEDRON": 1.1,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "WALDEMARWITKOWSKI": 0.2,
-            "STANISLAWZOLTEK": 0.2,
-            "PAWELTANAJNO": 0.1
+            "ANDRZEJDUDA": {
+                "support": 59.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 40.3
+            }
         },
         "60 i wiecej lat": {
-            "ANDRZEJDUDA": 59.8,
-            "RAFALTRZASKOWSKI": 30.7,
-            "SZYMONHOLOWNIA": 4.7,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.2,
-            "KRZYSZTOFBOSAK": 1.1,
-            "ROBERTBIEDRON": 1,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "PAWELTANAJNO": 0.1,
-            "MAREKJAKUBIAK": 0.1,
-            "WALDEMARWITKOWSKI": 0.1,
-            "STANISLAWZOLTEK": 0.1
+            "ANDRZEJDUDA": {
+                "support": 62.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 37.5
+            }
         }
     },
     "PLEC_row": {
         "Mezczyzni": {
-            "ANDRZEJDUDA": 42.1,
-            "RAFALTRZASKOWSKI": 29.2,
-            "SZYMONHOLOWNIA": 12.4,
-            "KRZYSZTOFBOSAK": 9.9,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.9,
-            "ROBERTBIEDRON": 2,
-            "STANISLAWZOLTEK": 0.5,
-            "WALDEMARWITKOWSKI": 0.4,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "PAWELTANAJNO": 0.2,
-            "MAREKJAKUBIAK": 0.2
+            "ANDRZEJDUDA": {
+                "support": 51.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 48.1
+            }
         },
         "Kobiety": {
-            "ANDRZEJDUDA": 43.6,
-            "RAFALTRZASKOWSKI": 31.2,
-            "SZYMONHOLOWNIA": 15.5,
-            "KRZYSZTOFBOSAK": 4.3,
-            "ROBERTBIEDRON": 2.5,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.2,
-            "MAREKJAKUBIAK": 0.2,
-            "WALDEMARWITKOWSKI": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "PAWELTANAJNO": 0.1,
-            "STANISLAWZOLTEK": 0.1
+            "ANDRZEJDUDA": {
+                "support": 50.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 49.7
+            }
         }
     },
     "WYKSZTALCENIE_row": {
         "Podstawowe": {
-            "ANDRZEJDUDA": 70.4,
-            "RAFALTRZASKOWSKI": 12.6,
-            "SZYMONHOLOWNIA": 6.6,
-            "KRZYSZTOFBOSAK": 5.6,
-            "ROBERTBIEDRON": 2.1,
-            "WLADYSLAWKOSINIAKKAMYSZ": 1.6,
-            "STANISLAWZOLTEK": 0.4,
-            "WALDEMARWITKOWSKI": 0.3,
-            "PAWELTANAJNO": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "MAREKJAKUBIAK": 0.1
+            "ANDRZEJDUDA": {
+                "support": 77.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 22.7
+            }
         },
         "Zasadnicze zawodowe": {
-            "ANDRZEJDUDA": 66.5,
-            "RAFALTRZASKOWSKI": 16.9,
-            "SZYMONHOLOWNIA": 8.3,
-            "KRZYSZTOFBOSAK": 3.8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.6,
-            "ROBERTBIEDRON": 1.2,
-            "MAREKJAKUBIAK": 0.2,
-            "WALDEMARWITKOWSKI": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "PAWELTANAJNO": 0.1,
-            "STANISLAWZOLTEK": 0.1
+            "ANDRZEJDUDA": {
+                "support": 75
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 25
+            }
         },
         "Średnie i pomaturalne": {
-            "ANDRZEJDUDA": 42.7,
-            "RAFALTRZASKOWSKI": 29.2,
-            "SZYMONHOLOWNIA": 14.1,
-            "KRZYSZTOFBOSAK": 7.9,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.6,
-            "ROBERTBIEDRON": 2.5,
-            "STANISLAWZOLTEK": 0.3,
-            "PAWELTANAJNO": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "WALDEMARWITKOWSKI": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1
+            "ANDRZEJDUDA": {
+                "support": 50.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 49.1
+            }
         },
         "Licencjat i wyższe": {
-            "RAFALTRZASKOWSKI": 41.2,
-            "ANDRZEJDUDA": 26.6,
-            "SZYMONHOLOWNIA": 18.1,
-            "KRZYSZTOFBOSAK": 7.6,
-            "ROBERTBIEDRON": 2.7,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.6,
-            "STANISLAWZOLTEK": 0.4,
-            "WALDEMARWITKOWSKI": 0.3,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "PAWELTANAJNO": 0.1
+            "ANDRZEJDUDA": {
+                "support": 34.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 65.1
+            }
         }
     },
     "GRUPA_row": {
         "Właściciel / współwłaściciel firmy": {
-            "RAFALTRZASKOWSKI": 43.5,
-            "ANDRZEJDUDA": 25.8,
-            "SZYMONHOLOWNIA": 16.6,
-            "KRZYSZTOFBOSAK": 8.5,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.3,
-            "ROBERTBIEDRON": 1.9,
-            "PAWELTANAJNO": 0.4,
-            "STANISLAWZOLTEK": 0.4,
-            "WALDEMARWITKOWSKI": 0.3,
-            "MAREKJAKUBIAK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1
+            "ANDRZEJDUDA": {
+                "support": 34.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 65.9
+            }
         },
         "Dyrektor / kierownik / specjalista": {
-            "RAFALTRZASKOWSKI": 42.8,
-            "ANDRZEJDUDA": 23.1,
-            "SZYMONHOLOWNIA": 19.4,
-            "KRZYSZTOFBOSAK": 8.4,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.5,
-            "ROBERTBIEDRON": 2.5,
-            "STANISLAWZOLTEK": 0.4,
-            "WALDEMARWITKOWSKI": 0.3,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "PAWELTANAJNO": 0.2,
-            "MAREKJAKUBIAK": 0.2
+            "ANDRZEJDUDA": {
+                "support": 32.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 67.4
+            }
         },
         "Pracownik administracji lub usług": {
-            "ANDRZEJDUDA": 35.4,
-            "RAFALTRZASKOWSKI": 32.7,
-            "SZYMONHOLOWNIA": 18.6,
-            "KRZYSZTOFBOSAK": 6.8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.8,
-            "ROBERTBIEDRON": 2.5,
-            "MAREKJAKUBIAK": 0.3,
-            "WALDEMARWITKOWSKI": 0.3,
-            "STANISLAWZOLTEK": 0.3,
-            "PAWELTANAJNO": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1
+            "ANDRZEJDUDA": {
+                "support": 44.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 55.3
+            }
         },
         "Rolnik": {
-            "ANDRZEJDUDA": 71.8,
-            "RAFALTRZASKOWSKI": 9.3,
-            "SZYMONHOLOWNIA": 6.6,
-            "WLADYSLAWKOSINIAKKAMYSZ": 6.2,
-            "KRZYSZTOFBOSAK": 4.3,
-            "ROBERTBIEDRON": 0.8,
-            "STANISLAWZOLTEK": 0.4,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "WALDEMARWITKOWSKI": 0.2,
-            "PAWELTANAJNO": 0
+            "ANDRZEJDUDA": {
+                "support": 81.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 18.6
+            }
         },
         "Robotnik": {
-            "ANDRZEJDUDA": 55,
-            "RAFALTRZASKOWSKI": 19.3,
-            "SZYMONHOLOWNIA": 12.5,
-            "KRZYSZTOFBOSAK": 8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.5,
-            "ROBERTBIEDRON": 1.7,
-            "WALDEMARWITKOWSKI": 0.3,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "STANISLAWZOLTEK": 0.2,
-            "PAWELTANAJNO": 0.1
+            "ANDRZEJDUDA": {
+                "support": 66.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 33.6
+            }
         },
         "Uczeń / student": {
-            "RAFALTRZASKOWSKI": 27.4,
-            "SZYMONHOLOWNIA": 24.7,
-            "KRZYSZTOFBOSAK": 20.4,
-            "ANDRZEJDUDA": 15.6,
-            "ROBERTBIEDRON": 8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2,
-            "STANISLAWZOLTEK": 0.8,
-            "WALDEMARWITKOWSKI": 0.7,
-            "PAWELTANAJNO": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "MAREKJAKUBIAK": 0.1
+            "ANDRZEJDUDA": {
+                "support": 30.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 69.9
+            }
         },
         "Osoba bezrobotna": {
-            "ANDRZEJDUDA": 54.6,
-            "RAFALTRZASKOWSKI": 18.5,
-            "SZYMONHOLOWNIA": 13.6,
-            "KRZYSZTOFBOSAK": 7.3,
-            "ROBERTBIEDRON": 2.7,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.3,
-            "PAWELTANAJNO": 0.4,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "STANISLAWZOLTEK": 0.2,
-            "WALDEMARWITKOWSKI": 0
+            "ANDRZEJDUDA": {
+                "support": 65.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 34.6
+            }
         },
         "Emeryt / rencista": {
-            "ANDRZEJDUDA": 61.5,
-            "RAFALTRZASKOWSKI": 29.2,
-            "SZYMONHOLOWNIA": 4.8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 1.9,
-            "KRZYSZTOFBOSAK": 1.2,
-            "ROBERTBIEDRON": 1,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "MAREKJAKUBIAK": 0.1,
-            "WALDEMARWITKOWSKI": 0.1,
-            "STANISLAWZOLTEK": 0.1,
-            "PAWELTANAJNO": 0
+            "ANDRZEJDUDA": {
+                "support": 64.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 35.9
+            }
         },
         "Inny": {
-            "ANDRZEJDUDA": 40,
-            "RAFALTRZASKOWSKI": 27.8,
-            "SZYMONHOLOWNIA": 17.6,
-            "KRZYSZTOFBOSAK": 8.3,
-            "ROBERTBIEDRON": 2.6,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.5,
-            "STANISLAWZOLTEK": 0.5,
-            "WALDEMARWITKOWSKI": 0.3,
-            "MAREKJAKUBIAK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "PAWELTANAJNO": 0.1
+            "ANDRZEJDUDA": {
+                "support": 50.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 49.4
+            }
         }
     },
     "MIEJSCOWOSC_row": {
         "Wieś": {
-            "ANDRZEJDUDA": 55.9,
-            "RAFALTRZASKOWSKI": 19.6,
-            "SZYMONHOLOWNIA": 12.2,
-            "KRZYSZTOFBOSAK": 6.9,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.9,
-            "ROBERTBIEDRON": 1.7,
-            "PAWELTANAJNO": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "STANISLAWZOLTEK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "WALDEMARWITKOWSKI": 0.1
+            "ANDRZEJDUDA": {
+                "support": 63.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 36.2
+            }
         },
         "Miasto do 50 tys.": {
-            "ANDRZEJDUDA": 38.9,
-            "RAFALTRZASKOWSKI": 32.7,
-            "SZYMONHOLOWNIA": 15.5,
-            "KRZYSZTOFBOSAK": 7,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.6,
-            "ROBERTBIEDRON": 2.1,
-            "WALDEMARWITKOWSKI": 0.4,
-            "MAREKJAKUBIAK": 0.3,
-            "STANISLAWZOLTEK": 0.3,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "PAWELTANAJNO": 0.1
+            "ANDRZEJDUDA": {
+                "support": 46.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 53.1
+            }
         },
         "Miasto 51-200 tys.": {
-            "ANDRZEJDUDA": 40.2,
-            "RAFALTRZASKOWSKI": 33.6,
-            "SZYMONHOLOWNIA": 14.4,
-            "KRZYSZTOFBOSAK": 6.8,
-            "ROBERTBIEDRON": 2.2,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.1,
-            "STANISLAWZOLTEK": 0.3,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "PAWELTANAJNO": 0.1,
-            "MAREKJAKUBIAK": 0.1,
-            "WALDEMARWITKOWSKI": 0.1
+            "ANDRZEJDUDA": {
+                "support": 49.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 50.4
+            }
         },
         "Miasto 201-500 tys.": {
-            "RAFALTRZASKOWSKI": 37.8,
-            "ANDRZEJDUDA": 33.1,
-            "SZYMONHOLOWNIA": 15.3,
-            "KRZYSZTOFBOSAK": 7.5,
-            "ROBERTBIEDRON": 2.7,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2,
-            "STANISLAWZOLTEK": 0.5,
-            "WALDEMARWITKOWSKI": 0.4,
-            "MAREKJAKUBIAK": 0.3,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "PAWELTANAJNO": 0.2
+            "ANDRZEJDUDA": {
+                "support": 38.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 61.3
+            }
         },
         "Miasto pow. 500 tys.": {
-            "RAFALTRZASKOWSKI": 47.3,
-            "ANDRZEJDUDA": 25.2,
-            "SZYMONHOLOWNIA": 15.2,
-            "KRZYSZTOFBOSAK": 5.5,
-            "ROBERTBIEDRON": 3.7,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.2,
-            "WALDEMARWITKOWSKI": 0.4,
-            "STANISLAWZOLTEK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "PAWELTANAJNO": 0.1,
-            "MAREKJAKUBIAK": 0.1
+            "ANDRZEJDUDA": {
+                "support": 34.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 65.8
+            }
         }
     },
     "WOJEWODZTWA_row": {
         "dolnoslaskie": {
-            "RAFALTRZASKOWSKI": 38.1,
-            "ANDRZEJDUDA": 36.1,
-            "SZYMONHOLOWNIA": 13.8,
-            "KRZYSZTOFBOSAK": 6.6,
-            "ROBERTBIEDRON": 2.2,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.1,
-            "MAREKJAKUBIAK": 0.3,
-            "WALDEMARWITKOWSKI": 0.3,
-            "PAWELTANAJNO": 0.2,
-            "STANISLAWZOLTEK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1
+            "ANDRZEJDUDA": {
+                "support": 42.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 57.6
+            }
         },
         "kujawsko-pomorskie": {
-            "ANDRZEJDUDA": 41.1,
-            "RAFALTRZASKOWSKI": 31.2,
-            "SZYMONHOLOWNIA": 14.6,
-            "KRZYSZTOFBOSAK": 7.6,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.5,
-            "ROBERTBIEDRON": 2.3,
-            "STANISLAWZOLTEK": 0.3,
-            "WALDEMARWITKOWSKI": 0.2,
-            "PAWELTANAJNO": 0.1,
-            "MAREKJAKUBIAK": 0.1,
-            "MIROSLAWPIOTROWSKI": 0
+            "ANDRZEJDUDA": {
+                "support": 46.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 53.4
+            }
         },
         "lubelskie": {
-            "ANDRZEJDUDA": 57.1,
-            "RAFALTRZASKOWSKI": 18.4,
-            "SZYMONHOLOWNIA": 11.5,
-            "KRZYSZTOFBOSAK": 7.5,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.8,
-            "ROBERTBIEDRON": 1.8,
-            "STANISLAWZOLTEK": 0.3,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "PAWELTANAJNO": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "WALDEMARWITKOWSKI": 0
+            "ANDRZEJDUDA": {
+                "support": 65
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 35
+            }
         },
         "lubuskie": {
-            "RAFALTRZASKOWSKI": 40.9,
-            "ANDRZEJDUDA": 29.5,
-            "SZYMONHOLOWNIA": 20.3,
-            "KRZYSZTOFBOSAK": 5.1,
-            "ROBERTBIEDRON": 1.7,
-            "WLADYSLAWKOSINIAKKAMYSZ": 1.3,
-            "WALDEMARWITKOWSKI": 0.5,
-            "MAREKJAKUBIAK": 0.3,
-            "PAWELTANAJNO": 0.2,
-            "STANISLAWZOLTEK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0
+            "ANDRZEJDUDA": {
+                "support": 37.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 62.9
+            }
         },
         "lodzkie": {
-            "ANDRZEJDUDA": 48.3,
-            "RAFALTRZASKOWSKI": 26.9,
-            "SZYMONHOLOWNIA": 13.5,
-            "KRZYSZTOFBOSAK": 5.4,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.8,
-            "ROBERTBIEDRON": 2.3,
-            "WALDEMARWITKOWSKI": 0.3,
-            "PAWELTANAJNO": 0.2,
-            "STANISLAWZOLTEK": 0.2,
-            "MAREKJAKUBIAK": 0.1,
-            "MIROSLAWPIOTROWSKI": 0
+            "ANDRZEJDUDA": {
+                "support": 57.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 42.6
+            }
         },
         "malopolskie": {
-            "ANDRZEJDUDA": 47.2,
-            "RAFALTRZASKOWSKI": 26.2,
-            "SZYMONHOLOWNIA": 11.4,
-            "KRZYSZTOFBOSAK": 8.4,
-            "WLADYSLAWKOSINIAKKAMYSZ": 3.4,
-            "ROBERTBIEDRON": 2.3,
-            "WALDEMARWITKOWSKI": 0.3,
-            "STANISLAWZOLTEK": 0.3,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "PAWELTANAJNO": 0.1
+            "ANDRZEJDUDA": {
+                "support": 57.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 42.4
+            }
         },
         "mazowieckie": {
-            "ANDRZEJDUDA": 42.3,
-            "RAFALTRZASKOWSKI": 34.2,
-            "SZYMONHOLOWNIA": 12,
-            "KRZYSZTOFBOSAK": 5.7,
-            "ROBERTBIEDRON": 2.6,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.4,
-            "MAREKJAKUBIAK": 0.2,
-            "WALDEMARWITKOWSKI": 0.2,
-            "STANISLAWZOLTEK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "PAWELTANAJNO": 0.1
+            "ANDRZEJDUDA": {
+                "support": 51.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 48.2
+            }
         },
         "opolskie": {
-            "ANDRZEJDUDA": 38,
-            "RAFALTRZASKOWSKI": 35.1,
-            "SZYMONHOLOWNIA": 16.3,
-            "KRZYSZTOFBOSAK": 6.3,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.4,
-            "ROBERTBIEDRON": 1.4,
-            "STANISLAWZOLTEK": 0.3,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "MAREKJAKUBIAK": 0.1,
-            "PAWELTANAJNO": 0,
-            "WALDEMARWITKOWSKI": 0
+            "ANDRZEJDUDA": {
+                "support": 45.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 54.7
+            }
         },
         "podkarpackie": {
-            "ANDRZEJDUDA": 62,
-            "RAFALTRZASKOWSKI": 13.9,
-            "SZYMONHOLOWNIA": 10.4,
-            "KRZYSZTOFBOSAK": 8.8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.8,
-            "ROBERTBIEDRON": 1.3,
-            "STANISLAWZOLTEK": 0.3,
-            "WALDEMARWITKOWSKI": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "PAWELTANAJNO": 0.1,
-            "MAREKJAKUBIAK": 0.1
+            "ANDRZEJDUDA": {
+                "support": 73
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 27
+            }
         },
         "podlaskie": {
-            "ANDRZEJDUDA": 50.4,
-            "RAFALTRZASKOWSKI": 19.8,
-            "SZYMONHOLOWNIA": 17.3,
-            "KRZYSZTOFBOSAK": 6.5,
-            "WLADYSLAWKOSINIAKKAMYSZ": 3.4,
-            "ROBERTBIEDRON": 1.8,
-            "STANISLAWZOLTEK": 0.3,
-            "PAWELTANAJNO": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "MAREKJAKUBIAK": 0.1,
-            "WALDEMARWITKOWSKI": 0.1
+            "ANDRZEJDUDA": {
+                "support": 61
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 39
+            }
         },
         "pomorskie": {
-            "RAFALTRZASKOWSKI": 42.7,
-            "ANDRZEJDUDA": 28,
-            "SZYMONHOLOWNIA": 16.9,
-            "KRZYSZTOFBOSAK": 6.3,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.4,
-            "ROBERTBIEDRON": 2.4,
-            "WALDEMARWITKOWSKI": 0.4,
-            "STANISLAWZOLTEK": 0.4,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "PAWELTANAJNO": 0.1
+            "ANDRZEJDUDA": {
+                "support": 34.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 65.8
+            }
         },
         "slaskie": {
-            "ANDRZEJDUDA": 41.8,
-            "RAFALTRZASKOWSKI": 30.5,
-            "SZYMONHOLOWNIA": 15.5,
-            "KRZYSZTOFBOSAK": 7.1,
-            "ROBERTBIEDRON": 2.5,
-            "WLADYSLAWKOSINIAKKAMYSZ": 1.4,
-            "STANISLAWZOLTEK": 0.5,
-            "WALDEMARWITKOWSKI": 0.3,
-            "MAREKJAKUBIAK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "PAWELTANAJNO": 0.1
+            "ANDRZEJDUDA": {
+                "support": 48.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 51.5
+            }
         },
         "swietokrzyskie": {
-            "ANDRZEJDUDA": 57.6,
-            "RAFALTRZASKOWSKI": 19.3,
-            "SZYMONHOLOWNIA": 11.2,
-            "KRZYSZTOFBOSAK": 6.6,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.9,
-            "ROBERTBIEDRON": 1.7,
-            "WALDEMARWITKOWSKI": 0.3,
-            "STANISLAWZOLTEK": 0.2,
-            "MIROSLAWPIOTROWSKI": 0.1,
-            "MAREKJAKUBIAK": 0.1,
-            "PAWELTANAJNO": 0
+            "ANDRZEJDUDA": {
+                "support": 63.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 36.1
+            }
         },
         "warminsko-mazurskie": {
-            "ANDRZEJDUDA": 39.6,
-            "RAFALTRZASKOWSKI": 31.1,
-            "SZYMONHOLOWNIA": 12.5,
-            "KRZYSZTOFBOSAK": 7,
-            "WLADYSLAWKOSINIAKKAMYSZ": 4.2,
-            "ROBERTBIEDRON": 2.8,
-            "WALDEMARWITKOWSKI": 1,
-            "MIROSLAWPIOTROWSKI": 0.5,
-            "STANISLAWZOLTEK": 0.5,
-            "PAWELTANAJNO": 0.4,
-            "MAREKJAKUBIAK": 0.4
+            "ANDRZEJDUDA": {
+                "support": 47.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 52.2
+            }
         },
         "wielkopolskie": {
-            "ANDRZEJDUDA": 34.6,
-            "RAFALTRZASKOWSKI": 32.8,
-            "SZYMONHOLOWNIA": 17.7,
-            "KRZYSZTOFBOSAK": 7.7,
-            "WLADYSLAWKOSINIAKKAMYSZ": 3.1,
-            "ROBERTBIEDRON": 2.8,
-            "PAWELTANAJNO": 0.4,
-            "MAREKJAKUBIAK": 0.3,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "WALDEMARWITKOWSKI": 0.2,
-            "STANISLAWZOLTEK": 0.2
+            "ANDRZEJDUDA": {
+                "support": 45.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 54.7
+            }
         },
         "zachodniopomorskie": {
-            "RAFALTRZASKOWSKI": 37.7,
-            "ANDRZEJDUDA": 35.6,
-            "SZYMONHOLOWNIA": 15.9,
-            "KRZYSZTOFBOSAK": 5.8,
-            "ROBERTBIEDRON": 2.3,
-            "WLADYSLAWKOSINIAKKAMYSZ": 1.7,
-            "MIROSLAWPIOTROWSKI": 0.2,
-            "PAWELTANAJNO": 0.2,
-            "MAREKJAKUBIAK": 0.2,
-            "WALDEMARWITKOWSKI": 0.2,
-            "STANISLAWZOLTEK": 0.2
+            "ANDRZEJDUDA": {
+                "support": 37.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 62.4
+            }
         }
     },
     "SEJM_2019_col": {
         "PSL": {
-            "WLADYSLAWKOSINIAKKAMYSZ": 47.6,
-            "SZYMONHOLOWNIA": 5.8,
-            "ROBERTBIEDRON": 5.1,
-            "PAWELTANAJNO": 4.9,
-            "STANISLAWZOLTEK": 4.1,
-            "MIROSLAWPIOTROWSKI": 3.8,
-            "MAREKJAKUBIAK": 3.7,
-            "KRZYSZTOFBOSAK": 2.9,
-            "RAFALTRZASKOWSKI": 2.3,
-            "WALDEMARWITKOWSKI": 1.5,
-            "ANDRZEJDUDA": 1
+            "ANDRZEJDUDA": {
+                "support": 1.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 4.2
+            }
         },
         "PiS": {
-            "ANDRZEJDUDA": 91,
-            "MAREKJAKUBIAK": 25.5,
-            "MIROSLAWPIOTROWSKI": 22,
-            "KRZYSZTOFBOSAK": 15.2,
-            "SZYMONHOLOWNIA": 9.4,
-            "WLADYSLAWKOSINIAKKAMYSZ": 8.5,
-            "PAWELTANAJNO": 8,
-            "STANISLAWZOLTEK": 6.6,
-            "ROBERTBIEDRON": 6,
-            "WALDEMARWITKOWSKI": 3.6,
-            "RAFALTRZASKOWSKI": 2.2
+            "ANDRZEJDUDA": {
+                "support": 79.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 2.7
+            }
         },
         "SLD": {
-            "ROBERTBIEDRON": 38.1,
-            "WALDEMARWITKOWSKI": 27.7,
-            "MIROSLAWPIOTROWSKI": 16,
-            "SZYMONHOLOWNIA": 7.8,
-            "RAFALTRZASKOWSKI": 7.5,
-            "MAREKJAKUBIAK": 7.3,
-            "WLADYSLAWKOSINIAKKAMYSZ": 6.6,
-            "PAWELTANAJNO": 5.1,
-            "STANISLAWZOLTEK": 3.8,
-            "KRZYSZTOFBOSAK": 2.1,
-            "ANDRZEJDUDA": 0.7
+            "ANDRZEJDUDA": {
+                "support": 0.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 9.5
+            }
         },
         "Konfederacja": {
-            "KRZYSZTOFBOSAK": 54.3,
-            "STANISLAWZOLTEK": 29.1,
-            "MAREKJAKUBIAK": 10.5,
-            "PAWELTANAJNO": 9,
-            "WALDEMARWITKOWSKI": 7.5,
-            "SZYMONHOLOWNIA": 6.9,
-            "MIROSLAWPIOTROWSKI": 5.6,
-            "WLADYSLAWKOSINIAKKAMYSZ": 4.2,
-            "ROBERTBIEDRON": 4.1,
-            "RAFALTRZASKOWSKI": 1.8,
-            "ANDRZEJDUDA": 0.5
+            "ANDRZEJDUDA": {
+                "support": 3.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 5.8
+            }
         },
         "Koalicja Obywatelska": {
-            "RAFALTRZASKOWSKI": 71.4,
-            "SZYMONHOLOWNIA": 28.6,
-            "MAREKJAKUBIAK": 27.8,
-            "WALDEMARWITKOWSKI": 24.9,
-            "PAWELTANAJNO": 19.2,
-            "MIROSLAWPIOTROWSKI": 15.9,
-            "ROBERTBIEDRON": 15.8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 14.1,
-            "STANISLAWZOLTEK": 11.7,
-            "KRZYSZTOFBOSAK": 4.7,
-            "ANDRZEJDUDA": 0.5
+            "ANDRZEJDUDA": {
+                "support": 0.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 53.2
+            }
         },
         "Inne partie i ugrupowania": {
-            "PAWELTANAJNO": 15.3,
-            "STANISLAWZOLTEK": 15.2,
-            "MAREKJAKUBIAK": 12.1,
-            "SZYMONHOLOWNIA": 10.4,
-            "WALDEMARWITKOWSKI": 9.8,
-            "MIROSLAWPIOTROWSKI": 9.4,
-            "ROBERTBIEDRON": 8.8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 3.8,
-            "KRZYSZTOFBOSAK": 2.4,
-            "RAFALTRZASKOWSKI": 2.1,
-            "ANDRZEJDUDA": 0.3
+            "ANDRZEJDUDA": {
+                "support": 0.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 3.4
+            }
         },
         "Nie głosowałem": {
-            "MIROSLAWPIOTROWSKI": 21.5,
-            "SZYMONHOLOWNIA": 15.3,
-            "PAWELTANAJNO": 15.2,
-            "WALDEMARWITKOWSKI": 14.9,
-            "ROBERTBIEDRON": 12.9,
-            "KRZYSZTOFBOSAK": 11.6,
-            "STANISLAWZOLTEK": 10,
-            "WLADYSLAWKOSINIAKKAMYSZ": 6.3,
-            "MAREKJAKUBIAK": 6.2,
-            "RAFALTRZASKOWSKI": 6.1,
-            "ANDRZEJDUDA": 2.7
+            "ANDRZEJDUDA": {
+                "support": 6.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 11
+            }
         },
         "Nie pamiętam": {
-            "PAWELTANAJNO": 23.3,
-            "STANISLAWZOLTEK": 19.5,
-            "SZYMONHOLOWNIA": 15.8,
-            "WALDEMARWITKOWSKI": 10.1,
-            "ROBERTBIEDRON": 9.2,
-            "WLADYSLAWKOSINIAKKAMYSZ": 8.9,
-            "MAREKJAKUBIAK": 6.9,
-            "KRZYSZTOFBOSAK": 6.8,
-            "RAFALTRZASKOWSKI": 6.6,
-            "MIROSLAWPIOTROWSKI": 5.8,
-            "ANDRZEJDUDA": 3.3
+            "ANDRZEJDUDA": {
+                "support": 6.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 10.2
+            }
         }
     },
     "PREZYDENT_2015_col": {
         "Andrzej Duda": {
-            "ANDRZEJDUDA": 89.1,
-            "KRZYSZTOFBOSAK": 39.1,
-            "STANISLAWZOLTEK": 33,
-            "MIROSLAWPIOTROWSKI": 29.5,
-            "WLADYSLAWKOSINIAKKAMYSZ": 24.3,
-            "MAREKJAKUBIAK": 24.1,
-            "PAWELTANAJNO": 20.7,
-            "SZYMONHOLOWNIA": 18.7,
-            "ROBERTBIEDRON": 12.5,
-            "WALDEMARWITKOWSKI": 12.2,
-            "RAFALTRZASKOWSKI": 5.5
+            "ANDRZEJDUDA": {
+                "support": 84.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 8.6
+            }
         },
         "Bronisław Komorowski": {
-            "RAFALTRZASKOWSKI": 72.5,
-            "SZYMONHOLOWNIA": 41,
-            "WLADYSLAWKOSINIAKKAMYSZ": 39.6,
-            "MAREKJAKUBIAK": 39.6,
-            "ROBERTBIEDRON": 38.4,
-            "WALDEMARWITKOWSKI": 36.3,
-            "PAWELTANAJNO": 25.9,
-            "MIROSLAWPIOTROWSKI": 24.3,
-            "STANISLAWZOLTEK": 17.6,
-            "KRZYSZTOFBOSAK": 10.7,
-            "ANDRZEJDUDA": 1.9
+            "ANDRZEJDUDA": {
+                "support": 2.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 64.1
+            }
         },
         "Nie głosowałem": {
-            "WALDEMARWITKOWSKI": 37.5,
-            "ROBERTBIEDRON": 35,
-            "MIROSLAWPIOTROWSKI": 35,
-            "KRZYSZTOFBOSAK": 33.7,
-            "PAWELTANAJNO": 28.9,
-            "STANISLAWZOLTEK": 25.5,
-            "MAREKJAKUBIAK": 24.5,
-            "SZYMONHOLOWNIA": 22.9,
-            "WLADYSLAWKOSINIAKKAMYSZ": 19,
-            "RAFALTRZASKOWSKI": 12.2,
-            "ANDRZEJDUDA": 4.1
+            "ANDRZEJDUDA": {
+                "support": 8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 19.2
+            }
         },
         "Nie pamiętam": {
-            "PAWELTANAJNO": 24.5,
-            "STANISLAWZOLTEK": 23.9,
-            "SZYMONHOLOWNIA": 17.4,
-            "WLADYSLAWKOSINIAKKAMYSZ": 17.1,
-            "KRZYSZTOFBOSAK": 16.5,
-            "ROBERTBIEDRON": 14.1,
-            "WALDEMARWITKOWSKI": 14,
-            "MAREKJAKUBIAK": 11.8,
-            "MIROSLAWPIOTROWSKI": 11.2,
-            "RAFALTRZASKOWSKI": 9.8,
-            "ANDRZEJDUDA": 4.9
+            "ANDRZEJDUDA": {
+                "support": 5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 8.1
+            }
         }
     },
     "WIEK_col": {
         "18 - 29 lat": {
-            "KRZYSZTOFBOSAK": 52.7,
-            "STANISLAWZOLTEK": 45.7,
-            "ROBERTBIEDRON": 42,
-            "WALDEMARWITKOWSKI": 32.9,
-            "SZYMONHOLOWNIA": 28.4,
-            "PAWELTANAJNO": 25.3,
-            "MAREKJAKUBIAK": 19,
-            "MIROSLAWPIOTROWSKI": 16.6,
-            "RAFALTRZASKOWSKI": 13.5,
-            "WLADYSLAWKOSINIAKKAMYSZ": 13.1,
-            "ANDRZEJDUDA": 7.9
+            "ANDRZEJDUDA": {
+                "support": 12.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 22.2
+            }
         },
         "30 - 39 lat": {
-            "SZYMONHOLOWNIA": 29.1,
-            "KRZYSZTOFBOSAK": 24.4,
-            "MAREKJAKUBIAK": 24,
-            "STANISLAWZOLTEK": 23.4,
-            "MIROSLAWPIOTROWSKI": 23.3,
-            "ROBERTBIEDRON": 21.2,
-            "WLADYSLAWKOSINIAKKAMYSZ": 19.8,
-            "RAFALTRZASKOWSKI": 19.7,
-            "WALDEMARWITKOWSKI": 19.4,
-            "PAWELTANAJNO": 16.9,
-            "ANDRZEJDUDA": 15.8
+            "ANDRZEJDUDA": {
+                "support": 16.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 21.3
+            }
         },
         "40 - 49 lat": {
-            "PAWELTANAJNO": 37.7,
-            "MAREKJAKUBIAK": 27.3,
-            "WLADYSLAWKOSINIAKKAMYSZ": 26.3,
-            "MIROSLAWPIOTROWSKI": 26.1,
-            "WALDEMARWITKOWSKI": 23.1,
-            "RAFALTRZASKOWSKI": 22.3,
-            "SZYMONHOLOWNIA": 22,
-            "ANDRZEJDUDA": 17.7,
-            "ROBERTBIEDRON": 15.7,
-            "STANISLAWZOLTEK": 12.3,
-            "KRZYSZTOFBOSAK": 11.7
+            "ANDRZEJDUDA": {
+                "support": 17.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 21.6
+            }
         },
         "50 - 59 lat": {
-            "ANDRZEJDUDA": 21.1,
-            "MIROSLAWPIOTROWSKI": 20.6,
-            "WLADYSLAWKOSINIAKKAMYSZ": 17.5,
-            "RAFALTRZASKOWSKI": 17.2,
-            "MAREKJAKUBIAK": 14.8,
-            "WALDEMARWITKOWSKI": 14,
-            "SZYMONHOLOWNIA": 11.5,
-            "STANISLAWZOLTEK": 10.9,
-            "PAWELTANAJNO": 8.6,
-            "ROBERTBIEDRON": 8.6,
-            "KRZYSZTOFBOSAK": 7
+            "ANDRZEJDUDA": {
+                "support": 19.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 13.6
+            }
         },
         "60 i wiecej lat": {
-            "ANDRZEJDUDA": 37.5,
-            "RAFALTRZASKOWSKI": 27.3,
-            "WLADYSLAWKOSINIAKKAMYSZ": 23.3,
-            "MAREKJAKUBIAK": 14.9,
-            "MIROSLAWPIOTROWSKI": 13.4,
-            "ROBERTBIEDRON": 12.5,
-            "PAWELTANAJNO": 11.5,
-            "WALDEMARWITKOWSKI": 10.6,
-            "SZYMONHOLOWNIA": 9,
-            "STANISLAWZOLTEK": 7.7,
-            "KRZYSZTOFBOSAK": 4.2
+            "ANDRZEJDUDA": {
+                "support": 34.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 21.3
+            }
         }
     },
     "PLEC_col": {
         "Mezczyzni": {
-            "STANISLAWZOLTEK": 79.3,
-            "KRZYSZTOFBOSAK": 66.6,
-            "WALDEMARWITKOWSKI": 62.2,
-            "MIROSLAWPIOTROWSKI": 57,
-            "MAREKJAKUBIAK": 54.8,
-            "PAWELTANAJNO": 54.6,
-            "WLADYSLAWKOSINIAKKAMYSZ": 53.2,
-            "ANDRZEJDUDA": 45.5,
-            "RAFALTRZASKOWSKI": 44.7,
-            "ROBERTBIEDRON": 41.6,
-            "SZYMONHOLOWNIA": 41
+            "ANDRZEJDUDA": {
+                "support": 45.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 44.3
+            }
         },
         "Kobiety": {
-            "SZYMONHOLOWNIA": 59,
-            "ROBERTBIEDRON": 58.4,
-            "RAFALTRZASKOWSKI": 55.3,
-            "ANDRZEJDUDA": 54.5,
-            "WLADYSLAWKOSINIAKKAMYSZ": 46.8,
-            "PAWELTANAJNO": 45.4,
-            "MAREKJAKUBIAK": 45.2,
-            "MIROSLAWPIOTROWSKI": 43,
-            "WALDEMARWITKOWSKI": 37.8,
-            "KRZYSZTOFBOSAK": 33.4,
-            "STANISLAWZOLTEK": 20.7
+            "ANDRZEJDUDA": {
+                "support": 54.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 55.7
+            }
         }
     },
     "WYKSZTALCENIE_col": {
         "Podstawowe": {
-            "ANDRZEJDUDA": 9.1,
-            "STANISLAWZOLTEK": 7.8,
-            "WALDEMARWITKOWSKI": 6.2,
-            "MIROSLAWPIOTROWSKI": 5.9,
-            "PAWELTANAJNO": 5.8,
-            "ROBERTBIEDRON": 5.1,
-            "KRZYSZTOFBOSAK": 4.5,
-            "WLADYSLAWKOSINIAKKAMYSZ": 3.5,
-            "MAREKJAKUBIAK": 3.3,
-            "SZYMONHOLOWNIA": 2.6,
-            "RAFALTRZASKOWSKI": 2.3
+            "ANDRZEJDUDA": {
+                "support": 8.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 2.6
+            }
         },
         "Zasadnicze zawodowe": {
-            "ANDRZEJDUDA": 29.8,
-            "MIROSLAWPIOTROWSKI": 20.1,
-            "WLADYSLAWKOSINIAKKAMYSZ": 19.7,
-            "WALDEMARWITKOWSKI": 17.4,
-            "MAREKJAKUBIAK": 15.1,
-            "PAWELTANAJNO": 14,
-            "SZYMONHOLOWNIA": 11.4,
-            "RAFALTRZASKOWSKI": 10.7,
-            "KRZYSZTOFBOSAK": 10.6,
-            "ROBERTBIEDRON": 10,
-            "STANISLAWZOLTEK": 7
+            "ANDRZEJDUDA": {
+                "support": 27.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 9.5
+            }
         },
         "Średnie i pomaturalne": {
-            "PAWELTANAJNO": 47.9,
-            "KRZYSZTOFBOSAK": 44.6,
-            "ROBERTBIEDRON": 42.1,
-            "WLADYSLAWKOSINIAKKAMYSZ": 40.2,
-            "SZYMONHOLOWNIA": 39,
-            "ANDRZEJDUDA": 38.6,
-            "MAREKJAKUBIAK": 38.5,
-            "RAFALTRZASKOWSKI": 37.5,
-            "STANISLAWZOLTEK": 36.2,
-            "WALDEMARWITKOWSKI": 33.6,
-            "MIROSLAWPIOTROWSKI": 33.3
+            "ANDRZEJDUDA": {
+                "support": 38.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 39.1
+            }
         },
         "Licencjat i wyższe": {
-            "RAFALTRZASKOWSKI": 49.5,
-            "STANISLAWZOLTEK": 49,
-            "SZYMONHOLOWNIA": 47,
-            "MAREKJAKUBIAK": 43.1,
-            "WALDEMARWITKOWSKI": 42.8,
-            "ROBERTBIEDRON": 42.8,
-            "MIROSLAWPIOTROWSKI": 40.7,
-            "KRZYSZTOFBOSAK": 40.3,
-            "WLADYSLAWKOSINIAKKAMYSZ": 36.6,
-            "PAWELTANAJNO": 32.3,
-            "ANDRZEJDUDA": 22.5
+            "ANDRZEJDUDA": {
+                "support": 25.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 48.8
+            }
         }
     },
     "GRUPA_col": {
         "Właściciel / współwłaściciel firmy": {
-            "PAWELTANAJNO": 28.6,
-            "RAFALTRZASKOWSKI": 15.7,
-            "KRZYSZTOFBOSAK": 13.5,
-            "SZYMONHOLOWNIA": 12.9,
-            "STANISLAWZOLTEK": 12,
-            "MIROSLAWPIOTROWSKI": 11.8,
-            "MAREKJAKUBIAK": 11.2,
-            "WALDEMARWITKOWSKI": 10.8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 10,
-            "ROBERTBIEDRON": 9,
-            "ANDRZEJDUDA": 6.6
+            "ANDRZEJDUDA": {
+                "support": 7.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 14.6
+            }
         },
         "Dyrektor / kierownik / specjalista": {
-            "RAFALTRZASKOWSKI": 16.6,
-            "STANISLAWZOLTEK": 16.2,
-            "SZYMONHOLOWNIA": 16.2,
-            "MIROSLAWPIOTROWSKI": 15.5,
-            "WALDEMARWITKOWSKI": 15,
-            "KRZYSZTOFBOSAK": 14.3,
-            "MAREKJAKUBIAK": 13.6,
-            "ROBERTBIEDRON": 13.1,
-            "PAWELTANAJNO": 12.4,
-            "WLADYSLAWKOSINIAKKAMYSZ": 11.4,
-            "ANDRZEJDUDA": 6.3
+            "ANDRZEJDUDA": {
+                "support": 7.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 16.5
+            }
         },
         "Pracownik administracji lub usług": {
-            "MAREKJAKUBIAK": 25.6,
-            "SZYMONHOLOWNIA": 23.9,
-            "WALDEMARWITKOWSKI": 21.1,
-            "ROBERTBIEDRON": 20.2,
-            "WLADYSLAWKOSINIAKKAMYSZ": 19.7,
-            "STANISLAWZOLTEK": 19.6,
-            "RAFALTRZASKOWSKI": 19.5,
-            "PAWELTANAJNO": 19.2,
-            "KRZYSZTOFBOSAK": 18,
-            "ANDRZEJDUDA": 15,
-            "MIROSLAWPIOTROWSKI": 13.6
+            "ANDRZEJDUDA": {
+                "support": 15.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 20.4
+            }
         },
         "Rolnik": {
-            "WLADYSLAWKOSINIAKKAMYSZ": 13,
-            "ANDRZEJDUDA": 8.9,
-            "MIROSLAWPIOTROWSKI": 7,
-            "STANISLAWZOLTEK": 6.1,
-            "MAREKJAKUBIAK": 6.1,
-            "KRZYSZTOFBOSAK": 3.4,
-            "WALDEMARWITKOWSKI": 3.4,
-            "SZYMONHOLOWNIA": 2.5,
-            "ROBERTBIEDRON": 1.9,
-            "RAFALTRZASKOWSKI": 1.6,
-            "PAWELTANAJNO": 0.4
+            "ANDRZEJDUDA": {
+                "support": 7.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 1.9
+            }
         },
         "Robotnik": {
-            "MIROSLAWPIOTROWSKI": 18.6,
-            "ANDRZEJDUDA": 13.5,
-            "MAREKJAKUBIAK": 13.4,
-            "KRZYSZTOFBOSAK": 12.2,
-            "WLADYSLAWKOSINIAKKAMYSZ": 10.2,
-            "WALDEMARWITKOWSKI": 10,
-            "SZYMONHOLOWNIA": 9.4,
-            "PAWELTANAJNO": 8.6,
-            "ROBERTBIEDRON": 7.7,
-            "RAFALTRZASKOWSKI": 6.7,
-            "STANISLAWZOLTEK": 5.6
+            "ANDRZEJDUDA": {
+                "support": 13.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 7
+            }
         },
         "Uczeń / student": {
-            "ROBERTBIEDRON": 22.7,
-            "KRZYSZTOFBOSAK": 19.1,
-            "STANISLAWZOLTEK": 17,
-            "WALDEMARWITKOWSKI": 16.1,
-            "SZYMONHOLOWNIA": 11.3,
-            "PAWELTANAJNO": 7.7,
-            "MIROSLAWPIOTROWSKI": 6.6,
-            "RAFALTRZASKOWSKI": 5.8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 5,
-            "MAREKJAKUBIAK": 4.7,
-            "ANDRZEJDUDA": 2.3
+            "ANDRZEJDUDA": {
+                "support": 4.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 10
+            }
         },
         "Osoba bezrobotna": {
-            "PAWELTANAJNO": 6.9,
-            "MIROSLAWPIOTROWSKI": 5.9,
-            "ANDRZEJDUDA": 3.8,
-            "ROBERTBIEDRON": 3.5,
-            "MAREKJAKUBIAK": 3.3,
-            "KRZYSZTOFBOSAK": 3.2,
-            "SZYMONHOLOWNIA": 2.9,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.7,
-            "RAFALTRZASKOWSKI": 1.8,
-            "STANISLAWZOLTEK": 1.7,
-            "WALDEMARWITKOWSKI": 0
+            "ANDRZEJDUDA": {
+                "support": 3.6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 2
+            }
         },
         "Emeryt / rencista": {
-            "ANDRZEJDUDA": 34.1,
-            "RAFALTRZASKOWSKI": 23,
-            "WLADYSLAWKOSINIAKKAMYSZ": 18,
-            "MIROSLAWPIOTROWSKI": 12,
-            "WALDEMARWITKOWSKI": 11.3,
-            "ROBERTBIEDRON": 10.4,
-            "MAREKJAKUBIAK": 9.9,
-            "SZYMONHOLOWNIA": 8.2,
-            "PAWELTANAJNO": 8.1,
-            "STANISLAWZOLTEK": 6,
-            "KRZYSZTOFBOSAK": 4
+            "ANDRZEJDUDA": {
+                "support": 30.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 18
+            }
         },
         "Inny": {
-            "STANISLAWZOLTEK": 15.8,
-            "SZYMONHOLOWNIA": 12.7,
-            "WALDEMARWITKOWSKI": 12.3,
-            "KRZYSZTOFBOSAK": 12.3,
-            "MAREKJAKUBIAK": 12.2,
-            "ROBERTBIEDRON": 11.5,
-            "WLADYSLAWKOSINIAKKAMYSZ": 10,
-            "ANDRZEJDUDA": 9.5,
-            "RAFALTRZASKOWSKI": 9.3,
-            "MIROSLAWPIOTROWSKI": 9,
-            "PAWELTANAJNO": 8.1
+            "ANDRZEJDUDA": {
+                "support": 9.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 9.6
+            }
         }
     },
     "MIEJSCOWOSC_col": {
         "Wieś": {
-            "ANDRZEJDUDA": 50.3,
-            "WLADYSLAWKOSINIAKKAMYSZ": 44.5,
-            "PAWELTANAJNO": 39.1,
-            "KRZYSZTOFBOSAK": 39,
-            "MIROSLAWPIOTROWSKI": 38.4,
-            "SZYMONHOLOWNIA": 33.4,
-            "MAREKJAKUBIAK": 30.7,
-            "ROBERTBIEDRON": 29.4,
-            "STANISLAWZOLTEK": 27.3,
-            "RAFALTRZASKOWSKI": 25,
-            "WALDEMARWITKOWSKI": 20.8
+            "ANDRZEJDUDA": {
+                "support": 49.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 29.5
+            }
         },
         "Miasto do 50 tys.": {
-            "MAREKJAKUBIAK": 36.5,
-            "WALDEMARWITKOWSKI": 34.6,
-            "SZYMONHOLOWNIA": 28.7,
-            "RAFALTRZASKOWSKI": 28.2,
-            "STANISLAWZOLTEK": 27.5,
-            "WLADYSLAWKOSINIAKKAMYSZ": 26.7,
-            "KRZYSZTOFBOSAK": 26.5,
-            "ROBERTBIEDRON": 24.3,
-            "ANDRZEJDUDA": 23.7,
-            "MIROSLAWPIOTROWSKI": 23.1,
-            "PAWELTANAJNO": 20.2
+            "ANDRZEJDUDA": {
+                "support": 23.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 28.1
+            }
         },
         "Miasto 51-200 tys.": {
-            "RAFALTRZASKOWSKI": 6.9,
-            "STANISLAWZOLTEK": 6.4,
-            "SZYMONHOLOWNIA": 6.4,
-            "KRZYSZTOFBOSAK": 6.2,
-            "ROBERTBIEDRON": 6.1,
-            "ANDRZEJDUDA": 5.8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 5.1,
-            "MIROSLAWPIOTROWSKI": 5,
-            "PAWELTANAJNO": 4,
-            "WALDEMARWITKOWSKI": 2.7,
-            "MAREKJAKUBIAK": 2.5
+            "ANDRZEJDUDA": {
+                "support": 6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 6.4
+            }
         },
         "Miasto 201-500 tys.": {
-            "STANISLAWZOLTEK": 30.2,
-            "WALDEMARWITKOWSKI": 26.8,
-            "PAWELTANAJNO": 26.1,
-            "MIROSLAWPIOTROWSKI": 25.1,
-            "MAREKJAKUBIAK": 23,
-            "RAFALTRZASKOWSKI": 21.5,
-            "ROBERTBIEDRON": 21,
-            "KRZYSZTOFBOSAK": 18.8,
-            "SZYMONHOLOWNIA": 18.8,
-            "WLADYSLAWKOSINIAKKAMYSZ": 13.4,
-            "ANDRZEJDUDA": 13.3
+            "ANDRZEJDUDA": {
+                "support": 12.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 21
+            }
         },
         "Miasto pow. 500 tys.": {
-            "ROBERTBIEDRON": 19.2,
-            "RAFALTRZASKOWSKI": 18.4,
-            "WALDEMARWITKOWSKI": 15.1,
-            "SZYMONHOLOWNIA": 12.7,
-            "PAWELTANAJNO": 10.6,
-            "WLADYSLAWKOSINIAKKAMYSZ": 10.3,
-            "KRZYSZTOFBOSAK": 9.5,
-            "STANISLAWZOLTEK": 8.6,
-            "MIROSLAWPIOTROWSKI": 8.4,
-            "MAREKJAKUBIAK": 7.3,
-            "ANDRZEJDUDA": 6.9
+            "ANDRZEJDUDA": {
+                "support": 7.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 15
+            }
         }
     },
     "WOJEWODZTWA_col": {
         "dolnoslaskie": {
-            "MAREKJAKUBIAK": 9.3,
-            "RAFALTRZASKOWSKI": 9.1,
-            "WALDEMARWITKOWSKI": 7.9,
-            "PAWELTANAJNO": 7.8,
-            "MIROSLAWPIOTROWSKI": 7.5,
-            "SZYMONHOLOWNIA": 7.1,
-            "ROBERTBIEDRON": 7,
-            "KRZYSZTOFBOSAK": 6.9,
-            "ANDRZEJDUDA": 6.1,
-            "WLADYSLAWKOSINIAKKAMYSZ": 6,
-            "STANISLAWZOLTEK": 5.4
+            "ANDRZEJDUDA": {
+                "support": 6
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 8.5
+            }
         },
         "kujawsko-pomorskie": {
-            "STANISLAWZOLTEK": 5.7,
-            "KRZYSZTOFBOSAK": 5.4,
-            "RAFALTRZASKOWSKI": 5.1,
-            "SZYMONHOLOWNIA": 5.1,
-            "ROBERTBIEDRON": 5.1,
-            "WLADYSLAWKOSINIAKKAMYSZ": 4.8,
-            "ANDRZEJDUDA": 4.7,
-            "WALDEMARWITKOWSKI": 3.4,
-            "MAREKJAKUBIAK": 2.7,
-            "MIROSLAWPIOTROWSKI": 2.3,
-            "PAWELTANAJNO": 1.9
+            "ANDRZEJDUDA": {
+                "support": 4.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 5.3
+            }
         },
         "lubelskie": {
-            "MIROSLAWPIOTROWSKI": 8.3,
-            "PAWELTANAJNO": 7.7,
-            "ANDRZEJDUDA": 7.5,
-            "KRZYSZTOFBOSAK": 6.2,
-            "WLADYSLAWKOSINIAKKAMYSZ": 6.1,
-            "MAREKJAKUBIAK": 5.8,
-            "STANISLAWZOLTEK": 5.2,
-            "SZYMONHOLOWNIA": 4.6,
-            "ROBERTBIEDRON": 4.6,
-            "RAFALTRZASKOWSKI": 3.4,
-            "WALDEMARWITKOWSKI": 0.4
+            "ANDRZEJDUDA": {
+                "support": 7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 3.9
+            }
         },
         "lubuskie": {
-            "WALDEMARWITKOWSKI": 5.1,
-            "MAREKJAKUBIAK": 4.5,
-            "SZYMONHOLOWNIA": 4,
-            "RAFALTRZASKOWSKI": 3.8,
-            "PAWELTANAJNO": 2.9,
-            "ROBERTBIEDRON": 2.1,
-            "STANISLAWZOLTEK": 2.1,
-            "KRZYSZTOFBOSAK": 2.1,
-            "ANDRZEJDUDA": 1.9,
-            "WLADYSLAWKOSINIAKKAMYSZ": 1.4,
-            "MIROSLAWPIOTROWSKI": 0.3
+            "ANDRZEJDUDA": {
+                "support": 2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 3.6
+            }
         },
         "lodzkie": {
-            "ANDRZEJDUDA": 7.2,
-            "WLADYSLAWKOSINIAKKAMYSZ": 7.1,
-            "PAWELTANAJNO": 6.7,
-            "WALDEMARWITKOWSKI": 6.6,
-            "ROBERTBIEDRON": 6.5,
-            "SZYMONHOLOWNIA": 6.1,
-            "RAFALTRZASKOWSKI": 5.7,
-            "KRZYSZTOFBOSAK": 5,
-            "STANISLAWZOLTEK": 4.4,
-            "MAREKJAKUBIAK": 2.7,
-            "MIROSLAWPIOTROWSKI": 2.3
+            "ANDRZEJDUDA": {
+                "support": 7.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 5.5
+            }
         },
         "malopolskie": {
-            "WLADYSLAWKOSINIAKKAMYSZ": 12.4,
-            "KRZYSZTOFBOSAK": 11.3,
-            "MIROSLAWPIOTROWSKI": 10.8,
-            "ANDRZEJDUDA": 10.1,
-            "MAREKJAKUBIAK": 9.9,
-            "STANISLAWZOLTEK": 9.7,
-            "WALDEMARWITKOWSKI": 9.6,
-            "ROBERTBIEDRON": 9.2,
-            "RAFALTRZASKOWSKI": 7.9,
-            "SZYMONHOLOWNIA": 7.4,
-            "PAWELTANAJNO": 5.9
+            "ANDRZEJDUDA": {
+                "support": 10.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 8
+            }
         },
         "mazowieckie": {
-            "ROBERTBIEDRON": 16.1,
-            "RAFALTRZASKOWSKI": 16,
-            "ANDRZEJDUDA": 14,
-            "WLADYSLAWKOSINIAKKAMYSZ": 13.4,
-            "MAREKJAKUBIAK": 13.4,
-            "WALDEMARWITKOWSKI": 13.1,
-            "SZYMONHOLOWNIA": 12.1,
-            "KRZYSZTOFBOSAK": 11.8,
-            "STANISLAWZOLTEK": 11.8,
-            "PAWELTANAJNO": 9.1,
-            "MIROSLAWPIOTROWSKI": 8.1
+            "ANDRZEJDUDA": {
+                "support": 14.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 13.7
+            }
         },
         "opolskie": {
-            "RAFALTRZASKOWSKI": 3,
-            "SZYMONHOLOWNIA": 3,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.4,
-            "KRZYSZTOFBOSAK": 2.4,
-            "STANISLAWZOLTEK": 2.3,
-            "ANDRZEJDUDA": 2.2,
-            "ROBERTBIEDRON": 1.6,
-            "MIROSLAWPIOTROWSKI": 1.5,
-            "MAREKJAKUBIAK": 1.4,
-            "PAWELTANAJNO": 0.6,
-            "WALDEMARWITKOWSKI": 0.3
+            "ANDRZEJDUDA": {
+                "support": 2.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 2.8
+            }
         },
         "podkarpackie": {
-            "ANDRZEJDUDA": 8.9,
-            "KRZYSZTOFBOSAK": 7.9,
-            "WLADYSLAWKOSINIAKKAMYSZ": 6.7,
-            "STANISLAWZOLTEK": 6.3,
-            "SZYMONHOLOWNIA": 4.6,
-            "PAWELTANAJNO": 3.7,
-            "WALDEMARWITKOWSKI": 3.7,
-            "ROBERTBIEDRON": 3.6,
-            "MIROSLAWPIOTROWSKI": 3.4,
-            "MAREKJAKUBIAK": 3,
-            "RAFALTRZASKOWSKI": 2.8
+            "ANDRZEJDUDA": {
+                "support": 8.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 3.4
+            }
         },
         "podlaskie": {
-            "PAWELTANAJNO": 4.2,
-            "WLADYSLAWKOSINIAKKAMYSZ": 3.9,
-            "SZYMONHOLOWNIA": 3.7,
-            "ANDRZEJDUDA": 3.5,
-            "STANISLAWZOLTEK": 3.3,
-            "KRZYSZTOFBOSAK": 2.8,
-            "ROBERTBIEDRON": 2.4,
-            "RAFALTRZASKOWSKI": 1.9,
-            "MIROSLAWPIOTROWSKI": 1.4,
-            "MAREKJAKUBIAK": 1.4,
-            "WALDEMARWITKOWSKI": 1.1
+            "ANDRZEJDUDA": {
+                "support": 3.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 2.4
+            }
         },
         "pomorskie": {
-            "WALDEMARWITKOWSKI": 9.3,
-            "RAFALTRZASKOWSKI": 8.6,
-            "STANISLAWZOLTEK": 8.4,
-            "MIROSLAWPIOTROWSKI": 8.4,
-            "SZYMONHOLOWNIA": 7.3,
-            "ROBERTBIEDRON": 6.6,
-            "MAREKJAKUBIAK": 5.7,
-            "WLADYSLAWKOSINIAKKAMYSZ": 5.7,
-            "KRZYSZTOFBOSAK": 5.6,
-            "ANDRZEJDUDA": 4,
-            "PAWELTANAJNO": 3.4
+            "ANDRZEJDUDA": {
+                "support": 4.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 8.8
+            }
         },
         "slaskie": {
-            "STANISLAWZOLTEK": 17.4,
-            "MAREKJAKUBIAK": 13.2,
-            "ROBERTBIEDRON": 12.9,
-            "SZYMONHOLOWNIA": 12.9,
-            "WALDEMARWITKOWSKI": 12.2,
-            "KRZYSZTOFBOSAK": 12,
-            "RAFALTRZASKOWSKI": 11.8,
-            "ANDRZEJDUDA": 11.4,
-            "PAWELTANAJNO": 8.7,
-            "MIROSLAWPIOTROWSKI": 7.1,
-            "WLADYSLAWKOSINIAKKAMYSZ": 6.6
+            "ANDRZEJDUDA": {
+                "support": 10.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 12
+            }
         },
         "swietokrzyskie": {
-            "ANDRZEJDUDA": 4.2,
-            "WLADYSLAWKOSINIAKKAMYSZ": 3.5,
-            "WALDEMARWITKOWSKI": 3.3,
-            "KRZYSZTOFBOSAK": 3,
-            "MIROSLAWPIOTROWSKI": 2.8,
-            "SZYMONHOLOWNIA": 2.5,
-            "ROBERTBIEDRON": 2.3,
-            "STANISLAWZOLTEK": 2.2,
-            "RAFALTRZASKOWSKI": 2,
-            "MAREKJAKUBIAK": 1.4,
-            "PAWELTANAJNO": 0.3
+            "ANDRZEJDUDA": {
+                "support": 4.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 2.4
+            }
         },
         "warminsko-mazurskie": {
-            "MIROSLAWPIOTROWSKI": 13.5,
-            "WALDEMARWITKOWSKI": 13.2,
-            "PAWELTANAJNO": 8.6,
-            "MAREKJAKUBIAK": 6.9,
-            "STANISLAWZOLTEK": 6.3,
-            "WLADYSLAWKOSINIAKKAMYSZ": 6.1,
-            "ROBERTBIEDRON": 4.5,
-            "KRZYSZTOFBOSAK": 3.8,
-            "RAFALTRZASKOWSKI": 3.8,
-            "ANDRZEJDUDA": 3.4,
-            "SZYMONHOLOWNIA": 3.3
+            "ANDRZEJDUDA": {
+                "support": 3.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 4
+            }
         },
         "wielkopolskie": {
-            "PAWELTANAJNO": 22.2,
-            "MIROSLAWPIOTROWSKI": 15.6,
-            "MAREKJAKUBIAK": 15.4,
-            "SZYMONHOLOWNIA": 11.7,
-            "ROBERTBIEDRON": 11.4,
-            "WLADYSLAWKOSINIAKKAMYSZ": 11.1,
-            "KRZYSZTOFBOSAK": 10.4,
-            "RAFALTRZASKOWSKI": 10,
-            "ANDRZEJDUDA": 7.5,
-            "WALDEMARWITKOWSKI": 7.3,
-            "STANISLAWZOLTEK": 6.3
+            "ANDRZEJDUDA": {
+                "support": 8.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 10.3
+            }
         },
         "zachodniopomorskie": {
-            "MIROSLAWPIOTROWSKI": 6.7,
-            "PAWELTANAJNO": 6.3,
-            "RAFALTRZASKOWSKI": 5.1,
-            "SZYMONHOLOWNIA": 4.6,
-            "ROBERTBIEDRON": 4.1,
-            "WALDEMARWITKOWSKI": 3.5,
-            "ANDRZEJDUDA": 3.4,
-            "KRZYSZTOFBOSAK": 3.4,
-            "MAREKJAKUBIAK": 3.3,
-            "STANISLAWZOLTEK": 3.2,
-            "WLADYSLAWKOSINIAKKAMYSZ": 2.8
+            "ANDRZEJDUDA": {
+                "support": 3.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 5.4
+            }
+        }
+    },
+    "PREZYDENT_I_tura_row": {
+        "Biedroń Robert": {
+            "ANDRZEJDUDA": {
+                "support": 16
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 84
+            }
+        },
+        "Bosak Krzysztof": {
+            "ANDRZEJDUDA": {
+                "support": 52.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 47.7
+            }
+        },
+        "Duda Andrzej": {
+            "ANDRZEJDUDA": {
+                "support": 99.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.9
+            }
+        },
+        "Hołownia Szymon": {
+            "ANDRZEJDUDA": {
+                "support": 15
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 85
+            }
+        },
+        "Jakubiak Marek": {
+            "ANDRZEJDUDA": {
+                "support": 65.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 34.1
+            }
+        },
+        "Kosiniak-Kamysz Władysław": {
+            "ANDRZEJDUDA": {
+                "support": 24.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 75.7
+            }
+        },
+        "Piotrowski Mirosław": {
+            "ANDRZEJDUDA": {
+                "support": 76.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 23.9
+            }
+        },
+        "Tanajno Paweł": {
+            "ANDRZEJDUDA": {
+                "support": 13
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 87
+            }
+        },
+        "Trzaskowski Rafał": {
+            "ANDRZEJDUDA": {
+                "support": 0.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 99.3
+            }
+        },
+        "Witkowski Waldemar": {
+            "ANDRZEJDUDA": {
+                "support": 10.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 89.2
+            }
+        },
+        "Żółtek Stanisław": {
+            "ANDRZEJDUDA": {
+                "support": 34.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 65.3
+            }
+        },
+        "Nie głosowałem": {
+            "ANDRZEJDUDA": {
+                "support": 49.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 50.2
+            }
+        },
+        "Nie pamiętam": {
+            "ANDRZEJDUDA": {
+                "support": 57.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 42.9
+            }
+        }
+    },
+    "PREZYDENT_I_tura_col": {
+        "Biedroń Robert": {
+            "ANDRZEJDUDA": {
+                "support": 0.9
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 4.8
+            }
+        },
+        "Bosak Krzysztof": {
+            "ANDRZEJDUDA": {
+                "support": 6.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 5.9
+            }
+        },
+        "Duda Andrzej": {
+            "ANDRZEJDUDA": {
+                "support": 81.3
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.7
+            }
+        },
+        "Hołownia Szymon": {
+            "ANDRZEJDUDA": {
+                "support": 3.5
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 20.4
+            }
+        },
+        "Jakubiak Marek": {
+            "ANDRZEJDUDA": {
+                "support": 0.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.1
+            }
+        },
+        "Kosiniak-Kamysz Władysław": {
+            "ANDRZEJDUDA": {
+                "support": 0.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 2.4
+            }
+        },
+        "Piotrowski Mirosław": {
+            "ANDRZEJDUDA": {
+                "support": 0.1
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0
+            }
+        },
+        "Tanajno Paweł": {
+            "ANDRZEJDUDA": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.3
+            }
+        },
+        "Trzaskowski Rafał": {
+            "ANDRZEJDUDA": {
+                "support": 0.4
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 58.1
+            }
+        },
+        "Witkowski Waldemar": {
+            "ANDRZEJDUDA": {
+                "support": 0
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.3
+            }
+        },
+        "Żółtek Stanisław": {
+            "ANDRZEJDUDA": {
+                "support": 0.2
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.3
+            }
+        },
+        "Nie głosowałem": {
+            "ANDRZEJDUDA": {
+                "support": 5.8
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 6.1
+            }
+        },
+        "Nie pamiętam": {
+            "ANDRZEJDUDA": {
+                "support": 0.7
+            },
+            "RAFALTRZASKOWSKI": {
+                "support": 0.6
+            }
         }
     }
 }
